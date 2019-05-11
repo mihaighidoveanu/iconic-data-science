@@ -1,0 +1,1000 @@
+584	20177	gozde ozdikmenlidemir	Gözde Özdikmenli-Demir	79946792	2	0	2016-06-24
+859	20116	gy tolmar	Gy. Tolmár		2	1	2016-06-24
+978	17763	ximena faundez	Ximena Faúndez	162148367	18	40	2016-06-24
+1139	19214	jennifer putzi	Jennifer Putzi		4	15	2016-06-24
+1611	20177	純子 貝原	純子 貝原		2	0	2016-06-24
+1799	18638	hossein gholaman	Hossein Gholaman	62318514	2	172	2016-06-24
+1968	19484	maria isabel lorca martin de villodres	María Isabel Lorca Martín de Villodres	82767444	4	0	2016-06-24
+2255	19344	bin liuy	Bin Liuy	99065089	3	17	2016-06-24
+2722	19348	susan macicak	Susan Macicak		2	17	2016-06-24
+2741	20870	良介 立野	良介 立野		1	0	2016-06-24
+2797	19515	elena frantova	Elena Frantova	60158472	3	27	2016-06-24
+3345	18017	camillo zacchia	Camillo Zacchia	5023651	6	107	2016-06-24
+3598	18514	麗夫 久保田	麗夫 久保田		10	2	2016-06-24
+3809	19211	ji gedi	Ji Gedi	153473198	4	6	2016-06-24
+3874	18909	clemens dannenbeck	Clemens Dannenbeck		6	10	2016-06-24
+4242	20870	enid bagnold	Enid Bagnold		1	0	2016-06-24
+4630	20308	arash idelchi	Arash Idelchi	66862912	1	8	2016-06-24
+4975	19411	judith bonaduce	Judith Bonaduce		4	2	2016-06-24
+5211	17075	mark d aupperlee	Mark D. Aupperlee	87216513	21	479	2016-06-24
+5726	18464	douglas c sundet	Douglas C. Sundet		7	49	2016-06-24
+5729	19489	a kuriak	A. Kuriak	181343428	1	27	2016-06-24
+5882	18468	monika krystof	Monika Krystof	887968799	4	166	2016-06-24
+6193	19431	teresita burastero	Teresita Burastero	56858762	4	6	2016-06-24
+6398	20870	fernando inciarte arminan	Fernando Inciarte Armiñán		1	0	2016-06-24
+6478	16457	fredrik vult von steyern	Fredrik Vult von Steyern	187531555	42	718	2016-06-24
+6583	19261	joao henrique quoos	João Henrique Quoos	33501960	5	0	2016-06-24
+6939	20823	ernst alker	Ernst Alker		1	1	2016-06-24
+7329	20697	keykhosrow keymanesh	Keykhosrow Keymanesh	59897056	1	5	2016-06-24
+7539	19389	stephen g seech	Stephen G. Seech		2	6	2016-06-24
+7627	20177	明子 持田	明子 持田		2	0	2016-06-24
+7762	18529	sarah ben nefissa	Sarah Ben Néfissa		9	2	2016-06-24
+7829	18875	maria marschoff	María Marschoff	151201029	7	2	2016-06-24
+7941	20168	nancy praill	Nancy Praill		2	1	2016-06-24
+8003	19587	coronelio pedroso rosemburg	Coronélio Pedroso Rosemburg	17974374	3	6	2016-06-24
+8391	20870	tamara elhoss	Tamara El-Hoss		1	0	2016-06-24
+8611	20074	yasmine lienard	Yasmine Lienard		2	2	2016-06-24
+9124	18548	dennis stanhibel	Dennis Stanhibel	917001255	4	40	2016-06-24
+9669	18271	david banitt	David Banitt	99464096	5	68	2016-06-24
+9801	17727	robert j wengrzynek	Robert J. Wengrzynek		1	61	2016-06-24
+10234	19142	christopher w gabrys	Christopher W. Gabrys		1	35	2016-06-24
+10439	19078	vanrenterghem yfc	Vanrenterghem Yfc		6	0	2016-06-24
+10792	18791	良治 元雄	良治 元雄		8	0	2016-06-24
+10963	18023	david s rebergen	David S. Rebergen	865915315	6	214	2016-06-24
+11523	17057	arthur e lamel	Arthur E. Lamel		2	116	2016-06-24
+11627	20870	pierre fresnaultderuelle	Pierre Fresnault-Deruelle		1	0	2016-06-24
+11720	16576	witold piskorz	Witold Piskorz	126596746	40	646	2016-06-24
+11806	20411	helen pejak	Helen Pejak		1	10	2016-06-24
+11839	20870	gary shteyngart	Gary Shteyngart		1	0	2016-06-24
+12035	18614	stephen rickerby	Stephen Rickerby	107603542	9	5	2016-06-24
+12661	20137	henry nguo	Henry Nguo		2	1	2016-06-24
+13977	19917	yvonne severinsson	Yvonne Severinsson	881427289	2	16	2016-06-24
+14367	19284	valerie a karras	Valerie A. Karras	47838141	3	7	2016-06-24
+14516	20870	karl schefold	Karl Schefold		1	0	2016-06-24
+15173	20177	سعید الاهی	سعید الاهی		2	0	2016-06-24
+15251	16573	padermsak jarayabhand	Padermsak Jarayabhand	158708052	34	653	2016-06-24
+15437	18545	krittika teerapuncharoen	Krittika Teerapuncharoen	2801887358	9	19	2016-06-24
+15598	20870	anita kalanj	Anita Kalanj		1	0	2016-06-24
+16360	17885	vernon j hockman	Vernon J. Hockman	1289243028	1	39	2016-06-24
+16365	20870	thibodi buakamsri	Thibodi Buakamsri		1	0	2016-06-24
+16490	15641	damiano remorini	Damiano Remorini	108290504	106	1467	2016-06-24
+16620	18891	gustavo pachecolopez	Gustavo Pacheco-López	200362191	4	123	2016-06-24
+16980	16900	christoph schwarzweller	Christoph Schwarzweller	40413290	35	159	2016-06-24
+17962	19683	romain delhougne	Romain Delhougne		3	2	2016-06-24
+18149	18792	johann sargarian	Johann Sargarian		1	4	2016-06-24
+18161	16180	frida ben rais lasram	Frida Ben Rais Lasram	19894307	22	1424	2016-06-24
+19242	20870	j lloves	J Lloves		1	0	2016-06-24
+19634	17239	andreas schottstedt	Andreas Schottstedt	98647062	35	26	2016-06-24
+19669	20870	antoni massanell i esclassans	Antoni Massanell i Esclassans		1	0	2016-06-24
+19738	20740	christina holtzbacha	Christina Holtz-Bacha		1	1	2016-06-24
+19812	20321	k nestinger	K. Nestinger		1	7	2016-06-24
+20227	18568	勝也 前林	勝也 前林		10	0	2016-06-24
+20361	18413	tuire ollilahdesmaki	Tuire Olli-Lähdesmäki	155660961	6	120	2016-06-24
+20821	18696	larry sheret	Larry Sheret	88694374	7	3	2016-06-24
+21120	20870	siloe petillat	Siloé Petillat		1	0	2016-06-24
+22202	19412	martina winkelhoferova	Martina Winkelhoferova	92715842	4	1	2016-06-24
+22616	20854	pavla coufovaa	Pavla Coufovaá	169238054	1	2	2016-06-24
+22672	19845	jean bosvieux	Jean Bosvieux		2	5	2016-06-24
+22915	19629	berge tatian	Berge Tatian		1	7	2016-06-24
+23292	20748	joy camerondow	Joy Cameron-Dow		1	1	2016-06-24
+23380	20037	dimitrios e kalikakis	Dimitrios E. Kalikakis		2	3	2016-06-24
+23456	20177	研二 重松	研二 重松		2	0	2016-06-24
+23488	18771	elizabeth mendes das gracas	Elizabeth Mendes das Graças	110200422	4	19	2016-06-24
+23506	20389	kitjanit neranon	Kitjanit Neranon	25399158	1	15	2016-06-24
+24807	20870	francesco saverio intorcia	Francesco Saverio Intorcia		1	0	2016-06-24
+25132	19676	jia mingqiu	Jia Ming-Qiu		2	10	2016-06-24
+25543	17552	carmen hendricksguy	Carmen Hendricks-Guy	62183977	14	121	2016-06-24
+25962	19484	晴美 榊田	晴美 榊田		4	0	2016-06-24
+26083	18232	oksana v rybalchenko	Oksana V. Rybalchenko		5	60	2016-06-24
+26358	19098	shirley satanower	Shirley Satanower	13955877	3	89	2016-06-24
+26481	19484	juan manuel diez tetamanti	Juan Manuel Diez Tetamanti		4	0	2016-06-24
+26851	19484	梅太郎 糟谷	梅太郎 糟谷		4	0	2016-06-24
+27238	15700	flavio roces	Flavio Roces	25974101	89	1802	2016-06-24
+27761	19078	良守 邑井	良守 邑井		6	0	2016-06-24
+27971	20870	kerada krainuwat	Kerada Krainuwat		1	0	2016-06-24
+28505	20870	jonathan wasserstrum	Jonathan Wasserstrum		1	0	2016-06-24
+28764	19261	achmad tutjik moechid	Achmad Tutjik Moechid	102893293	5	0	2016-06-24
+28966	19750	ulrich werth	Ulrich Werth		2	42	2016-06-24
+29087	20177	john lilburne	John Lilburne		2	0	2016-06-24
+29650	16384	alexander wagenpfahl	Alexander Wagenpfahl	25974101	15	943	2016-06-24
+29902	16668	raul garcia carrodeguas	Raúl García Carrodeguas	2656126	31	462	2016-06-24
+29914	20808	andy varrichione	Andy Varrichione		1	1	2016-06-24
+30117	19256	david j langum	David J. Langum	83321563	5	1	2016-06-24
+30197	18748	ricardo garcia alamilla	Ricardo García Alamilla	177400693	8	8	2016-06-24
+30203	19484	belen gordillo arrobas	Belén Gordillo Arrobas		4	0	2016-06-24
+30249	20870	henning hoirup	Henning Høirup		1	0	2016-06-24
+30350	15540	yen lundgren	Yen Lundgren		19	1077	2016-06-24
+30645	14081	tatsuro irimura	Tatsuro Irimura	74801974	250	7349	2016-06-24
+30678	20177	lakshmi nambakkat	Lakshmi Nambakkat	43218427	2	0	2016-06-24
+30742	20870	o genis	O. Genis		1	0	2016-06-24
+31362	19446	marta nakoniecznarudnicka	Marta Nakonieczna-Rudnicka		4	1	2016-06-24
+32535	18287	cordula haasetheobald	Cordula Haase-Theobald		13	2	2016-06-24
+32606	19099	stephane debricon	Stéphane Debricon	1326498283	4	25	2016-06-24
+32707	20870	rodrigo estramanho	Rodrigo Estramanho		1	0	2016-06-24
+32756	20870	brigitta kreβ	Brigitta Kreβ		1	0	2016-06-24
+32962	20870	せいこう いとう	せいこう いとう		1	0	2016-06-24
+33066	18016	ivana stimac grandic	Ivana Štimac Grandić	154347574	17	4	2016-06-24
+33736	19514	fabien gavant	Fabien Gavant	2738703131	3	12	2016-06-24
+33753	20870	daniel marchildon	Daniel Marchildon		1	0	2016-06-24
+34868	18937	caroline mivillegodin	Caroline Miville-Godin	197604219	5	30	2016-06-24
+36444	20870	พจนา สิมะเสถียร	พจนา สิมะเสถียร		1	0	2016-06-24
+36534	15903	michael k budinski	Michael K. Budinski	118136607	74	411	2016-06-24
+36556	20067	l itzicovitch	L. Itzicovitch	16391192	2	1	2016-06-24
+37220	20870	alan a grometstein	Alan A. Grometstein		1	0	2016-06-24
+37319	20870	joan rubio i guilleumas	Joan Rubió i Guilleumas		1	0	2016-06-24
+37588	16775	celia j darienzo	Celia D'Arienzo	157075465	23	490	2016-06-24
+39382	18627	torben jabben	Torben Jabben	31512782	8	20	2016-06-24
+39506	18477	chloe stenkampstrahm	Chloe Stenkamp-Strahm	155093810	7	79	2016-06-24
+40338	17211	yngve troye nordkvelle	Yngve Troye Nordkvelle	15940361	28	99	2016-06-24
+40452	17157	和彦 表	和彦 表		41	0	2016-06-24
+40572	20870	matilde eiroa sanfrancisco	Matilde Eiroa SanFrancisco	50357001	1	0	2016-06-24
+40632	18305	jorge oteropailos	Jorge Otero-Pailos		13	1	2016-06-24
+40870	18781	ibrahim zgani	Ibrahim Zgani	19894307	6	28	2016-06-24
+41399	13929	i a abrikosov	Igor A. Abrikosov	102134673	399	6998	2016-06-24
+41778	18577	vishal nemaysh	Vishal Nemaysh	110166357	8	45	2016-06-24
+42072	20756	poornima chateker	Poornima Chateker		1	2	2016-06-24
+42102	20870	ефим яковлевич таршис	Ефим Яковлевич Таршис		1	0	2016-06-24
+42934	20870	woodshed productions	woodshed productions		1	0	2016-06-24
+43165	20177	beatriz garza cuaron	Beatriz Garza Cuarón		2	0	2016-06-24
+43785	20870	mona eidsvold	Mona Eidsvold		1	0	2016-06-24
+44174	17717	aekkachai puseenam	Aekkachai Puseenam	25399158	1	340	2016-06-24
+44721	20870	克行 中川内	克行 中川内		1	0	2016-06-24
+44880	17204	dario garciagasulla	Dario Garcia-Gasulla	9617848	35	42	2016-06-24
+45005	20765	axel walin	Axel Walin		1	2	2016-06-24
+45600	14912	nils ingri	Nils Ingri	86987016	60	1425	2016-06-24
+46402	20027	veronica vascotto	Veronica Vascotto		2	7	2016-06-24
+46571	16487	benjamin klopsch	Benjamin Klopsch	184558857	47	287	2016-06-24
+46586	15116	lars goerigk	Lars Goerigk	165779595	45	6237	2016-06-24
+46630	18788	rūta kananaviciūtė	Rūta Kananavičiūtė	173212132	7	29	2016-06-24
+47134	20870	恒和 西中	恒和 西中		1	0	2016-06-24
+47333	17335	nizamettin bayyurt	Nizamettin Bayyurt	32462889	24	185	2016-06-24
+47587	14684	nicola vianelli	Nicola Vianelli	9360294	198	3813	2016-06-24
+47727	18933	anthony w rigazio	Anthony W. Rigazio		1	26	2016-06-24
+48335	19772	jean vergnetruiz	Jean Vergnet-Ruiz		3	0	2016-06-24
+48494	19042	ilona grigat	Ilona Grigat		2	33	2016-06-24
+49900	20870	作光 坂上	作光 坂上		1	0	2016-06-24
+50636	18544	michael kios	Michael Kios		3	160	2016-06-24
+51017	20870	feader en rhonealpes	Feader en Rhône-Alpes		1	0	2016-06-24
+51057	20870	compte administrateur par defaut	Compte administrateur par défaut		1	0	2016-06-24
+51470	19470	georges nizinski	Georges Nizinski		4	1	2016-06-24
+52060	16904	bjorn rogell	Björn Rogell	123387679	29	568	2016-06-24
+52851	17451	lin zunqi	Lin Zun-qi	19820366	26	16	2016-06-24
+53423	17438	yannai a gonczarowski	Yannai A. Gonczarowski	197251160	27	51	2016-06-24
+53758	18830	joelle vandermensbrugghe	Joelle Vandermensbrugghe	188329596	2	83	2016-06-24
+54556	15618	magdalena scheckwenderoth	Magdalena Scheck-Wenderoth	887968799	126	1241	2016-06-24
+54745	20105	aline andressa bervig	Aline Andressa Bervig	33501960	2	1	2016-06-24
+54874	19183	david scrivo	David Scrivo		2	53	2016-06-24
+55396	20598	lisa szefel	Lisa Szefel		1	3	2016-06-24
+55444	18086	theodore k rabb	Theodore K. Rabb		10	36	2016-06-24
+55871	17615	andreas gintschel	Andreas Gintschel	1305429384	8	258	2016-06-24
+57098	18754	vahid saadat	Vahid Saadat		3	282	2016-06-24
+57236	19636	leila medjkoune	Leïla Medjkoune		3	2	2016-06-24
+57395	20870	育子 金武	育子 金武		1	0	2016-06-24
+57623	20576	b cappelin	B. Cappelin	32881790	1	12	2016-06-24
+59327	18923	sandrine loublier	Sandrine Loublier	204730241	3	39	2016-06-24
+59337	20870	landbruksdepartementet	Landbruksdepartementet		1	0	2016-06-24
+59383	18793	leoni oberbarnscheidt	Leoni Oberbarnscheidt	44260953	5	63	2016-06-24
+59648	20870	和憲 谷原	和憲 谷原		1	0	2016-06-24
+59683	20870	acti asociacion colombiana de traductores e interpretes	Acti Asociación colombiana de traductores e intérpretes		1	0	2016-06-24
+60695	18722	gabor madarassy	Gabor Madarassy		4	53	2016-06-24
+60751	16859	yu v kaletina	Yu. V. Kaletina	1313323035	43	80	2016-06-24
+61466	18924	ian r trout	Ian R Trout		7	0	2016-06-24
+61655	16397	fumio enjo	Fumio Enjo	40677808	23	749	2016-06-24
+62985	19312	mamdouh idilbi	Mamdouh Idilbi		4	1	2016-06-24
+63210	17600	francisco juliahernandez	Francisco Juliá-Hernández	80180929	14	318	2016-06-24
+63687	18898	sri hardiati	Sri Hardiati	19128659	7	1	2016-06-24
+64128	17770	viktoria remenyi	Viktoria Remenyi	101202996	19	91	2016-06-24
+64135	16663	leila aliouane	Leila Aliouane	2800589340	54	122	2016-06-24
+64491	20870	rick snoman	Rick Snoman		1	0	2016-06-24
+65055	18500	neelima sanakkayala	Neelima Sanakkayala	219193219	6	119	2016-06-24
+66129	16372	s cmet	S. Cmet	129043915	50	769	2016-06-24
+66427	16548	paul kussmaul	Paul Kussmaul	197323543	24	324	2016-06-24
+66462	17372	zbigniew janeczko	Zbigniew Janeczko	126596746	27	109	2016-06-24
+67438	18354	ludwik a sobiesiak	Ludwik A. Sobiesiak	185261750	10	44	2016-06-24
+67552	13942	iman hajirasouliha	Iman Hajirasouliha	18014758	31	10855	2016-06-24
+67691	18923	rosa larena	Rosa Larena	108103353	6	12	2016-06-24
+67770	16964	attila g relenyi	Attila G. Relenyi	1280527723	22	208	2016-06-24
+68758	20861	volker perthes	Volker Perthes		1	1	2016-06-24
+68919	14978	onno oncken	Onno Oncken	114090438	153	3795	2016-06-24
+69535	19772	nives licen	Nives Ličen	153976015	3	0	2016-06-24
+69636	20520	eileen lau shuying	Eileen Lau Shuying	115228651	1	11	2016-06-24
+69699	19410	cosette hendrice	Cosette Hendrice	2802054198	3	12	2016-06-24
+70154	18155	emmanuelle lancellebeltran	Emmanuelle Lancelle-Beltran	19894307	4	164	2016-06-24
+70266	20870	gilbert larguier	Gilbert Larguier		1	0	2016-06-24
+70860	16249	joost p m van meerwijk	Joost P. M. van Meerwijk	154526488	19	844	2016-06-24
+71549	19203	ikwun angiating	Ikwun Angiating		5	1	2016-06-24
+71810	13499	fred f kadlubar	Fred F. Kadlubar	79620101	320	16904	2016-06-24
+72308	20052	estanislao ramon trives	Estanislao Ramón Trives		2	3	2016-06-24
+72368	20870	laurence rognin	Laurence Rognin		1	0	2016-06-24
+72433	18854	katarzyna falenta	Katarzyna Falenta	183935753	6	51	2016-06-24
+72484	16405	petr trska	Petr Trška	9073902	41	153	2016-06-24
+72720	18320	juana perpinagalvan	Juana Perpiñá-Galvañ	130194489	9	52	2016-06-24
+72806	20134	satoshi kurokochi	Satoshi Kurokochi		1	9	2016-06-24
+74284	20870	tom bartolomeo	Tom Bartolomeo		1	0	2016-06-24
+74544	19978	t kreethadumrongdat	Kreethadumrongdat T	170201317	1	22	2016-06-24
+74810	19908	rif s eimallakh	Rif. S. EI-Mallakh	142740786	1	36	2016-06-24
+75149	20870	nick giammarino	Nick Giammarino		1	0	2016-06-24
+75238	16589	charles f faisst	Charles F. Faisst	2609542403	34	322	2016-06-24
+75540	20120	johannes daxbock	Johannes Daxböck	145847075	2	3	2016-06-24
+75609	19256	gabriel rafart	Gabriel Rafart		5	1	2016-06-24
+76168	18470	philippe bonditti	Philippe Bonditti		8	32	2016-06-24
+76262	16222	christine baumgarthuber	Christine Baumgarthuber		104	8	2016-06-24
+76915	18691	damien cressier	Damien Cressier	134560555	3	104	2016-06-24
+76960	20870	osterreichisches biographisches lexikon und biographische dokumentation	Österreichisches Biographisches Lexikon und biographische Dokumentation		1	0	2016-06-24
+76969	16307	torsten mayergurr	Torsten Mayer-Gürr	4092182	77	265	2016-06-24
+76987	16523	ahmed m abudief	Ahmed M. Abu-Dief	97455420	56	665	2016-06-24
+77162	17728	worku a mindaye	Worku A. Mindaye	1340755506	13	83	2016-06-24
+77547	18001	avo miidel	Avo Miidel	111112146	10	103	2016-06-24
+77589	17259	敏夫 瓢子	敏夫 瓢子		37	0	2016-06-24
+77708	18356	martin tengg	Martin Tengg	4092182	8	85	2016-06-24
+78040	18107	millard e foucht	Millard E. Foucht		5	88	2016-06-24
+78061	19454	gonca polat uluocak	Gonca Polat Uluocak	188740104	4	3	2016-06-24
+78399	20870	tim lewthwaite	Tim Lewthwaite		1	0	2016-06-24
+78547	18345	lars olav schertiger	Lars Olav Schertiger		9	36	2016-06-24
+78623	17998	aurelie coubart	Aurélie Coubart	1294671590	4	139	2016-06-24
+78946	20870	michael wolffsohn	Michael Wolffsohn		1	0	2016-06-24
+80114	17785	laurent brauge	Laurent Brauge	1294671590	9	248	2016-06-24
+81069	19261	陽介 東畑	陽介 東畑		5	0	2016-06-24
+81082	19457	norma ramosibanez	Norma Ramos‐Ibanez	23923803	2	42	2016-06-24
+81461	19772	治美 柚原	治美 柚原		3	0	2016-06-24
+81979	18240	mechtild wagnerroemmich	Mechtild Wagner-Roemmich		5	30	2016-06-24
+82325	19836	luba matusovsky	Luba Matusovsky		1	19	2016-06-24
+83198	20870	暢夫 河村	暢夫 河村		1	0	2016-06-24
+83201	18228	sabina rabzelj	Sabina Rabzelj		6	222	2016-06-24
+83303	16099	sandra chanraud	Sandra Chanraud	1294671590	39	1199	2016-06-24
+83347	18750	kaveh pournoor	Kaveh Pournoor		4	49	2016-06-24
+84396	20177	van leddenhulsebosch	van Ledden-Hulsebosch		2	0	2016-06-24
+84568	20177	henio millanvalenzuela	Henio Millán-Valenzuela		2	0	2016-06-24
+85052	20523	brigitta geltrichludgate	Brigitta Geltrich-Ludgate	72568685	1	4	2016-06-24
+85217	19484	直子 新橋成	直子 新橋成		4	0	2016-06-24
+85252	20870	nazih moubayed	Nazih Moubayed		1	0	2016-06-24
+85504	19772	gilcescu mariarocselana	Gilcescu Maria-Rocselana	100749904	3	0	2016-06-24
+86345	20870	kurt junckerstorff	Kurt Junckerstorff		1	0	2016-06-24
+87139	17882	jan niederau	Jan Niederau	887968799	18	30	2016-06-24
+87357	20870	naning diyah ulfaturosida	Naning Diyah Ulfaturosida		1	0	2016-06-24
+87677	14293	vasiliki plerou	Vasiliki Plerou	111088046	64	4757	2016-06-24
+87682	19014	aleksander s roudnev	Aleksander S. Roudnev		3	16	2016-06-24
+87724	20870	伸二 上本	伸二 上本		1	0	2016-06-24
+87891	19772	佳秀 高久保	佳秀 高久保		3	0	2016-06-24
+87934	20870	xavier mateu i llevadot	Xavier Mateu i Llevadot		1	0	2016-06-24
+88120	20870	勝彦 高池	勝彦 高池		1	0	2016-06-24
+88694	17456	roland scollay	Roland Scollay	1283582996	5	369	2016-06-24
+89140	16880	denis m bayada	Denis M. Bayada	160532729	5	630	2016-06-24
+89392	20870	nicolas mengus	Nicolas Mengus		1	0	2016-06-24
+90114	18673	延弘 大久保	延弘 大久保		9	0	2016-06-24
+91249	20096	f nadori	Nadori F	204730241	1	20	2016-06-24
+91573	20870	guillem morro veny	Guillem Morro Veny		1	0	2016-06-24
+92001	17133	野村 政壽	野村 政壽		42	0	2016-06-24
+92087	16079	anna saarsalmi	Anna Saarsalmi	164042929	52	1229	2016-06-24
+92233	18878	david j bulcher	David J. Bulcher		5	30	2016-06-24
+92236	16393	john dauns	John Dauns	114832834	31	316	2016-06-24
+92620	19178	he chuguang	He Chu-Guang		4	8	2016-06-24
+92734	16299	brian e whitacre	Brian E. Whitacre	115475287	68	405	2016-06-24
+92835	17249	dena m johnsonschlitz	Dena M. Johnson-Schlitz	125749732	7	530	2016-06-24
+92905	15059	khan m iftekharuddin	Khan M. Iftekharuddin	81365321	182	1575	2016-06-24
+93390	20870	tony greicius	Tony Greicius		1	0	2016-06-24
+93783	14498	pascale de lonlay	Pascale de Lonlay	1288880153	183	5664	2016-06-24
+94404	19087	elemer hankiss	Elemer Hankiss	7597260	5	7	2016-06-24
+94413	20870	jony jony	Jony Jony		1	0	2016-06-24
+94690	18568	正人 道垣内	正人 道垣内		10	0	2016-06-24
+95202	20870	katrin bischl	Katrin Bischl		1	0	2016-06-24
+95224	17104	frank s grazen	Frank S Grazen		4	68	2016-06-24
+95248	18754	francisco lealsoto	Francisco Leal-Soto	185652977	8	3	2016-06-24
+95579	16535	william michael farnhill	William Michael Farnhill	1313107109	24	148	2016-06-24
+95672	20074	bianka pietrowennker	Bianka Pietrow-Ennker		1	10	2016-06-24
+95682	18190	rabah zerzour	Rabah Zerzour	70931966	4	283	2016-06-24
+95864	20870	悦史 谷藤	悦史 谷藤		1	0	2016-06-24
+96687	16967	enrico braglia	Enrico Braglia		31	52	2016-06-24
+96921	20870	ilhamsyah ilhamsyah	Ilhamsyah Ilhamsyah		1	0	2016-06-24
+97008	16639	bao shanglian	Bao Shang-lian	20231570	63	47	2016-06-24
+97220	18917	roberta pelizzoli	Roberta Pelizzoli		4	52	2016-06-24
+97225	19598	golnoush amirchoopani	Golnoush Amirchoopani	120514687	2	40	2016-06-24
+97565	16506	katerina p papalexandri	Katerina P. Papalexandri	47508984	19	509	2016-06-24
+97946	20804	mina vakilinejad	Mina Vakilinejad	110525433	1	1	2016-06-24
+98012	20177	gerard defalque	Gérard Defalque		2	0	2016-06-24
+98468	17689	芳樹 猪原	芳樹 猪原		24	1	2016-06-24
+99408	18305	聡介 小見山	聡介 小見山		13	0	2016-06-24
+99747	19004	romain coffinier	Romain Coffinier	1294671590	4	67	2016-06-24
+100234	19217	javier cotesierra	Javier Cote-Sierra	1309191912	3	54	2016-06-24
+100859	19916	ren zaian	Ren Zai-an		2	2	2016-06-24
+100898	19698	dania trista	Dania Tristá		2	18	2016-06-24
+102097	15886	建久 入江	建久 入江		145	3	2016-06-24
+102227	18557	kent bondensgaard	Kent Bondensgaard	862255436	9	35	2016-06-24
+102232	18064	sebastien furet	Sébastien Furet		12	12	2016-06-24
+102872	17149	chandra irsan	Chandra Irsan	271888150	38	19	2016-06-24
+102886	19185	kh m kholmedov	Kh. M. Kholmedov	1302269238	5	2	2016-06-24
+103170	20177	貴志 小前	貴志 小前		2	0	2016-06-24
+103243	20870	sukri palutturi	Sukri Palutturi		1	0	2016-06-24
+103298	17650	lisa m krigsman	Lisa M. Krigsman	106745318	22	51	2016-06-24
+103692	18635	zohar snapir	Zohar Snapir	53964585	5	110	2016-06-24
+103765	20870	pierre gaveaux	Pierre Gaveaux		1	0	2016-06-24
+103941	20870	ki supriyoko	Ki Supriyoko		1	0	2016-06-24
+105495	18295	laura rodriguezbotigue	Laura Rodríguez-Botigué	170486558	2	250	2016-06-24
+105549	20454	gustavo kazuo nagumo	Gustavo Kazuo Nagumo		1	5	2016-06-24
+106120	20177	弘昭 岩堀	弘昭 岩堀		2	0	2016-06-24
+106208	17004	koen aesaert	Koen Aesaert	32597200	35	196	2016-06-24
+106437	16895	diane breesch	Diane Breesch	13469542	41	214	2016-06-24
+106954	20870	johannes spalt	Johannes Spalt		1	0	2016-06-24
+108362	19185	ioannis galionis	Ioannis Galionis	47508984	3	27	2016-06-24
+108372	17031	quinn grundy	Quinn Grundy	129604602	34	208	2016-06-24
+108694	17261	christine choqueux	Christine Choqueux	154526488	20	291	2016-06-24
+108920	17868	ursula engsthastreiter	Ursula Engst-Hastreiter	8204097	5	248	2016-06-24
+108985	20870	margarida genera i monells	Margarida Genera i Monells		1	0	2016-06-24
+109231	20870	cem ozatalay	Cem Ozatalay		1	0	2016-06-24
+109908	20870	eva zakka bajjani	Eva Zakka Bajjani		1	0	2016-06-24
+110162	20870	正喜 鋸屋	正喜 鋸屋		1	0	2016-06-24
+110724	20870	anna heiney	Anna Heiney		1	0	2016-06-24
+110866	20870	benedetto croce	Benedetto Croce		1	0	2016-06-24
+110928	19201	andreas schmietendorf	Andreas Schmietendorf		1	35	2016-06-24
+111738	19484	zulfikarni zulfikarni	Zulfikarni Zulfikarni		4	0	2016-06-24
+112209	20870	stella pambianchi	Stella Pambianchi		1	0	2016-06-24
+112372	20177	光三 龍谷	光三 龍谷		2	0	2016-06-24
+112705	19484	pierre ronzeaud	Pierre Ronzeaud		4	0	2016-06-24
+112731	20870	茂彦 塚口	茂彦 塚口		1	0	2016-06-24
+113411	20870	xabier viteri solaun	Xabier Viteri Solaun		1	0	2016-06-24
+113850	19852	linda rilby	Linda Rilby		2	12	2016-06-24
+113852	19772	いく 黒川	いく 黒川		3	0	2016-06-24
+113880	17259	kishan l handoo	Kishan L. Handoo	121980950	21	204	2016-06-24
+114025	20870	claude lenners	Claude Lenners		1	0	2016-06-24
+114284	19246	laurie g mykleby	Laurie G. Mykleby		1	34	2016-06-24
+114381	20163	nongnut sinrapasan	Nongnut Sinrapasan		2	1	2016-06-24
+114639	18900	itoh sanaei	Itoh Sanae-I.	135598925	7	1	2016-06-24
+114940	18918	pedro j copadomendez	Pedro J. Copado-Méndez		5	33	2016-06-24
+115128	17961	mark a kotowycz	Mark A. Kotowycz	2801766832	9	157	2016-06-24
+115470	19310	alexander gutevich	Alexander Gutevich		4	14	2016-06-24
+115487	13711	erik thorbecke	Erik Thorbecke	205783295	148	6750	2016-06-24
+115542	19772	sanja blagdanic	Sanja Blagdanić	4068193	3	0	2016-06-24
+117161	20870	catherine boschian	Catherine Boschian		1	0	2016-06-24
+117180	15698	steven p kerckhoff	Steven P. Kerckhoff	97018004	26	1018	2016-06-24
+118128	20823	yolanda rufina condorimay tacsi	Yolanda Rufina Condorimay Tacsi		1	3	2016-06-24
+118354	20870	odile gaultiervoituriez	Odile Gaultier-Voituriez		1	0	2016-06-24
+118683	20044	orlando lastres danguillecourt	Orlando Lastres Danguillecourt	85695875	2	5	2016-06-24
+118694	19318	marc l snapper	Marc L. Snapper	177328695	1	58	2016-06-24
+119030	18472	朋子 狩野	朋子 狩野		11	0	2016-06-24
+119055	18924	志保 原嶋	志保 原嶋		7	0	2016-06-24
+119139	19557	stephen muryn	Stephen Muryn		1	7	2016-06-24
+119261	17210	gniewomir latacz	Gniewomir Latacz	879789424	33	140	2016-06-24
+119314	19749	mariane oliveira lemuchi	Mariane Oliveira Lemuchi	166595947	3	2	2016-06-24
+119326	20143	claush backes	Claus-H. Backes		1	11	2016-06-24
+120192	19039	kenneth s franzel	Kenneth S. Franzel	103698008	4	7	2016-06-24
+120331	17802	johan jendholm	Johan Jendholm	124055696	11	221	2016-06-24
+120350	15877	dudsadee uttapap	Dudsadee Uttapap	60837268	64	1281	2016-06-24
+120690	16475	jay elkerton	Jay Elkerton	27837315	15	340	2016-06-24
+120735	20870	jacob omede	Jacob Omede	10627620	1	0	2016-06-24
+121070	18679	paul a zayicek	Paul A. Zayicek	1335486098	4	23	2016-06-24
+121153	16948	cecile detangdessendre	Cécile Détang-Dessendre	1314251682	31	221	2016-06-24
+121731	20870	玲子 白木	玲子 白木		1	0	2016-06-24
+122636	20163	w a borisenok	W.A. Borisenok	165799507	1	3	2016-06-24
+122968	20870	draaf languedocroussillon	Draaf Languedoc-Roussillon		1	0	2016-06-24
+123530	20177	ing hanspeter mlejnek	Ing. Hans-Peter Mlejnek	100066346	2	0	2016-06-24
+124347	16718	christian kjellman	Christian Kjellman	187531555	27	712	2016-06-24
+124720	20870	恵一 末舛	恵一 末舛		1	0	2016-06-24
+125110	18652	angga rusdinar	Angga Rusdinar	4921948	4	40	2016-06-24
+125145	15555	georgi momekov	Georgi Momekov	30147112	127	1326	2016-06-24
+126866	18037	宏樹 宮町	宏樹 宮町		17	0	2016-06-24
+127171	20177	thais silva marinheiro	Thaís Silva Marinheiro		2	0	2016-06-24
+127328	20870	paul rabinow	Paul Rabinow		1	0	2016-06-24
+127620	18135	satyavani kaliamurthi	Satyavani Kaliamurthi	197081775	15	15	2016-06-24
+127649	18960	clementine deliss	Clémentine Deliss		3	17	2016-06-24
+129589	20177	tobias eiffel	Tobias Eiffel		2	0	2016-06-24
+129797	19020	peter grzeganek	Peter Grzeganek	74656192	3	111	2016-06-24
+130162	19088	debra dalygawenda	Debra Daly-Gawenda	1285301757	5	10	2016-06-24
+130761	18379	werner schnabele	Werner Schnabele		2	19	2016-06-24
+131285	18407	raymond w acus	Raymond W. Acus	110152177	4	72	2016-06-24
+131641	20870	繁郎 花安	繁郎 花安		1	0	2016-06-24
+131708	15766	ahmet ali sancaktutar	Ahmet Ali Sancaktutar	123466251	115	669	2016-06-24
+133060	20870	p moucheront	P. Moucheront	142631665	1	0	2016-06-24
+134131	20870	f a ruplin	F. A. Ruplin		1	0	2016-06-24
+134278	17779	壮一 丹羽	壮一 丹羽		22	0	2016-06-24
+136243	19284	u kruerke	U. Krüerke	139179871	2	16	2016-06-24
+138314	19405	eleni goumakou	Eleni Goumakou		4	6	2016-06-24
+140216	18513	pedro a moscosoramirez	Pedro A. Moscoso-Ramírez		8	63	2016-06-24
+140620	17363	sergio f garribba	Sergio F. Garribba	93860229	9	81	2016-06-24
+141013	19629	asociacion espanola de psicologia clinica y psicopatologia	Asociación Española de Psicología Clínica y Psicopatología		2	1	2016-06-24
+141027	18787	光明 亀子	光明 亀子		8	1	2016-06-24
+141126	19484	matthew n vosmeier	Matthew N. Vosmeier		4	0	2016-06-24
+141499	20870	いづみ 高山	いづみ 高山		1	0	2016-06-24
+142008	20870	世志子 田部井	世志子 田部井		1	0	2016-06-24
+142307	16070	vedran lekic	Vedran Lekic	66946132	65	1206	2016-06-24
+142741	16877	stefan krabel	Stefan Krabel	106157433	18	664	2016-06-24
+142932	20870	povilas zielys	Povilas Zielys		1	0	2016-06-24
+143224	20177	lars gaedda	Lars Gaedda		2	0	2016-06-24
+144089	19294	ole k nilssen	Ole K. Nilssen		1	20	2016-06-24
+144245	17621	grzegorz grzesk	Grzegorz Grzesk	119233137	14	267	2016-06-24
+144255	20870	ihe secretaria de la revista	Ihe Secretaria de la revista		1	0	2016-06-24
+144777	20870	suze youance	Suze Youance		1	0	2016-06-24
+144813	19180	iwona niekrasz	Iwona Niekrasz	49332381	3	29	2016-06-24
+145147	20177	梅雄 風間	梅雄 風間		2	0	2016-06-24
+145338	20760	parichart suwanbubbha	Parichart Suwanbubbha		1	4	2016-06-24
+145379	19484	roger stronstad	Roger Stronstad		4	0	2016-06-24
+145405	20870	temmler gruppe unabhangiges pharmaunternehmen pharmazeutische lohnherstellung auftragsherstellung	Temmler Gruppe Unabhängiges Pharmaunternehmen pharmazeutische Lohnherstellung Auftragsherstellung		1	0	2016-06-24
+146050	19383	kenji yabuwaki	Kenji Yabuwaki	92696645	4	10	2016-06-24
+146980	18903	yuri salamatov	Yuri Salamatov		7	3	2016-06-24
+147048	20870	joachim fritzvannahme	Joachim. Fritz-Vannahme		1	0	2016-06-24
+147529	17501	مهرداد عنبریان	مهرداد عنبریان		29	1	2016-06-24
+148043	18568	信洋 丸林	信洋 丸林		10	0	2016-06-24
+148911	17760	ifdil ifdil	Ifdil Ifdil		22	1	2016-06-24
+148955	17140	james p delapa	James P. Delapa		2	380	2016-06-24
+149031	18032	brian ranes	Brian Ranes	1306559669	8	207	2016-06-24
+149334	20870	sunday monday	Sunday Monday		1	0	2016-06-24
+149730	18091	eleni l vlahou	Eleni L. Vlahou	142617266	10	133	2016-06-24
+150118	16135	suleyman koytepe	Süleyman Köytepe	20126385	87	539	2016-06-24
+150943	20870	claude d espence	Claude d' Espence		1	0	2016-06-24
+151154	20870	john massier	John Massier		1	0	2016-06-24
+151307	19521	jose menco	José Menco		3	15	2016-06-24
+152832	20177	w filmyer	W. Filmyer		2	0	2016-06-24
+152899	20870	benito rodriguez gatius	Benito Rodríguez Gatíus		1	0	2016-06-24
+153029	18815	areli herreradiaz	Areli Herrera-Díaz	147482076	3	117	2016-06-24
+153030	20870	febin a vahab	Febin A. Vahab	90324223	1	0	2016-06-24
+153037	16219	michel de la brassinne	Michel De La Brassinne	157674565	81	196	2016-06-24
+153232	20870	kristine rainey	Kristine Rainey		1	0	2016-06-24
+153345	20870	i dzwonkowska	I Dzwonkowska		1	0	2016-06-24
+153773	19627	daniel chajuss	Daniel Chajuss		1	21	2016-06-24
+154129	20374	jan sammeck	Jan Sammeck		1	7	2016-06-24
+154852	20870	joseba urretabizkaia	Joseba Urretabizkaia		1	0	2016-06-24
+155106	18332	cristina galtelli	Cristina Galtelli	79940851	7	75	2016-06-24
+155373	17612	充博 手柴	充博 手柴		26	0	2016-06-24
+155601	18083	nor fadilah chayed	Nor Fadilah Chayed	82724352	15	27	2016-06-24
+156520	16916	lucie routaboul	Lucie Routaboul	68947357	32	385	2016-06-24
+156551	20134	siri vestheim	Siri Vestheim	204778367	2	1	2016-06-24
+156678	20870	fakulti pendidikan	Fakulti Pendidikan		1	0	2016-06-24
+156869	18791	かおる 藤谷	かおる 藤谷		8	0	2016-06-24
+157257	19261	xander van eck	Xander van Eck		5	0	2016-06-24
+157566	17880	john r zanek	John R. Zanek		2	103	2016-06-24
+157777	20746	lehrstuhl systemarchitektur	Lehrstuhl Systemarchitektur		1	2	2016-06-24
+158441	17371	peter enderwick	Peter Enderwick	126231945	22	77	2016-06-24
+159112	20870	effie kapsalis	Effie Kapsalis		1	0	2016-06-24
+159210	20870	moema de castro e silva olival	Moema de Castro e Silva Olival		1	0	2016-06-24
+160250	19735	madhavi vemireddy	Madhavi Vemireddy		3	3	2016-06-24
+160483	19921	robert winegard	Robert Winegard		1	12	2016-06-24
+160854	19772	jian jiqi	Jian Jiqi	99065089	3	0	2016-06-24
+161470	20870	inaki mirena anasagasti olabeaga	Iñaki Mirena Anasagasti Olabeaga		1	0	2016-06-24
+161752	18344	bryan hoolahan	Bryan Hoolahan	78757542	5	61	2016-06-24
+162593	18582	martin zavesky	Martin Zavesky	78650965	8	13	2016-06-24
+162998	18460	chawanwit kumsapaya	Chawanwit Kumsapaya	15057530	3	70	2016-06-24
+163351	19747	reza teimurimofrad	Reza Teimuri-Mofrad	78323350	3	2	2016-06-24
+163602	17002	shereen khatapoush	Shereen Khatapoush	6902469	7	497	2016-06-24
+163930	19484	慎介 元渕	慎介 元渕		4	0	2016-06-24
+164995	16737	alexei toutchkine	Alexei Toutchkine	123431417	16	711	2016-06-24
+165118	20870	ulrike gotting	Ulrike Götting		1	0	2016-06-24
+165256	15666	dominique lamaison	Dominique Lamaison	899635006	10	2169	2016-06-24
+165580	15094	alpina begossi	Alpina Begossi	181391015	120	2526	2016-06-24
+165584	16608	nobuo imatake	Nobuo Imatake	1293612202	16	209	2016-06-24
+166560	17914	william drell	William Drell		9	194	2016-06-24
+167107	17020	正典 判田	正典 判田		47	0	2016-06-24
+167564	20870	cristina principale	Cristina Principale	9360294	1	0	2016-06-24
+167612	20870	solange a alliali	Solange A. Alliali		1	0	2016-06-24
+167653	17454	nurettin yamankaradeniz	Nurettin Yamankaradeniz	131835042	16	128	2016-06-24
+167881	19597	senia febrica	Senia Febrica	29617571	2	8	2016-06-24
+168065	17253	zulfu gurocak	Zulfu Gurocak	143396566	20	223	2016-06-24
+168158	20870	beatrice ratrema	Béatrice Ratréma		1	0	2016-06-24
+169248	20870	ali kuyaksil	Ali Kuyaksil		1	0	2016-06-24
+169333	19479	teresa skolaskipellitteri	Teresa Skolaski-Pellitteri	1286179681	2	15	2016-06-24
+170003	19741	zeynep cihangircankaya	Zeynep Cihangir-Cankaya	41641357	2	8	2016-06-24
+170067	20016	terry calvani	Terry Calvani		2	3	2016-06-24
+171396	19045	zinoviy grinshpun	Zinoviy Grinshpun	13955877	4	14	2016-06-24
+172104	20870	醇一 松井	醇一 松井		1	0	2016-06-24
+172356	20177	damiano anedda	Damiano Anedda	172446870	2	0	2016-06-24
+172510	17967	horst schnutenhaus	Horst Schnutenhaus		2	66	2016-06-24
+172823	18385	真吾 谷川原	真吾 谷川原		12	0	2016-06-24
+172925	20677	cornelia sorabji	Cornelia Sorabji	241749	1	5	2016-06-24
+173011	19462	piotr lizakowski	Piotr Lizakowski		4	1	2016-06-24
+173052	20177	哲郎 能村	哲郎 能村		2	0	2016-06-24
+173892	20870	peter cappellucci	Peter Cappellucci		1	0	2016-06-24
+174248	19218	brian dean wegele	Brian Dean Wegele	1290270558	5	2	2016-06-24
+174897	19772	マキ 天野	マキ 天野		3	0	2016-06-24
+174962	20870	warsiti warsiti	Warsiti Warsiti		1	0	2016-06-24
+175103	20853	otto crusius	Otto Crusius		1	1	2016-06-24
+175248	19577	naohiro uchio	Naohiro Uchio	22299242	2	17	2016-06-24
+175571	16513	良宗 堀部	良宗 堀部		78	0	2016-06-24
+175887	18119	michel rudnianski	Michel Rudnianski	124158823	13	22	2016-06-24
+176155	18522	sylvie eigeldingerberthou	Sylvie Eigeldinger-Berthou	118564535	8	67	2016-06-24
+176289	19357	maria mihalaki	Maria Mihalaki		2	38	2016-06-24
+176858	17695	gerhard ruester	Gerhard Ruester		7	50	2016-06-24
+177068	18585	gerald l buchas	Gerald L. Buchas		1	22	2016-06-24
+177643	18850	brian a vaarstra	Brian A. Vaarstra		1	50	2016-06-24
+177721	19261	繁之 春山	繁之 春山		5	0	2016-06-24
+178107	20870	聖香 野末	聖香 野末		1	0	2016-06-24
+179040	18844	nadia dozova	Nadia Dozova	29607241	5	32	2016-06-24
+179961	16170	gundula staatz	Gundula Staatz	887968799	68	452	2016-06-24
+179986	16789	george prinianakis	George Prinianakis	142617266	22	539	2016-06-24
+180058	19257	chiara travierso	Chiara Travierso	189158943	5	1	2016-06-24
+180495	20870	novia miranti	Novia Miranti	2252230247	1	0	2016-06-24
+182090	20012	brad sheeller	Brad Sheeller	197604219	2	9	2016-06-24
+182940	18654	shi zhangming	Shi Zhangming	139660479	9	1	2016-06-24
+183071	20177	jerzy speina	Jerzy Speina		2	0	2016-06-24
+183306	20870	abdul rahim hazli rafis	Abdul Rahim Hazli Rafis		1	0	2016-06-24
+183422	18024	johnny bigert	Johnny Bigert	86987016	6	104	2016-06-24
+183534	18473	herbert hoelzemann	Herbert Hoelzemann		9	16	2016-06-24
+183913	20870	夏城 栗林	夏城 栗林		1	0	2016-06-24
+183975	20870	a karameros	A. Karameros		1	0	2016-06-24
+184358	19772	bandar al aithan	Bandar al Aithan	2801240477	3	0	2016-06-24
+184369	16006	charles kurzman	Charles Kurzman	114027177	67	704	2016-06-24
+184715	20870	william christenberry	William Christenberry		1	0	2016-06-24
+184958	17596	bernard michallet	Bernard Michallet	63341726	18	122	2016-06-24
+185026	20870	yenny yuniawaty	Yenny Yuniawaty		1	0	2016-06-24
+185289	19858	monique fourdin	Monique Fourdin		2	2	2016-06-24
+185294	17465	s mathiyazhagan	S. Mathiyazhagan	134900695	19	209	2016-06-24
+185364	20870	урбанович анна	Урбанович Анна		1	0	2016-06-24
+186207	18278	christiane l pradomedeiros	Christiane L. Prado-Medeiros	177909021	9	97	2016-06-24
+186871	20870	sofia wastesson	Sofia Wastesson		1	0	2016-06-24
+187350	18924	隆之 苛原	隆之 苛原		7	0	2016-06-24
+187642	20870	supaporn nammoonnoy	Supaporn Nammoonnoy	1299303238	1	0	2016-06-24
+188016	20870	anita pincas	Anita Pincas		1	0	2016-06-24
+188161	17469	哲也 澤岻	哲也 澤岻		30	0	2016-06-24
+188476	20023	hans joachim storig	Hans Joachim Störig		1	8	2016-06-24
+189751	16065	lynne m sallot	Lynne M. Sallot	165733156	36	1074	2016-06-24
+189825	20870	ulrich schonenberg	Ulrich Schönenberg		1	0	2016-06-24
+189964	19685	mark beyebach	Mark Beyebach		2	10	2016-06-24
+190157	20870	伸明 塩川	伸明 塩川		1	0	2016-06-24
+190298	18657	edouard des places	Édouard des Places		9	4	2016-06-24
+191025	17355	maria divari	Maria Divari	861853513	27	49	2016-06-24
+191627	19484	denis bensaude	Denis Bensaude		4	0	2016-06-24
+191629	17259	jutharatana klinkaewnarong	Jutharatana Klinkaewnarong	179193067	17	305	2016-06-24
+191691	20870	誉志江 山縣	誉志江 山縣		1	0	2016-06-24
+191855	18013	masazumi nagareda	Masazumi Nagareda	1306287861	4	30	2016-06-24
+191957	20467	clement a senatro	Clement A. Senatro		1	2	2016-06-24
+192225	20870	quim casas	Quim Casas		1	0	2016-06-24
+192327	19712	henry l guimarin	Henry L. Guimarin		1	18	2016-06-24
+192416	20198	james t dabonde	James T. Dabonde		1	8	2016-06-24
+192602	20686	maria wilwer	Maria Wilwer	39343248	1	4	2016-06-24
+192672	16423	johannes schauwecker	Johannes Schauwecker	62916508	66	354	2016-06-24
+193170	18090	olusola a oyemade	Olusola A. Oyemade		9	94	2016-06-24
+193322	15897	gerard joulia	Gerard Joulia	14285755	59	403	2016-06-24
+193769	20870	h alnehill	H. Alnehill		1	0	2016-06-24
+193817	20870	ゆかり 﨑山	ゆかり 﨑山		1	0	2016-06-24
+193900	20870	axel bustbartels	Axel Bust-Bartels		1	0	2016-06-24
+193922	18324	guo aihong	Guo Aihong	875511016	12	4	2016-06-24
+194577	18654	eugen gstohl	Eugen Gstöhl		2	37	2016-06-24
+195066	19226	mandana ashouripashaki	Mandana Ashouripashaki	86519309	4	13	2016-06-24
+195173	19594	norman e scheels	Norman E. Scheels		1	12	2016-06-24
+195256	16191	maryna ornatska	Maryna Ornatska	16944753	28	1390	2016-06-24
+195348	20870	graciane dessy primasani	Graciane Dessy Primasani		1	0	2016-06-24
+196053	19691	bruno chiuch	Bruno Chiuch		2	3	2016-06-24
+196195	20870	mary annette bocke	Mary Annette Bocke	1925986	1	0	2016-06-24
+196641	18463	hassan zali boeini	Hassan Zali Boeini	39268498	9	49	2016-06-24
+196993	19629	ma liyong	Ma Liyong	204983213	2	9	2016-06-24
+197987	16696	springer medizinverlag	Springer Medizin-Verlag		65	0	2016-06-24
+198061	20177	barbara mungovan	Barbara Mungovan		2	0	2016-06-24
+198401	19792	ya a harya	Ya.A. Harya		2	9	2016-06-24
+198696	18673	abdelrahman el nashaar	Abdelrahman el Nashaar	145487455	2	94	2016-06-24
+198779	17972	luciana togni de lima e silva surjus	Luciana Togni de Lima e Silva Surjus	181391015	12	31	2016-06-24
+198864	17199	remi tirfoin	Rémi Tirfoin	40120149	27	341	2016-06-24
+198972	20870	thomas ternedden	Thomas Ter-Nedden		1	0	2016-06-24
+199114	19999	horst loebus	Horst Loebus		2	4	2016-06-24
+199368	19261	現理 奥井	現理 奥井		5	0	2016-06-24
+199870	15693	nikolaus harnoncourt	Nikolaus Harnoncourt		177	2	2016-06-24
+200700	18359	paola andrea ayalaramirez	Paola Andrea Ayala-Ramírez	233745408	12	7	2016-06-24
+200883	17866	jorgen kildenpedersen	Jorgen Kilden-Pedersen	1329325741	13	52	2016-06-24
+201704	20870	勝子 西元	勝子 西元		1	0	2016-06-24
+202198	15302	alfred coehn	Alfred Coehn		22	33	2016-06-24
+202226	20870	anne deshoulieres	Anne Deshoulières		1	0	2016-06-24
+202419	17132	goran piljac	Goran Piljac	1314580408	22	202	2016-06-24
+202887	18562	felipe pereda espeso	Felipe Pereda Espeso	63634437	8	4	2016-06-24
+203067	18339	mutlu b gulerakin	Mutlu B. Güler-Akın	80538482	7	92	2016-06-24
+203846	20870	彩記子 羽中田	彩記子 羽中田		1	0	2016-06-24
+204298	20870	kenneth e galchus	Kenneth E. Galchus	78715868	1	0	2016-06-24
+204306	18875	otto heinz kurschner	Otto Heinz Kürschner		4	9	2016-06-24
+204514	18325	pierre prudhommelacroix	Pierre Prud'homme-lacroix	1340412301	9	11	2016-06-24
+204596	17369	yinon satuby	Yinon Satuby	174306211	14	134	2016-06-24
+204777	17574	明雄 佐生	明雄 佐生		27	0	2016-06-24
+205197	18299	darlene spracklinreid	Darlene Spracklin-Reid	130438778	13	2	2016-06-24
+205474	20870	inigo sanz rubiales	Iñigo Sanz Rubiales		1	0	2016-06-24
+205492	19772	victor tau anzoategui	Víctor Tau Anzoátegui	24354313	3	0	2016-06-24
+205990	19772	timothy a emhoff	Timothy A. Emhoff		3	0	2016-06-24
+206054	19291	tara shabab	Tara Shabab	33849332	3	45	2016-06-24
+206065	20870	mulfi hazwi	Mulfi Hazwi		1	0	2016-06-24
+206250	17362	lenka kamanova	Lenka Kamanová		32	7	2016-06-24
+206928	15091	mathieu denoel	Mathieu Denoël	157674565	227	1889	2016-06-24
+207395	20864	fernanda ferraz camilo bazito	Fernanda Ferraz Camilo Bazito		1	1	2016-06-24
+207454	20833	m campsey	Campsey M	2800275141	1	2	2016-06-24
+208066	18305	晴雄 勝沼	晴雄 勝沼		13	0	2016-06-24
+209318	20870	cora coralina	Cora Coralina		1	0	2016-06-24
+209324	19484	正宏 吉年	正宏 吉年		4	0	2016-06-24
+210162	20045	karel b f juros	Karel B. F. Juros		1	9	2016-06-24
+210479	20309	h mikulkova	H. Mikulkova		1	14	2016-06-24
+210788	20870	unsa developpement durable	Unsa Developpement Durable		1	0	2016-06-24
+210932	18983	thomas schiener	Thomas Schiener		4	11	2016-06-24
+211148	19484	andres dapuez	Andrés Dapuez	151201029	4	0	2016-06-24
+211745	17139	yongmei bentley	Yongmei Bentley	147554453	34	127	2016-06-24
+211787	16429	matej zajc	Matej Zajc	153976015	57	232	2016-06-24
+212020	18478	hans penza	Hans Penza		8	18	2016-06-24
+212372	16023	isamu kitahiro	Isamu Kitahiro	1283155146	9	244	2016-06-24
+213023	16757	aleksandras patapas	Aleksandras Patapas	146583814	60	10	2016-06-24
+213056	20870	caroline landau spilberg	Caroline Landau Spilberg	142823887	1	0	2016-06-24
+213118	19024	sergey g galustyan	Sergey G. Galustyan	1289079397	3	53	2016-06-24
+213563	18497	chloe sooambar	Chloé Sooambar	1294671590	7	48	2016-06-24
+214161	20870	r r springmeyer	R R Springmeyer		1	0	2016-06-24
+214826	15056	thomas j broekelmann	Thomas J. Broekelmann	204465549	69	3404	2016-06-24
+215416	18331	yoshito funashima	Yoshito Funashima	310553	12	22	2016-06-24
+215844	15660	zbigniew leonowicz	Zbigniew Leonowicz	11923345	78	652	2016-06-24
+216413	20870	harry haysham	Harry Haysham		1	0	2016-06-24
+216564	20870	claire vapillon	Claire Vapillon		1	0	2016-06-24
+218066	19672	наталья ромуальдовна кнырик	Наталья Ромуальдовна Кнырик	13779751	3	1	2016-06-24
+218107	20870	mairie de roiffieux	Mairie de Roiffieux		1	0	2016-06-24
+218229	18532	cecile arbezgindre	Cécile Arbez-Gindre		6	69	2016-06-24
+218318	16777	frederic le marcis	Frédéric Le Marcis	113428412	53	94	2016-06-24
+219100	18615	leila shayan	Leila Shayan	194604659	9	6	2016-06-24
+219134	16609	venu m nemani	Venu M. Nemani	180670191	12	1593	2016-06-24
+219240	19772	百合子 尾本	百合子 尾本		3	0	2016-06-24
+220119	17760	aki kangasharju	Aki Kangasharju	94722563	15	108	2016-06-24
+221426	16890	janusz d fidelus	Janusz D. Fidelus	99542240	35	227	2016-06-24
+221493	20870	desy p koruthu	Desy P Koruthu	177436651	1	0	2016-06-24
+221689	20870	昌善 岩瀧	昌善 岩瀧		1	0	2016-06-24
+221701	16761	elena n danilovtseva	Elena N. Danilovtseva	1313323035	43	385	2016-06-24
+221771	16655	norman s fieleke	Norman S. Fieleke		24	78	2016-06-24
+221841	19931	lia korrel	Lia Korrel		2	5	2016-06-24
+222268	19350	l u naalsund	Naalsund Lu		1	40	2016-06-24
+222454	20122	zawam abubaker	Zawam Abubaker	72253084	2	1	2016-06-24
+222893	15754	nazli goharian	Nazli Goharian	184565670	104	637	2016-06-24
+223381	20167	franco zeffirelli	Franco Zeffirelli		2	1	2016-06-24
+223486	20870	ulrich schoenwald	Ulrich Schoenwald		1	0	2016-06-24
+223996	20870	治子 酒向	治子 酒向		1	0	2016-06-24
+224124	19230	ulrika boiers	Ulrika Böiers	114090438	3	45	2016-06-24
+224144	20870	homo volatilus rigidus	Homo Volatilus Rigidus		1	0	2016-06-24
+224167	18753	sutthisit jamdee	Sutthisit Jamdee	173963315	7	21	2016-06-24
+224174	20177	大郎 萩下	大郎 萩下		2	0	2016-06-24
+224558	20870	revista brasileira de terapia comportamental e cognitiva	Revista Brasileira de Terapia Comportamental e Cognitiva		1	0	2016-06-24
+224730	15546	wataru mizunoya	Wataru Mizunoya	135598925	74	2191	2016-06-24
+225846	20870	susanne u janecke	Susanne U. Janecke		1	0	2016-06-24
+226391	20177	aline macarevich	Aline Macarevich		2	0	2016-06-24
+226761	20870	utz hoeser	Utz Hoeser		1	0	2016-06-24
+227186	17199	stephan potsch	Stephan Pötsch	161593684	13	400	2016-06-24
+227235	20870	totok dewayanto	Totok Dewayanto		1	0	2016-06-24
+227408	20870	werner gantzel	Werner Gantzel		1	0	2016-06-24
+227492	20870	淳子 里麻	淳子 里麻		1	0	2016-06-24
+227929	20759	linda j hollandtoll	Linda J. Holland-Toll		1	1	2016-06-24
+228052	20704	laura stiattesi	Laura Stiattesi		1	4	2016-06-24
+228328	18260	stefania re depaolini	Stefania Re Depaolini		4	163	2016-06-24
+228629	20787	victor m landeras	Victor M. Landeras		1	1	2016-06-24
+228971	18262	bernard j szczechura	Bernard J. Szczechura	1309191912	1	59	2016-06-24
+229514	19078	博子 上松	博子 上松		6	0	2016-06-24
+230100	16113	arnaldo cinquantini	Arnaldo Cinquantini	102064193	64	574	2016-06-24
+230291	20177	秋子 菊地	秋子 菊地		2	0	2016-06-24
+230677	20685	chiga ogurusu	Chiga Ogurusu		1	1	2016-06-24
+230735	16676	marek kasznicki	Marek Kasznicki	866987647	25	655	2016-06-24
+231631	20870	拓也 倉橋	拓也 倉橋		1	0	2016-06-24
+231683	15349	assaf distelfeld	Assaf Distelfeld	16391192	55	3174	2016-06-24
+231703	20870	odom fanning	Odom Fanning		1	0	2016-06-24
+232270	20870	xavier vidalfolch	Xavier Vidal-Folch		1	0	2016-06-24
+233055	16523	agnieszka wykowska	Agnieszka Wykowska	30771326	44	453	2016-06-24
+233147	20870	alsones balestrin	Alsones Balestrin		1	0	2016-06-24
+233389	20870	seth bernstrom	Seth Bernström		1	0	2016-06-24
+233484	19249	celia forneas	Celia Fórneas		5	1	2016-06-24
+233601	19295	martine polhuijs	Martine Polhuijs	121797337	4	15	2016-06-24
+233602	17759	roksana bahramitash	Roksana Bahramitash	70931966	15	94	2016-06-24
+234232	19410	clarissa cavalcanti fatturi	Clarissa Cavalcanti Fatturi		3	10	2016-06-24
+234443	18392	mohammed fatehy	Mohammed Fatehy	180203408	9	17	2016-06-24
+234789	19772	hector yanover	Héctor Yánover		3	0	2016-06-24
+235442	20581	david rokeby	David Rokeby		1	1	2016-06-24
+235502	17688	ola wassvik	Ola Wassvik		18	62	2016-06-24
+235809	20870	久代 齊木	久代 齊木		1	0	2016-06-24
+236153	20870	l krader	L Krader		1	0	2016-06-24
+237265	18809	gayle groshko	Gayle Groshko	2803018670	6	15	2016-06-24
+237499	20870	kirsti evanger	Kirsti Evanger		1	0	2016-06-24
+237674	20870	พรพรรณ เหล่าวชิระสุวรรณ	พรพรรณ เหล่าวชิระสุวรรณ		1	0	2016-06-24
+238379	17758	francisco solerflores	Francisco Soler-Flores	88060688	21	16	2016-06-24
+238449	20870	otto altendorfer	Otto Altendorfer		1	0	2016-06-24
+238564	15913	peter szeredi	Péter Szeredi	29770179	64	547	2016-06-24
+238879	17060	ortrud vargashein	Ortrud Vargas-Hein	39343248	11	534	2016-06-24
+239663	17638	alphonse h bellac	Alphonse H. Bellac		1	92	2016-06-24
+239667	17042	崇博 毛井	崇博 毛井		46	0	2016-06-24
+240013	20052	william brockenbrough	William Brockenbrough		1	12	2016-06-24
+240593	20870	herve queneau	Hervé Queneau		1	0	2016-06-24
+241147	20870	nicolas mengus	Nicolas Mengus		1	0	2016-06-24
+241813	18834	jukka kähkönen	Jukka Kähkönen	2801249761	6	6	2016-06-24
+242410	20580	eugene zueff	Eugene Zueff	179489722	1	1	2016-06-24
+243379	20870	bettina peterriesch	Bettina Peter-Riesch		1	0	2016-06-24
+244246	20051	luisa reiscastro	Luísa Reis-Castro	157674565	2	8	2016-06-24
+244936	20870	庸子 坂岡	庸子 坂岡		1	0	2016-06-24
+245039	17528	antonio garciamerino	Antonio García-Merino	63634437	14	421	2016-06-24
+246047	19240	petek ayda ustaomer	Petek Ayda Ustaömer	4101805	3	62	2016-06-24
+246213	18238	thorsten bandlow	Thorsten Bandlow	62916508	3	62	2016-06-24
+246248	18168	eileen reinz	Eileen Reinz	17937529	11	124	2016-06-24
+246745	17435	musee du louvre	Musée du Louvre		26	12	2016-06-24
+248505	20870	szabo sarolta	Szabó Sarolta		1	0	2016-06-24
+248696	19378	gunnar hollunger	Gunnar Hollunger	90267481	4	16	2016-06-24
+249122	19484	ian welland	Ian Welland		4	0	2016-06-24
+249303	18305	catherine veronissad	Catherine Véron-Issad		13	0	2016-06-24
+249316	19836	n siebeck	N. Siebeck		1	31	2016-06-24
+250059	19209	patricia creedy	Patricia Creedy	180670191	1	48	2016-06-24
+250553	20177	知樹 惠良田	知樹 惠良田		2	0	2016-06-24
+251628	16293	georg wicherski	Georg Wicherski	887968799	5	366	2016-06-24
+251652	20870	jeff j koloze	Jeff J.Koloze		1	0	2016-06-24
+251826	20870	b degnbol	Degnbol B		1	0	2016-06-24
+252273	20177	盛生 辻	盛生 辻		2	0	2016-06-24
+253098	19881	george kyris	George Kyris	39555362	2	3	2016-06-24
+253204	19229	hall langstroth	Hall Langstroth		1	9	2016-06-24
+253318	20870	genner llanesortiz	Genner Llanes-Ortiz		1	0	2016-06-24
+253348	19482	roberto aliboni	Roberto Aliboni		3	2	2016-06-24
+253378	20870	pere alexis bacquet	Père Alexis Bacquet		1	0	2016-06-24
+253533	20870	e woiner	E. WoIner		1	0	2016-06-24
+254058	18501	elizabeth nicklay	Elizabeth Nicklay	119234918	2	150	2016-06-24
+254522	16870	pascale calmardoriol	Pascale Calmard-Oriol		4	442	2016-06-24
+254625	16828	marina ronzhina	Marina Ronzhina	60587646	48	121	2016-06-24
+254708	18825	alejandra schueftan	Alejandra Schueftan	16465266	5	27	2016-06-24
+254924	19078	zulfansyah zulfansyah	Zulfansyah Zulfansyah	92961808	6	0	2016-06-24
+255233	20870	guilhem bascle	Guilhem Bascle		1	0	2016-06-24
+255528	18261	torsten heverhagen	Torsten Heverhagen	62318514	5	46	2016-06-24
+256003	19991	brice chaix de lavarene	Brice Chaix de Lavarène	1294671590	1	11	2016-06-24
+256354	19484	galitzen a farabaugh	Galitzen A. Farabaugh	592451	4	0	2016-06-24
+257613	19807	ronald j cebik	Ronald J. Cebik		2	9	2016-06-24
+258778	18594	dennis p van berge henegouwen	Dennis P. van Berge Henegouwen		4	71	2016-06-24
+259258	18087	erin e witalison	Erin E. Witalison	155781252	13	103	2016-06-24
+260039	19484	marietta kintiroglou	Marietta Kintiroglou		4	0	2016-06-24
+260168	16395	yamini s levitzky	Yamini S. Levitzky	1299303238	12	762	2016-06-24
+260288	20489	k moray	K. Moray		1	3	2016-06-24
+260304	17117	jan semjon	Ján Semjon	183764125	37	26	2016-06-24
+260574	20870	明子 野辺	明子 野辺		1	0	2016-06-24
+261087	18220	kristina e furse	Kristina E. Furse	107639228	7	199	2016-06-24
+261349	16893	josephine z kasavubu	Josephine Z. Kasa-Vubu	27837315	26	509	2016-06-24
+261404	19772	純子 金好	純子 金好		3	0	2016-06-24
+262122	20870	nelios media	Nelios media		1	0	2016-06-24
+262284	15540	denis r hirschfeldt	Denis R. Hirschfeldt	40347166	74	1319	2016-06-24
+262804	17020	ivani bisordi	Ivani Bisordi	2799912023	18	411	2016-06-24
+262880	20870	nicolas mengus	Nicolas Mengus		1	0	2016-06-24
+263066	20177	sam napoleon bellua	Sam Napoleon Bellua	83291730	2	0	2016-06-24
+263388	17574	淡人 藤野	淡人 藤野		27	0	2016-06-24
+263825	20870	妙実子 植野	妙実子 植野		1	0	2016-06-24
+264224	17440	stephen d fantone	Stephen D. Fantone	5388228	12	79	2016-06-24
+264543	17158	eberhard wenschuh	Eberhard Wenschuh	68956291	32	53	2016-06-24
+264904	20811	markus hametner	Markus Hametner	1342191700	1	2	2016-06-24
+265043	18897	moran pirkner	Moran Pirkner	376102	5	36	2016-06-24
+265297	20126	dolors vinyoles cartanya	Dolors Vinyoles Cartanyà		2	5	2016-06-24
+265458	20870	gerald sedratidinet	Gérald Sédrati-Dinet		1	0	2016-06-24
+266161	19887	cecilia dalterio	Cecilia D'Alterio	185261750	2	21	2016-06-24
+266451	20870	振一郎 稲葉	振一郎 稲葉		1	0	2016-06-24
+266838	19732	tajchai phadoemchit	Tajchai Phadoemchit		1	29	2016-06-24
+267239	20870	j stajic	J. Stajic		1	0	2016-06-24
+267489	18385	josip taradi	Josip Taradi		12	0	2016-06-24
+267765	17760	rolf socherambrosius	Rolf Socher-Ambrosius	149899117	17	45	2016-06-24
+267788	19772	収二 城所	収二 城所		3	0	2016-06-24
+267854	20177	adil bakayan	Adil Bakayan		2	0	2016-06-24
+268181	16885	harry w donias	Harry W. Donias	63190737	21	274	2016-06-24
+269031	18098	steffen augsberg	Steffen Augsberg		16	0	2016-06-24
+269235	19757	ayome abibi	Ayome Abibi	112260969	3	1	2016-06-24
+269250	18803	phyllis arthasery	Phyllis Arthasery		6	14	2016-06-24
+269756	17634	alfons beltrup	Alfons Beltrup		19	38	2016-06-24
+270727	20870	政人 金出	政人 金出		1	0	2016-06-24
+271054	18490	bradley k starcevich	Bradley K. Starcevich		1	75	2016-06-24
+271266	16392	ronald j hartleroad	Ronald J Hartleroad	118136607	8	178	2016-06-24
+271327	20870	studiumplus weiterbildung	StudiumPlus Weiterbildung		1	0	2016-06-24
+272084	19246	thomas simmel	Thomas Simmel	51588809	2	13	2016-06-24
+272302	18568	佐保子 三山	佐保子 三山		10	0	2016-06-24
+272712	20870	弘晃 阿賀	弘晃 阿賀		1	0	2016-06-24
+272986	18472	祝郎 木下	祝郎 木下		11	0	2016-06-24
+273028	18228	rafal dolot	Rafał Dolot	99542240	11	52	2016-06-24
+273158	20054	ken vicchiollo	Ken Vicchiollo		2	3	2016-06-24
+274450	20870	max moswitzer	Max Moswitzer	2802889516	1	0	2016-06-24
+274507	17040	ole a holtermann	Ole A. Holtermann	63190737	11	242	2016-06-24
+275625	20632	zarko mijajlovic	Zarko Mijajlovic		1	2	2016-06-24
+275665	18540	steven kepnes	Steven Kepnes	39660569	7	14	2016-06-24
+276577	20870	gilbert perlein	Gilbert Perlein		1	0	2016-06-24
+277024	18491	geva arwas	Geva Arwas	124227911	10	12	2016-06-24
+277268	20870	timothy m mcalhaney	Timothy M. McAlhaney		1	0	2016-06-24
+277659	18924	英祐 生野	英祐 生野		7	0	2016-06-24
+277663	20870	christopher irding	Christopher Irding		1	0	2016-06-24
+277729	16863	靜男 岩本	靜男 岩本		55	0	2016-06-24
+278117	18558	kent cherny	Kent Cherny		9	12	2016-06-24
+278309	19540	marie boltzlaemmel	Marie Boltz-Laemmel		3	4	2016-06-24
+278495	17149	miklos bitay	Miklós Bitay	227486990	16	457	2016-06-24
+279054	19078	marc galanter	Marc Galanter		6	0	2016-06-24
+279065	18751	mireille bousquetmelou	Mireille Bousquet-melou		1	55	2016-06-24
+279286	17629	celia szusterman	Celia Szusterman	94951947	24	25	2016-06-24
+279425	19050	ernesto baschny	Ernesto Baschny	100066346	1	47	2016-06-24
+279537	17404	園子 塚原	園子 塚原		32	0	2016-06-24
+279855	20255	alan bruce chandronnait	Alan Bruce Chandronnait		1	6	2016-06-24
+280665	19772	rene gomez areces	René Gómez Areces		3	0	2016-06-24
+280910	20870	t harajiri	T. Harajiri	922285772	1	0	2016-06-24
+281310	20870	siti zulaihah	Siti Zulaihah		1	0	2016-06-24
+281487	18428	maria joao cantinho	Maria João Cantinho	141596103	10	1	2016-06-24
+282160	18546	benedicte vauthier	Bénédicte Vauthier		9	10	2016-06-24
+282423	17831	sabine l perchnielsen	Sabine L. Perch-Nielsen	35440088	4	312	2016-06-24
+282485	20870	muhammad bin ali bin muhammad alsyaukani	Muhammad bin Ali bin Muhammad Al-Syaukani		1	0	2016-06-24
+282586	20177	andrian satria martiyanto	Andrian Satria Martiyanto		2	0	2016-06-24
+282600	19378	k tschubel	K. Tschubel	135140700	2	17	2016-06-24
+282915	17868	santiago romerobrufau	Santiago Romero-Brufau	1330342723	14	79	2016-06-24
+283987	14632	miguel a pappolla	Miguel A. Pappolla	83809506	95	6723	2016-06-24
+284165	18287	nazih nahlus	Nazih Nahlus	98635879	9	27	2016-06-24
+284723	16681	charles n halaby	Charles N. Halaby	135310074	10	844	2016-06-24
+285430	19238	claudia stubinitzky	Claudia Stubinitzky	102335020	4	29	2016-06-24
+285850	17562	barbara a nuck	Barbara A. Nuck	74680897	7	225	2016-06-24
+286910	18877	gerald duffing	Gérald Duffing	153577553	7	6	2016-06-24
+287252	20870	fatmagul berktay	Fatmagül Berktay		1	0	2016-06-24
+287260	16394	eyal shlomot	Eyal Shlomot	1322669654	24	440	2016-06-24
+287632	17183	wolfgang goerigk	Wolfgang Goerigk	32021983	23	181	2016-06-24
+287696	17464	phullara b shelat	Phullara B. Shelat	76835614	7	598	2016-06-24
+287740	20084	sirli leython	Sirli Leython		2	2	2016-06-24
+287788	20870	berufsbegleitende weiterbildung studium an der verwaltungs und wirtschaftsakademie fulda	Berufsbegleitende Weiterbildung Studium an der Verwaltungs und Wirtschafts-Akademie Fulda		1	0	2016-06-24
+288726	15591	conrad h ziesler	Conrad H. Ziesler	27837315	35	1321	2016-06-24
+288811	17376	stefan raspl	Stefan Raspl	1341412227	20	122	2016-06-24
+289091	19798	andrea mataresi	Andrea Mataresi	18167132	2	7	2016-06-24
+289467	20102	jose juradosanchez	José Jurado-Sánchez	121748325	2	3	2016-06-24
+290655	20123	denise santos machry	Denise Santos Machry	878065381	2	1	2016-06-24
+291131	17826	豊彦 井須	豊彦 井須		21	0	2016-06-24
+291222	17674	richard b chapas	Richard B. Chapas	1325736334	11	188	2016-06-24
+291695	20870	owen bishop	Owen Bishop		1	0	2016-06-24
+292519	18897	jenna r shimkowski	Jenna R. Shimkowski	12315562	7	5	2016-06-24
+293134	20870	office de tourisme des petites roches	Office de Tourisme des Petites Roches		1	0	2016-06-24
+293331	20870	ben zion dinaburg	Ben Zion Dinaburg		1	0	2016-06-24
+293383	20870	direction interregionale de la mer sudatlantique	Direction Interrégionale de la mer Sud-Atlantique		1	0	2016-06-24
+293478	19441	lynn a revak	Lynn A. Revak		2	31	2016-06-24
+294132	20177	和巳 木全	和巳 木全		2	0	2016-06-24
+294457	20830	nelly gourlaouen	Nelly Gourlaouën	204730241	1	1	2016-06-24
+294697	19297	tina millerway	Tina Miller-Way	83809506	2	51	2016-06-24
+294749	20870	josep pelfort	Josep Pelfort		1	0	2016-06-24
+294759	20870	satish maryala	Satish Maryala		1	0	2016-06-24
+295673	20870	mairie de roiffieux	Mairie de Roiffieux		1	0	2016-06-24
+296142	20177	bahar amrul	Bahar Amrul		2	0	2016-06-24
+296530	20870	晋也 安本	晋也 安本		1	0	2016-06-24
+296854	20177	elizabeth c kisenwether	Elizabeth C. Kisenwether	174822561	2	0	2016-06-24
+296948	18732	asa ossbo	Åsa Össbo		7	17	2016-06-24
+297469	19519	vihangi hindagolla	Vihangi Hindagolla	131249849	2	39	2016-06-24
+297472	15825	lucyna mastalerz	Lucyna Mastalerz	126596746	53	1514	2016-06-24
+297770	20870	naerings og handelsdepartementet	Nærings og handelsdepartementet		1	0	2016-06-24
+298194	20870	heike omerzu	Heike Omerzu	124055696	1	0	2016-06-24
+298209	19115	stewart r wirebaugh	Stewart R. Wirebaugh	2799567722	3	40	2016-06-24
+298435	20177	herpratiwi herpratiwi	Herpratiwi Herpratiwi		2	0	2016-06-24
+298930	19820	ofer meilich	Ofer Meilich	1174212	1	42	2016-06-24
+298951	18425	tatiana alina trifan	Tatiana Alina Trifan	26437253	10	26	2016-06-24
+299050	17941	oliver stoxen	Oliver Stoxen		4	39	2016-06-24
+299131	20870	mauro sobhie	Mauro Sobhie	98466806	1	0	2016-06-24
+299193	20027	harold j tkurner	Harold J. Tkurner	121934306	1	5	2016-06-24
+299215	17979	margaret a alivizatos	Margaret A. Alivizatos		1	64	2016-06-24
+299585	18821	catherine hoeffler	Catherine Hoeffler	205092303	6	12	2016-06-24
+299799	20870	晴幸 金山	晴幸 金山		1	0	2016-06-24
+300239	20870	albena iossiofova	Albena Iossiofova		1	0	2016-06-24
+300339	17206	alexandre sumpf	Alexandre Sumpf		38	8	2016-06-24
+300589	19012	karim zayana	Karim Zayana	19370010	5	6	2016-06-24
+300656	19311	kristian wasen	Kristian Wasen	881427289	4	14	2016-06-24
+300766	16900	natasa stajner	Nataša Štajner	153976015	35	310	2016-06-24
+300820	16627	verena kilchenmann	Verena Kilchenmann		20	382	2016-06-24
+300997	17292	alain stamant	Alain St-Amant	153718931	19	295	2016-06-24
+301828	20302	veronica mcgivney	Veronica McGivney		1	3	2016-06-24
+301860	20870	jean sibelius	Jean Sibelius		1	0	2016-06-24
+301969	20870	maria gressova	Mária Greššová		1	0	2016-06-24
+302010	18508	natalia hofferber	Natalia Hofferber	20121455	10	11	2016-06-24
+302340	20768	karen valadares trippo	Karen Valadares Trippo		1	3	2016-06-24
+302407	18178	konstantin i smolko	Konstantin I. Smolko	8204097	7	137	2016-06-24
+302453	20870	melvyn blackband	Melvyn Blackband		1	0	2016-06-24
+302485	20870	kimberly a garkie	Kimberly A. Garkie	153871386	1	0	2016-06-24
+303056	20870	marvin heiferman	Marvin Heiferman		1	0	2016-06-24
+303100	18385	雄路 尾花	雄路 尾花		12	0	2016-06-24
+303200	17798	mark cyzyk	Mark Cyzyk	145311948	18	23	2016-06-24
+303454	18982	monica p tindelkoukal	Monica P. Tindel-Koukal	152333473	4	20	2016-06-24
+303986	19087	michael valitsky	Michael Valitsky	197251160	5	23	2016-06-24
+304083	16750	pedro eduardo de felicio	Pedro Eduardo de Felício	181391015	31	354	2016-06-24
+304321	20870	donatella restani	Donatella Restani		1	0	2016-06-24
+305156	20177	yusman yusman	Yusman Yusman	2252230247	2	0	2016-06-24
+305309	20654	c szentirmai	C. Szentirmai	1288882113	1	7	2016-06-24
+305328	17939	alexander aschir	Alexander Aschir	1325886976	13	24	2016-06-24
+305885	19116	lampros lamprinakis	Lampros Lamprinakis	889315371	5	12	2016-06-24
+306634	20870	subtotal units	Subtotal Units		1	0	2016-06-24
+306808	16539	maria willecke	Maria Willecke	1343551460	3	842	2016-06-24
+307196	20519	howard mahgolis	Howard Mahgolis	63475719	1	3	2016-06-24
+307267	20708	jose antonio roman brugnoli	José Antonio Román Brugnoli		1	3	2016-06-24
+307317	20870	joan guinjoan	Joan Guinjoan		1	0	2016-06-24
+307488	20770	donald e weder	Donald E. Weder		1	2	2016-06-24
+307494	19920	gaid le maneridrissi	Gaïd Le Maner-Idrissi		2	8	2016-06-24
+307583	19594	ewa zarembaflis	Ewa Zaremba-Flis		3	4	2016-06-24
+308958	18003	ding sanglan	Ding Sang-lan	24185976	16	12	2016-06-24
+309187	16300	roger mchaney	Roger McHaney	189590672	63	267	2016-06-24
+309423	18536	dong zaijie	Dong Zaijie	46529539	9	17	2016-06-24
+309809	20870	tjondro indrasutanto	Tjondro Indrasutanto		1	0	2016-06-24
+309971	20177	ala baylacferrer	Alà Baylac-Ferrer		2	0	2016-06-24
+310233	16183	thierry brigaud	Thierry Brigaud	1294671590	61	888	2016-06-24
+310499	17742	kovendhan ponnavaikko	Kovendhan Ponnavaikko	33976269	18	49	2016-06-24
+311317	18385	洋一 衣袋	洋一 衣袋		12	0	2016-06-24
+311493	20571	hikokazu nisiihika	Hikokazu Nisiihika		1	4	2016-06-24
+311819	19772	好子 飛松	好子 飛松		3	0	2016-06-24
+311862	20177	lena m jeger	Lena M. Jeger		2	0	2016-06-24
+312101	18906	nina hoverreisner	Nina Hover-Reisner	129774422	4	23	2016-06-24
+312484	20870	treesje runtu	Treesje Runtu		1	0	2016-06-24
+312509	17025	veikko pirila	Veikko Pirilä	133731052	12	144	2016-06-24
+312512	20870	倍敬 加藤	倍敬 加藤		1	0	2016-06-24
+312580	18006	igor m ananievski	Igor M. Ananievski		11	67	2016-06-24
+312758	16107	david h ardell	David H. Ardell	123387679	19	2123	2016-06-24
+313188	17874	博文 二井見	博文 二井見		20	0	2016-06-24
+313289	20870	ressi marlianti	Ressi Marlianti		1	0	2016-06-24
+313791	17084	tanja poletan jugovic	Tanja Poletan Jugović	154347574	39	16	2016-06-24
+314363	17722	kenneth a buckridge	Kenneth A. Buckridge	150990849	17	49	2016-06-24
+314389	20870	steve hullfish	Steve Hullfish		1	0	2016-06-24
+314599	19484	konrad wohlhage	Konrad Wohlhage		4	0	2016-06-24
+314733	20870	大三 広井	大三 広井		1	0	2016-06-24
+315269	20870	bruno daniel lenhare	Bruno Daniel Lenhare		1	0	2016-06-24
+315481	18630	osman darcan	Osman Darcan	4405392	8	18	2016-06-24
+315718	20870	willem de sitter	Willem de Sitter		1	0	2016-06-24
+316067	20870	marutin ansiung	Marutin Ansiung		1	0	2016-06-24
+316480	19728	mauricio molinaroco	Mauricio Molina-Roco		3	2	2016-06-24
+316952	17854	ken t takusagawa	Ken T. Takusagawa	97018004	2	95	2016-06-24
+317424	18042	david garciasoriano	David García-Soriano	1341640284	11	83	2016-06-24
+317773	18924	hector lorenzo yustos	Héctor Lorenzo Yustos		7	0	2016-06-24
+318078	20870	kommunal og regionaldepartementet	Kommunal og regionaldepartementet		1	0	2016-06-24
+318223	18806	jozef drienko	Jozef Drienko	118347636	7	16	2016-06-24
+318549	20870	wilhelm milko	Wilhelm Milkó		1	0	2016-06-24
+318687	17207	orsolya domotor	Orsolya Dömötör	227486990	27	302	2016-06-24
+318821	20222	antonio garciabenitez	Antonio García-Benítez		1	3	2016-06-24
+318870	20853	kamal hormat	Kamal Hormat		1	1	2016-06-24
+319344	17346	tamara d madensen	Tamara D. Madensen	133999245	20	278	2016-06-24
+319380	18385	یوسف قنبری	یوسف قنبری		12	0	2016-06-24
+319453	17491	khaled abouhadeed	Khaled Abou‐Hadeed	202697423	19	202	2016-06-24
+320027	19232	nancy g westburg	Nancy G. Westburg	186776151	3	36	2016-06-24
+320368	19261	優子 杉	優子 杉		5	0	2016-06-24
+320543	16978	忠彦 湯地	忠彦 湯地		46	19	2016-06-24
+320561	20821	akbar barzegar shangol	Akbar Barzegar Shangol		1	1	2016-06-24
+321074	18608	daniel keszthelyi	Dániel Keszthelyi	79741316	4	122	2016-06-24
+321393	20870	aurelio santisteban cimarro	Aurelio Santisteban Cimarro		1	0	2016-06-24
+321872	20224	noel p horkan	Noel P. Horkan		1	8	2016-06-24
+322624	18301	waqas khalid obeidy	Waqas Khalid Obeidy	885383172	11	20	2016-06-24
+323138	20870	barbara brncic	Barbara Brnčić		1	0	2016-06-24
+323699	16541	janice madafiglio	Janice Madafiglio	1288882113	18	758	2016-06-24
+323823	18552	jonathan d amith	Jonathan D. Amith	1341618623	6	25	2016-06-24
+325010	20177	driton fetahu	Driton Fetahu	109705148	2	0	2016-06-24
+325767	19772	lara elena ramos simielli	Lara Elena Ramos Simielli	44202434	3	0	2016-06-24
+326113	19333	grace rubinrabson	Grace Rubin-Rabson		4	5	2016-06-24
+326677	20611	ahmad fauzi puasa	Ahmad Fauzi Puasa		1	2	2016-06-24
+326807	17069	edwin c jungck	Edwin C. Jungck	181233156	7	163	2016-06-24
+327389	16245	christian le merdy	Christian Le Merdy	90843659	51	608	2016-06-24
+327551	20177	mario sanchez mojarrieta	Mario Sánchez Mojarrieta		2	0	2016-06-24
+327557	20870	maria andrea rodrigueztastets	Maria Andrea Rodriguez-Tastets		1	0	2016-06-24
+328017	16672	christophe merceron	Christophe Merceron	154526488	34	445	2016-06-24
+328101	18354	oya uygur bayramicli	Oya Uygur Bayramiçli	44457188	10	43	2016-06-24
+328155	20870	friedrich trebstein	Friedrich Trebstein	1302207122	1	0	2016-06-24
+328493	19100	pais saedin	Pais Saedin	82724352	5	8	2016-06-24
+328624	20534	reshma sathiparsad	Reshma. Sathiparsad		1	5	2016-06-24
+329310	19261	bernhard dudler	Bernhard Dudler		5	0	2016-06-24
+329340	20014	p hahner	P. Hähner		2	4	2016-06-24
+329378	17636	karin van der hiele	Karin van der Hiele	121797337	15	90	2016-06-24
+329382	17278	karl soff	Karl Soff	223822909	7	82	2016-06-24
+329539	19484	れいこ かづき	れいこ かづき		4	0	2016-06-24
+329656	20870	daniel giraltmiracle	Daniel Giralt-Miracle		1	0	2016-06-24
+330220	20096	peratham wiriyathammabhum	Peratham Wiriyathammabhum	66946132	2	4	2016-06-24
+330849	17155	steven g kendrew	Steven Gary Kendrew	180857899	20	376	2016-06-24
+331205	18307	izumi watai	Izumi Watai	60134161	10	43	2016-06-24
+332002	17590	fairlie mcilwraith	Fairlie McIlwraith	165143802	21	102	2016-06-24
+332069	15479	riet labie	Riet Labie	99464096	60	1024	2016-06-24
+332501	18568	勝子 合志	勝子 合志		10	0	2016-06-24
+332614	20870	淳一 四辻	淳一 四辻		1	0	2016-06-24
+333058	20870	nicole cloarec	Nicole Cloarec		1	0	2016-06-24
+333597	20110	harry k wallfisch	Harry K. Wallfisch		2	3	2016-06-24
+334338	19924	tapanan prateepko	Tapanan Prateepko	131868736	2	10	2016-06-24
+334463	16096	manuel calimlim	Manuel Calimlim	205783295	8	851	2016-06-24
+334552	20870	bob granath	Bob Granath		1	0	2016-06-24
+334730	19050	jan kuydowicz	Jan Kuydowicz		6	4	2016-06-24
+335222	20870	gregory vulvert	Gregory Vulvert		1	0	2016-06-24
+335561	18703	astrid katle	Astrid Katle	4432739	3	70	2016-06-24
+335639	18397	ralph g marrujo	Ralph G. Marrujo		1	31	2016-06-24
+336355	20870	regis kriegjacquier	Régis Krieg-Jacquier		1	0	2016-06-24
+336821	15395	laura d hanish	Laura D. Hanish	55732556	76	3008	2016-06-24
+337162	18787	nancy farrey	Nancy Farrey		3	37	2016-06-24
+337702	15376	kabir g peay	Kabir G. Peay	97018004	73	3918	2016-06-24
+338081	18884	thomas e pustell	Thomas E. Pustell	139290212	2	15	2016-06-24
+338245	20870	麟太郎 内田	麟太郎 内田		1	0	2016-06-24
+338617	16188	a m gallardomoreno	Amparo M. Gallardo-Moreno	80606768	51	665	2016-06-24
+339058	20177	茂行 豊口	茂行 豊口		2	0	2016-06-24
+339311	18271	otto hieronymi	Otto Hieronymi	97098773	12	18	2016-06-24
+339328	17926	sarah e reybuck	Sarah E. Reybuck	97018004	11	121	2016-06-24
+339347	18673	lara cakic	Lara Cakić		9	0	2016-06-24
+339409	18470	prakasham rumajogee	Prakasham Rumajogee	45129253	7	132	2016-06-24
+339520	15844	motohiro akazome	Motohiro Akazome	159385669	88	818	2016-06-24
+339660	20870	noemi ciceroni	Noemí Ciceroni		1	0	2016-06-24
+339751	17939	subphong tansamrit	Subphong Tansamrit		9	40	2016-06-24
+340273	18162	家康 赤木	家康 赤木		15	0	2016-06-24
+340367	19310	louis lafaille	Louis Lafaille	134560555	2	12	2016-06-24
+340750	20177	vincent brevetti	Vincent Brevetti		2	0	2016-06-24
+340918	18924	talel boufateh	Talel Boufateh	108714496	7	0	2016-06-24
+340937	17040	eric sucky	Eric Sucky	114090438	25	299	2016-06-24
+341036	18591	lewis r wolberg	Lewis R. Wolberg	2802985337	8	7	2016-06-24
+341772	18342	martina erdbrugge	Martina Erdbrügge	200332995	10	28	2016-06-24
+342434	18914	elisabetta sirgiovanni	Elisabetta Sirgiovanni	861853513	7	3	2016-06-24
+342741	17082	salvatore ammirato	Salvatore Ammirato	45204951	37	119	2016-06-24
+342895	20739	michael j oraze	Michael J. Oraze		1	3	2016-06-24
+343041	20001	hosam e emara shabaik	Hosam E. Emara Shabaik	134085113	1	7	2016-06-24
+343654	18531	waleed aty	Waleed Aty	2800849109	8	6	2016-06-24
+344352	18889	takashi oshiba	Takashi Oshiba	146399215	6	12	2016-06-24
+344583	16190	axel brehmer	Axel Brehmer	181369854	64	962	2016-06-24
+344781	20870	elisabeth f basteck	Elisabeth F. Basteck		1	0	2016-06-24
+344863	16714	koen plevoets	Koen Plevoets	99464096	51	83	2016-06-24
+345519	17568	guillaume drutel	Guillaume Drutel	154526488	11	297	2016-06-24
+346190	20870	bob granath	Bob Granath		1	0	2016-06-24
+346337	17285	jacques chassin de kergommeaux	Jacques Chassin de Kergommeaux	94861195	17	168	2016-06-24

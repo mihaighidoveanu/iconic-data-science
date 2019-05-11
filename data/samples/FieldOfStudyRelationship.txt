@@ -1,0 +1,1000 @@
+4870876	Poliomyelitis	disease	68312169	Orthopedic surgery	medical_treatment	0.010231114
+4870876	Poliomyelitis	disease	2780247198	Weakness	symptom	0.0102767879
+4870876	Poliomyelitis	disease	2781069245	Tuberculosis	disease_cause	0.0111446055
+4870876	Poliomyelitis	disease	2778814567	Rubella	disease_cause	0.0116927009
+4870876	Poliomyelitis	disease	2779234561	Pregnancy	disease_cause	0.0118753994
+4870876	Poliomyelitis	disease	2778818304	Rehabilitation	medical_treatment	0.0131086139
+4870876	Poliomyelitis	disease	2777888124	Enterovirus	disease_cause	0.0286836568
+4870876	Poliomyelitis	disease	2777150564	Flaccid paralysis	symptom	0.030739015
+4870876	Poliomyelitis	disease	2776438120	Measles	disease_cause	0.038183976
+4870876	Poliomyelitis	disease	2780572238	Diphtheria	disease_cause	0.0382753275
+4870876	Poliomyelitis	disease	2776811989	Polio vaccine	medical_treatment	0.0400566347
+4870876	Poliomyelitis	disease	2779631682	Poliovirus	disease_cause	0.101854391
+4870876	Poliomyelitis	disease	2779618896	Paralysis	symptom	0.116972685
+4870876	Poliomyelitis	disease	2522874641	Virus	disease_cause	0.161688134
+15107229	Learning disability	disease	2781026528	Meningitis	disease_cause	0.000680338242
+15107229	Learning disability	disease	2778478650	Spina bifida	disease_cause	0.00184663234
+15107229	Learning disability	disease	2780493683	Hearing loss	symptom	0.0101078823
+15107229	Learning disability	disease	500440147	Pharmacotherapy	medical_treatment	0.0111769848
+15107229	Learning disability	disease	2779727114	Psychosis	symptom	0.0113713676
+15107229	Learning disability	disease	2780319597	Impulsivity	symptom	0.014189912
+15107229	Learning disability	disease	2779954681	Down syndrome	disease_cause	0.0146758677
+15107229	Learning disability	disease	102190203	Occupational therapy	medical_treatment	0.015939353
+15107229	Learning disability	disease	2779448149	Aggression	symptom	0.015939353
+15107229	Learning disability	disease	73181058	Schizophrenia	disease_cause	0.0173000284
+15107229	Learning disability	disease	2776674806	Mental illness	symptom	0.0219652057
+15107229	Learning disability	disease	2778818304	Rehabilitation	medical_treatment	0.028477015
+15107229	Learning disability	disease	2779421357	Cerebral palsy	disease_cause	0.0314899422
+15107229	Learning disability	disease	2778594975	Developmental disorder	disease_cause	0.05870347
+15107229	Learning disability	disease	2780783007	Attention deficit hyperactivity disorder	disease_cause	0.09952376
+15107229	Learning disability	disease	551499885	Intellectual disability	symptom	0.120322675
+40010229	Substance abuse	disease	2777693866	Blackout	symptom	6.13817E-05
+40010229	Substance abuse	disease	2780051608	Major depressive disorder	disease_cause	0.007902894
+40010229	Substance abuse	disease	2779547902	Nicotine	medical_treatment	0.0104348892
+40010229	Substance abuse	disease	2781455916	HIV/AIDS	disease_cause	0.0104962708
+40010229	Substance abuse	disease	500440147	Pharmacotherapy	medical_treatment	0.0107878344
+40010229	Substance abuse	disease	2777134132	Mood disorders	symptom	0.0113709606
+40010229	Substance abuse	disease	2779448149	Aggression	symptom	0.01207685
+40010229	Substance abuse	disease	2780376393	Methamphetamine	medical_treatment	0.0123070311
+40010229	Substance abuse	disease	2780783007	Attention deficit hyperactivity disorder	disease_cause	0.0133044841
+40010229	Substance abuse	disease	2780319597	Impulsivity	symptom	0.0152533529
+40010229	Substance abuse	disease	2778818304	Rehabilitation	medical_treatment	0.0176779311
+40010229	Substance abuse	disease	2776174506	Bipolar disorder	disease_cause	0.0195040368
+40010229	Substance abuse	disease	2778767360	Methadone	medical_treatment	0.021391524
+40010229	Substance abuse	disease	2779727114	Psychosis	symptom	0.0239695553
+40010229	Substance abuse	disease	2780687700	Abstinence	medical_treatment	0.0254734065
+40010229	Substance abuse	disease	2779234561	Pregnancy	disease_cause	0.026102569
+40010229	Substance abuse	disease	2781063702	Opioid	medical_treatment	0.02706933
+40010229	Substance abuse	disease	2778903686	Heroin	medical_treatment	0.0352330953
+40010229	Substance abuse	disease	73181058	Schizophrenia	disease_cause	0.04299788
+40010229	Substance abuse	disease	2776674806	Mental illness	symptom	0.04565264
+40010229	Substance abuse	disease	2780931562	Alcohol abuse	disease_cause	0.0616118833
+54510867	Oral and maxillofacial pathology	disease	2780149897	Lidocaine	medical_treatment	0.00130067207
+54510867	Oral and maxillofacial pathology	disease	2777768476	Sinusitis	symptom	0.0101885973
+54510867	Oral and maxillofacial pathology	disease	2776389721	Osteotomy	medical_treatment	0.0108389333
+54510867	Oral and maxillofacial pathology	disease	2779051857	Stomatitis	symptom	0.0110557117
+54510867	Oral and maxillofacial pathology	disease	2778715743	Prosthesis	medical_treatment	0.0114892693
+54510867	Oral and maxillofacial pathology	disease	2777910003	Asymptomatic	symptom	0.0138738351
+54510867	Oral and maxillofacial pathology	disease	2777035434	Abscess	symptom	0.0149577279
+54510867	Oral and maxillofacial pathology	disease	2778540859	Swelling	symptom	0.0164751783
+54510867	Oral and maxillofacial pathology	disease	2778401919	Tooth loss	symptom	0.0199436378
+54510867	Oral and maxillofacial pathology	disease	2780062004	Dentures	medical_treatment	0.0201604161
+54510867	Oral and maxillofacial pathology	disease	2777634892	Prosthodontics	medical_treatment	0.0325168
+54510867	Oral and maxillofacial pathology	disease	2780791200	Gingivitis	symptom	0.033167135
+54510867	Oral and maxillofacial pathology	disease	2780109367	Malocclusion	symptom	0.03923694
+54510867	Oral and maxillofacial pathology	disease	121608353	Cancer	disease_cause	0.05202688
+73181058	Schizophrenia	disease	2776528244	Deserpidine	medical_treatment	6.324951E-06
+73181058	Schizophrenia	disease	2777510407	Orthomolecular medicine	medical_treatment	6.324951E-06
+73181058	Schizophrenia	disease	2780306684	Monothematic delusion	symptom	1.26499017E-05
+73181058	Schizophrenia	disease	2779600269	Amitriptyline/perphenazine	medical_treatment	1.26499017E-05
+73181058	Schizophrenia	disease	2779014696	Stilted speech	symptom	1.26499017E-05
+73181058	Schizophrenia	disease	2779662121	Circumstantial speech	symptom	1.89748516E-05
+73181058	Schizophrenia	disease	2776518445	Acetophenazine	medical_treatment	2.52998034E-05
+73181058	Schizophrenia	disease	2777302908	Piperacetazine	medical_treatment	4.42746532E-05
+73181058	Schizophrenia	disease	2776539291	Schizophasia	symptom	5.05996068E-05
+73181058	Schizophrenia	disease	2777491060	Homicidal ideation	symptom	5.69245567E-05
+73181058	Schizophrenia	disease	2779537942	Religious delusion	symptom	6.324951E-05
+73181058	Schizophrenia	disease	2777062214	Mesoridazine	medical_treatment	6.957446E-05
+73181058	Schizophrenia	disease	2780044639	Aripiprazole lauroxil	medical_treatment	8.222436E-05
+73181058	Schizophrenia	disease	2778206117	Cyproheptadine	medical_treatment	8.854931E-05
+73181058	Schizophrenia	disease	2781324269	Prochlorperazine	medical_treatment	8.854931E-05
+73181058	Schizophrenia	disease	2776134090	Selegiline	medical_treatment	8.854931E-05
+73181058	Schizophrenia	disease	2779196609	Waxy flexibility	symptom	9.487426E-05
+73181058	Schizophrenia	disease	2778823234	Molindone	medical_treatment	0.000113849113
+73181058	Schizophrenia	disease	2780959411	Delusional misidentification syndrome	symptom	0.000113849113
+73181058	Schizophrenia	disease	2780151449	Echolalia	symptom	0.00013914892
+73181058	Schizophrenia	disease	2776586568	Grandiose delusions	symptom	0.000259323
+73181058	Schizophrenia	disease	2776202747	Psychomotor retardation	symptom	0.000316247548
+73181058	Schizophrenia	disease	2778250049	Brexpiprazole	medical_treatment	0.00032889744
+73181058	Schizophrenia	disease	2780143138	Thiothixene	medical_treatment	0.000341547333
+73181058	Schizophrenia	disease	2779426884	Clonazepam	medical_treatment	0.0003605222
+73181058	Schizophrenia	disease	2777318842	Iloperidone	medical_treatment	0.0004364216
+73181058	Schizophrenia	disease	2776559954	Thought insertion	symptom	0.0004743713
+73181058	Schizophrenia	disease	2780939311	Stupor	symptom	0.000493346131
+73181058	Schizophrenia	disease	2778756363	Cariprazine	medical_treatment	0.000512321
+73181058	Schizophrenia	disease	2777845345	Pimozide	medical_treatment	0.000531295838
+73181058	Schizophrenia	disease	2775891158	Trifluoperazine	medical_treatment	0.0005376208
+73181058	Schizophrenia	disease	2777842393	Reserpine	medical_treatment	0.0005502707
+73181058	Schizophrenia	disease	2778336232	Loxapine	medical_treatment	0.0005565957
+73181058	Schizophrenia	disease	2780688371	Thioridazine	medical_treatment	0.0006514699
+73181058	Schizophrenia	disease	2780421500	Dysphoria	symptom	0.000702069548
+73181058	Schizophrenia	disease	2779626651	Asenapine	medical_treatment	0.0008095937
+73181058	Schizophrenia	disease	2779253243	Carbamazepine	medical_treatment	0.000929767732
+73181058	Schizophrenia	disease	2776743534	Perphenazine	medical_treatment	0.0010752416
+73181058	Schizophrenia	disease	2776701107	Lurasidone	medical_treatment	0.00117011589
+73181058	Schizophrenia	disease	2779302386	Anger	symptom	0.00120806554
+73181058	Schizophrenia	disease	2777486937	Alogia	symptom	0.00122704043
+73181058	Schizophrenia	disease	2781140086	Confusion	symptom	0.00139781414
+73181058	Schizophrenia	disease	2778654693	Anorexia	symptom	0.00146106363
+73181058	Schizophrenia	disease	2778380266	Avolition	symptom	0.00156226277
+73181058	Schizophrenia	disease	2776509080	Apathy	symptom	0.001676112
+73181058	Schizophrenia	disease	2776641880	Suicidal ideation	symptom	0.00208723382
+73181058	Schizophrenia	disease	2776893239	Social isolation	symptom	0.00210620859
+73181058	Schizophrenia	disease	2776706361	Auditory hallucination	symptom	0.00216313312
+73181058	Schizophrenia	disease	2776978879	Fluphenazine	medical_treatment	0.00229595718
+73181058	Schizophrenia	disease	551499885	Intellectual disability	symptom	0.00237818155
+73181058	Schizophrenia	disease	66509814	Family therapy	medical_treatment	0.00251733046
+73181058	Schizophrenia	disease	2781265626	Cognitive behavioral therapy	medical_treatment	0.00254263
+73181058	Schizophrenia	disease	2778581513	Transcranial magnetic stimulation	medical_treatment	0.00297905179
+73181058	Schizophrenia	disease	2780405171	Dyskinesia	symptom	0.0032573496
+73181058	Schizophrenia	disease	2778941822	Catatonia	symptom	0.00332059921
+73181058	Schizophrenia	disease	2779448149	Aggression	symptom	0.003611547
+73181058	Schizophrenia	disease	2777126507	Paliperidone	medical_treatment	0.00454763975
+73181058	Schizophrenia	disease	2777330709	Electroconvulsive therapy	medical_treatment	0.00480696233
+73181058	Schizophrenia	disease	2777270317	Ziprasidone	medical_treatment	0.00481961248
+73181058	Schizophrenia	disease	2778941446	Anhedonia	symptom	0.0050979103
+73181058	Schizophrenia	disease	2778775820	Chlorpromazine	medical_treatment	0.00594545342
+73181058	Schizophrenia	disease	2780749935	Cognitive deficit	symptom	0.00633760076
+73181058	Schizophrenia	disease	2776313836	Thought disorder	symptom	0.00652102428
+73181058	Schizophrenia	disease	2780634440	Quetiapine	medical_treatment	0.009379902
+73181058	Schizophrenia	disease	2780211496	Aripiprazole	medical_treatment	0.009430502
+73181058	Schizophrenia	disease	2777134132	Mood disorders	symptom	0.0110939639
+73181058	Schizophrenia	disease	2778818304	Rehabilitation	medical_treatment	0.0129534993
+73181058	Schizophrenia	disease	2780948584	Haloperidol	medical_treatment	0.0136618931
+73181058	Schizophrenia	disease	2776921671	Atypical antipsychotic	medical_treatment	0.0161286239
+73181058	Schizophrenia	disease	513476851	Dopamine	medical_treatment	0.0172291659
+73181058	Schizophrenia	disease	40010229	Substance abuse	disease_cause	0.0177225117
+73181058	Schizophrenia	disease	2776619155	Olanzapine	medical_treatment	0.0194808487
+73181058	Schizophrenia	disease	2780057945	Risperidone	medical_treatment	0.0272542126
+73181058	Schizophrenia	disease	2780864610	Clozapine	medical_treatment	0.02948692
+73181058	Schizophrenia	disease	2776674806	Mental illness	symptom	0.03647599
+73181058	Schizophrenia	disease	558461103	Anxiety	symptom	0.03851895
+73181058	Schizophrenia	disease	2776174506	Bipolar disorder	disease_cause	0.04987856
+73181058	Schizophrenia	disease	2780494398	Antipsychotic	medical_treatment	0.06543162
+73181058	Schizophrenia	disease	2779727114	Psychosis	symptom	0.203650758
+83455156	Encephalitis	disease	2781063702	Opioid	medical_treatment	8.382932E-05
+83455156	Encephalitis	disease	2776317777	Valganciclovir	medical_treatment	0.00016765864
+83455156	Encephalitis	disease	2780452071	Valaciclovir	medical_treatment	0.000251487974
+83455156	Encephalitis	disease	2779034229	Somnolence	symptom	0.0005868053
+83455156	Encephalitis	disease	2776804153	Corticosteroid	medical_treatment	0.0006077626
+83455156	Encephalitis	disease	2779334592	Epileptic seizure	symptom	0.00064967724
+83455156	Encephalitis	disease	2775858608	Anticonvulsant	medical_treatment	0.000691591937
+83455156	Encephalitis	disease	2779756493	Antiviral drug	medical_treatment	0.0008382932
+83455156	Encephalitis	disease	2780040827	Ribavirin	medical_treatment	0.0013203118
+83455156	Encephalitis	disease	2776724271	Foscarnet	medical_treatment	0.00157179986
+83455156	Encephalitis	disease	2781140086	Confusion	symptom	0.00232626381
+83455156	Encephalitis	disease	2777965375	Ganciclovir	medical_treatment	0.002913069
+83455156	Encephalitis	disease	2779450786	Aciclovir	medical_treatment	0.00391902076
+83455156	Encephalitis	disease	2780852908	Vomiting	symptom	0.00526029
+83455156	Encephalitis	disease	2780966972	Headaches	symptom	0.00590996724
+83455156	Encephalitis	disease	2779618896	Paralysis	symptom	0.0112540871
+83455156	Encephalitis	disease	2776866189	West Nile virus	disease_cause	0.0114217456
+83455156	Encephalitis	disease	2777607303	Immunodeficiency	symptom	0.013538436
+83455156	Encephalitis	disease	2776849203	Rabies	disease_cause	0.0138947107
+83455156	Encephalitis	disease	2780568436	Flavivirus	disease_cause	0.0176460724
+83455156	Encephalitis	disease	2776438120	Measles	disease_cause	0.0218794532
+83455156	Encephalitis	disease	2778621155	Encephalopathy	symptom	0.0250649676
+83455156	Encephalitis	disease	2781196997	Herpes simplex virus	disease_cause	0.0316036567
+83455156	Encephalitis	disease	2522874641	Virus	disease_cause	0.153260961
+87115717	Substance dependence	disease	2779193015	Substance-related disorder	symptom	0.0009427292
+87115717	Substance dependence	disease	500440147	Pharmacotherapy	medical_treatment	0.0103700208
+87115717	Substance dependence	disease	513476851	Dopamine	medical_treatment	0.0108413855
+87115717	Substance dependence	disease	2780376393	Methamphetamine	medical_treatment	0.0110770678
+87115717	Substance dependence	disease	2778818304	Rehabilitation	medical_treatment	0.0110770678
+87115717	Substance dependence	disease	2777134132	Mood disorders	symptom	0.0120197972
+87115717	Substance dependence	disease	2778767360	Methadone	medical_treatment	0.01225548
+87115717	Substance dependence	disease	2779727114	Psychosis	symptom	0.0139052561
+87115717	Substance dependence	disease	2780783007	Attention deficit hyperactivity disorder	disease_cause	0.0146123022
+87115717	Substance dependence	disease	2776674806	Mental illness	symptom	0.0172048081
+87115717	Substance dependence	disease	2780931562	Alcohol abuse	disease_cause	0.0188545845
+87115717	Substance dependence	disease	2779547902	Nicotine	medical_treatment	0.0207400415
+87115717	Substance dependence	disease	2778903686	Heroin	medical_treatment	0.0219184533
+87115717	Substance dependence	disease	2780319597	Impulsivity	symptom	0.0221541356
+87115717	Substance dependence	disease	2779541405	Craving	symptom	0.0249823239
+87115717	Substance dependence	disease	2776174506	Bipolar disorder	disease_cause	0.0292246044
+87115717	Substance dependence	disease	73181058	Schizophrenia	disease_cause	0.0334668867
+87115717	Substance dependence	disease	2780687700	Abstinence	medical_treatment	0.0341739319
+87115717	Substance dependence	disease	2781063702	Opioid	medical_treatment	0.0365307555
+112418997	Chagas disease	disease	2778689377	Visceral leishmaniasis	disease_cause	0.0102466512
+112418997	Chagas disease	disease	2778690821	Cytokine	medical_treatment	0.0105394134
+112418997	Chagas disease	disease	2780014101	Blood transfusion	medical_treatment	0.01193003
+112418997	Chagas disease	disease	2776451879	Infestation	disease_cause	0.01405255
+112418997	Chagas disease	disease	2777910003	Asymptomatic	symptom	0.0188099239
+112418997	Chagas disease	disease	2778048844	Malaria	disease_cause	0.0232745372
+112418997	Chagas disease	disease	2781049234	Nifurtimox	medical_treatment	0.02612896
+112418997	Chagas disease	disease	2780875844	Myocarditis	disease_cause	0.03535095
+112418997	Chagas disease	disease	2780074459	Heart disease	disease_cause	0.0366683751
+112418997	Chagas disease	disease	2778797674	Cardiomyopathy	disease_cause	0.04537803
+112418997	Chagas disease	disease	2776171842	Benznidazole	medical_treatment	0.0461099334
+112418997	Chagas disease	disease	2777625466	Trypanosoma cruzi	disease_cause	0.365000367
+121608353	Cancer	disease	2778652185	Remitting seronegative symmetrical synovitis with pitting edema	symptom	1.11416684E-05
+121608353	Cancer	disease	2779418094	Kyphosis	symptom	1.48555573E-05
+121608353	Cancer	disease	2777410594	Erythema nodosum	symptom	2.6925698E-05
+121608353	Cancer	disease	2777705978	Acanthosis nigricans	symptom	0.000119772936
+121608353	Cancer	disease	2781005279	Desmoplasia	symptom	0.000177338225
+121608353	Cancer	disease	2780789225	Medulloblastoma	symptom	0.00112995086
+121608353	Cancer	disease	2778087573	Erlotinib	medical_treatment	0.001745528
+121608353	Cancer	disease	2778239845	Cisplatin	medical_treatment	0.0104137454
+121608353	Cancer	disease	2778461978	Leukemia	symptom	0.0117414612
+121608353	Cancer	disease	2779338263	Lymphoma	disease_cause	0.0126894312
+121608353	Cancer	disease	501734568	Mutation	disease_cause	0.0146438656
+121608353	Cancer	disease	2777701055	Immunotherapy	medical_treatment	0.0146559356
+121608353	Cancer	disease	555283112	Carcinogenesis	disease_cause	0.0436354131
+121608353	Cancer	disease	2776256026	Lung cancer	disease_cause	0.05213465
+121608353	Cancer	disease	526805850	Colorectal cancer	disease_cause	0.05798124
+121608353	Cancer	disease	509974204	Radiation therapy	medical_treatment	0.06094864
+121608353	Cancer	disease	2776694085	Chemotherapy	medical_treatment	0.09415452
+205778803	Autism	disease	2777510407	Orthomolecular medicine	medical_treatment	2.32514885E-05
+205778803	Autism	disease	2776466888	Venlafaxine	medical_treatment	0.000186011908
+205778803	Autism	disease	2780634440	Quetiapine	medical_treatment	0.0003952753
+205778803	Autism	disease	37692320	Speech-Language Pathology	medical_treatment	0.00104631693
+205778803	Autism	disease	2779275509	Compulsive behavior	symptom	0.00104631693
+205778803	Autism	disease	2779638493	Fenfluramine	medical_treatment	0.00123232882
+205778803	Autism	disease	2780494398	Antipsychotic	medical_treatment	0.00269717257
+205778803	Autism	disease	2780057945	Risperidone	medical_treatment	0.007440476
+205778803	Autism	disease	2779459141	Stereotypy	symptom	0.009230841
+205778803	Autism	disease	2778818304	Rehabilitation	medical_treatment	0.0105096726
+205778803	Autism	disease	2779448149	Aggression	symptom	0.0111607146
+205778803	Autism	disease	2779421357	Cerebral palsy	disease_cause	0.0113002229
+205778803	Autism	disease	501734568	Mutation	disease_cause	0.0118815107
+205778803	Autism	disease	2777976975	Applied behavior analysis	medical_treatment	0.0135323657
+205778803	Autism	disease	2779954681	Down syndrome	disease_cause	0.0139741441
+205778803	Autism	disease	15107229	Learning disability	symptom	0.0232282374
+205778803	Autism	disease	2779234561	Pregnancy	disease_cause	0.03031994
+205778803	Autism	disease	2780783007	Attention deficit hyperactivity disorder	disease_cause	0.0310639888
+205778803	Autism	disease	2779727114	Psychosis	symptom	0.0327846
+205778803	Autism	disease	551499885	Intellectual disability	symptom	0.0519438237
+205778803	Autism	disease	73181058	Schizophrenia	disease_cause	0.05750093
+205778803	Autism	disease	2778228783	Asperger syndrome	symptom	0.05873326
+205778803	Autism	disease	2778594975	Developmental disorder	disease_cause	0.140648246
+207480886	Allergy	disease	2775913212	Flatulence	symptom	4.80819326E-05
+207480886	Allergy	disease	2780100379	Atopic dermatitis (eczema)	symptom	8.013655E-05
+207480886	Allergy	disease	2778206117	Cyproheptadine	medical_treatment	9.61638652E-05
+207480886	Allergy	disease	2778794651	Promethazine	medical_treatment	0.000152259454
+207480886	Allergy	disease	2778689640	Anticholinergic	medical_treatment	0.000176300411
+207480886	Allergy	disease	2781031023	H1 antagonist	medical_treatment	0.000224382355
+207480886	Allergy	disease	2777768762	Antileukotriene	medical_treatment	0.000264450617
+207480886	Allergy	disease	2778083979	Sneeze	symptom	0.0003045189
+207480886	Allergy	disease	2778344258	Non-allergic rhinitis	symptom	0.00031253256
+207480886	Allergy	disease	2776246316	Hydroxyzine	medical_treatment	0.00034458717
+207480886	Allergy	disease	2780920841	Levocetirizine	medical_treatment	0.000544928538
+207480886	Allergy	disease	2780372218	Methylprednisolone	medical_treatment	0.0007693109
+207480886	Allergy	disease	2781025919	Desloratadine	medical_treatment	0.000921570347
+207480886	Allergy	disease	2777707825	Chronic cough	symptom	0.0009856796
+207480886	Allergy	disease	2778720950	Prednisone	medical_treatment	0.00148252619
+207480886	Allergy	disease	2780955771	Abdominal pain	symptom	0.00149855355
+207480886	Allergy	disease	2776715498	Prednisolone	medical_treatment	0.00150656723
+207480886	Allergy	disease	2780401358	Dexamethasone	medical_treatment	0.00154663541
+207480886	Allergy	disease	2776322731	Montelukast	medical_treatment	0.00175499055
+207480886	Allergy	disease	2780852908	Vomiting	symptom	0.00221176888
+207480886	Allergy	disease	2779802037	Diarrhea	symptom	0.002924984
+207480886	Allergy	disease	2778570526	Rash	symptom	0.00324553042
+207480886	Allergy	disease	2775859304	Epinephrine	medical_treatment	0.004375456
+207480886	Allergy	disease	2780870513	Allergic conjunctivitis	symptom	0.006202569
+207480886	Allergy	disease	2777768476	Sinusitis	symptom	0.007741191
+207480886	Allergy	disease	2777129736	Eosinophilia	symptom	0.0120845921
+207480886	Allergy	disease	174802600	Penicillin	medical_treatment	0.0122849336
+207480886	Allergy	disease	2778690821	Cytokine	medical_treatment	0.0152660133
+207480886	Allergy	disease	501593827	Antibiotics	medical_treatment	0.0160112828
+207480886	Allergy	disease	1122143	Histamine	medical_treatment	0.0230713133
+207480886	Allergy	disease	2780618852	Pollen	disease_cause	0.02348001
+207480886	Allergy	disease	2777701055	Immunotherapy	medical_treatment	0.0317100324
+207480886	Allergy	disease	2775933838	Anaphylaxis	symptom	0.0406693
+207480886	Allergy	disease	2780510475	Allergen	disease_cause	0.09621195
+207480886	Allergy	disease	2776042228	Asthma	symptom	0.173102975
+500014431	Assisted reproductive technology	medical_treatment	204411529	Fertility clinic	disease	0.0148279956
+500014431	Assisted reproductive technology	medical_treatment	2779083892	Low birth weight	symptom	0.0164590739
+500014431	Assisted reproductive technology	medical_treatment	2779134260	Disease	disease	0.0174970347
+500014431	Assisted reproductive technology	medical_treatment	2776018949	Ectopic pregnancy	disease	0.0186832733
+500014431	Assisted reproductive technology	medical_treatment	2781065240	Ovarian hyperstimulation syndrome	disease	0.0197212342
+500014431	Assisted reproductive technology	medical_treatment	2779245376	Miscarriage	disease	0.0226868335
+500558357	Myocardial infarction	disease	2779307192	Penbutolol	medical_treatment	2.654759E-06
+500558357	Myocardial infarction	disease	2777707825	Chronic cough	symptom	1.3273796E-05
+500558357	Myocardial infarction	disease	2776377992	Fourth heart sound	symptom	2.12380728E-05
+500558357	Myocardial infarction	disease	2778743506	Heart arrhythmia	symptom	2.920235E-05
+500558357	Myocardial infarction	disease	2777706214	Lightheadedness	symptom	3.716663E-05
+500558357	Myocardial infarction	disease	2781121194	Fainting	symptom	4.51309061E-05
+500558357	Myocardial infarction	disease	2776256041	Nadolol	medical_treatment	5.04404234E-05
+500558357	Myocardial infarction	disease	2778679995	Acebutolol	medical_treatment	5.30951838E-05
+500558357	Myocardial infarction	disease	2776946213	Indigestion	symptom	5.84047E-05
+500558357	Myocardial infarction	disease	2778499207	Pindolol	medical_treatment	8.495229E-05
+500558357	Myocardial infarction	disease	2779612170	Argatroban	medical_treatment	8.76070553E-05
+500558357	Myocardial infarction	disease	2776171489	Dalteparin sodium	medical_treatment	0.000103535611
+500558357	Myocardial infarction	disease	2777962398	Labetalol	medical_treatment	0.000132737958
+500558357	Myocardial infarction	disease	2777377995	Thrombolytic drug	medical_treatment	0.000172559347
+500558357	Myocardial infarction	disease	2780996683	Esmolol	medical_treatment	0.00017786886
+500558357	Myocardial infarction	disease	2777738910	Sulfinpyrazone	medical_treatment	0.000183178388
+500558357	Myocardial infarction	disease	2776501849	Back pain	symptom	0.000207071222
+500558357	Myocardial infarction	disease	2777787486	Myocardial scarring	symptom	0.000225654527
+500558357	Myocardial infarction	disease	2779670145	Bisoprolol	medical_treatment	0.000257511652
+500558357	Myocardial infarction	disease	2778073030	Timolol	medical_treatment	0.0002601664
+500558357	Myocardial infarction	disease	2776877702	Fondaparinux	medical_treatment	0.000305297319
+500558357	Myocardial infarction	disease	2778728240	Trandolapril	medical_treatment	0.000307952054
+500558357	Myocardial infarction	disease	2778825682	Enoxaparin sodium	medical_treatment	0.000353082985
+500558357	Myocardial infarction	disease	2776912625	Systemic lupus erythematosus	disease_cause	0.000361047249
+500558357	Myocardial infarction	disease	2777880890	Lisinopril	medical_treatment	0.000451309053
+500558357	Myocardial infarction	disease	2780852908	Vomiting	symptom	0.000459273346
+500558357	Myocardial infarction	disease	2776403943	Palpitations	symptom	0.000472547137
+500558357	Myocardial infarction	disease	2779095551	Tenecteplase	medical_treatment	0.0005521899
+500558357	Myocardial infarction	disease	2779073485	High cholesterol	disease_cause	0.000573428
+500558357	Myocardial infarction	disease	2780955771	Abdominal pain	symptom	0.0006052851
+500558357	Myocardial infarction	disease	2780790693	Reteplase	medical_treatment	0.0006291779
+500558357	Myocardial infarction	disease	2780072264	Eplerenone	medical_treatment	0.0006451065
+500558357	Myocardial infarction	disease	2780580376	Nausea	symptom	0.00067961833
+500558357	Myocardial infarction	disease	2777289489	Cardioversion	medical_treatment	0.000764570665
+500558357	Myocardial infarction	disease	2779888176	Ramipril	medical_treatment	0.000860142
+500558357	Myocardial infarction	disease	2780591200	Carvedilol	medical_treatment	0.000953058538
+500558357	Myocardial infarction	disease	2781056559	Eptifibatide	medical_treatment	0.001003499
+500558357	Myocardial infarction	disease	2777795826	Defibrillation	medical_treatment	0.00101677282
+500558357	Myocardial infarction	disease	2776525901	Atenolol	medical_treatment	0.00103004661
+500558357	Myocardial infarction	disease	2777022698	Verapamil	medical_treatment	0.00119464158
+500558357	Myocardial infarction	disease	2777495988	Bradycardia	symptom	0.0012583558
+500558357	Myocardial infarction	disease	2777565915	Bivalirudin	medical_treatment	0.00126897485
+500558357	Myocardial infarction	disease	2778742482	Beta blocker	medical_treatment	0.00131676055
+500558357	Myocardial infarction	disease	2780149897	Lidocaine	medical_treatment	0.00142029615
+500558357	Myocardial infarction	disease	2778905298	Ticlopidine	medical_treatment	0.00148401037
+500558357	Myocardial infarction	disease	2778151854	Propranolol	medical_treatment	0.001587546
+500558357	Myocardial infarction	disease	2777028646	Prasugrel	medical_treatment	0.00160081976
+500558357	Myocardial infarction	disease	2780890252	Ticagrelor	medical_treatment	0.00169108156
+500558357	Myocardial infarction	disease	2779479957	Captopril	medical_treatment	0.00170966494
+500558357	Myocardial infarction	disease	2776892390	Urokinase	medical_treatment	0.00174948631
+500558357	Myocardial infarction	disease	2781280847	Metoprolol	medical_treatment	0.002083986
+500558357	Myocardial infarction	disease	2776335557	Tirofiban	medical_treatment	0.00239459286
+500558357	Myocardial infarction	disease	2780283014	Tachycardia	symptom	0.00253264024
+500558357	Myocardial infarction	disease	2777871224	Abciximab	medical_treatment	0.00254856888
+500558357	Myocardial infarction	disease	558461103	Anxiety	symptom	0.002877759
+500558357	Myocardial infarction	disease	2779611605	ACE inhibitor	medical_treatment	0.002933509
+500558357	Myocardial infarction	disease	2776572282	Tissue plasminogen activator	medical_treatment	0.00333437743
+500558357	Myocardial infarction	disease	2778205648	Anticoagulant	medical_treatment	0.004136115
+500558357	Myocardial infarction	disease	2777910003	Asymptomatic	symptom	0.00516616134
+500558357	Myocardial infarction	disease	2775901492	Coronary artery bypass surgery	medical_treatment	0.005500661
+500558357	Myocardial infarction	disease	2776839432	Statin	medical_treatment	0.00564667257
+500558357	Myocardial infarction	disease	511355011	Obesity	disease_cause	0.00618824363
+500558357	Myocardial infarction	disease	2777557582	Heparin	medical_treatment	0.006204172
+500558357	Myocardial infarction	disease	2776336681	Streptokinase	medical_treatment	0.00703776674
+500558357	Myocardial infarction	disease	2776331378	Ventricular tachycardia	symptom	0.009352717
+500558357	Myocardial infarction	disease	2779161974	Atrial fibrillation	symptom	0.0107092988
+500558357	Myocardial infarction	disease	2777628954	Aspirin	medical_treatment	0.0119729638
+500558357	Myocardial infarction	disease	2779581417	Thrombolysis	medical_treatment	0.0190425869
+500558357	Myocardial infarction	disease	2780868729	Thrombosis	symptom	0.019180635
+500558357	Myocardial infarction	disease	2778583881	Stent	medical_treatment	0.0197062772
+500558357	Myocardial infarction	disease	2778704086	Chest pain	symptom	0.0239671655
+500558357	Myocardial infarction	disease	2780326628	Angioplasty	medical_treatment	0.0280740783
+500558357	Myocardial infarction	disease	2779464278	Revascularization	medical_treatment	0.0303969923
+500558357	Myocardial infarction	disease	2778425758	Angina	symptom	0.0399806723
+500558357	Myocardial infarction	disease	2780400711	Percutaneous coronary intervention	medical_treatment	0.05098465
+500558357	Myocardial infarction	disease	2778213512	Coronary artery disease	disease_cause	0.0596179254
+500558357	Myocardial infarction	disease	2778198053	Heart failure	symptom	0.0601435676
+500558357	Myocardial infarction	disease	2780074459	Heart disease	disease_cause	0.06393988
+501734568	Mutation	disease_cause	2776193999	Pectus excavatum	symptom	2.02888314E-05
+501734568	Mutation	disease_cause	2775902910	Albinism	symptom	0.0007872067
+501734568	Mutation	disease_cause	2778461978	Leukemia	symptom	0.006841394
+501734568	Mutation	disease_cause	2776256026	Lung cancer	disease	0.0134474374
+501734568	Mutation	disease_cause	526805850	Colorectal cancer	disease	0.0150664868
+501734568	Mutation	disease_cause	12125453	Compound heterozygosity	disease	0.0154763209
+501734568	Mutation	disease_cause	530470458	Breast cancer	disease	0.0176472254
+501734568	Mutation	disease_cause	547475151	Escherichia coli	disease	0.0181950238
+501734568	Mutation	disease_cause	2777546739	Carcinoma	disease	0.0186210889
+501734568	Mutation	disease_cause	2779134260	Disease	disease	0.02666764
+501734568	Mutation	disease_cause	121608353	Cancer	disease	0.0639990941
+501888929	Group psychotherapy	medical_treatment	2777556793	Bulimia nervosa	disease	0.0111682909
+501888929	Group psychotherapy	medical_treatment	542059537	Domestic violence	disease	0.0147815617
+501888929	Group psychotherapy	medical_treatment	2779448149	Aggression	symptom	0.0153290266
+501888929	Group psychotherapy	medical_treatment	2779302386	Anger	symptom	0.0172999017
+501888929	Group psychotherapy	medical_treatment	2780600973	Borderline personality disorder	disease	0.0174093954
+501888929	Group psychotherapy	medical_treatment	2777308609	Personality disorders	disease	0.0197087489
+501888929	Group psychotherapy	medical_treatment	530470458	Breast cancer	disease	0.02014672
+501888929	Group psychotherapy	medical_treatment	2776394216	Eating disorders	disease	0.0257308669
+501888929	Group psychotherapy	medical_treatment	48856860	Addiction	disease	0.0314245038
+501888929	Group psychotherapy	medical_treatment	2779134260	Disease	disease	0.0336143672
+501888929	Group psychotherapy	medical_treatment	2776317618	Anxiety disorder	disease	0.0345998034
+502032728	Alzheimer's disease	disease	2780676641	Paraphasia	symptom	4.110321E-05
+502032728	Alzheimer's disease	disease	2777497049	Psychoorganic syndrome	symptom	4.110321E-05
+502032728	Alzheimer's disease	disease	2778779043	Validation therapy	medical_treatment	4.110321E-05
+502032728	Alzheimer's disease	disease	2776861996	Sensory processing	medical_treatment	6.165481E-05
+502032728	Alzheimer's disease	disease	2777299702	Divalproex Sodium	medical_treatment	0.000102758022
+502032728	Alzheimer's disease	disease	2775847465	Anterograde amnesia	symptom	0.000123309626
+502032728	Alzheimer's disease	disease	2775928289	Ergoloid	medical_treatment	0.000123309626
+502032728	Alzheimer's disease	disease	2778712054	Pseudobulbar affect	symptom	0.000143861238
+502032728	Alzheimer's disease	disease	2778654693	Anorexia	symptom	0.000184964447
+502032728	Alzheimer's disease	disease	2777172819	Valproic Acid	medical_treatment	0.000184964447
+502032728	Alzheimer's disease	disease	2781062137	Reminiscence therapy	medical_treatment	0.000184964447
+502032728	Alzheimer's disease	disease	2778195914	Acalculia	symptom	0.000184964447
+502032728	Alzheimer's disease	disease	2779142347	Retrograde amnesia	symptom	0.000246619253
+502032728	Alzheimer's disease	disease	2778391034	Hirano body	symptom	0.000246619253
+502032728	Alzheimer's disease	disease	2779798608	Constructional apraxia	symptom	0.000246619253
+502032728	Alzheimer's disease	disease	2779926200	Anosmia	symptom	0.0003082741
+502032728	Alzheimer's disease	disease	2780948584	Haloperidol	medical_treatment	0.0005343417
+502032728	Alzheimer's disease	disease	2775996843	Sundowning	symptom	0.000575444952
+502032728	Alzheimer's disease	disease	2779073485	High cholesterol	disease_cause	0.0007193062
+502032728	Alzheimer's disease	disease	2778531004	Urinary incontinence	symptom	0.0007193062
+502032728	Alzheimer's disease	disease	2776134090	Selegiline	medical_treatment	0.0008426158
+502032728	Alzheimer's disease	disease	530569494	Agnosia	symptom	0.0008631674
+502032728	Alzheimer's disease	disease	2780820931	Irritability	symptom	0.0011508899
+502032728	Alzheimer's disease	disease	2780051608	Major depressive disorder	symptom	0.0011508899
+502032728	Alzheimer's disease	disease	2776599063	Disinhibition	symptom	0.00168523157
+502032728	Alzheimer's disease	disease	2779448149	Aggression	symptom	0.00168523157
+502032728	Alzheimer's disease	disease	2776818353	Apraxia	symptom	0.00205516047
+502032728	Alzheimer's disease	disease	2777551382	Vitamin E	medical_treatment	0.00205516047
+502032728	Alzheimer's disease	disease	2779043874	Delusion	symptom	0.0020757122
+502032728	Alzheimer's disease	disease	2781017439	Traumatic brain injury	disease_cause	0.0032882567
+502032728	Alzheimer's disease	disease	2778615406	Amnesia	symptom	0.00347322132
+502032728	Alzheimer's disease	disease	2777682930	Gliosis	symptom	0.003637634
+502032728	Alzheimer's disease	disease	2779422653	Aphasia	symptom	0.00450080168
+502032728	Alzheimer's disease	disease	2779046751	Tacrine	medical_treatment	0.00528176269
+502032728	Alzheimer's disease	disease	2776509080	Apathy	symptom	0.005405072
+502032728	Alzheimer's disease	disease	2779056891	Galantamine	medical_treatment	0.00550783
+502032728	Alzheimer's disease	disease	2779484449	Memantine	medical_treatment	0.00725471647
+502032728	Alzheimer's disease	disease	2776332859	Rivastigmine	medical_treatment	0.007974023
+502032728	Alzheimer's disease	disease	2779727114	Psychosis	symptom	0.009309877
+502032728	Alzheimer's disease	disease	2779954681	Down syndrome	disease_cause	0.012063792
+502032728	Alzheimer's disease	disease	501734568	Mutation	disease_cause	0.0121254474
+502032728	Alzheimer's disease	disease	2779734285	Parkinson's disease	disease_cause	0.0123926178
+502032728	Alzheimer's disease	disease	2780904820	Donepezil	medical_treatment	0.0143655716
+502032728	Alzheimer's disease	disease	2778548049	Dementia with Lewy bodies	disease_cause	0.0154753588
+502032728	Alzheimer's disease	disease	2781172350	Atrophy	symptom	0.0233877264
+502032728	Alzheimer's disease	disease	2776151105	Oxidative stress	disease_cause	0.0249085445
+502032728	Alzheimer's disease	disease	2777952318	Vascular dementia	disease_cause	0.03865757
+502032728	Alzheimer's disease	disease	2776925932	Neurodegeneration	disease_cause	0.0406921767
+502032728	Alzheimer's disease	disease	2777427615	Degenerative disease	disease_cause	0.0761642456
+502032728	Alzheimer's disease	disease	2779483572	Dementia	symptom	0.2971762
+503182166	Scarlet fever	disease	2776632622	Enanthem	symptom	0.000157753588
+503182166	Scarlet fever	disease	2779655305	Cervical lymphadenopathy	symptom	0.000315507175
+503182166	Scarlet fever	disease	2778520758	Flushing	symptom	0.000315507175
+503182166	Scarlet fever	disease	2778654693	Anorexia	symptom	0.000473260763
+503182166	Scarlet fever	disease	2780852908	Vomiting	symptom	0.008834201
+503182166	Scarlet fever	disease	2776439223	Otitis	symptom	0.0116737653
+503182166	Scarlet fever	disease	2776983459	Syphilis	disease_cause	0.0141978227
+503182166	Scarlet fever	disease	2777870961	Sore throat	symptom	0.0156176053
+503182166	Scarlet fever	disease	2778570526	Rash	symptom	0.01798391
+503182166	Scarlet fever	disease	2778814567	Rubella	disease_cause	0.0186149236
+503182166	Scarlet fever	disease	2779279270	Pharyngitis	symptom	0.0208234731
+503182166	Scarlet fever	disease	2777367657	Toxin	disease_cause	0.0231897775
+503182166	Scarlet fever	disease	2779306812	Streptococcus pyogenes	disease_cause	0.0236630384
+503182166	Scarlet fever	disease	2778660654	Tonsillitis	symptom	0.0291844141
+503182166	Scarlet fever	disease	2781236483	Rheumatic fever	disease_cause	0.03375927
+503182166	Scarlet fever	disease	501593827	Antibiotics	medical_treatment	0.03375927
+503182166	Scarlet fever	disease	2781069245	Tuberculosis	disease_cause	0.03612557
+503182166	Scarlet fever	disease	174802600	Penicillin	medical_treatment	0.04527528
+503182166	Scarlet fever	disease	2778276568	Streptococcus	disease_cause	0.06751854
+503182166	Scarlet fever	disease	2776438120	Measles	disease_cause	0.10364411
+503182166	Scarlet fever	disease	2780572238	Diphtheria	disease_cause	0.117210917
+503630168	Necrosis	disease	2780253649	Phentolamine	medical_treatment	0.000241844129
+503630168	Necrosis	disease	2778540859	Swelling	symptom	0.0100174379
+503630168	Necrosis	disease	2776029263	Hepatitis	disease_cause	0.0101447245
+503630168	Necrosis	disease	519581460	Nitric oxide	medical_treatment	0.0103611117
+503630168	Necrosis	disease	2775967933	Pancreatitis	symptom	0.01457429
+503630168	Necrosis	disease	121608353	Cancer	disease_cause	0.0210786257
+503630168	Necrosis	disease	2776151105	Oxidative stress	disease_cause	0.0223005749
+503630168	Necrosis	disease	2522874641	Virus	disease_cause	0.0237898249
+503630168	Necrosis	disease	2778690821	Cytokine	medical_treatment	0.0417499319
+505070042	Narcissism	symptom	2780600973	Borderline personality disorder	disease	0.011066027
+505070042	Narcissism	symptom	2776276179	Antisocial personality disorder	disease	0.0118037621
+505070042	Narcissism	symptom	2776394216	Eating disorders	disease	0.0132792331
+505070042	Narcissism	symptom	501888929	Group psychotherapy	medical_treatment	0.0162301734
+505070042	Narcissism	symptom	2781105514	Paranoia	disease	0.01991885
+505070042	Narcissism	symptom	2780783166	Melancholia	disease	0.0206565838
+505070042	Narcissism	symptom	2778510506	Exhibitionism	disease	0.0225009229
+505070042	Narcissism	symptom	2781214261	Hostility	disease	0.023976393
+505070042	Narcissism	symptom	2779727114	Psychosis	disease	0.0247141272
+505070042	Narcissism	symptom	48856860	Addiction	disease	0.0265584663
+505070042	Narcissism	symptom	2780030894	Neurosis	disease	0.0269273333
+505070042	Narcissism	symptom	2780319597	Impulsivity	disease	0.02914054
+505070042	Narcissism	symptom	8597951	Sadistic personality disorder	disease	0.0383622274
+505070042	Narcissism	symptom	2777308609	Personality disorders	disease	0.0634452254
+505070042	Narcissism	symptom	2778232494	Narcissistic personality disorder	disease	0.1091848
+505070042	Narcissism	symptom	521466935	Psychopathy	disease	0.182589456
+505512924	Anti-social behaviour	symptom	2775864247	Serotonin	disease_cause	0.0125
+505512924	Anti-social behaviour	symptom	2778818304	Rehabilitation	medical_treatment	0.0125
+505512924	Anti-social behaviour	symptom	48856860	Addiction	disease	0.0125
+505512924	Anti-social behaviour	symptom	2779159551	Comorbidity	disease	0.0125
+505512924	Anti-social behaviour	symptom	2780600973	Borderline personality disorder	disease	0.0125
+505512924	Anti-social behaviour	symptom	2779727114	Psychosis	disease	0.0125
+505512924	Anti-social behaviour	symptom	2779277585	Malaise	disease	0.0125
+505512924	Anti-social behaviour	symptom	2781140086	Confusion	disease	0.0125
+505512924	Anti-social behaviour	symptom	205778803	Autism	disease	0.01875
+505512924	Anti-social behaviour	symptom	551499885	Intellectual disability	disease	0.025
+505512924	Anti-social behaviour	symptom	2777308609	Personality disorders	disease	0.025
+505512924	Anti-social behaviour	symptom	2781214261	Hostility	disease	0.03125
+505512924	Anti-social behaviour	symptom	15107229	Learning disability	disease	0.03125
+505512924	Anti-social behaviour	symptom	2780319597	Impulsivity	disease	0.03125
+505512924	Anti-social behaviour	symptom	8597951	Sadistic personality disorder	disease	0.05625
+505512924	Anti-social behaviour	symptom	2776276179	Antisocial personality disorder	disease	0.06875
+505512924	Anti-social behaviour	symptom	2780135496	Conduct disorder	disease	0.075
+505512924	Anti-social behaviour	symptom	521466935	Psychopathy	disease	0.08125
+505512924	Anti-social behaviour	symptom	542059537	Domestic violence	disease	0.1
+506058694	Dyslexia	disease	2779688443	Speech delay	symptom	0.000486618
+506058694	Dyslexia	disease	2779642007	Speech disorder	symptom	0.002270884
+506058694	Dyslexia	disease	2781371259	Stuttering	symptom	0.00762368226
+506058694	Dyslexia	disease	2781140086	Confusion	symptom	0.007948094
+506058694	Dyslexia	disease	2780749935	Cognitive deficit	symptom	0.0116788317
+506058694	Dyslexia	disease	530569494	Agnosia	symptom	0.0150851579
+506058694	Dyslexia	disease	73181058	Schizophrenia	disease_cause	0.0155717758
+506058694	Dyslexia	disease	2778818304	Rehabilitation	medical_treatment	0.0248175189
+506058694	Dyslexia	disease	2778594975	Developmental disorder	disease_cause	0.03746959
+506058694	Dyslexia	disease	2780990060	Phonological deficit	symptom	0.0426601768
+506058694	Dyslexia	disease	2780783007	Attention deficit hyperactivity disorder	disease_cause	0.0554744527
+506058694	Dyslexia	disease	2779422653	Aphasia	symptom	0.06585564
+506058694	Dyslexia	disease	2779245040	Agraphia	symptom	0.06861314
+506058694	Dyslexia	disease	15107229	Learning disability	symptom	0.3300892
+509974204	Radiation therapy	medical_treatment	2778256501	Sarcoma	disease	0.0109169856
+509974204	Radiation therapy	medical_treatment	2781182431	Adenocarcinoma	disease	0.0128124226
+509974204	Radiation therapy	medical_treatment	2776530083	Head and neck cancer	disease	0.0189201944
+509974204	Radiation therapy	medical_treatment	2779134260	Disease	disease	0.0286844261
+509974204	Radiation therapy	medical_treatment	2779013556	Metastasis	disease	0.03217458
+509974204	Radiation therapy	medical_treatment	2780192828	Prostate cancer	disease	0.03399256
+509974204	Radiation therapy	medical_treatment	530470458	Breast cancer	disease	0.0430801772
+509974204	Radiation therapy	medical_treatment	2777546739	Carcinoma	disease	0.0558219738
+509974204	Radiation therapy	medical_treatment	2776694085	Chemotherapy	disease_cause	0.119626656
+511355011	Obesity	disease	2777553296	Lyme disease	disease_cause	1.53672627E-05
+511355011	Obesity	disease	2778650131	Hyperhidrosis	symptom	1.84407145E-05
+511355011	Obesity	disease	2778315536	Phendimetrazine	medical_treatment	1.84407145E-05
+511355011	Obesity	disease	2778825682	Enoxaparin sodium	medical_treatment	1.84407145E-05
+511355011	Obesity	disease	2778570526	Rash	symptom	2.15141663E-05
+511355011	Obesity	disease	2780376393	Methamphetamine	medical_treatment	2.458762E-05
+511355011	Obesity	disease	2777606763	Benzphetamine	medical_treatment	2.458762E-05
+511355011	Obesity	disease	2776012466	Olestra	medical_treatment	2.76610717E-05
+511355011	Obesity	disease	2776145449	Dextroamphetamine	medical_treatment	3.07345254E-05
+511355011	Obesity	disease	2777799207	Amfepramone	medical_treatment	3.995488E-05
+511355011	Obesity	disease	2780026034	Phenmetrazine	medical_treatment	7.06894061E-05
+511355011	Obesity	disease	2781399573	Phenylpropanolamine	medical_treatment	8.298321E-05
+511355011	Obesity	disease	2780394446	Phentermine/topiramate	medical_treatment	0.000110644287
+511355011	Obesity	disease	2779126938	Mazindol	medical_treatment	0.000205921315
+511355011	Obesity	disease	2777193897	Amphetamine	medical_treatment	0.000288904528
+511355011	Obesity	disease	2776237595	Joint pain	symptom	0.0003042718
+511355011	Obesity	disease	2776134451	Fluoxetine	medical_treatment	0.000331932853
+511355011	Obesity	disease	2779594677	Polycystic ovary syndrome (PCOS)	disease_cause	0.000414916081
+511355011	Obesity	disease	2781083316	Dexfenfluramine	medical_treatment	0.00043028334
+511355011	Obesity	disease	2777309587	Lorcaserin	medical_treatment	0.0004917524
+511355011	Obesity	disease	2776501849	Back pain	symptom	0.000540927635
+511355011	Obesity	disease	2778456266	Phentermine	medical_treatment	0.000706894032
+511355011	Obesity	disease	2779638493	Fenfluramine	medical_treatment	0.0007376286
+511355011	Obesity	disease	2781308992	Liraglutide	medical_treatment	0.000863640162
+511355011	Obesity	disease	2776174506	Bipolar disorder	disease_cause	0.00120171986
+511355011	Obesity	disease	2778329153	Sleep deprivation	disease_cause	0.00123552792
+511355011	Obesity	disease	2777646958	Sibutramine	medical_treatment	0.002086874
+511355011	Obesity	disease	2781210498	Insomnia	symptom	0.00263702217
+511355011	Obesity	disease	2780780548	Orlistat	medical_treatment	0.003030424
+511355011	Obesity	disease	2780988686	Hyperinsulinemia	disease_cause	0.00874397252
+511355011	Obesity	disease	181588539	Physical exercise	medical_treatment	0.0102192294
+511355011	Obesity	disease	2778772119	Fatty liver	symptom	0.0104927663
+511355011	Obesity	disease	2781121325	Underweight	symptom	0.01179591
+511355011	Obesity	disease	2777693730	Abdominal obesity	symptom	0.0126902852
+511355011	Obesity	disease	121608353	Cancer	disease_cause	0.0211637933
+511355011	Obesity	disease	2780074459	Heart disease	disease_cause	0.02141889
+511355011	Obesity	disease	2779234561	Pregnancy	disease_cause	0.0252453387
+511355011	Obesity	disease	2780320433	Weight gain	symptom	0.0321974866
+511355011	Obesity	disease	2779306644	Insulin	medical_treatment	0.05742746
+511355011	Obesity	disease	2777391703	Insulin resistance	disease_cause	0.06595629
+511355011	Obesity	disease	2780586474	Overweight	symptom	0.144095749
+512716672	In vitro fertilisation	medical_treatment	2779134260	Disease	disease	0.0108258873
+512716672	In vitro fertilisation	medical_treatment	2779672484	Aneuploidy	disease	0.0120550273
+512716672	In vitro fertilisation	medical_treatment	2779245376	Miscarriage	disease	0.0250082724
+512716672	In vitro fertilisation	medical_treatment	2776018949	Ectopic pregnancy	disease	0.02609559
+512716672	In vitro fertilisation	medical_treatment	2781065240	Ovarian hyperstimulation syndrome	disease	0.0363069065
+518460624	Stroke	disease	2778044888	High blood pressure (hypertension)	disease_cause	2.410167E-06
+518460624	Stroke	disease	2776939289	Central facial palsy	symptom	5.784401E-05
+518460624	Stroke	disease	2780608335	Intravenous therapy	medical_treatment	7.230501E-05
+518460624	Stroke	disease	2777150564	Flaccid paralysis	symptom	7.471518E-05
+518460624	Stroke	disease	2778171261	Balance problems	symptom	7.95355154E-05
+518460624	Stroke	disease	2779280984	Crohn's disease	disease_cause	8.43558446E-05
+518460624	Stroke	disease	2777364249	Hyperreflexia	symptom	0.000132559187
+518460624	Stroke	disease	2781306077	Tetraplegia	symptom	0.000137379524
+518460624	Stroke	disease	2780773893	Vision disorder	symptom	0.000156660855
+518460624	Stroke	disease	2777377995	Thrombolytic drug	medical_treatment	0.000166301528
+518460624	Stroke	disease	2780404050	Pentoxifylline	medical_treatment	0.000173532026
+518460624	Stroke	disease	2777301891	Facial weakness	symptom	0.000238606532
+518460624	Stroke	disease	2781372952	Visual impairment	symptom	0.000342243729
+518460624	Stroke	disease	2778615406	Amnesia	symptom	0.0003735759
+518460624	Stroke	disease	2780581723	Diplopia	symptom	0.000407318235
+518460624	Stroke	disease	2779736392	Nystagmus	symptom	0.0005133656
+518460624	Stroke	disease	2780630273	Oxygen therapy	medical_treatment	0.0005326469
+518460624	Stroke	disease	2779073485	High cholesterol	disease_cause	0.0005953113
+518460624	Stroke	disease	2776912625	Systemic lupus erythematosus	disease_cause	0.0006145926
+518460624	Stroke	disease	2779727114	Psychosis	symptom	0.0006170028
+518460624	Stroke	disease	2781140086	Confusion	symptom	0.000766433135
+518460624	Stroke	disease	2776818353	Apraxia	symptom	0.0009206838
+518460624	Stroke	disease	2777639682	Dysarthria	symptom	0.00110626663
+518460624	Stroke	disease	2777803708	Transcranial direct-current stimulation	medical_treatment	0.00132077152
+518460624	Stroke	disease	2780906641	Ataxia	symptom	0.00139066635
+518460624	Stroke	disease	2779368430	Coma	symptom	0.00202695047
+518460624	Stroke	disease	102190203	Occupational therapy	medical_treatment	0.00273071928
+518460624	Stroke	disease	2776361831	Stroke recovery	medical_treatment	0.00274759042
+518460624	Stroke	disease	2778581513	Transcranial magnetic stimulation	medical_treatment	0.00317419
+518460624	Stroke	disease	2780966972	Headaches	symptom	0.00406354154
+518460624	Stroke	disease	2779012798	Spasticity	symptom	0.005022788
+518460624	Stroke	disease	2780596822	Dysphagia	symptom	0.005295137
+518460624	Stroke	disease	2777849778	Clopidogrel	medical_treatment	0.00589526864
+518460624	Stroke	disease	2779422653	Aphasia	symptom	0.00743295532
+518460624	Stroke	disease	2780326628	Angioplasty	medical_treatment	0.00761130732
+518460624	Stroke	disease	511355011	Obesity	disease_cause	0.007874016
+518460624	Stroke	disease	2779464278	Revascularization	medical_treatment	0.0101684947
+518460624	Stroke	disease	2777910003	Asymptomatic	symptom	0.0106264269
+518460624	Stroke	disease	2777628954	Aspirin	medical_treatment	0.0121544721
+518460624	Stroke	disease	2776572282	Tissue plasminogen activator	medical_treatment	0.0122267772
+518460624	Stroke	disease	2776301958	Warfarin	medical_treatment	0.0127184512
+518460624	Stroke	disease	2781068581	Carotid endarterectomy	medical_treatment	0.0128871631
+518460624	Stroke	disease	2777094939	Intracerebral hemorrhage	symptom	0.0138054369
+518460624	Stroke	disease	2778213512	Coronary artery disease	disease_cause	0.014244087
+518460624	Stroke	disease	2776098176	Aneurysm	disease_cause	0.0151382592
+518460624	Stroke	disease	2780868729	Thrombosis	symptom	0.0166928172
+518460624	Stroke	disease	2779581417	Thrombolysis	medical_treatment	0.0198091622
+518460624	Stroke	disease	2780074459	Heart disease	disease_cause	0.0359741524
+518460624	Stroke	disease	2779161974	Atrial fibrillation	symptom	0.03921583
+518460624	Stroke	disease	2778818304	Rehabilitation	medical_treatment	0.0458293259
+519248777	Influenza A virus subtype H5N1	disease	2777863537	Adjuvant	medical_treatment	0.016009558
+519248777	Influenza A virus subtype H5N1	disease	501734568	Mutation	disease_cause	0.01925926
+519248777	Influenza A virus subtype H5N1	disease	2780374985	Oseltamivir	medical_treatment	0.0255197138
+519248777	Influenza A virus subtype H5N1	disease	2780689484	Influenza vaccine	medical_treatment	0.0388530456
+519248777	Influenza A virus subtype H5N1	disease	2781416681	Orthomyxoviridae	disease_cause	0.0569175631
+519248777	Influenza A virus subtype H5N1	disease	2777546802	Influenza A virus	disease_cause	0.132951021
+519248777	Influenza A virus subtype H5N1	disease	2522874641	Virus	disease_cause	0.5494385
+520601542	Typhoid fever	disease	2775921175	Sulfamethoxazole/Trimethoprim	medical_treatment	5.0748542E-05
+520601542	Typhoid fever	disease	2776418732	Muscle weakness	symptom	5.0748542E-05
+520601542	Typhoid fever	disease	2777717012	Oral rehydration therapy	medical_treatment	0.0002537427
+520601542	Typhoid fever	disease	2779124032	Abdominal distension	symptom	0.000405988336
+520601542	Typhoid fever	disease	544821477	Weight loss	symptom	0.000405988336
+520601542	Typhoid fever	disease	2778570526	Rash	symptom	0.00101497083
+520601542	Typhoid fever	disease	2779753318	Delirium	symptom	0.00106571941
+520601542	Typhoid fever	disease	2781276175	Levofloxacin	medical_treatment	0.00111646787
+520601542	Typhoid fever	disease	2778719061	Cefotaxime	medical_treatment	0.00152245618
+520601542	Typhoid fever	disease	2781112942	Constipation	symptom	0.0019284446
+520601542	Typhoid fever	disease	2778243283	Cefixime	medical_treatment	0.00243593
+520601542	Typhoid fever	disease	2779708577	Amoxicillin	medical_treatment	0.003197158
+520601542	Typhoid fever	disease	2778907293	Azithromycin	medical_treatment	0.0040598833
+520601542	Typhoid fever	disease	2778049240	Ofloxacin	medical_treatment	0.004110632
+520601542	Typhoid fever	disease	2780966972	Headaches	symptom	0.006749556
+520601542	Typhoid fever	disease	2780955771	Abdominal pain	symptom	0.00725704152
+520601542	Typhoid fever	disease	2776520383	Ceftriaxone	medical_treatment	0.009692972
+520601542	Typhoid fever	disease	2776029263	Hepatitis	disease_cause	0.0113676731
+520601542	Typhoid fever	disease	2776983459	Syphilis	disease_cause	0.0125348894
+520601542	Typhoid fever	disease	2779802037	Diarrhea	symptom	0.0149200708
+520601542	Typhoid fever	disease	2776021129	Ampicillin	medical_treatment	0.0152753107
+520601542	Typhoid fever	disease	2776438120	Measles	disease_cause	0.015579802
+520601542	Typhoid fever	disease	2778512257	Ciprofloxacin	medical_treatment	0.018726211
+520601542	Typhoid fever	disease	2780572238	Diphtheria	disease_cause	0.0211621411
+520601542	Typhoid fever	disease	2776870249	Bacilli	disease_cause	0.0227860957
+520601542	Typhoid fever	disease	2779607309	Salmonella enterica	disease_cause	0.0235473234
+520601542	Typhoid fever	disease	2781069245	Tuberculosis	disease_cause	0.03785841
+520601542	Typhoid fever	disease	2780708024	Dysentery	symptom	0.038518142
+520601542	Typhoid fever	disease	2778048844	Malaria	disease_cause	0.055112917
+520601542	Typhoid fever	disease	2778473333	Chloramphenicol	medical_treatment	0.0598832779
+520601542	Typhoid fever	disease	501593827	Antibiotics	medical_treatment	0.06333418
+520601542	Typhoid fever	disease	2781065037	Salmonella	disease_cause	0.1255519
+521466935	Psychopathy	disease	2779812673	Sadness	symptom	0.0100868586
+521466935	Psychopathy	disease	2778504138	Emotional detachment	symptom	0.01036705
+521466935	Psychopathy	disease	2780931562	Alcohol abuse	disease_cause	0.0112076215
+521466935	Psychopathy	disease	2780783007	Attention deficit hyperactivity disorder	disease_cause	0.0151302889
+521466935	Psychopathy	disease	2781214261	Hostility	symptom	0.0201737173
+521466935	Psychopathy	disease	2779727114	Psychosis	symptom	0.02157467
+521466935	Psychopathy	disease	2776674806	Mental illness	symptom	0.0249369573
+521466935	Psychopathy	disease	2779302386	Anger	symptom	0.0254973378
+521466935	Psychopathy	disease	2776599063	Disinhibition	symptom	0.0274586715
+521466935	Psychopathy	disease	73181058	Schizophrenia	disease_cause	0.0798543
+521466935	Psychopathy	disease	2780319597	Impulsivity	symptom	0.114597924
+521466935	Psychopathy	disease	505070042	Narcissism	symptom	0.138694316
+521466935	Psychopathy	disease	2779448149	Aggression	symptom	0.154945359
+526805850	Colorectal cancer	disease	2779517365	Sister Mary Joseph nodule	symptom	4.6835994E-06
+526805850	Colorectal cancer	disease	2775913212	Flatulence	symptom	1.87343976E-05
+526805850	Colorectal cancer	disease	2776812611	Rectal tenesmus	symptom	2.3417997E-05
+526805850	Colorectal cancer	disease	2775919467	Levoleucovorin	medical_treatment	2.3417997E-05
+526805850	Colorectal cancer	disease	2779280383	Streptozotocin	medical_treatment	4.6835994E-05
+526805850	Colorectal cancer	disease	2780030458	Nivolumab	medical_treatment	0.000140507982
+526805850	Colorectal cancer	disease	2778654693	Anorexia	symptom	0.00015924238
+526805850	Colorectal cancer	disease	2777424391	Melena	symptom	0.000192027583
+526805850	Colorectal cancer	disease	2780057760	Pembrolizumab	medical_treatment	0.000252914382
+526805850	Colorectal cancer	disease	2777643690	Abdominal mass	symptom	0.000318484759
+526805850	Colorectal cancer	disease	2779551604	Ramucirumab	medical_treatment	0.000407473155
+526805850	Colorectal cancer	disease	2779598120	Floxuridine	medical_treatment	0.0005713991
+526805850	Colorectal cancer	disease	2781054515	Hematochezia	symptom	0.0005948171
+526805850	Colorectal cancer	disease	2777704314	Cachexia	symptom	0.0006369695
+526805850	Colorectal cancer	disease	2778749236	Aflibercept	medical_treatment	0.001039759
+526805850	Colorectal cancer	disease	544821477	Weight loss	symptom	0.00135824387
+526805850	Colorectal cancer	disease	2780852908	Vomiting	symptom	0.00143318146
+526805850	Colorectal cancer	disease	2777125728	Ileus	symptom	0.00148470106
+526805850	Colorectal cancer	disease	2778248108	Anemia	symptom	0.001648627
+526805850	Colorectal cancer	disease	2781112942	Constipation	symptom	0.00203736569
+526805850	Colorectal cancer	disease	2776248978	Regorafenib	medical_treatment	0.00214977213
+526805850	Colorectal cancer	disease	2779787475	Bowel obstruction	symptom	0.00251977658
+526805850	Colorectal cancer	disease	2780635560	Neoplasm	symptom	0.00256661256
+526805850	Colorectal cancer	disease	2779802037	Diarrhea	symptom	0.00266496814
+526805850	Colorectal cancer	disease	2780955771	Abdominal pain	symptom	0.00323168351
+526805850	Colorectal cancer	disease	2779804826	Folinic acid	medical_treatment	0.004491572
+526805850	Colorectal cancer	disease	2778332735	Panitumumab	medical_treatment	0.005695257
+526805850	Colorectal cancer	disease	2777910003	Asymptomatic	symptom	0.005695257
+526805850	Colorectal cancer	disease	2777701055	Immunotherapy	medical_treatment	0.005742093
+526805850	Colorectal cancer	disease	2776667177	Colectomy	medical_treatment	0.0101165744
+526805850	Colorectal cancer	disease	2777909004	Capecitabine	medical_treatment	0.0110720294
+526805850	Colorectal cancer	disease	2780479503	Ulcerative colitis	disease_cause	0.0121305222
+526805850	Colorectal cancer	disease	2779998722	Cetuximab	medical_treatment	0.0159757584
+526805850	Colorectal cancer	disease	501734568	Mutation	disease_cause	0.0173902046
+526805850	Colorectal cancer	disease	2777802072	Bevacizumab	medical_treatment	0.0176009666
+526805850	Colorectal cancer	disease	2776256026	Lung cancer	disease_cause	0.01889364
+526805850	Colorectal cancer	disease	2781187634	KRAS	disease_cause	0.01921681
+526805850	Colorectal cancer	disease	2780259306	Irinotecan	medical_treatment	0.020701509
+526805850	Colorectal cancer	disease	2780456651	Fluorouracil	medical_treatment	0.0214789864
+526805850	Colorectal cancer	disease	2780962732	Oxaliplatin	medical_treatment	0.027417792
+526805850	Colorectal cancer	disease	509974204	Radiation therapy	medical_treatment	0.033839006
+526805850	Colorectal cancer	disease	555283112	Carcinogenesis	disease_cause	0.0425739177
+526805850	Colorectal cancer	disease	2776694085	Chemotherapy	medical_treatment	0.08818749
+526805850	Colorectal cancer	disease	121608353	Cancer	disease_cause	0.292481422
+530470458	Breast cancer	disease	2781324173	Liposomal daunorubicin	medical_treatment	1.52366638E-05
+530470458	Breast cancer	disease	2776809508	Testolactone	medical_treatment	1.77761067E-05
+530470458	Breast cancer	disease	2780242409	Inverted nipple	symptom	2.28549943E-05
+530470458	Breast cancer	disease	2779093440	Leuprorelin	medical_treatment	7.110443E-05
+530470458	Breast cancer	disease	2777325940	Fluoxymesterone	medical_treatment	7.36438742E-05
+530470458	Breast cancer	disease	2778820923	Bexarotene	medical_treatment	7.872276E-05
+530470458	Breast cancer	disease	2777086745	Paget's disease of the breast	symptom	0.000152366629
+530470458	Breast cancer	disease	2779448150	Triptorelin	medical_treatment	0.000159984964
+530470458	Breast cancer	disease	2780962732	Oxaliplatin	medical_treatment	0.000259023276
+530470458	Breast cancer	disease	2780567641	Phyllodes tumor	symptom	0.000330127717
+530470458	Breast cancer	disease	2777132456	Vinblastine	medical_treatment	0.000380916579
+530470458	Breast cancer	disease	2780674031	Cancer immunotherapy	medical_treatment	0.000391074369
+530470458	Breast cancer	disease	2779413316	Neratinib	medical_treatment	0.0003936138
+530470458	Breast cancer	disease	2779968505	ThioTEPA	medical_treatment	0.000406311039
+530470458	Breast cancer	disease	2779121184	Erythema	symptom	0.000482494332
+530470458	Breast cancer	disease	2778087150	Trastuzumab emtansine	medical_treatment	0.000505349366
+530470458	Breast cancer	disease	2780723184	Megestrol acetate	medical_treatment	0.000505349366
+530470458	Breast cancer	disease	2779194965	Ixabepilone	medical_treatment	0.0005256649
+530470458	Breast cancer	disease	2776128548	Hot flash	symptom	0.0005510593
+530470458	Breast cancer	disease	2779744173	Palbociclib	medical_treatment	0.0006704132
+530470458	Breast cancer	disease	2778043895	Goserelin	medical_treatment	0.0006881893
+530470458	Breast cancer	disease	2778540859	Swelling	symptom	0.0006907287
+530470458	Breast cancer	disease	2776387010	Eribulin	medical_treatment	0.0007465965
+530470458	Breast cancer	disease	2777637070	Toremifene	medical_treatment	0.0007516754
+530470458	Breast cancer	disease	2780886150	Edema	symptom	0.0008380165
+530470458	Breast cancer	disease	2778465573	Breast lumps	symptom	0.000845634844
+530470458	Breast cancer	disease	2780898380	Nipple discharge	symptom	0.001241788
+530470458	Breast cancer	disease	2779699572	Everolimus	medical_treatment	0.00124432752
+530470458	Breast cancer	disease	2781129008	Microcalcification	symptom	0.00135098421
+530470458	Breast cancer	disease	2781164504	Pertuzumab	medical_treatment	0.00145256193
+530470458	Breast cancer	disease	2780635560	Neoplasm	symptom	0.00165571738
+530470458	Breast cancer	disease	2781451048	Carboplatin	medical_treatment	0.00204425235
+530470458	Breast cancer	disease	2780258809	Gemcitabine	medical_treatment	0.00215598778
+530470458	Breast cancer	disease	2780350996	Vinorelbine	medical_treatment	0.002442945
+530470458	Breast cancer	disease	2780482068	Fulvestrant	medical_treatment	0.002493734
+530470458	Breast cancer	disease	2776326535	Zoledronic acid	medical_treatment	0.00254452275
+530470458	Breast cancer	disease	2777802072	Bevacizumab	medical_treatment	0.002900045
+530470458	Breast cancer	disease	2780456651	Fluorouracil	medical_treatment	0.003082885
+530470458	Breast cancer	disease	2775860665	Exemestane	medical_treatment	0.00313367369
+530470458	Breast cancer	disease	2777909004	Capecitabine	medical_treatment	0.00352728763
+530470458	Breast cancer	disease	2777329042	Lapatinib	medical_treatment	0.003969151
+530470458	Breast cancer	disease	2776215463	Anastrozole	medical_treatment	0.00397930853
+530470458	Breast cancer	disease	2778812593	Letrozole	medical_treatment	0.004570999
+530470458	Breast cancer	disease	2780835546	Epirubicin	medical_treatment	0.005736604
+530470458	Breast cancer	disease	2777292972	Paclitaxel	medical_treatment	0.006175928
+530470458	Breast cancer	disease	511355011	Obesity	disease_cause	0.006688895
+530470458	Breast cancer	disease	2780275930	Hormone therapy	medical_treatment	0.00723233633
+530470458	Breast cancer	disease	2781190966	Docetaxel	medical_treatment	0.009317219
+530470458	Breast cancer	disease	2781303535	Doxorubicin	medical_treatment	0.009878437
+530470458	Breast cancer	disease	2776755627	Cyclophosphamide	medical_treatment	0.0103558525
+530470458	Breast cancer	disease	2778562196	Menopause	disease_cause	0.0108180307
+530470458	Breast cancer	disease	501734568	Mutation	disease_cause	0.0110440413
+530470458	Breast cancer	disease	2777863537	Adjuvant	medical_treatment	0.0119150709
+530470458	Breast cancer	disease	526805850	Colorectal cancer	disease_cause	0.0151528614
+530470458	Breast cancer	disease	2776256026	Lung cancer	disease_cause	0.0151858749
+530470458	Breast cancer	disease	2779786085	Trastuzumab	medical_treatment	0.0167273171
+530470458	Breast cancer	disease	555283112	Carcinogenesis	disease_cause	0.0210012011
+530470458	Breast cancer	disease	2777164284	Estrogen	medical_treatment	0.02785262
+530470458	Breast cancer	disease	2777757722	Mastectomy	medical_treatment	0.0279110279
+530470458	Breast cancer	disease	2777176818	Tamoxifen	medical_treatment	0.03232712
+530470458	Breast cancer	disease	509974204	Radiation therapy	medical_treatment	0.0480208844
+530470458	Breast cancer	disease	509974204	Radiation therapy	disease_cause	0.0480208844
+530470458	Breast cancer	disease	2776694085	Chemotherapy	medical_treatment	0.0778720453
+530470458	Breast cancer	disease	121608353	Cancer	disease_cause	0.288038969
+530569494	Agnosia	disease	2780906641	Ataxia	symptom	0.0102893887
+530569494	Agnosia	disease	2780773893	Vision disorder	symptom	0.0109324763
+530569494	Agnosia	disease	2781236326	Simultanagnosia	symptom	0.0109324763
+530569494	Agnosia	disease	2778257484	Visual acuity	symptom	0.0115755629
+530569494	Agnosia	disease	2776882386	Hemiparesis	symptom	0.0122186495
+530569494	Agnosia	disease	73181058	Schizophrenia	disease_cause	0.0173633434
+530569494	Agnosia	disease	2778195914	Acalculia	symptom	0.0173633434
+530569494	Agnosia	disease	502032728	Alzheimer's disease	disease_cause	0.0270096455
+530569494	Agnosia	disease	2778818304	Rehabilitation	medical_treatment	0.027652733
+530569494	Agnosia	disease	2778615406	Amnesia	symptom	0.0289389063
+530569494	Agnosia	disease	2779245040	Agraphia	symptom	0.0353697762
+530569494	Agnosia	disease	2776818353	Apraxia	symptom	0.1369775
+530569494	Agnosia	disease	2779422653	Aphasia	symptom	0.158199355
+533803919	Dengue fever	disease	2778520758	Flushing	symptom	3.738318E-05
+533803919	Dengue fever	disease	2776501849	Back pain	symptom	0.000149532716
+533803919	Dengue fever	disease	2779204108	Petechia	symptom	0.000261682231
+533803919	Dengue fever	disease	2779617729	Internal bleeding	symptom	0.000299065432
+533803919	Dengue fever	disease	558461103	Anxiety	symptom	0.0003364486
+533803919	Dengue fever	disease	2777808716	Fluid replacement	medical_treatment	0.000373831776
+533803919	Dengue fever	disease	2779663748	Ecchymosis	symptom	0.0005607477
+533803919	Dengue fever	disease	2778654693	Anorexia	symptom	0.000635514036
+533803919	Dengue fever	disease	2776217217	Bleeding diathesis	symptom	0.000747663551
+533803919	Dengue fever	disease	2779277585	Malaise	symptom	0.0008224299
+533803919	Dengue fever	disease	2777870961	Sore throat	symptom	0.000859813066
+533803919	Dengue fever	disease	2777077863	Arthritis	symptom	0.000934579468
+533803919	Dengue fever	disease	2777424391	Melena	symptom	0.000934579468
+533803919	Dengue fever	disease	2778594517	Chills	symptom	0.00145794393
+533803919	Dengue fever	disease	2776237595	Joint pain	symptom	0.00153271027
+533803919	Dengue fever	disease	2778168870	Maculopapular rash	symptom	0.00190654211
+533803919	Dengue fever	disease	2780966972	Headaches	symptom	0.00411214959
+533803919	Dengue fever	disease	2780873365	Leukopenia	symptom	0.00560747646
+533803919	Dengue fever	disease	2780955771	Abdominal pain	symptom	0.008747663
+533803919	Dengue fever	disease	2778616394	myalgia	symptom	0.0108037386
+533803919	Dengue fever	disease	2777910003	Asymptomatic	symptom	0.0121869156
+533803919	Dengue fever	disease	2777053367	Zika virus	disease_cause	0.0175700933
+533803919	Dengue fever	disease	2778116200	Arbovirus	disease_cause	0.0213831775
+533803919	Dengue fever	disease	2778048844	Malaria	disease_cause	0.0477383174
+533803919	Dengue fever	disease	2781273456	Chikungunya	disease_cause	0.05024299
+533803919	Dengue fever	disease	2780568436	Flavivirus	disease_cause	0.0675514042
+533803919	Dengue fever	disease	2522874641	Virus	disease_cause	0.173906535
+533803919	Dengue fever	disease	2779635636	Dengue virus	disease_cause	0.263252348
+536681454	Electrotherapy	medical_treatment	198451711	Rheumatology	disease	0.0103406329
+536681454	Electrotherapy	medical_treatment	2776694085	Chemotherapy	disease_cause	0.0139902672
+536681454	Electrotherapy	medical_treatment	2779134260	Disease	disease	0.0304136258
+541997718	Ischemia	disease	2781306077	Tetraplegia	symptom	8.293788E-05
+541997718	Ischemia	disease	2778620579	Sickle cell anemia	disease_cause	0.000475991284
+541997718	Ischemia	disease	2780868729	Thrombosis	symptom	0.0133205438
+541997718	Ischemia	disease	2780326628	Angioplasty	medical_treatment	0.0133457864
+541997718	Ischemia	disease	519581460	Nitric oxide	medical_treatment	0.0133638158
+541997718	Ischemia	disease	503630168	Necrosis	symptom	0.01425089
+541997718	Ischemia	disease	2776151105	Oxidative stress	disease_cause	0.0146150962
+541997718	Ischemia	disease	2779464278	Revascularization	medical_treatment	0.02031978
+541997718	Ischemia	disease	2778425758	Angina	symptom	0.0212861858
+541997718	Ischemia	disease	2780074459	Heart disease	disease_cause	0.0263922736
+541997718	Ischemia	disease	2778213512	Coronary artery disease	disease_cause	0.02973503
+542059537	Domestic violence	disease	2779615176	Crisis intervention	medical_treatment	0.0113805477
+542059537	Domestic violence	disease	2781214261	Hostility	symptom	0.011468091
+542059537	Domestic violence	disease	501888929	Group psychotherapy	medical_treatment	0.0118182618
+542059537	Domestic violence	disease	2776641880	Suicidal ideation	symptom	0.0125186024
+542059537	Domestic violence	disease	2776893239	Social isolation	symptom	0.0142694563
+542059537	Domestic violence	disease	66509814	Family therapy	medical_treatment	0.0182088763
+542059537	Domestic violence	disease	2781455916	HIV/AIDS	disease_cause	0.0188216753
+542059537	Domestic violence	disease	2776674806	Mental illness	symptom	0.0355423279
+542059537	Domestic violence	disease	2779302386	Anger	symptom	0.0358924977
+542059537	Domestic violence	disease	2780931562	Alcohol abuse	disease_cause	0.0442965962
+542059537	Domestic violence	disease	2779234561	Pregnancy	disease_cause	0.136479035
+542059537	Domestic violence	disease	2779448149	Aggression	symptom	0.152061626
+542804219	Gastrointestinal cancer	disease	2777742982	Metastatic liver disease	symptom	0.0009202807
+542804219	Gastrointestinal cancer	disease	2780962732	Oxaliplatin	medical_treatment	0.010008052
+542804219	Gastrointestinal cancer	disease	2780456651	Fluorouracil	medical_treatment	0.0149545614
+542804219	Gastrointestinal cancer	disease	555283112	Carcinogenesis	disease_cause	0.0171402283
+542804219	Gastrointestinal cancer	disease	2776256026	Lung cancer	disease_cause	0.0216265954
+542804219	Gastrointestinal cancer	disease	526805850	Colorectal cancer	disease_cause	0.12308754
+542804219	Gastrointestinal cancer	disease	121608353	Cancer	disease_cause	0.317956984
+544821477	Weight loss	disease	2777553296	Lyme disease	disease_cause	8.035614E-06
+544821477	Weight loss	disease	2781107101	Acute lymphocytic leukemia	disease_cause	5.62492969E-05
+544821477	Weight loss	disease	2778220009	Cervical cancer	disease_cause	9.6427364E-05
+544821477	Weight loss	disease	2777402515	Ankylosing spondylitis	disease_cause	0.000104462983
+544821477	Weight loss	disease	2775872228	Endocarditis	disease_cause	0.000144641046
+544821477	Weight loss	disease	2776912625	Systemic lupus erythematosus	disease_cause	0.000184819117
+544821477	Weight loss	disease	2777382497	Hepatitis B	disease_cause	0.000224997188
+544821477	Weight loss	disease	2780640218	Multiple sclerosis	disease_cause	0.0002330328
+544821477	Weight loss	disease	2776652619	Graves' disease	disease_cause	0.000385709456
+544821477	Weight loss	disease	2781301800	Sarcoidosis	disease_cause	0.000425887527
+544821477	Weight loss	disease	2776174506	Bipolar disorder	disease_cause	0.000546421739
+544821477	Weight loss	disease	2781455916	HIV/AIDS	disease_cause	0.000554457365
+544821477	Weight loss	disease	2776938444	Cystic fibrosis	disease_cause	0.000610706629
+544821477	Weight loss	disease	2779734285	Parkinson's disease	disease_cause	0.0008196326
+544821477	Weight loss	disease	2777575956	Rheumatoid arthritis	disease_cause	0.0008598107
+544821477	Weight loss	disease	2780349322	Coeliac disease	disease_cause	0.00101248734
+544821477	Weight loss	disease	2779280984	Crohn's disease	disease_cause	0.001124986
+544821477	Weight loss	disease	2777077863	Arthritis	disease_cause	0.00191247615
+544821477	Weight loss	disease	526805850	Colorectal cancer	disease_cause	0.002330328
+544821477	Weight loss	disease	2776256026	Lung cancer	disease_cause	0.00282050041
+544821477	Weight loss	disease	2781069245	Tuberculosis	disease_cause	0.00413030572
+544821477	Weight loss	disease	558461103	Anxiety	disease_cause	0.004435659
+544821477	Weight loss	disease	2781277698	Dieting	symptom	0.0102213006
+544821477	Weight loss	disease	2777704314	Cachexia	symptom	0.0112659307
+544821477	Weight loss	disease	2778586554	Sleeve gastrectomy	medical_treatment	0.0131060863
+544821477	Weight loss	disease	2778654693	Anorexia	symptom	0.0160631929
+544821477	Weight loss	disease	2777391703	Insulin resistance	disease_cause	0.0220256168
+544821477	Weight loss	disease	121608353	Cancer	disease_cause	0.022668466
+544821477	Weight loss	disease	2779306644	Insulin	medical_treatment	0.0336692221
+544821477	Weight loss	disease	2777180221	Type 2 diabetes	disease_cause	0.0365138277
+544821477	Weight loss	disease	2780320433	Weight gain	symptom	0.03783167
+544821477	Weight loss	disease	2780586474	Overweight	symptom	0.06765987
+547475151	Escherichia coli	disease_cause	2778416477	Urethritis	symptom	0.000209967955
+547475151	Escherichia coli	disease_cause	2778769901	Dehydration	symptom	0.000353630225
+547475151	Escherichia coli	disease_cause	2776930534	Urinary tract infection (UTI)	symptom	0.0004972925
+547475151	Escherichia coli	disease_cause	2780708024	Dysentery	symptom	0.001801304
+547475151	Escherichia coli	disease_cause	2780920689	Kanamycin	medical_treatment	0.0102773784
+547475151	Escherichia coli	disease_cause	174802600	Penicillin	medical_treatment	0.0103989393
+547475151	Escherichia coli	disease_cause	2778473333	Chloramphenicol	medical_treatment	0.0115703391
+547475151	Escherichia coli	disease_cause	2780923616	Tetracycline	medical_treatment	0.0118908165
+547475151	Escherichia coli	disease_cause	2781288988	Beta-lactamase	medical_treatment	0.0126643823
+547475151	Escherichia coli	disease_cause	64778159	Cephalosporin	medical_treatment	0.0132500827
+547475151	Escherichia coli	disease_cause	2776714187	Protease	medical_treatment	0.0133163882
+547475151	Escherichia coli	disease_cause	2779631663	Imipenem	medical_treatment	0.0133274393
+547475151	Escherichia coli	disease_cause	2775843808	Streptomycin	medical_treatment	0.0141452095
+547475151	Escherichia coli	disease_cause	2778512257	Ciprofloxacin	medical_treatment	0.0144104324
+547475151	Escherichia coli	disease_cause	2776021129	Ampicillin	medical_treatment	0.0183998235
+547475151	Escherichia coli	disease_cause	2778883795	Pathogenic bacteria	disease	0.0252845623
+547475151	Escherichia coli	disease_cause	2779802037	Diarrhea	symptom	0.0346778631
+547475151	Escherichia coli	disease_cause	2777637488	Pseudomonas aeruginosa	disease	0.0590894036
+547475151	Escherichia coli	disease_cause	501593827	Antibiotics	medical_treatment	0.112553872
+551499885	Intellectual disability	disease	2777287423	Buspirone	medical_treatment	0.00020888455
+551499885	Intellectual disability	disease	2778478650	Spina bifida	disease_cause	0.000626653666
+551499885	Intellectual disability	disease	2779727114	Psychosis	symptom	0.010792369
+551499885	Intellectual disability	disease	2777871287	Short stature	symptom	0.0108619966
+551499885	Intellectual disability	disease	2779234561	Pregnancy	disease_cause	0.0111405095
+551499885	Intellectual disability	disease	2780783007	Attention deficit hyperactivity disorder	disease_cause	0.0162929948
+551499885	Intellectual disability	disease	2778818304	Rehabilitation	medical_treatment	0.0191477519
+551499885	Intellectual disability	disease	2779448149	Aggression	symptom	0.0198440328
+551499885	Intellectual disability	disease	2779421357	Cerebral palsy	disease_cause	0.0217936225
+551499885	Intellectual disability	disease	2776395126	Microcephaly	symptom	0.02304693
+551499885	Intellectual disability	disease	73181058	Schizophrenia	disease_cause	0.0261801984
+551499885	Intellectual disability	disease	2776674806	Mental illness	symptom	0.0280601587
+551499885	Intellectual disability	disease	501734568	Mutation	disease_cause	0.0333519019
+551499885	Intellectual disability	disease	2779954681	Down syndrome	disease_cause	0.0580699071
+551499885	Intellectual disability	disease	2778594975	Developmental disorder	disease_cause	0.07693914
+551499885	Intellectual disability	disease	15107229	Learning disability	symptom	0.08619969
+551997983	Malnutrition	disease	2777749454	Cri du chat	disease_cause	1.551085E-05
+551997983	Malnutrition	disease	2780349322	Coeliac disease	disease_cause	0.00133393309
+551997983	Malnutrition	disease	2776438120	Measles	disease_cause	0.01095066
+551997983	Malnutrition	disease	2779083892	Low birth weight	symptom	0.0123311253
+551997983	Malnutrition	disease	2779978075	Dialysis	medical_treatment	0.0134013742
+551997983	Malnutrition	disease	2778063415	Hemodialysis	medical_treatment	0.0144095793
+551997983	Malnutrition	disease	2780320433	Weight gain	symptom	0.0147042852
+551997983	Malnutrition	disease	2778654693	Anorexia	symptom	0.0150610348
+551997983	Malnutrition	disease	2781069245	Tuberculosis	disease_cause	0.0180080961
+551997983	Malnutrition	disease	2778048844	Malaria	disease_cause	0.0198849086
+551997983	Malnutrition	disease	121608353	Cancer	disease_cause	0.02427448
+551997983	Malnutrition	disease	2778248108	Anemia	symptom	0.0247398056
+551997983	Malnutrition	disease	2780586474	Overweight	symptom	0.0281832144
+551997983	Malnutrition	disease	2779764123	Wasting	symptom	0.0310061891
+551997983	Malnutrition	disease	2781121325	Underweight	symptom	0.0370243974
+551997983	Malnutrition	disease	2779234561	Pregnancy	disease_cause	0.0409796648
+555283112	Carcinogenesis	disease_cause	2780427987	Ovarian cancer	disease	0.010422946
+555283112	Carcinogenesis	disease_cause	2779399171	Malignancy	disease	0.0113437343
+555283112	Carcinogenesis	disease_cause	2778019345	Hepatocellular carcinoma	disease	0.0142817134
+555283112	Carcinogenesis	disease_cause	2780192828	Prostate cancer	disease	0.0174142923
+555283112	Carcinogenesis	disease_cause	2781182431	Adenocarcinoma	disease	0.0258105546
+555283112	Carcinogenesis	disease_cause	2776256026	Lung cancer	disease	0.02864886
+555283112	Carcinogenesis	disease_cause	530470458	Breast cancer	disease	0.03925217
+555283112	Carcinogenesis	disease_cause	526805850	Colorectal cancer	disease	0.04314416
+555283112	Carcinogenesis	disease_cause	2779013556	Metastasis	disease	0.0581378229
+555283112	Carcinogenesis	disease_cause	2777546739	Carcinoma	disease	0.07392887
+555283112	Carcinogenesis	disease_cause	121608353	Cancer	disease	0.22306338
+558461103	Anxiety	disease	2779366845	Vaginal thrush	disease_cause	5.05178059E-06
+558461103	Anxiety	disease	2776316548	Oxymorphone	medical_treatment	5.05178059E-06
+558461103	Anxiety	disease	2779001537	Shingles	disease_cause	1.01035612E-05
+558461103	Anxiety	disease	2778743506	Heart arrhythmia	symptom	1.01035612E-05
+558461103	Anxiety	disease	2779600269	Amitriptyline/perphenazine	medical_treatment	1.01035612E-05
+558461103	Anxiety	disease	2778640186	Quazepam	medical_treatment	1.01035612E-05
+558461103	Anxiety	disease	2778165768	Molar pregnancy	disease_cause	1.51553422E-05
+558461103	Anxiety	disease	2776063893	Pins and needles	symptom	2.02071224E-05
+558461103	Anxiety	disease	2776097843	Shallow breathing	symptom	2.52589034E-05
+558461103	Anxiety	disease	2779624480	Polydipsia	symptom	4.04142447E-05
+558461103	Anxiety	disease	2776256041	Nadolol	medical_treatment	4.04142447E-05
+558461103	Anxiety	disease	2776156762	Flurazepam	medical_treatment	4.04142447E-05
+558461103	Anxiety	disease	2776349787	Racing thoughts	symptom	5.05178068E-05
+558461103	Anxiety	disease	2781324269	Prochlorperazine	medical_treatment	5.55695879E-05
+558461103	Anxiety	disease	2779425338	Droperidol	medical_treatment	0.0001060874
+558461103	Anxiety	disease	2777553296	Lyme disease	disease_cause	0.000111139176
+558461103	Anxiety	disease	2776914023	Emotional security	symptom	0.000121242738
+558461103	Anxiety	disease	2776652619	Graves' disease	disease_cause	0.000136398085
+558461103	Anxiety	disease	2777706214	Lightheadedness	symptom	0.000176812333
+558461103	Anxiety	disease	2779034077	Clorazepate	medical_treatment	0.000202071227
+558461103	Anxiety	disease	2778342469	Intrusive thought	symptom	0.000267744384
+558461103	Anxiety	disease	2776246316	Hydroxyzine	medical_treatment	0.000348572881
+558461103	Anxiety	disease	2777747321	Doxepin	medical_treatment	0.000348572881
+558461103	Anxiety	disease	2777937089	Meprobamate	medical_treatment	0.000404142454
+558461103	Anxiety	disease	2776615572	Oxazepam	medical_treatment	0.000409194239
+558461103	Anxiety	disease	2777393122	Akathisia	symptom	0.000454660272
+558461103	Anxiety	disease	2776912625	Systemic lupus erythematosus	disease_cause	0.0004950745
+558461103	Anxiety	disease	2780647506	Huntington's disease	disease_cause	0.000540540554
+558461103	Anxiety	disease	2779275509	Compulsive behavior	symptom	0.0005809548
+558461103	Anxiety	disease	2779354729	Avoidant personality disorder	symptom	0.000707249332
+558461103	Anxiety	disease	2780283014	Tachycardia	symptom	0.000747663551
+558461103	Anxiety	disease	2779802037	Diarrhea	symptom	0.0007729225
+558461103	Anxiety	disease	2781034310	Obsessive-compulsive disorder (OCD)	disease_cause	0.0008032331
+558461103	Anxiety	disease	2776455275	Hepatitis C	disease_cause	0.0008486992
+558461103	Anxiety	disease	2777992674	Nightmare	symptom	0.000879009836
+558461103	Anxiety	disease	2778151854	Propranolol	medical_treatment	0.000934579468
+558461103	Anxiety	disease	2776403943	Palpitations	symptom	0.00128315226
+558461103	Anxiety	disease	2779354879	Hypervigilance	symptom	0.00129830767
+558461103	Anxiety	disease	2778325228	Chlordiazepoxide	medical_treatment	0.00132356654
+558461103	Anxiety	disease	2778329153	Sleep deprivation	symptom	0.00137913611
+558461103	Anxiety	disease	2779706987	Lorazepam	medical_treatment	0.0014953271
+558461103	Anxiety	disease	2777449187	Hyperventilation	symptom	0.00155089668
+558461103	Anxiety	disease	2779583969	Escitalopram	medical_treatment	0.00161151809
+558461103	Anxiety	disease	2778000748	Midazolam	medical_treatment	0.00186915894
+558461103	Anxiety	disease	2777589236	Boredom	symptom	0.002121748
+558461103	Anxiety	disease	2777287423	Buspirone	medical_treatment	0.002419803
+558461103	Anxiety	disease	2780955771	Abdominal pain	symptom	0.002419803
+558461103	Anxiety	disease	2777196872	Alprazolam	medical_treatment	0.00249557965
+558461103	Anxiety	disease	2778704086	Chest pain	symptom	0.00266734022
+558461103	Anxiety	disease	544821477	Weight loss	symptom	0.002788583
+558461103	Anxiety	disease	2781105514	Paranoia	symptom	0.00314725935
+558461103	Anxiety	disease	2780640218	Multiple sclerosis	disease_cause	0.00332407164
+558461103	Anxiety	disease	2780966972	Headaches	symptom	0.00351098762
+558461103	Anxiety	disease	2776060345	Rumination	symptom	0.004430412
+558461103	Anxiety	disease	2779734285	Parkinson's disease	disease_cause	0.00459206849
+558461103	Anxiety	disease	2780580376	Nausea	symptom	0.00502147
+558461103	Anxiety	disease	2776042228	Asthma	disease_cause	0.005319525
+558461103	Anxiety	disease	2780820931	Irritability	symptom	0.005385198

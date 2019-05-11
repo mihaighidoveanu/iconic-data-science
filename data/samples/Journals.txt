@@ -1,0 +1,1000 @@
+465895	12325	eureka	Eureka				1017	138	2016-06-24
+1137746	11889	the artist and journal of home culture	The Artist and Journal of Home Culture	2151-4879			266	7558	2016-06-24
+2978343	15456	cumberland law review	Cumberland Law Review	0360-8298		http://www.cumberlandlawreview.com/	44	22	2016-06-24
+3010151	16662	comparative medicine east and west	Comparative Medicine East and West				11	26	2016-06-24
+3164724	10057	physiological measurement	Physiological Measurement				3106	56090	2016-06-24
+17807283	9496	theoretical population biology	Theoretical Population Biology	0040-5809		http://www.journals.elsevier.com/theoretical-population-biology/	2404	95776	2016-06-24
+18204665	9371	international journal of multiphase flow	International Journal of Multiphase Flow				4626	103482	2016-06-24
+27908409	11395	acta veterinaria hungarica	Acta Veterinaria Hungarica				1647	9895	2016-06-24
+40275224	12887	revista latinoamericana de quimica	Revista Latinoamericana de Química	0370-5943		http://www.relaquim.com/	531	593	2016-06-24
+42124886	9739	scandinavian journal of rheumatology	Scandinavian Journal of Rheumatology				4413	72484	2016-06-24
+43712856	12944	current archaeology	Current Archaeology	0011-3212		http://www.archaeology.co.uk/	510	222	2016-06-24
+46496192	12171	nutrition and health	Nutrition and Health	0260-1060		http://nah.sagepub.com/	751	4204	2016-06-24
+50054696	9596	advances in immunology	Advances in Immunology				869	102156	2016-06-24
+50585835	11405	journal of the american research center in egypt	Journal of the American Research Center in Egypt	0065-9991		http://www.arce.org/publications/journal.htm	971	2013	2016-06-24
+50630504	9920	food microbiology	Food Microbiology				3952	101927	2016-06-24
+51897464	12676	journal of electronics manufacturing	Journal of Electronics Manufacturing				261	2331	2016-06-24
+54941560	12902	international journal of global environmental issues	International Journal of Global Environmental Issues				353	2182	2016-06-24
+56137297	12432	currents	Currents				773	852	2016-06-24
+62018274	10025	journal of international medical research	Journal of International Medical Research				5321	43944	2016-06-24
+67731806	10075	british veterinary journal	British Veterinary Journal				4290	36254	2016-06-24
+68332911	11067	turkish journal of medical sciences	Turkish Journal of Medical Sciences				3010	7870	2016-06-24
+74082208	11627	filtration industry analyst	Filtration Industry Analyst				305	420	2016-06-24
+74993422	13618	industrial & engineering chemistry chemical & engineering data series	Industrial & Engineering Chemistry Chemical & Engineering Data Series				119	729	2016-06-24
+76379409	11722	epilepsy currents	Epilepsy Currents	1535-7597		http://www.aesnet.org/go/publications/epilepsy-currents	1377	6908	2016-06-24
+78666835	13326	macedonian journal of chemistry and chemical engineering	Macedonian Journal of Chemistry and Chemical Engineering				307	837	2016-06-24
+79201580	13759	religion and human rights	Religion and Human Rights				216	134	2016-06-24
+79820318	10631	scandinavian journal of forest research	Scandinavian Journal of Forest Research				2079	36751	2016-06-24
+80222133	15425	the open acoustics journal	The Open Acoustics Journal				33	115	2016-06-24
+82774605	8988	hearing research	Hearing Research				6671	204726	2016-06-24
+87328381	10523	journal of occupational and organizational psychology	Journal of Occupational and Organizational Psychology	0963-1798		http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8325	973	59741	2016-06-24
+87560609	7889	evolution	Evolution	0014-3820		http://www.wiley.com/bw/journal.asp?ref=0014-3820	11306	684173	2016-06-24
+88256731	11031	journal of central south university of technology	Journal of Central South University of Technology				2427	9175	2016-06-24
+96107623	12569	journal of computer aided materials design	Journal of Computer-aided Materials Design				310	3539	2016-06-24
+96305778	9421	transportation research part b methodological	Transportation Research Part B-methodological				2649	112657	2016-06-24
+98941412	13825	handbooks of management accounting research	Handbooks of Management Accounting Research				97	2220	2016-06-24
+99453086	12297	sports engineering	Sports Engineering				478	4408	2016-06-24
+103271999	14262	european journal of language policy	European Journal of Language Policy				118	209	2016-06-24
+106702950	10978	the american review of public administration	The American Review of Public Administration	0275-0740		http://arp.sagepub.com/	1602	18964	2016-06-24
+107004239	12704	journal of emergency management	Journal of Emergency Management				519	1396	2016-06-24
+108758393	10216	progress in lipid research	Progress in Lipid Research				1063	83046	2016-06-24
+117687505	9635	journal of cellular and comparative physiology	Journal of Cellular and Comparative Physiology				2294	59207	2016-06-24
+119405978	8678	annual review of ecology evolution and systematics	Annual Review of Ecology, Evolution, and Systematics	1545-2069		http://www.annualreviews.org/journal/ecolsys	1041	337693	2016-06-24
+119503851	13438	journal of information security	Journal of Information Security				254	882	2016-06-24
+120037611	11583	journal of manufacturing processes	Journal of Manufacturing Processes				1268	8853	2016-06-24
+125331230	12653	mapping sciences & remote sensing	Mapping Sciences & Remote Sensing				709	238	2016-06-24
+132147440	15115	ire transactions on product engineering and production	Ire Transactions on Product Engineering and Production				53	17	2016-06-24
+133660675	10544	european journal of phycology	European Journal of Phycology				2132	42536	2016-06-24
+139240842	11271	journal of nuclear medicine technology	Journal of Nuclear Medicine Technology	0091-4916		http://tech.snmjournals.org/	2005	7226	2016-06-24
+139597178	14914	listy filologicke	Listy Filologicke				76	4	2016-06-24
+140928716	10178	precision engineering journal of the international societies for precision engineering and nanotechnology	Precision Engineering-journal of The International Societies for Precision Engineering and Nanotechnology				2496	34327	2016-06-24
+145743673	11806	journal of english for academic purposes	Journal of English for Academic Purposes				617	9492	2016-06-24
+148726610	12394	journal of aerosol medicine and pulmonary drug delivery	Journal of Aerosol Medicine and Pulmonary Drug Delivery				522	7527	2016-06-24
+161366077	15025	new zealand journal of history	New Zealand Journal of History				40	96	2016-06-24
+162117930	16999	contemporary perspectives in family research	Contemporary Perspectives in Family Research				9	15	2016-06-24
+163078014	11214	british journal of guidance & counselling	British Journal of Guidance & Counselling				1586	16267	2016-06-24
+164212335	12456	arab studies quarterly	Arab Studies Quarterly	0271-3519			482	1573	2016-06-24
+168277307	13715	epistemologia	Epistemologia	0392-9760		http://www.dif.unige.it/epi/review.htm	249	101	2016-06-24
+169694011	10259	global ecology and biogeography	Global Ecology and Biogeography	1466-8238		http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1466-8238	1824	88051	2016-06-24
+170982493	10845	journal of clinical densitometry	Journal of Clinical Densitometry				2415	22439	2016-06-24
+174019123	13864	ieee transactions on engineering writing and speech	IEEE Transactions on Engineering Writing and Speech				146	174	2016-06-24
+178238111	9651	mathematical problems in engineering	Mathematical Problems in Engineering				11285	41675	2016-06-24
+179906512	10810	theoretical and applied fracture mechanics	Theoretical and Applied Fracture Mechanics				2086	20243	2016-06-24
+180821644	9929	pediatric critical care medicine	Pediatric Critical Care Medicine				6084	49930	2016-06-24
+181844767	13068	journal of integrative bioinformatics	Journal of Integrative Bioinformatics				366	1891	2016-06-24
+183279240	18006	annual reports on nmr spectroscopy	Annual Reports on Nmr Spectroscopy				3	7	2016-06-24
+184466155	12812	international journal of nanomanufacturing	International Journal of Nanomanufacturing				538	962	2016-06-24
+186731534	12342	university of pennsylvania journal of constitutional law	University of Pennsylvania Journal of Constitutional Law	1521-2823		http://www.pennjournalconlaw.com/	598	906	2016-06-24
+190942573	13629	mobilization	Mobilization	1086-671X		http://www.mobilization.sdsu.edu/	103	1249	2016-06-24
+194297245	12910	computer audit update	Computer Audit Update				363	173	2016-06-24
+196366644	8935	annual review of physiology	Annual Review of Physiology				2935	242011	2016-06-24
+196879544	13129	molecular urology	Molecular Urology				140	2465	2016-06-24
+205376447	10785	acta chimica sinica	Acta Chimica Sinica				4395	4372	2016-06-24
+205877589	9419	nuovo cimento della societa italiana di fisica a nuclei particles and fields	Nuovo Cimento Della Societa Italiana Di Fisica A-nuclei Particles and Fields				11510	38664	2016-06-24
+207438450	11610	expert reviews in molecular medicine	Expert Reviews in Molecular Medicine				502	22414	2016-06-24
+943873383	16866	peckhamia	Peckhamia	2161-8526		http://peckhamia.com/peckhamia.html	9	20	2016-06-24
+988156201	14554	studi piemontesi	Studi Piemontesi				111	2	2016-06-24
+993389578	13589	palaeontographica abteilung a palaozoologie stratigraphie	Palaeontographica Abteilung A-palaozoologie-stratigraphie				157	1596	2016-06-24
+997569005	12450	theatre research in canada recherches theatrales au canada	Theatre Research in Canada-recherches Theatrales Au Canada				845	192	2016-06-24
+1001999377	15019	international gas engineering and management	International Gas Engineering and Management				69	3	2016-06-24
+1008334261	12120	journal of the atomic energy society of japan	Journal of The Atomic Energy Society of Japan				1218	169	2016-06-24
+2477164297	13698	ieee journal of translational engineering in health and medicine	IEEE Journal of Translational Engineering in Health and Medicine				191	869	2016-08-23
+2597175965	9032	arxiv computer vision and pattern recognition	arXiv: Computer Vision and Pattern Recognition				8754	23944	2017-03-23
+2736309657	14573	boletim do museu de biologia mello leitao	Boletim do Museu de Biologia Mello Leitão				105	60	2017-07-31
+2736411279	12702	polish botanical journal	Polish Botanical Journal				567	1274	2017-07-31
+2736736438	18576	environmental stresses in crop sciences	Environmental Stresses in Crop Sciences				2	0	2017-07-31
+2737115538	13384	revista de letras norte mentos	Revista de Letras Norte@mentos				353	10	2017-07-31
+2737136005	14177	munibe ciencias naturales	Munibe Ciencias Naturales				133	245	2017-07-31
+2737431740	11848	econometrics	Econometrics				698	6548	2017-07-31
+2737630320	16619	e conservation journal	e-conservation Journal				14	2	2017-07-31
+2737966377	15396	atlantic review of economics	Atlantic Review of Economics				45	43	2017-07-31
+2738031195	17883	paginas	Páginas				4	0	2017-07-31
+2738120869	13278	sexualidad salud y sociedad revista latinoamericana	Sexualidad, Salud y Sociedad: Revista Latinoamericana				349	288	2017-07-31
+2738248793	12087	revista brasileira de recursos hidricos	Revista Brasileira de Recursos Hídricos				1100	2171	2017-07-31
+2738347192	14905	parole rubate rivista internazionale di studi sulla citazione	Parole Rubate : Rivista Internazionale di Studi sulla Citazione				74	3	2017-07-31
+2738352793	14653	revista virtual de la sociedad paraguaya de medicina interna	Revista Virtual de la Sociedad Paraguaya de Medicina Interna				101	1	2017-07-31
+2738594227	11873	cuadernos de economia	Cuadernos de Economía				1288	2640	2017-07-31
+2739150457	15743	conexoes culturais	Conexões Culturais				34	0	2017-07-31
+2739184106	12057	cirugia cardiovascular	Cirugía Cardiovascular				1257	474	2017-07-31
+2739295176	14929	arquipelago life and marine sciences	Arquipelago : Life and Marine Sciences				58	201	2017-07-31
+2751117172	9438	national medical journal of china	National Medical Journal of China				16002	22298	2017-09-15
+2754147460	11774	maryland medical journal	Maryland medical journal				1286	2721	2017-09-25
+2754194036	11290	marseille medical	Marseille médical				2813	434	2017-09-25
+2754213467	11891	ceskoslovenska patologie	Československá patologie				1479	1002	2017-09-25
+2754400875	12368	angewandte parasitologie	Angewandte Parasitologie				830	1047	2017-09-25
+2754613715	12311	adolescent medicine (philadelphia)	Adolescent medicine (Philadelphia)				513	3493	2017-09-25
+2754844806	11508	journal of the mount sinai hospital new york	Journal of the Mount Sinai Hospital, New York				1389	3867	2017-09-25
+2755459715	12407	anais do instituto de medicina tropical	Anais do Instituto de Medicina Tropical				854	530	2017-09-25
+2755631367	11602	global journal of health science	Global Journal of Health Science				1755	4987	2017-09-25
+2755645565	12236	quintessence international dental digest	Quintessence international, dental digest				812	1608	2017-09-25
+2755808581	12832	ems world	EMS world				609	127	2017-09-25
+2756436655	12295	american journal of pharmacy and the sciences supporting public health	American journal of pharmacy and the sciences supporting public health				881	950	2017-09-25
+2764347033	12383	multicultural education	Multicultural Education				527	4036	2017-10-27
+2764352319	14320	unnes journal of mathematics education research	Unnes Journal of Mathematics Education Research				132	14	2017-10-27
+2764352813	14358	vidyodaya journal of science	Vidyodaya Journal of Science				129	59	2017-10-27
+2764367847	13741	nova scotia museum	Nova Scotia Museum				251	8	2017-10-27
+2764383705	11236	journal of the mining and metallurgical institute of japan	Journal of the Mining and Metallurgical Institute of Japan				2846	754	2017-10-27
+2764385797	12191	china wood industry	China Wood Industry				1149	223	2017-10-27
+2764386651	14092	journal of optometric education	Journal of Optometric Education				156	88	2017-10-27
+2764398874	12396	optical fiber & electric cable and their applications	Optical Fiber & Electric Cable and Their Applications				935	273	2017-10-27
+2764419237	12120	natural product sciences	Natural product sciences				1056	2530	2017-10-27
+2764421342	13238	journal of studies in technical careers	Journal of Studies in Technical Careers				364	289	2017-10-27
+2764421793	14362	iranian journal of business and economics	Iranian Journal of Business and Economics				135	4	2017-10-27
+2764428561	12624	journal of public health and preventive medicine	Journal of Public Health and Preventive Medicine				763	78	2017-10-27
+2764429030	13131	polish art studies	Polish Art Studies				463	0	2017-10-27
+2764447643	13757	district administration	District Administration				202	561	2017-10-27
+2764468938	13296	nigerian journal of natural products and medicine	Nigerian Journal of Natural Products and Medicine				316	785	2017-10-27
+2764482251	12030	journal of combustion science and technology	Journal of Combustion Science and Technology				1263	617	2017-10-27
+2764494850	13725	the indian journal of sleep medicine	The Indian Journal of Sleep Medicine				249	89	2017-10-27
+2764518860	11128	annals of economics and statistics	Annals of economics and statistics				1271	12204	2017-10-27
+2764524227	12936	jsse journal of social science education	JSSE - Journal of Social Science Education				478	707	2017-10-27
+2764533006	13496	trends in polymer science	Trends in polymer science				185	1340	2017-10-27
+2764540158	13711	international journal of wellbeing	International Journal of Wellbeing				158	1557	2017-10-27
+2764550593	13648	research communications in psychology psychiatry and behavior	Research communications in psychology, psychiatry and behavior				222	481	2017-10-27
+2764563077	13717	primary education	Primary Education				246	5	2017-10-27
+2764566763	12184	journal of harbin teachers college	Journal of Harbin Teachers College				1187	42	2017-10-27
+2764570021	14009	indian journal of mednodent and allied sciences	Indian Journal of Mednodent and Allied Sciences				192	9	2017-10-27
+2764602243	14196	prism a journal of the center for complex operations	Prism: A Journal of the Center for Complex Operations				154	61	2017-10-27
+2764602490	13765	environment and pollution	Environment and Pollution				171	619	2017-10-27
+2764611464	14063	open journal of discrete mathematics	Open journal of Discrete Mathematics				162	159	2017-10-27
+2764619335	13151	ethics policy and environment	Ethics, Policy and Environment				335	856	2017-10-27
+2764626366	12953	sustainable development law and policy	Sustainable Development Law and Policy				408	732	2017-10-27
+2764658692	12915	quintessence of dental technology	Quintessence of dental technology				493	416	2017-10-27
+2764659652	14203	international journal of research in it and management	International Journal of Research in IT and Management				158	8	2017-10-27
+2764660701	13362	international journal of social and economic research	International Journal of Social and Economic Research				361	40	2017-10-27
+2764664873	13724	international journal of infection	International Journal of Infection				231	265	2017-10-27
+2764671737	13014	rhodes journalism review	Rhodes Journalism Review				508	118	2017-10-27
+2764687577	11299	journal of the oceanographical society of japan	Journal of the Oceanographical Society of Japan				1121	9848	2017-10-27
+2764687747	14512	trrl translation	TRRL TRANSLATION				116	3	2017-10-27
+2764692450	14386	iranian journal of emergency medicine	Iranian journal of emergency medicine				131	17	2017-10-27
+2764696291	11284	journal of the sanitary engineering division	Journal of the Sanitary Engineering Division				1027	8873	2017-10-27
+2764699271	11933	jiangxi forestry science and technology	Jiangxi Forestry Science and Technology				1524	83	2017-10-27
+2764699801	14243	entwicklung and landlicher raum	Entwicklung and Landlicher Raum				134	100	2017-10-27
+2764701300	13374	methods archive	Methods Archive				212	869	2017-10-27
+2764710887	14155	technical report of ieice ome	Technical report of IEICE. OME				165	8	2017-10-27
+2764720785	13724	conservation science in cultural heritage	Conservation Science in Cultural Heritage				243	90	2017-10-27
+2764722508	12962	transactions of japan society of spring engineers	Transactions of Japan Society of Spring Engineers				490	220	2017-10-27
+2764729978	12211	chinese journal of medicinal chemistry	Chinese Journal of Medicinal Chemistry				1105	401	2017-10-27
+2764745674	13986	tyumen state university herald humanities research humanitates	Tyumen State University Herald. Humanities Research. Humanitates				194	6	2017-10-27
+2764765344	14622	journal of australian native plants society	Journal of Australian Native Plants Society				104	2	2017-10-27
+2764793812	14470	land & resources	Land & Resources				119	26	2017-10-27
+2764807442	13991	journal of emotional and behavioral problems	Journal of Emotional and Behavioral Problems				115	310	2017-10-27
+2764815606	10704	agriculture network information	Agriculture Network Information				4107	319	2017-10-27
+2764821307	12558	clinical preventive dentistry	Clinical preventive dentistry				369	2720	2017-10-27
+2764848207	13082	saarc journal of agriculture	SAARC Journal of Agriculture				419	387	2017-10-27
+2764849277	12419	industrial organization	Industrial Organization				486	3311	2017-10-27
+2764850660	12185	journal of qingdao technological university	Journal of Qingdao Technological University				1171	107	2017-10-27
+2764861614	13266	journal of linyi university	Journal of Linyi University				404	7	2017-10-27
+2764862224	13259	journal of nanostructures	Journal of Nanostructures				374	537	2017-10-27
+2764865870	13545	environmental technology and innovation	Environmental Technology and Innovation				269	772	2017-10-27
+2764871307	12948	journal of guangxi institute of technology	Journal of Guangxi Institute of Technology				550	24	2017-10-27
+2764876902	13543	acta pharmaceutica nordica	Acta pharmaceutica nordica				187	1061	2017-10-27
+2764890403	12984	applied chemistry	Applied Chemistry				532	39	2017-10-27
+2764902616	13242	journal of heilongjiang institute of science	Journal of Heilongjiang Institute of Science				399	37	2017-10-27
+2764939664	14462	steamboat bill	STEAMBOAT BILL				117	11	2017-10-27
+2764960828	13354	clinical excellence for nurse practitioners the international journal of npace	Clinical excellence for nurse practitioners : the international journal of NPACE				243	828	2017-10-27
+2764973561	12923	the international sports law journal	The international sports law journal				520	373	2017-10-27
+2764975496	14059	student undergraduate research e journal	Student Undergraduate Research E-journal				183	1	2017-10-27
+2764976035	10783	banach center publications	Banach Center Publications				2655	9767	2017-10-27
+2764994656	13629	pain research and clinical management	Pain research and clinical management				120	870	2017-10-27
+2764998356	13420	journal of local history and culture	Journal of Local History and Culture				341	37	2017-10-27
+2765008179	13115	pediatric dental journal	Pediatric Dental Journal				435	472	2017-10-27
+2765008484	13734	advances in laser science i	Advances in Laser Science-I				251	75	2017-10-27
+2765027305	13956	arterial naya gipertenziya	Arterial’naya Gipertenziya				202	2	2017-10-27
+2765033224	13522	explorations in media ecology	Explorations in Media Ecology				281	203	2017-10-27
+2765045380	12443	journal of molecular science	Journal of Molecular Science				915	69	2017-10-27
+2765058173	13471	center for comparative immigration studies	Center for Comparative Immigration Studies				98	1495	2017-10-27
+2765063122	13303	international journal of hematology oncology and stem cell research	International journal of hematology-oncology and stem cell research				357	563	2017-10-27
+2765073140	13618	journal of communication and computer	Journal of Communication and Computer				248	279	2017-10-27
+2765076424	13952	writing on the edge	Writing on the edge				123	119	2017-10-27
+2765078294	12755	journal of shangrao normal college	Journal of Shangrao Normal College				674	9	2017-10-27
+2885768040	13747	human pathology case reports	Human Pathology: Case Reports	2214-3300		http://www.humanpathologycasereports.com	246	52	2018-08-22
+2886469400	15430	chemie der erde	Chemie der Erde	0009-2819		https://www.journals.elsevier.com/chemie-der-erde	29	213	2018-08-22
+4695008	15360	international review of intellectual property and competition law	International Review of Intellectual Property and Competition Law	0018-9855		http://www.ip.mpg.de/en/pub/publications/journals/iic.cfm	43	58	2016-06-24
+13669392	12050	german economic review	German Economic Review	1465-6485		http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0475	499	9120	2016-06-24
+18702314	14587	logos journal of the world book community	Logos: Journal of The World Book Community				103	26	2016-06-24
+19284287	19269	south african journal of marine science suid afrikaanse tydskrif vir seewetenskap	South African Journal of Marine Science-suid-afrikaanse Tydskrif Vir Seewetenskap				1	0	2016-06-24
+20709540	11041	expert opinion on drug safety	Expert Opinion on Drug Safety	1474-0338		http://informahealthcare.com/journal/eds	1652	24936	2016-06-24
+22382660	10493	medicinal research reviews	Medicinal Research Reviews				975	58513	2016-06-24
+22607022	11781	food and agricultural immunology	Food and Agricultural Immunology				1088	8162	2016-06-24
+26862755	11928	performance improvement quarterly	Performance Improvement Quarterly				939	8818	2016-06-24
+31465112	8505	journal of anatomy	Journal of Anatomy	1469-7580		http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291469-7580	12543	247965	2016-06-24
+36555808	10535	current topics in developmental biology	Current Topics in Developmental Biology				1438	49927	2016-06-24
+37588179	11958	sociologie	Sociologie				1309	1030	2016-06-24
+40982841	10407	bulletin of the american schools of oriental research	Bulletin of the American Schools of Oriental Research			http://www.asor.org/pubs/basor/index.html	2050	6852	2016-06-24
+42205570	12917	learning in health and social care	Learning in Health and Social Care				206	3130	2016-06-24
+46539477	11399	nihon gekakei rengo gakkaishi (journal of japanese college of surgeons)	Nihon Gekakei Rengo Gakkaishi (journal of Japanese College of Surgeons)				2218	1862	2016-06-24
+46544255	9546	plos neglected tropical diseases	PLOS Neglected Tropical Diseases	1935-2727		http://www.plosntds.org/	7379	126657	2016-06-24
+54302288	10689	annali italiani di chirurgia	Annali Italiani Di Chirurgia				4530	5954	2016-06-24
+58812326	10478	revue de geographie alpine journal of alpine research	Revue De Geographie Alpine-journal of Alpine Research				5214	2957	2016-06-24
+63023845	8790	journal of radioanalytical and nuclear chemistry	Journal of Radioanalytical and Nuclear Chemistry	0236-5731		http://www.springer.com/journal/10967	21480	129564	2016-06-24
+63410363	14523	basic and applied myology	Basic and Applied Myology				77	326	2016-06-24
+65792589	10389	progress in nucleic acid research and molecular biology	Progress in Nucleic Acid Research and Molecular Biology				809	46807	2016-06-24
+66393655	12337	journal of fire protection engineering	Journal of Fire Protection Engineering	1042-3915		http://jfe.sagepub.com/	301	3429	2016-06-24
+68478772	12927	revista direito gv	Revista Direito Gv				410	373	2016-06-24
+75832472	9042	journal of social psychology	Journal of Social Psychology	0022-4545		http://www.tandfonline.com/action/journalInformation?journalCode=vsoc20	6980	100126	2016-06-24
+79038290	9873	journal for research in mathematics education	Journal for Research in Mathematics Education	0021-8251		http://www.nctm.org/publications/jrme.aspx	1466	61443	2016-06-24
+79415054	12817	psychologist	Psychologist				377	2196	2016-06-24
+84705137	12240	publications de l institut mathematique	Publications De L'institut Mathematique				682	2463	2016-06-24
+85589887	9474	international journal of legal medicine	International Journal of Legal Medicine				9882	67827	2016-06-24
+87230527	8502	journal of the chemical society perkin transactions 1	Journal of The Chemical Society-perkin Transactions 1				29072	133411	2016-06-24
+91548813	13543	the global south	The Global South				203	422	2016-06-24
+92695244	12582	andamios	Andamios				762	347	2016-06-24
+95344940	10544	deutsche zeitschrift fur philosophie	Deutsche Zeitschrift für Philosophie	0012-1045		http://www.akademie-verlag.de/olb/de/1.c.335299.de/	5660	2878	2016-06-24
+95450724	13172	journal of children and poverty	Journal of Children and Poverty				276	1856	2016-06-24
+98169967	15143	gene therapy and molecular biology	Gene Therapy and Molecular Biology				38	392	2016-06-24
+99315931	12143	journal of sulfur chemistry	Journal of Sulfur Chemistry				882	4056	2016-06-24
+101267242	13341	american communist history	American Communist History	1474-3892		http://www.tandfonline.com/rach	328	165	2016-06-24
+102250854	11652	journal of contemporary religion	Journal of Contemporary Religion	1353-7903		http://www.tandfonline.com/cjcr	1074	3837	2016-06-24
+102916872	9751	oral oncology	Oral Oncology	1368-8375		http://www.elsevier.com/wps/find/journaldescription.cws_home/105/description#description	4990	92160	2016-06-24
+104875562	7503	physics letters a	Physics Letters A				47453	470480	2016-06-24
+105204244	11261	texas law review	Texas Law Review	0040-4411		http://www.texaslrev.com/	1037	4749	2016-06-24
+107914479	9779	university of pennsylvania law review	University of Pennsylvania Law Review	0041-9907		http://www.pennlawreview.com/	4114	17615	2016-06-24
+108294569	10804	cirugia y cirujanos	Cirugia Y Cirujanos				4339	4120	2016-06-24
+109194713	13545	focus on powder coatings	Focus on Powder Coatings				235	175	2016-06-24
+111447645	10652	the review of laser engineering	The Review of Laser Engineering				4367	5574	2016-06-24
+113184331	11705	scandinavian studies	Scandinavian Studies				1703	1041	2016-06-24
+113449338	11864	journal of shanghai jiaotong university (science)	Journal of Shanghai Jiaotong University (science)				1428	1880	2016-06-24
+115196597	11986	jornal brasileiro de nefrologia	Jornal Brasileiro De Nefrologia				1219	2880	2016-06-24
+118170198	11158	blumea	Blumea	0006-5196			1717	8952	2016-06-24
+119142761	13784	current medicinal chemistry cardiovascular & hematological agents	Current Medicinal Chemistry - Cardiovascular & Hematological Agents				92	1804	2016-06-24
+120650898	13379	ieee transactions on aerospace and navigational electronics	IEEE Transactions on Aerospace and Navigational Electronics				140	454	2016-06-24
+129123307	14034	croatian journal of forest engineering	Croatian Journal of Forest Engineering				118	532	2016-06-24
+129233233	14735	kidney	Kidney				70	203	2016-06-24
+130329595	13205	gamm mitteilungen	Gamm-mitteilungen				233	1674	2016-06-24
+134585236	11449	space policy	Space Policy				1615	3881	2016-06-24
+136193619	13139	international journal of media and cultural politics	International Journal of Media and Cultural Politics				297	1435	2016-06-24
+136263124	12765	neues jahrbuch fur mineralogie abhandlungen	Neues Jahrbuch Fur Mineralogie-abhandlungen				449	2575	2016-06-24
+140275824	15551	fooyin journal of health sciences	Fooyin Journal of Health Sciences				33	102	2016-06-24
+143072383	11062	rna biology	RNA Biology	1547-6286		http://www.tandfonline.com/loi/krnb20	1597	31376	2016-06-24
+145553572	10628	international journal of general systems	International Journal of General Systems	0308-1079		http://www.tandfonline.com/action/journalInformation?journalCode=ggen20	1592	22090	2016-06-24
+153169766	15192	the open parasitology journal	The Open Parasitology Journal				43	270	2016-06-24
+154487680	9946	chemical engineering & technology	Chemical Engineering & Technology				5530	52810	2016-06-24
+155658104	12327	ecumene	Ecumene				473	2542	2016-06-24
+155971510	11422	neuro ophthalmology	Neuro-Ophthalmology	0165-8107		http://www.informahealthcare.com/OPH	1848	6003	2016-06-24
+158751353	11254	journal of transcultural nursing	Journal of Transcultural Nursing	1043-6596		http://www.sagepub.com/journals/Journal200814/title	1319	16181	2016-06-24
+159239039	13952	cerevisia	Cerevisia				165	466	2016-06-24
+160934207	8710	journal of engineering mechanics asce	Journal of Engineering Mechanics-asce				7847	138873	2016-06-24
+164077388	14027	international journal of vehicular technology	International Journal of Vehicular Technology				114	723	2016-06-24
+164687667	14187	sprache & kognition	Sprache & Kognition				114	463	2016-06-24
+164751776	10057	journal of chemical research s	Journal of Chemical Research-s				8217	14461	2016-06-24
+165300654	16082	opportunistic pathogens	Opportunistic Pathogens				16	29	2016-06-24
+168387291	14167	asian journal of management cases	Asian Journal of Management Cases				152	115	2016-06-24
+168628147	10890	philosophical books	Philosophical Books				2734	5116	2016-06-24
+168826504	12552	black music research journal	Black Music Research Journal				374	1394	2016-06-24
+169411308	8372	fuzzy sets and systems	Fuzzy Sets and Systems				8143	296954	2016-06-24
+170832471	15670	fashion practice the journal of design creative process & the fashion industr	Fashion Practice: The Journal of Design, Creative Process & The Fashion Industr				29	104	2016-06-24
+171971566	11985	convergencia revista de ciencias sociales	Convergencia-revista De Ciencias Sociales				1199	1076	2016-06-24
+177107850	10324	gastroenterology clinics of north america	Gastroenterology Clinics of North America				1695	45848	2016-06-24
+177566603	10455	ophthalmic research	Ophthalmic Research				2954	30348	2016-06-24
+177636448	9698	angle orthodontist	Angle Orthodontist				4193	96628	2016-06-24
+181273861	18567	resistance studies magazine	Resistance Studies Magazine				2	1	2016-06-24
+184932276	12032	asia pacific education review	Asia Pacific Education Review				782	6316	2016-06-24
+185092187	12683	journal of the japan epilepsy society	Journal of The Japan Epilepsy Society				660	422	2016-06-24
+186823356	11237	energy for sustainable development	Energy for Sustainable Development				1311	17435	2016-06-24
+193040567	12910	communication methods and measures	Communication Methods and Measures				202	4115	2016-06-24
+193475107	9509	hyperfine interactions	Hyperfine Interactions				11119	43306	2016-06-24
+194044894	9570	international journal of theoretical physics	International Journal of Theoretical Physics	0020-7748		http://www.springerlink.com/content/1572-9575/	9309	49814	2016-06-24
+195297104	10028	organizational dynamics	Organizational Dynamics				1262	64359	2016-06-24
+196498761	9921	drying technology	Drying Technology				4910	72780	2016-06-24
+196895796	10937	cineforum	Cineforum				4126	58	2016-06-24
+203303425	9628	cancer immunology immunotherapy	Cancer Immunology, Immunotherapy	0340-7004		http://www.springer.com/medicine/oncology/journal/262	5309	116440	2016-06-24
+203549655	12143	discrete optimization	Discrete Optimization				534	6025	2016-06-24
+940600532	19269	kwartalnik historii zydow jewish history quarterly	Kwartalnik Historii Zydow-jewish History Quarterly				1	0	2016-06-24
+940616071	13215	early modern women an interdisciplinary journal	Early Modern Women-an Interdisciplinary Journal				264	315	2016-06-24
+982029923	14271	synthesis lectures on data management	Synthesis Lectures on Data Management				43	1020	2016-06-24
+2488537894	13920	ieee transactions on cognitive and developmental systems	IEEE Transactions on Cognitive and Developmental Systems				190	303	2016-08-23
+2595899084	11537	arxiv human computer interaction	arXiv: Human-Computer Interaction				1147	2801	2017-03-23
+2736459969	16293	badebec	Badebec				19	1	2017-07-31
+2736487386	17311	interventions economiques pour une alternative sociale	Interventions Économiques pour une Alternative Sociale				7	3	2017-07-31
+2736741801	16186	barents studies peoples economies and politics	Barents Studies: Peoples, Economies and Politics				21	15	2017-07-31
+2736756823	14449	trendovi u poslovanju	Trendovi u Poslovanju				124	0	2017-07-31
+2737246436	14757	indonesian journal of islam and muslim societies	Indonesian Journal of Islam and Muslim Societies				89	13	2017-07-31
+2737251451	11787	management science letters	Management Science Letters				1608	2264	2017-07-31
+2737512014	14726	international journal of neonatal screening	International Journal of Neonatal Screening				87	95	2017-07-31
+2737731412	13805	journal of university of babylon	Journal of University of Babylon				236	1	2017-07-31
+2737985625	13858	strenae	Strenae				219	26	2017-07-31
+2737987524	14029	moravian geographical reports	Moravian Geographical Reports				156	432	2017-07-31
+2738292967	13516	studia aurea revista de literatura espanola y teoria literaria del renacimiento y siglo de oro	Studia Aurea: Revista de Literatura Española y Teoría Literaria del Renacimiento y Siglo de Oro				253	84	2017-07-31
+2738458479	13996	revista internacional de organizaciones	Revista Internacional de Organizaciones				190	52	2017-07-31
+2754542432	12534	der krebsarzt	Der Krebsarzt				819	131	2017-09-25
+2754730515	12193	leprosy in india	Leprosy in India				829	971	2017-09-25
+2755041992	12662	the journal of the new york state nurses association	The Journal of the New York State Nurses' Association				506	1168	2017-09-25
+2755162016	12716	annali di stomatologia	Annali di stomatologia				659	500	2017-09-25
+2755213372	12082	kiserletes orvostudomany	Kísérletes orvostudomány				1303	92	2017-09-25
+2755483317	11909	archives d anatomie et de cytologie pathologiques	Archives d'anatomie et de cytologie pathologiques				1342	1593	2017-09-25
+2755996389	12091	journal of christian nursing a quarterly publication of nurses christian fellowship	Journal of Christian nursing : a quarterly publication of Nurses Christian Fellowship				1183	783	2017-09-25
+2764358635	14383	journal of health in the field	Journal of Health in the Field				126	35	2017-10-27
+2764378755	14322	journal of agricultural science and environment	Journal of Agricultural Science and Environment				137	36	2017-10-27
+2764380584	11472	wit transactions on information and communication technologies	WIT Transactions on Information and Communication Technologies				1824	2388	2017-10-27
+2764385097	13633	studies in polymer science	Studies in Polymer Science				128	681	2017-10-27
+2764394099	14379	indian journal of youth and adolescent health	Indian Journal of Youth and Adolescent Health				132	14	2017-10-27
+2764405725	13677	bulletin of the national science museum series c geology & paleontology	Bulletin of the National Science Museum. Series C, Geology & paleontology				203	568	2017-10-27
+2764409723	12945	journal of education institute of taiyuan university	Journal of Education Institute of Taiyuan University				555	7	2017-10-27
+2764420508	13827	new directions	New directions				208	40	2017-10-27
+2764431435	12833	electronics constructions technologies applications	ELECTRONICS - CONSTRUCTIONS, TECHNOLOGIES, APPLICATIONS				615	55	2017-10-27
+2764433534	13048	the canadian journal of regional science	The Canadian Journal of Regional Science				310	1713	2017-10-27
+2764440303	12557	ilha do desterro a journal of english language literatures in english and cultural studies	Ilha do Desterro: A Journal of English Language, Literatures in English and Cultural Studies				710	573	2017-10-27
+2764443717	13987	english language teaching journal	English Language Teaching Journal				148	174	2017-10-27
+2764470259	12881	asian journal of education	Asian Journal of Education				563	305	2017-10-27
+2764473609	13340	journal os southern institute of metallurgy	Journal Os Southern Institute of Metallurgy				371	22	2017-10-27
+2764477558	14234	international journal of multicriteria decision making	International journal of multicriteria decision making				128	336	2017-10-27
+2764485423	13204	journal of the malacological society of australia	Journal of the Malacological Society of Australia				295	961	2017-10-27
+2764494681	12858	austrian journal of technical and natural sciences	Austrian Journal of Technical and Natural Sciences				603	10	2017-10-27
+2764498497	13583	the journal of clinical and scientific research	The Journal of Clinical and Scientific Research				287	86	2017-10-27
+2764513707	13223	qualitative research in sport exercise and health	Qualitative Research in Sport, Exercise and Health				312	1960	2017-10-27
+2764537523	13165	yunnan journal of traditional chinese medicine and materia medica	Yunnan Journal of Traditional Chinese Medicine and Materia Medica				445	28	2017-10-27
+2764547726	12292	reports of the national academy of sciences of ukraine	Reports of the National Academy of Sciences of Ukraine				1042	166	2017-10-27
+2764553205	11541	bulletin of science and technology	Bulletin of Science and Technology				2174	456	2017-10-27
+2764559428	14184	open journal of physical chemistry	Open Journal of Physical Chemistry				130	427	2017-10-27
+2764561923	12514	advances in animal biosciences	Advances in Animal Biosciences				810	470	2017-10-27
+2764574283	13741	journal of the philosophy of sport and physical education	Journal of the Philosophy of Sport and Physical Education				244	38	2017-10-27
+2764579542	13489	biomedical fuzzy and human sciences the official journal of the biomedical fuzzy systems association	Biomedical fuzzy and human sciences : the official journal of the Biomedical Fuzzy Systems Association				252	259	2017-10-27
+2764584009	11252	bulletin of the british museum of natural history	Bulletin of the British Museum of Natural History				678	12225	2017-10-27
+2764591912	13526	journal of northwest semitic languages	Journal of Northwest Semitic Languages				224	143	2017-10-27
+2764595383	11717	agricultural science&technology and equipment	Agricultural Science&Technology and Equipment				1898	42	2017-10-27
+2764596401	12801	journal of kones powertrain and transport	Journal of KONES. Powertrain and Transport				566	371	2017-10-27
+2764633459	12946	international journal of advanced research in computer science and electronics engineering	International Journal of Advanced Research in Computer Science and Electronics Engineering				520	387	2017-10-27
+2764634893	13603	media spectrum	Media Spectrum				288	4	2017-10-27
+2764634936	12463	design for arts in education	Design for Arts in Education				784	611	2017-10-27
+2764636984	14422	geriatrics & health care	Geriatrics & Health Care				127	4	2017-10-27
+2764643833	14478	croatian journal of infection	croatian journal of infection				118	34	2017-10-27
+2764647449	14158	ceylon veterinary journal	Ceylon Veterinary Journal				137	102	2017-10-27
+2764661299	13771	international journal of dental sciences and research	International Journal of Dental Sciences and Research				238	83	2017-10-27
+2764682271	12424	selektsiya i semenovodstvo	Selektsiya i semenovodstvo				931	61	2017-10-27
+2764698868	14064	the japanese journal of nursing arts	The Japanese journal of nursing arts				182	1	2017-10-27
+2764699570	11401	journal of south china normal university	Journal of South China Normal University				2585	230	2017-10-27
+2764712249	13191	reclaiming children and youth	Reclaiming Children and Youth				352	1246	2017-10-27
+2764720961	14080	gateways international journal of community research and engagement	Gateways: International Journal of Community Research and Engagement				142	436	2017-10-27
+2764723761	13092	iranian journal of health and environment	Iranian Journal of Health and Environment				439	467	2017-10-27
+2764757655	14185	journal of the phonetic society of japan	Journal of the Phonetic Society of Japan				134	82	2017-10-27
+2764762630	12454	journal of the american college of toxicology	Journal of the American College of Toxicology				598	2968	2017-10-27
+2764764886	13317	journal of the surveying and mapping division	Journal of the Surveying and Mapping Division				330	164	2017-10-27
+2764766889	12886	china ceramics	China Ceramics				589	28	2017-10-27
+2764787957	13849	oklahoma politics	Oklahoma Politics				220	50	2017-10-27
+2764788834	14189	fundamental toxicological sciences	Fundamental Toxicological Sciences				154	110	2017-10-27
+2764789317	13618	electro optics & passive countermeasures	Electro-optics & Passive Countermeasures				276	47	2017-10-27
+2764805634	14505	the journal of the academy of clinical dentistry	THE JOURNAL OF THE ACADEMY OF CLINICAL DENTISTRY				117	3	2017-10-27
+2764809114	12181	far east journal of mathematical sciences	Far East Journal of Mathematical Sciences				1167	253	2017-10-27
+2764818706	12170	journal of wenzhou medical college	Journal of Wenzhou Medical College				1208	50	2017-10-27
+2764826912	11015	logistics engineering and management	Logistics Engineering and Management				3792	205	2017-10-27
+2764854513	11437	frontiers of entrepreneurship research	Frontiers of entrepreneurship research				2375	2034	2017-10-27
+2764857267	13338	lens and eye toxicity research	Lens and eye toxicity research				197	1449	2017-10-27
+2764862412	13768	journal of sustainable agriculture and the environment	Journal of Sustainable Agriculture and the Environment				222	115	2017-10-27
+2764862620	12325	nottingham medieval studies	Nottingham medieval studies				715	455	2017-10-27
+2764864648	12433	chinese journal of medical imaging	Chinese Journal of Medical Imaging				928	34	2017-10-27
+2764865924	11580	new zealand journal of experimental agriculture	New Zealand journal of experimental agriculture				1102	6974	2017-10-27
+2764904776	13997	american journal of civil engineering and architecture	American Journal of Civil Engineering and Architecture				170	203	2017-10-27
+2764908727	10402	commercial research	Commercial Research				6985	559	2017-10-27
+2764908868	14494	current health sciences journal	Current health sciences journal				108	166	2017-10-27
+2764912600	13519	rssi recherches semiotiques semiotic inquiry	RSSI. Recherches sémiotiques. Semiotic inquiry				273	92	2017-10-27
+2764917640	14069	journal of conflictology	Journal of Conflictology				148	235	2017-10-27
+2764926044	14624	medical equipment	Medical Equipment				104	1	2017-10-27
+2764929533	13032	south asian journal of management	South Asian journal of management				415	1368	2017-10-27
+2764942765	11392	the british journal of cancer supplement	The British journal of cancer. Supplement				737	10371	2017-10-27
+2764955527	11996	guihai tribune	Guihai Tribune				1441	1	2017-10-27
+2764957945	13416	journal of yanbei teachers college	Journal of Yanbei Teachers College				347	6	2017-10-27
+2764979606	13502	iet electrical systems in transportation	IET electrical systems in transportation				194	1110	2017-10-27
+2764983339	11793	hebei journal of traditional chinese medicine	Hebei Journal of Traditional Chinese Medicine				1758	84	2017-10-27
+2764990517	14417	occupational safety science and practice	Occupational Safety – Science and Practice				128	0	2017-10-27
+2765000448	12836	journal of research in national development	Journal of Research in National Development				559	412	2017-10-27
+2765014693	14387	the journal of the herpetological association of rhodesia	The Journal of the Herpetological Association of Rhodesia				124	60	2017-10-27
+2765016914	11864	the educational record	The Educational record				813	3098	2017-10-27
+2765034920	13009	gec journal of research	GEC journal of research				262	844	2017-10-27
+2765035900	12377	medical journal of osaka university	Medical journal of Osaka University				715	1552	2017-10-27
+2765038440	12500	journal of guangdong ocean university	Journal of Guangdong Ocean University				851	142	2017-10-27
+2765052175	13741	international journal of data mining & knowledge management process	International Journal of Data Mining & Knowledge Management Process				181	645	2017-10-27
+2765057867	14210	cell & developmental biology	Cell & developmental biology				145	257	2017-10-27
+2765070658	12438	today s education	Today's Education				614	937	2017-10-27
+2765070926	13041	journal of modern clinical medical bioengineering	Journal of Modern Clinical Medical Bioengineering				502	35	2017-10-27
+2885342966	15345	revista espanola de nutricion comunitaria	Revista Española de Nutrición Comunitaria	1135-3074		https://www.sciencedirect.com/journal/revista-espanola-de-nutricion-comunitaria	46	58	2018-08-22
+2887778873	15419	future computing and informatics journal	Future Computing and Informatics Journal	2314-7288		https://www.journals.elsevier.com/future-computing-and-informatics-journal	43	43	2018-08-22
+2010360	14109	public relations inquiry	Public Relations Inquiry				127	551	2016-06-24
+4913226	12348	the kips transactions partb	The Kips Transactions:partb				967	322	2016-06-24
+7391137	12997	gerokomos	Gerokomos				469	663	2016-06-24
+8329894	11726	child and adolescent mental health	Child and Adolescent Mental Health				1086	9543	2016-06-24
+11693765	14186	nonlinear biomedical physics	Nonlinear Biomedical Physics				56	1364	2016-06-24
+14583120	10543	aids patient care and stds	Aids Patient Care and Stds				2067	43128	2016-06-24
+19162248	14392	forensic linguistics the international journal of speech language and the law	Forensic Linguistics-the International Journal of Speech Language and The Law				47	393	2016-06-24
+19681352	11952	journal of low power electronics	Journal of Low Power Electronics				727	3142	2016-06-24
+24859740	9896	monographs of the society for research in child development	Monographs of The Society for Research in Child Development				1043	60005	2016-06-24
+29661429	11382	journal of marine science and technology	Journal of Marine Science and Technology				1484	8719	2016-06-24
+30054516	11664	twin research	Twin Research				421	13098	2016-06-24
+30933843	11498	alternatives global local political	Alternatives: Global, Local, Political	0304-3754		http://www.csds.in/index.php/	758	6383	2016-06-24
+35392927	10961	disease markers	Disease Markers				2108	23937	2016-06-24
+38029698	12075	small wars & insurgencies	Small Wars & Insurgencies				867	2845	2016-06-24
+44433209	10672	latin american perspectives	Latin American Perspectives	0094-582X		http://www.latinamericanperspectives.com/	2102	14968	2016-06-24
+46216125	12810	medecine et chirurgie du pied	Medecine Et Chirurgie Du Pied				604	236	2016-06-24
+55497336	10692	international angiology	International Angiology	0392-9590		http://www.minervamedica.it/en/journals/international-angiology	2119	20729	2016-06-24
+58769659	11620	sport education and society	Sport Education and Society				845	15163	2016-06-24
+60214879	11370	alberta journal of educational research	Alberta Journal of Educational Research				1550	7715	2016-06-24
+60379886	8807	acm sigarch computer architecture news	ACM Sigarch Computer Architecture News				942	17005	2016-06-24
+64104838	10596	journal of electroceramics	Journal of Electroceramics	1385-3449		http://www.springer.com/materials/optical+%26+electronic+materials/journal/10832	2131	29347	2016-06-24
+68409214	11455	social theory and practice	Social Theory and Practice	0037-802X		http://www.pdcnet.org/soctheory	1150	5058	2016-06-24
+70695507	8637	nonlinear analysis theory methods & applications	Nonlinear Analysis-theory Methods & Applications				13265	169627	2016-06-24
+74100341	11812	opto electronics review	Opto-electronics Review				1005	5940	2016-06-24
+74408252	11610	microscopy today	Microscopy Today				1886	1866	2016-06-24
+75458007	12509	journal of microcomputer applications	Journal of Microcomputer Applications				449	1512	2016-06-24
+80523760	7513	archives of ophthalmology	Archives of Ophthalmology				24681	575750	2016-06-24
+80922315	10728	journal of the world aquaculture society	Journal of The World Aquaculture Society				2288	36290	2016-06-24
+85442508	14108	research journal of parasitology	Research Journal of Parasitology				137	412	2016-06-24
+91749377	11468	transboundary and emerging diseases	Transboundary and Emerging Diseases				1328	12980	2016-06-24
+96739853	11463	acta geologica polonica	Acta Geologica Polonica				1441	10116	2016-06-24
+97006712	16272	international journal of molecular medicine and advance sciences	International Journal of Molecular Medicine and Advance Sciences				17	28	2016-06-24
+98437390	10613	neurosurgical review	Neurosurgical Review				2373	29343	2016-06-24
+102275522	9750	journal of the american college of nutrition	Journal of The American College of Nutrition				2892	96966	2016-06-24
+106555721	10908	behavioral disorders	Behavioral Disorders				1270	26482	2016-06-24
+109719883	10566	european review for medical and pharmacological sciences	European Review for Medical and Pharmacological Sciences	1128-3602		http://www.europeanreview.org/	4218	25195	2016-06-24
+110757056	8540	journal of laryngology and otology	Journal of Laryngology and Otology				16881	153077	2016-06-24
+111393402	13425	power and education	Power and Education				275	678	2016-06-24
+111828274	13357	p adic numbers ultrametric analysis and applications	P-adic Numbers, Ultrametric Analysis, and Applications				266	1212	2016-06-24
+113184965	11191	deviant behavior	Deviant Behavior	0163-9625			1328	19195	2016-06-24
+114265899	8941	memory & cognition	Memory & Cognition				4382	186983	2016-06-24
+118162903	11034	reviews in mathematical physics	Reviews in Mathematical Physics	0129-055X		http://www.worldscinet.com/rmp/rmp.shtml	1040	15789	2016-06-24
+119844295	13964	international journal of numerical analysis and modeling	International Journal of Numerical Analysis and Modeling				100	930	2016-06-24
+121645359	8352	acta crystallographica	Acta Crystallographica	2053-2733		http://journals.iucr.org/	6400	161160	2016-06-24
+122855400	9212	comparative literature	Comparative Literature				3092	37649	2016-06-24
+124084054	11896	acta metallurgica sinica (english letters)	Acta Metallurgica Sinica (english Letters)				1180	4366	2016-06-24
+124335317	14947	the open complementary medicine journal	The Open Complementary Medicine Journal				47	387	2016-06-24
+130536152	10302	cellulose	Cellulose				3414	62698	2016-06-24
+131318974	9562	journal of applied spectroscopy	Journal of Applied Spectroscopy				15127	10135	2016-06-24
+132954302	11530	literature film quarterly	Literature-film Quarterly				1701	1675	2016-06-24
+139179957	10890	sigact news	Sigact News				1463	11293	2016-06-24
+140231038	12650	politikon	Politikon				440	1827	2016-06-24
+141308946	15147	carpathian journal of earth and environmental sciences	Carpathian Journal of Earth and Environmental Sciences				51	155	2016-06-24
+145755630	16738	theology digest	Theology Digest				10	10	2016-06-24
+146856077	11080	vascular surgery	Vascular Surgery				2333	6585	2016-06-24
+146960544	10999	brazilian journal of infectious diseases	Brazilian Journal of Infectious Diseases				2153	19533	2016-06-24
+148595626	10402	journal of toxicological sciences	Journal of Toxicological Sciences				5527	21094	2016-06-24
+149937609	8417	chemical engineering journal	Chemical Engineering Journal				20307	409075	2016-06-24
+150031133	12706	cytojournal	CytoJournal			http://www.cytojournal.com/	359	2999	2016-06-24
+150739081	17863	sciences et techniques de l animal de laboratoire	Sciences Et Techniques De L Animal De Laboratoire				4	1	2016-06-24
+153861934	11217	journal of marketing education	Journal of Marketing Education	0273-4753		http://www.uk.sagepub.com/journals/Journal200864/title	974	20585	2016-06-24
+156058904	10814	academic psychiatry	Academic Psychiatry				2860	16741	2016-06-24
+158688538	11484	advances in pediatrics	Advances in Pediatrics				707	10647	2016-06-24
+158706580	11478	new ideas in psychology	New Ideas in Psychology				1200	10427	2016-06-24
+158809845	13403	international journal of nanoparticles	International Journal of Nanoparticles				295	605	2016-06-24
+160362754	11231	european journal of medical genetics	European Journal of Medical Genetics				1724	15084	2016-06-24
+160879026	8905	journal of psychiatric research	Journal of Psychiatric Research				4509	216681	2016-06-24
+162199860	17187	journal of beliefs & values studies in religion & education	Journal of Beliefs & Values-studies in Religion & Education				8	1	2016-06-24
+163901322	16225	joumal of rock mechanics and geotechnical engineering	Joumal of Rock Mechanics and Geotechnical Engineering				21	0	2016-06-24
+164611413	11256	anesthesia progress	Anesthesia Progress				1585	10664	2016-06-24
+165151903	11262	high performance polymers	High Performance Polymers	0954-0083		http://www.sagepub.com/journals/Journal201635/title	1868	12420	2016-06-24
+165401249	11904	journal of theoretical and computational chemistry	Journal of Theoretical and Computational Chemistry	0219-6336		http://www.worldscinet.com/jtcc/jtcc.shtml	1212	4840	2016-06-24
+166779601	11381	zeitschrift fur religions und geistesgeschichte	Zeitschrift Fur Religions-und Geistesgeschichte				2341	506	2016-06-24
+166852190	11987	polymer reviews	Polymer Reviews				283	12152	2016-06-24
+167709542	11691	actas espanolas de psiquiatria	Actas Espanolas De Psiquiatria				1433	6590	2016-06-24
+167829764	10656	environmental impact assessment review	Environmental Impact Assessment Review				1697	39612	2016-06-24
+170139714	12549	construction innovation information process management	Construction Innovation: Information, Process, Management				417	5259	2016-06-24
+172093770	14387	hepatitis research and treatment	Hepatitis Research and Treatment				87	625	2016-06-24
+172180718	7283	biometrika	Biometrika	0006-3444		http://biomet.oupjournals.org/	7254	485125	2016-06-24
+175030738	8941	neuropsychopharmacology	Neuropsychopharmacology	0893-133X			6407	338877	2016-06-24
+179928794	13776	journal of nursing and healthcare of chronic illness	Journal of Nursing and Healthcare of Chronic Illness				164	926	2016-06-24
+185573540	13752	international journal of stomatology & occlusion medicine	International Journal of Stomatology & Occlusion Medicine				220	338	2016-06-24
+185853653	10276	current opinion in nephrology and hypertension	Current Opinion in Nephrology and Hypertension				2264	55775	2016-06-24
+186215666	9177	addictive behaviors	Addictive Behaviors				5797	169880	2016-06-24
+186726920	14280	culture society and masculinities	Culture, Society and Masculinities	1941-5583		http://www.mensstudies.info/OJS/index.php/CSM	129	180	2016-06-24
+188216929	12774	rivista italiana di musicologia	Rivista Italiana Di Musicologia				640	25	2016-06-24
+188962457	12885	interdisciplinary sciences computational life sciences	Interdisciplinary Sciences: Computational Life Sciences				475	1696	2016-06-24
+189576285	11495	international journal of network security	International Journal of Network Security				1056	7456	2016-06-24
+193386727	11992	journal of the american association for laboratory animal science	Journal of The American Association for Laboratory Animal Science				932	7364	2016-06-24
+197016887	11091	aktuelle urologie	Aktuelle Urologie				3024	3868	2016-06-24
+200677871	13503	logiciel base de donnees reseaux software databases networks	Logiciel, Base De Données, Réseaux \/ Software, Databases, Networks				243	613	2016-06-24
+202230965	10851	the national medical journal of india	The National Medical Journal of India	0970-258X		http://www.nmji.in/	2658	10995	2016-06-24
+205918948	12902	international journal of electronic business	International Journal of Electronic Business				370	2426	2016-06-24
+205957783	10190	reactive & functional polymers	Reactive & Functional Polymers				3391	61764	2016-06-24
+207349855	11697	australian prescriber	Australian Prescriber				1453	4004	2016-06-24
+207580891	12030	disease management & health outcomes	Disease Management & Health Outcomes				677	5057	2016-06-24
+207859457	9014	military medicine	Military Medicine	0026-4075		http://www.amsus.org/index.php/journal	16278	82042	2016-06-24
+975748716	15850	anasthesiologie & intensivmedizin	Anasthesiologie & Intensivmedizin				28	22	2016-06-24
+979202222	19269	frauenheilkunde aktuell	Frauenheilkunde Aktuell				1	0	2016-06-24
+982507924	15150	hungarian quarterly	Hungarian Quarterly				60	14	2016-06-24
+989140491	12338	klinik psikofarmakoloji bulteni bulletin of clinical psychopharmacology	Klinik Psikofarmakoloji Bulteni-bulletin of Clinical Psychopharmacology				918	1667	2016-06-24
+990805543	16554	mother tongue	Mother Tongue				15	5	2016-06-24
+2477089890	11269	rural and remote health	Rural and Remote Health				1501	14059	2016-08-23
+2481706592	13319	cardiorenal medicine	CardioRenal Medicine				269	1846	2016-08-23
+2487249032	13038	revista internacional de andrologia	Revista Internacional de Andrologia				483	407	2016-08-23
+2489440031	12994	nucleic acid therapeutics	Nucleic Acid Therapeutics				341	3496	2016-08-23
+2494179437	11860	biomaterials science	Biomaterials Science				1189	10245	2016-08-23
+2495644771	12890	journal of water sanitation and hygiene for development	Journal of Water Sanitation and Hygiene for Development				460	1411	2016-08-23
+2736318790	15886	asia pacific journal on computational engineering	Asia Pacific Journal on Computational Engineering				22	50	2017-07-31
+2736388092	17441	ankara arastirmalari dergisi	Ankara Araştırmaları Dergisi				6	3	2017-07-31
+2736441819	13926	franciscanum	Franciscanum				197	27	2017-07-31
+2736507771	12992	acervo	Acervo				495	105	2017-07-31
+2737028251	14457	borealis an international journal of hispanic linguistics	Borealis: An International Journal of Hispanic Linguistics				103	144	2017-07-31
+2737140281	13903	revista de educacao e pesquisa em contabilidade	Revista de Educação e Pesquisa em Contabilidade				196	238	2017-07-31
+2737210294	18095	european medical journal gastroenterology	European Medical Journal Gastroenterology				3	3	2017-07-31
+2737386756	13470	open praxis	Open Praxis				257	565	2017-07-31
+2737471100	18970	ufuq i dānish	Ufuq-i Dānish				1	1	2017-07-31
+2737505774	13660	revue internationale de politique de developpement	Revue Internationale de Politique de Développement				249	264	2017-07-31
+2737559645	14053	gels	Gels				169	353	2017-07-31
+2737564675	14033	saude e meio ambiente revista interdisciplinar	Saúde e Meio Ambiente: Revista Interdisciplinar				186	17	2017-07-31
+2737699940	13006	selcuk universitesi edebiyat fakultesi dergisi	Selçuk Üniversitesi Edebiyat Fakültesi Dergisi				519	4	2017-07-31
+2737849888	12561	folia horticulturae	Folia Horticulturae				665	1407	2017-07-31
+2737990715	14727	stanford encyclopedia of philosophy	Stanford Encyclopedia of Philosophy				41	416	2017-07-31
+2738114665	13885	canadian journal of educational communication	Canadian Journal of Educational Communication				128	902	2017-07-31
+2738401929	13635	linguistica e filologia	Linguistica e Filologia				258	126	2017-07-31
+2738435600	13472	cuadernos de neuropsicologia	Cuadernos de Neuropsicologia				322	127	2017-07-31
+2738569500	13312	lingue e linguaggi	Lingue e Linguaggi				382	30	2017-07-31
+2738684666	11749	journal of veterinary research	Journal of Veterinary Research				1825	261	2017-07-31
+2738907095	13380	apertura	Apertura				326	234	2017-07-31
+2738957369	14436	bengal journal of otolaryngology and head neck surgery	Bengal Journal of Otolaryngology and Head Neck Surgery				124	6	2017-07-31
+2738993004	14356	zbornik radova pravnog fakulteta u nisu	Zbornik Radova Pravnog Fakulteta u Nišu				136	0	2017-07-31
+2739221274	13690	escritos de psicologia	Escritos de Psicología				237	423	2017-07-31
+2754011711	11503	turkish journal of trauma & emergency surgery	Turkish journal of trauma & emergency surgery				1886	4353	2017-09-25
+2755047796	11807	dental science reports	Dental science reports				1682	418	2017-09-25
+2755757168	11899	archivos de investigacion medica	Archivos de investigación médica				1344	1692	2017-09-25
+2764345763	14188	radiology of infectious diseases	Radiology of Infectious Diseases				155	77	2017-10-27
+2764348792	10824	the chemical engineer	The Chemical Engineer				4421	1104	2017-10-27
+2764351521	12087	hydrometallurgy of china	Hydrometallurgy of China				932	170	2017-10-27
+2764362210	12660	teaching prek	Teaching PreK				547	1132	2017-10-27
+2764396043	11073	electric welding machine	Electric Welding Machine				3579	236	2017-10-27
+2764409799	12525	journal of henan institute of engineering	Journal of Henan Institute of Engineering				842	30	2017-10-27
+2764436849	12984	quarterly essay	Quarterly Essay				411	731	2017-10-27
+2764447662	13770	wildlife leaflet	Wildlife Leaflet				192	236	2017-10-27
+2764454091	14514	turkiye klinikleri journal of cosmetology	Turkiye Klinikleri Journal of Cosmetology				116	8	2017-10-27
+2764460423	11978	international journal of advanced research in computer and communication engineering	International Journal of Advanced Research in Computer and Communication Engineering				1418	529	2017-10-27
+2764479081	13659	catalan historical review	Catalan Historical Review				256	27	2017-10-27
+2764492976	13885	ukrainian scientific journal of information security	Ukrainian Scientific Journal of Information Security				216	9	2017-10-27
+2764506795	13526	open journal of soil science	Open Journal of Soil Science				246	724	2017-10-27
+2764509995	13751	journal of inner mongolia university of finance and economics	Journal of Inner Mongolia University of Finance and Economics				249	1	2017-10-27
+2764511184	13497	from ontos verlag publications of the austrian ludwig wittgenstein society new series	From ontos verlag: Publications of the Austrian Ludwig Wittgenstein Society - New Series				289	253	2017-10-27
+2764520511	13770	journal of knowledge information technology and systems	Journal of Knowledge Information Technology and Systems				234	37	2017-10-27
+2764525889	18576	the journal of law and the biosciences	The Journal of Law and the Biosciences				2	0	2017-10-27
+2764537196	14064	journal of environmental research and development	Journal of Environmental Research and Development				160	262	2017-10-27
+2764556542	13783	the birth gazette	The Birth gazette				228	97	2017-10-27
+2764565163	12168	journal of luoyang institute of science and technology	Journal of Luoyang Institute of Science and Technology				1206	34	2017-10-27
+2764576972	13230	chinese journal of extracorporeal circulation	Chinese Journal of Extracorporeal Circulation				418	16	2017-10-27
+2764581822	13535	bulletin of the society of vector ecologists	Bulletin of the Society of Vector Ecologists				165	1058	2017-10-27
+2764592509	14279	vocational training european journal	Vocational Training: European Journal				120	229	2017-10-27
+2764610059	13081	physics and high technology	Physics and High Technology				480	34	2017-10-27
+2764613892	14403	environmental biotechnology	Environmental biotechnology				111	309	2017-10-27
+2764617085	13192	progress in neurological surgery	Progress in neurological surgery				233	2214	2017-10-27
+2764628950	13792	revue d etudes constitutionnelles	Revue d'études constitutionnelles				151	179	2017-10-27
+2764635480	11903	optical instruments	Optical Instruments				1550	166	2017-10-27
+2764657378	14109	global journal of technology and optimization	Global Journal of Technology and Optimization				151	240	2017-10-27
+2764668381	11825	journal of the faculty of science the university of tokyo sect 1 a mathematics	Journal of the Faculty of Science, the University of Tokyo. Sect. 1 A, Mathematics				323	4428	2017-10-27
+2764674693	13743	the journal of human & society	The Journal of Human & Society				248	39	2017-10-27
+2764706253	12799	bulletin of friends historical association	Bulletin of Friends' Historical Association				569	90	2017-10-27
+2764714941	12032	china municipal engineering	China Municipal Engineering				1385	30	2017-10-27
+2764733911	11777	journal of the british institution of radio engineers	Journal of the British Institution of Radio Engineers				1032	1336	2017-10-27
+2764754117	12755	the journal of antibiotics series b	The Journal of Antibiotics, Series B				666	44	2017-10-27
+2764771365	13534	the mailer review	The Mailer Review				308	12	2017-10-27
+2764781905	13990	advances in infectious diseases	Advances in Infectious Diseases				181	212	2017-10-27
+2764782732	13487	agroforestry today	Agroforestry today				167	938	2017-10-27
+2764798958	13405	annals of the transvaal museum	Annals of the Transvaal Museum				216	907	2017-10-27
+2764841531	14097	environmental protection	Environmental protection				170	49	2017-10-27
+2764846564	13224	speech prosody	Speech prosody				357	535	2017-10-27
+2764850865	14409	paidagogos journal of education in contexts	Paidagogos - Journal of Education in Contexts				129	1	2017-10-27
+2764865326	12143	planning and changing	Planning and changing				727	2114	2017-10-27
+2764872482	11871	education next	Education Next				989	3537	2017-10-27
+2764882810	14587	journal of nanjing technical college of special education	Journal of Nanjing Technical College of Special Education				108	0	2017-10-27
+2764904183	12918	journal of gansu university of technology	Journal of Gansu University of Technology				559	59	2017-10-27
+2764904321	13693	asian journal of computer science and information technology	Asian Journal of Computer Science and Information Technology				226	300	2017-10-27
+2764912672	13855	canadian journal of history of sport and physical education	Canadian journal of history of sport and physical education				168	182	2017-10-27
+2764922371	12710	journal of chengde medical college	Journal of Chengde Medical College				704	16	2017-10-27
+2764932186	13793	storytelling self society	Storytelling, Self, Society				204	238	2017-10-27
+2764934837	12680	journal of the korea entertainment industry association	Journal of the Korea Entertainment Industry Association				724	34	2017-10-27
+2764937468	12532	gulf and caribbean research	Gulf and Caribbean Research				510	3227	2017-10-27
+2764947508	14358	journal of applied water engineering and research	Journal of Applied Water Engineering and Research				116	245	2017-10-27
+2764979234	13168	journal of christian education & information technology	Journal of Christian Education & Information Technology				294	288	2017-10-27
+2764996763	9956	journal of the institution of electrical engineers	Journal of the Institution of Electrical Engineers				4994	7102	2017-10-27
+2765005973	14005	drama research	Drama Research				193	4	2017-10-27
+2765013855	13788	journal of the asfmra	Journal of the ASFMRA				183	356	2017-10-27
+2765016097	13222	sa orthopaedic journal	SA Orthopaedic Journal				400	272	2017-10-27
+2765016273	13942	tolley s communications law	Tolley's communications law				189	88	2017-10-27
+2765031493	14172	lilith a feminist history journal	Lilith: a feminist history journal				151	56	2017-10-27
+2765036585	13675	computational particle mechanics	Computational particle mechanics				201	891	2017-10-27
+2765046212	11648	journal of shenyang university	Journal of Shenyang University				2022	94	2017-10-27
+2765068136	11028	the annual research report	The annual research report				2910	4410	2017-10-27
+2765071728	13484	journal of schooling studies	Journal of Schooling Studies				324	8	2017-10-27
+2765076858	13382	the online journal of clinical audits	The Online Journal of Clinical Audits				350	74	2017-10-27
+2885484410	15780	ecological genetics and genomics	Ecological Genetics and Genomics	2405-9854		https://www.journals.elsevier.com/ecological-genetics-and-genomics	32	23	2018-08-22
+2886622675	13593	petroleum	Petroleum	2405-6561		http://www.keaipublishing.com/en/journals/petlm/	237	697	2018-08-22
+2886671009	13255	zentralblatt fur bakteriologie mikrobiologie und hygiene i abt originale c allgemeine angewandte und okologische mikrobiologie	Zentralblatt für Bakteriologie Mikrobiologie und Hygiene: I. Abt. Originale C: Allgemeine, angewandte und ökologische Mikrobiologie	0721-9571		https://www.sciencedirect.com/journal/zentralblatt-fur-bakteriologie-mikrobiologie-und-hygiene-i-abt-originale-c-allgemeine-angewandte-und-okologische-mikrobiologie	97	1845	2018-08-22
+2887109711	14455	international medical review on down syndrome	International Medical Review on Down Syndrome	2171-9748		https://www.sciencedirect.com/journal/international-medical-review-on-down-syndrome	119	70	2018-08-22
+4501114	11142	archive for history of exact sciences	Archive for History of Exact Sciences	0003-9519		http://www.springer.com/mathematics/history+of+mathematics/journal/407	973	8055	2016-06-24
+5499309	12414	geologica acta	Geologica Acta				465	6032	2016-06-24
+8133038	12026	research in international business and finance	Research in International Business and Finance				965	7886	2016-06-24
+8424357	13973	international journal of intellectual property management	International Journal of Intellectual Property Management				157	323	2016-06-24
+9179619	12325	chilean journal of agricultural research	Chilean Journal of Agricultural Research				721	4150	2016-06-24
+9242254	16422	poetry review	Poetry Review				16	7	2016-06-24
+10577759	11383	clinical child and family psychology review	Clinical Child and Family Psychology Review				385	28399	2016-06-24
+11075324	14149	international journal of strategic information technology and applications	International Journal of Strategic Information Technology and Applications				158	174	2016-06-24
+11534120	13848	epj direct	Epj Direct				132	419	2016-06-24
+12198553	11716	argumentation	Argumentation				1075	6882	2016-06-24
+13663286	11344	the journal for nurse practitioners	The Journal for Nurse Practitioners	1555-4155		http://www.npjournal.org/	2456	3025	2016-06-24
+16648056	11830	time & society	Time & Society	0961-463X		http://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200801	654	8411	2016-06-24
+16935192	11769	the review of high pressure science and technology	The Review of High Pressure Science and Technology				1494	1856	2016-06-24
+21861261	16773	asian journal of spectroscopy	Asian Journal of Spectroscopy				9	6	2016-06-24
+22998730	9967	bulletin du cancer	Bulletin Du Cancer				8193	22711	2016-06-24
+24945758	11231	erdkunde	Erdkunde				2027	6452	2016-06-24
+26608901	11140	gender place and culture	Gender Place and Culture				1209	17180	2016-06-24
+36209479	11529	industry and innovation	Industry and Innovation				666	17854	2016-06-24
+38024979	9347	journal of international business studies	Journal of International Business Studies	0047-2506		http://www.jibs.net/	2430	241581	2016-06-24
+38369159	13716	studies in interface science	Studies in Interface Science				186	631	2016-06-24
+38631682	10276	contributions to nephrology	Contributions To Nephrology				4290	32739	2016-06-24
+39171397	13240	south african journal of wildlife research	South African Journal of Wildlife Research				235	2264	2016-06-24
+41514858	13726	journal of internet and enterprise management	Journal of Internet and Enterprise Management				173	995	2016-06-24
+44845084	12123	language policy	Language Policy				640	4491	2016-06-24
+45468527	9333	modern physics letters a	Modern Physics Letters A				10102	62927	2016-06-24
+46521498	10265	forestry chronicle	Forestry Chronicle				4709	28120	2016-06-24
+48532383	11808	biological wastes	Biological Wastes				536	7816	2016-06-24
+50224313	13051	international journal of fluid machinery and systems	International Journal of Fluid Machinery and Systems				356	1089	2016-06-24
+58535122	10619	language and cognitive processes	Language and Cognitive Processes				912	41445	2016-06-24
+58954801	12683	leadership and management in engineering	Leadership and Management in Engineering				543	1736	2016-06-24
+62704344	8380	american journal of physiology cell physiology	American Journal of Physiology-cell Physiology				11256	432788	2016-06-24
+65744445	12525	anales del instituto de la patagonia	Anales Del Instituto De La Patagonia				688	1290	2016-06-24
+65828706	11027	louisiana law review	Louisiana Law Review				3462	966	2016-06-24
+67807940	9428	journal of applied mathematics and mechanics	Journal of Applied Mathematics and Mechanics	0044-2267			10946	32637	2016-06-24
+69397378	12347	telemedicine journal	Telemedicine Journal				185	3958	2016-06-24
+70416722	11618	catholic university law review	Catholic University Law Review	1530-6119		http://lawreview.law.edu/	1800	981	2016-06-24
+75054922	11340	journal of advanced transportation	Journal of Advanced Transportation				1400	8905	2016-06-24
+79992667	8792	annals of the entomological society of america	Annals of The Entomological Society of America				11970	150202	2016-06-24
+85427048	10678	iet communications	Iet Communications				3331	18701	2016-06-24
+85666469	11814	georgian mathematical journal	Georgian Mathematical Journal				1164	3570	2016-06-24
+86329351	11536	indian journal of animal research	Indian Journal of Animal Research				2168	902	2016-06-24
+88457320	9482	journal of mechanical design	Journal of Mechanical Design				4509	88802	2016-06-24
+96988850	10937	clinical nurse specialist	Clinical Nurse Specialist	0887-6274		http://journals.lww.com/cns-journal/pages/default.aspx	2393	11056	2016-06-24
+98026630	7947	food chemistry	Food Chemistry	0308-8146		http://www.elsevier.com/wps/find/journaldescription.cws_home/405857/description#description	25746	733843	2016-06-24
+100207823	12902	informatik forschung und entwicklung	Informatik - Forschung Und Entwicklung				417	1099	2016-06-24
+104805611	11354	the european journal of development research	The European Journal of Development Research				1123	13195	2016-06-24
+105243760	5710	applied physics letters	Applied Physics Letters	0003-6951		http://apl.aip.org/	123521	3612213	2016-06-24
+106979931	12726	arab journal of gastroenterology	Arab Journal of Gastroenterology				605	1129	2016-06-24
+109232058	11366	ethnicity & health	Ethnicity & Health				942	16275	2016-06-24
+113181601	15705	law & justice	Law & Justice	0269-817X		http://www.lawandjustice.org.uk/	33	3	2016-06-24
+114252033	12076	postmodern culture	Postmodern Culture	1053-1920		http://www.press.jhu.edu/journals/postmodern_culture/	850	1308	2016-06-24
+118992489	7862	journal of the acm	Journal of the ACM	0004-5411		http://jacm.acm.org/	3182	295434	2016-06-24
+119483640	10040	educational studies in mathematics	Educational Studies in Mathematics	0013-1954		http://www.springer.com/education/mathematics+education/journal/10649	2170	54565	2016-06-24
+121479258	11484	transformation groups	Transformation Groups				759	7421	2016-06-24
+122290859	8849	journal of health and social behavior	Journal of Health and Social Behavior	0022-1465		http://www.sagepub.com/journals/Journal201971/title	1816	184235	2016-06-24
+126162762	9447	canadian journal of cardiology	Canadian Journal of Cardiology				10297	66005	2016-06-24
+127769668	10436	journal of the japanese society for horticultural science	Journal of The Japanese Society for Horticultural Science				4238	22010	2016-06-24
+128239818	12922	ire transactions on aeronautical and navigational electronics	Ire Transactions on Aeronautical and Navigational Electronics				202	645	2016-06-24
+128347262	10605	indian journal of horticulture	Indian Journal of Horticulture				4534	5472	2016-06-24
+131276044	11160	journal of nonlinear science	Journal of Nonlinear Science				844	14849	2016-06-24
+131696295	11810	primus	PRIMUS				1292	2571	2016-06-24
+136696590	14570	papillomavirus report	Papillomavirus Report				46	238	2016-06-24
+143583143	14661	current topics in nutraceutical research	Current Topics in Nutraceutical Research				82	295	2016-06-24
+146160715	13127	perspectives on augmentative and alternative communication	Perspectives on Augmentative and Alternative Communication				386	871	2016-06-24
+149627586	14059	foundations and trends in microeconomics	Foundations and Trends in Microeconomics				45	1252	2016-06-24
+152286864	10361	radiation and environmental biophysics	Radiation and Environmental Biophysics				2547	29969	2016-06-24
+159848557	16124	research letters in materials science	Research Letters in Materials Science				17	66	2016-06-24
+160413003	13717	bulletin of the faculty of science ibaraki university series a mathematics	Bulletin of The Faculty of Science, Ibaraki University. Series A, Mathematics				182	320	2016-06-24
+161185981	8117	epl	EPL	0295-5075		http://iopscience.iop.org/0295-5075	19605	251534	2016-06-24
+164703325	13183	revue de linguistique romane	Revue De Linguistique Romane				365	195	2016-06-24
+165235614	9233	biological & pharmaceutical bulletin	Biological & Pharmaceutical Bulletin	0918-6158		http://bpb.pharm.or.jp/	9218	154552	2016-06-24
+166850901	10974	internet and higher education	Internet and Higher Education				702	32988	2016-06-24
+168975578	9058	journal of microscopy	Journal of Microscopy	0022-2720		http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2818	6778	145644	2016-06-24
+172573765	5614	jama	JAMA	0098-7484		http://jama.ama-assn.org/	145344	3563872	2016-06-24
+173077093	12826	mathematical programming computation	Mathematical Programming Computation				146	4394	2016-06-24
+177401697	10219	netherlands journal of medicine	Netherlands Journal of Medicine				4735	29256	2016-06-24
+177540274	12266	journal of the ergonomics society of korea	Journal of The Ergonomics Society of Korea				902	1829	2016-06-24
+182205653	12443	mathematical communications	Mathematical Communications				608	2030	2016-06-24
+182284546	10162	molecular vision	Molecular Vision	1090-0535		http://www.molvis.org/	3383	68850	2016-06-24
+183821374	12788	international journal of sustainable engineering	International Journal of Sustainable Engineering				397	2888	2016-06-24
+184189337	10773	hts teologiese studies theological studies	Hts Teologiese Studies-theological Studies				4327	4208	2016-06-24
+187296519	11134	revista estudos feministas	Revista Estudos Feministas				2065	5183	2016-06-24
+191848751	15335	european journal of radiography	European Journal of Radiography				35	113	2016-06-24
+193210337	12436	plant operations progress	Plant\/operations Progress				534	1682	2016-06-24
+196682830	12942	journal of iberian geology	Journal of Iberian Geology				381	2848	2016-06-24
+197087632	10995	photodermatology photoimmunology and photomedicine	Photodermatology, Photoimmunology and Photomedicine	0905-4383		http://www.blackwellpublishing.com/journal.asp?ref=0905-4383&site=1	1517	23134	2016-06-24
+197191252	11218	journal of international economic law	Journal of International Economic Law				898	6983	2016-06-24
+198917220	10562	somatic cell and molecular genetics	Somatic Cell and Molecular Genetics	0740-7750		http://www.springer.com/biomed/human+genetics/journal/11188	1436	29207	2016-06-24
+200275961	12643	journal of popular music studies	Journal of Popular Music Studies				573	796	2016-06-24
+200968236	14045	international journal of knowledge and systems science	International Journal of Knowledge and Systems Science				165	262	2016-06-24
+204648954	13441	osteuropa	Osteuropa				330	66	2016-06-24
+902237881	10807	electronic notes in discrete mathematics	Electronic Notes in Discrete Mathematics				3365	10102	2016-06-24
+994684116	19269	florida philosophical review	Florida Philosophical Review				1	0	2016-06-24
+1010841706	19269	cesky lid ethnologicky casopis	Cesky Lid-ethnologicky Casopis				1	0	2016-06-24
+1011389943	17165	strad	Strad				8	3	2016-06-24
+1026551105	12261	anales del seminario de historia de la filosofia	Anales Del Seminario De Historia De La Filosofia				1073	90	2016-06-24
+2595243153	12373	arxiv sound	arXiv: Sound				514	954	2017-03-23
+2595580166	11527	arxiv data analysis statistics and probability	arXiv: Data Analysis, Statistics and Probability				980	6229	2017-03-23
+2736332253	11980	antibiotics	Antibiotics				794	3046	2017-07-31
+2736648221	18170	revista litteris	Revista Litteris				3	0	2017-07-31
+2736967410	14908	international journal for history culture and modernity	International Journal for History, Culture and Modernity				70	39	2017-07-31
+2737738381	18170	estudios del ishir	Estudios del ISHiR				3	0	2017-07-31
+2737830884	12523	historia y sociedad	Historia y Sociedad				752	142	2017-07-31
+2737878299	15472	bulgarian journal of science and education policy	Bulgarian Journal of Science and Education Policy				40	37	2017-07-31
+2738144069	11968	herba polonica	Herba Polonica				1331	1580	2017-07-31
+2738174906	16883	international journal of advances in applied mathematics and mechanics	International Journal of Advances in Applied Mathematics and Mechanics				10	15	2017-07-31
+2738222334	15221	revista brasileira de estudos organizacionais	Revista Brasileira de Estudos Organizacionais				57	4	2017-07-31
+2738850694	13996	research in agriculture livestock and fisheries	Research in Agriculture, Livestock and Fisheries				193	29	2017-07-31
+2738916421	13249	ingenieria y ciencia	Ingeniería y Ciencia				392	211	2017-07-31
+2739210737	18576	majallah i ḥuqūq i taṭbīqī	Majallah-i ḥuqūq-i taṭbīqī				2	0	2017-07-31
+2739328924	13802	gondola ensenanza y aprendizaje de las ciencias	Góndola, Enseñanza y Aprendizaje de las Ciencias				235	14	2017-07-31
+2739380121	13820	scientific annals of economics and business	Scientific Annals of Economics and Business				223	123	2017-07-31
+2753937886	12061	the nigerian postgraduate medical journal	The Nigerian postgraduate medical journal				970	3085	2017-09-25
+2754278097	11832	the new zealand dental journal	The New Zealand dental journal				1144	3555	2017-09-25
+2754408127	10997	gan no rinsho japan journal of cancer clinics	Gan no rinsho. Japan journal of cancer clinics				3616	1898	2017-09-25
+2754508249	12260	toulouse medical	Toulouse médical				1068	177	2017-09-25
+2755014366	12346	mikrobiologicheskiĭ zhurnal	Mikrobiologicheskiĭ zhurnal				1000	183	2017-09-25
+2755868475	12244	rivista d ostetricia e ginecologia pratica	Rivista d'ostetricia e ginecologia pratica				1092	152	2017-09-25
+2756012757	12732	microbiologia parazitologia epidemiologia	Microbiologia, parazitologia, epidemiologia				684	26	2017-09-25
+2756256724	12831	applied therapeutics	Applied therapeutics				535	337	2017-09-25
+2756425940	12027	guy s hospital reports	Guy's Hospital reports				816	2290	2017-09-25
+2764348034	12708	pharmaceutical medicine	Pharmaceutical medicine				429	1370	2017-10-27
+2764353423	13946	international journal of research in advanced engineering and technology	International Journal of Research in Advanced Engineering and Technology				202	26	2017-10-27
+2764359511	13766	turkiye klinikleri journal of surgery	Turkiye Klinikleri Journal of Surgery				243	23	2017-10-27
+2764365979	11758	the dairy mail	The Dairy Mail				1822	49	2017-10-27
+2764367930	13825	odovtos international journal of dental sciences	Odovtos - International Journal of Dental Sciences				230	21	2017-10-27
+2764383469	9519	transactions of the japan society of mechanical engineers b	Transactions of the Japan Society of Mechanical Engineers. B				13450	13478	2017-10-27
+2764386878	14651	the scientific journal of rehabilitation medicine	The Scientific Journal of Rehabilitation Medicine				101	7	2017-10-27
+2764396959	13166	system simulation technology	System Simulation Technology				428	118	2017-10-27
+2764426076	14197	optimizing the resources for water management	Optimizing the resources for water management				152	48	2017-10-27
+2764465820	13950	international journal of childbirth	International journal of childbirth				176	359	2017-10-27
+2764468170	12556	geology and exploration	Geology and Exploration				806	294	2017-10-27
+2764475687	14209	international journal of epilepsy	International Journal of Epilepsy				156	30	2017-10-27
+2764498445	13332	agriculture and forestry	Agriculture and Forestry				352	254	2017-10-27
+2764509732	13797	learning disabilities a contemporary journal	Learning Disabilities: A Contemporary Journal				134	1311	2017-10-27
+2764521449	14551	ieice technical report wbs wideband system	IEICE technical report. WBS, Wideband System				110	12	2017-10-27
+2764524700	13808	korean journal of labor studies	Korean journal of labor studies				232	34	2017-10-27
+2764534584	11800	journal of information technology in construction	Journal of Information Technology in Construction				514	6937	2017-10-27
+2764541622	14334	journal of xinjiang finance & economics institute	Journal of Xinjiang Finance & Economics Institute				139	1	2017-10-27
+2764546883	11710	control and dynamic systems	Control and dynamic systems				518	4170	2017-10-27
+2764564813	13892	national bureau of standards special publication	National Bureau of Standards, Special Publication				131	278	2017-10-27
+2764567258	13713	jsiam letters	JSIAM Letters				205	470	2017-10-27
+2764568980	13782	research bulletin of the plant protection service japan	Research bulletin of the plant protection service, Japan				183	237	2017-10-27
+2764573974	12595	gx water resources & hydropower engineering	Gx Water Resources & Hydropower Engineering				789	14	2017-10-27
+2764580057	11594	computing in cardiology	Computing in Cardiology				582	1567	2017-10-27
+2764582485	13326	the journal of the american forensic association	The Journal of the American Forensic Association				175	1117	2017-10-27
+2764588050	13402	communities and banking	Communities and Banking				321	241	2017-10-27
+2764591498	11585	neir̆ofiziologiia	Neir̆ofiziologiia				2062	1179	2017-10-27
+2764615467	11639	highlights of astronomy	Highlights of Astronomy				1710	1451	2017-10-27
+2764625074	12125	journal of ecumenical studies	Journal of ecumenical studies				992	592	2017-10-27
+2764651825	13822	innovative solutions in modern science	Innovative solutions in modern science				232	0	2017-10-27
+2764675091	12714	journal of iberian geology an international publication of earth sciences	Journal of iberian geology: an international publication of earth sciences				547	1713	2017-10-27
+2764711500	13595	international journal of stem cells	International journal of stem cells				231	1261	2017-10-27
+2764717225	12501	interamerican journal of psychology	Interamerican Journal of Psychology				640	2794	2017-10-27
+2764747985	14162	permanente foundation medical bulletin	Permanente Foundation medical bulletin				144	132	2017-10-27
+2764765139	13154	power station auxiliary equipment	Power Station Auxiliary Equipment				451	10	2017-10-27
+2764775394	11572	rangelands archives	Rangelands Archives				1541	4584	2017-10-27
+2764793898	11351	die & mould industry	Die & Mould Industry				2735	66	2017-10-27
+2764804792	14147	journal of orthodontic science	journal of orthodontic science				149	236	2017-10-27
+2764825284	13649	iraqi postgraduate medical journal	Iraqi postgraduate Medical Journal				268	85	2017-10-27
+2764825918	14070	journal of suzhou university natural science	Journal of Suzhou University Natural Science				180	4	2017-10-27
+2764831130	13977	journal of sustainable mining	Journal of Sustainable Mining				151	380	2017-10-27
+2764844841	14115	journal of pollination ecology	Journal of pollination ecology				137	565	2017-10-27
+2764847215	12701	surgical and cosmetic dermatology	Surgical and Cosmetic Dermatology				696	209	2017-10-27
+2764868505	14328	japanese journal of geriatric psychiatry	Japanese journal of geriatric psychiatry				139	11	2017-10-27
+2764887707	12982	radioactivity in the environment	Radioactivity in the Environment				370	1594	2017-10-27
+2764888947	11385	journal of inner mongolia university for nationalities	Journal of Inner Mongolia University for Nationalities				2648	38	2017-10-27
+2764902357	12788	international journal of business and social research	International journal of business and social research				601	622	2017-10-27
+2764914115	13269	iranian journal of pharmacology and therapeutics	Iranian Journal of Pharmacology and Therapeutics				267	1644	2017-10-27
+2764920190	12540	the international journal of teaching and learning in higher education	The International Journal of Teaching and Learning in Higher Education				473	3715	2017-10-27
+2764930777	14019	australasian plant conservation journal of the australian network for plant conservation	Australasian plant conservation : journal of the Australian network for plant conservation				188	43	2017-10-27
+2764947466	13466	hortflora research spectrum	HortFlora Research Spectrum				315	123	2017-10-27
+2764955395	13364	journal of computer & system sciences international	Journal of computer & system sciences international				328	234	2017-10-27
+2764956228	12883	the expedition	The Expedition				407	724	2017-10-27
+2764960012	12824	thermal turbine	Thermal Turbine				621	48	2017-10-27
+2764961556	11999	national center for education statistics	National Center for Education Statistics				688	7045	2017-10-27
+2764975970	12766	project appraisal	Project appraisal				337	1934	2017-10-27
+2765023330	14272	latgale national economy research	Latgale National Economy Research				146	16	2017-10-27
+2765037279	10376	journal of library and information sciences in agriculture	Journal of Library and Information Sciences in Agriculture				7247	110	2017-10-27
+2765051288	11942	statistics and risk modeling	Statistics and Risk Modeling				714	4625	2017-10-27
+2765058431	13119	research journal of pharmaceutical dosage forms and technology	Research Journal of Pharmaceutical Dosage Forms and Technology				458	149	2017-10-27
+2765074949	10797	manufacturing automation	Manufacturing Automation				4639	791	2017-10-27
+2765077740	11676	journal of chinese information processing	Journal of Chinese information processing				1228	2542	2017-10-27
+2885803259	14081	revista espanola de cardiologia suplementos	Revista Española de Cardiología Suplementos	1131-3587		https://www.journals.elsevier.com/revista-espanola-de-cardiologia-suplementos	144	429	2018-08-22
+2887083906	16284	ifac journal of systems and control	IFAC Journal of Systems and Control	2468-6018		https://www.journals.elsevier.com/ifac-journal-of-systems-and-control	19	10	2018-08-22
+744042	10030	respiratory care	Respiratory Care	0020-1324		http://www.rcjournal.com/	5168	49955	2016-06-24
+1209674	13704	handbook of magnetic materials	Handbook of Magnetic Materials				107	801	2016-06-24
+1724347	13003	journal of transatlantic studies	Journal of Transatlantic Studies	1479-4012		http://www.tandfonline.com/loi/rjts20	425	444	2016-06-24
+5745031	8518	solar energy	Solar Energy				11246	263121	2016-06-24
+10025213	12461	apt bulletin	APT Bulletin	0848-8525		http://www.apti.org/publications/apt-bulletin-the-journal-of-preservation-technology/	578	1336	2016-06-24
+15464138	13633	qui parle critical humanities and social sciences	Qui Parle: Critical Humanities and Social Sciences				199	291	2016-06-24
+19082065	12526	thrombosis journal	Thrombosis Journal				381	4709	2016-06-24
+19085469	15052	nature and science	Nature and Science				63	76	2016-06-24
+19733918	11102	international reviews of immunology	International Reviews of Immunology				971	23576	2016-06-24
+20309998	13687	journal of computational science and technology	Journal of Computational Science and Technology				186	543	2016-06-24
+20475639	12516	journal of european competition law & practice	Journal of European Competition Law & Practice				775	656	2016-06-24
+25538012	8246	international journal of computer vision	International Journal of Computer Vision	0920-5691		http://link.springer.com/journal/11263	2501	274879	2016-06-24
+27476350	10791	journal of south american earth sciences	Journal of South American Earth Sciences				2184	34459	2016-06-24
+28438197	10315	journal of applied ichthyology	Journal of Applied Ichthyology	0175-8659		http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0426	4219	42211	2016-06-24
+32186209	9633	journal of comparative psychology	Journal of Comparative Psychology	0735-7036		http://www.apa.org/pubs/journals/com/index.aspx	2859	75061	2016-06-24
+32194173	11919	nspi journal	Nspi Journal				1098	877	2016-06-24
+37256505	10258	drugs & aging	Drugs & Aging	1170-229X		http://adisonline.com/aging/pages/default.aspx	2282	56198	2016-06-24
+37662143	11716	american journal of audiology	American Journal of Audiology	1059-0889		http://aja.asha.org/	886	8602	2016-06-24
+38282629	12757	journal of business of the university of chicago	Journal of Business of The University of Chicago				642	162	2016-06-24
+43424202	12676	the open automation and control systems journal	The Open Automation and Control Systems Journal				702	274	2016-06-24
+44425019	6560	biochemical journal	Biochemical Journal	0264-6021		http://www.biochemj.org/	55109	1981359	2016-06-24
+47829194	11880	journal of english linguistics	Journal of English Linguistics	0075-4242		http://eng.sagepub.com/	822	3961	2016-06-24
+48849333	7988	the plant cell	The Plant Cell	1040-4651		http://www.plantcell.org/	7353	811414	2016-06-24
+49964423	12150	ancient society	Ancient Society				678	756	2016-06-24
+51684088	10681	caryologia	Caryologia				2878	21251	2016-06-24
+57786118	13344	senckenbergiana maritima	Senckenbergiana Maritima				226	1863	2016-06-24
+58311177	10738	international journal of the sociology of language	International Journal of the Sociology of Language	0165-2516		http://www.degruyter.com/view/j/ijsl?rskey=WVzpYS&result=21&q=	2130	13870	2016-06-24
+58879488	12304	journal of financial regulation and compliance	Journal of Financial Regulation and Compliance				804	2562	2016-06-24
+59074829	17626	ent ear nose & throat journal	Ent-ear Nose & Throat Journal				4	6	2016-06-24
+60441335	13654	folia oeconomica stetinensia	Folia Oeconomica Stetinensia				261	121	2016-06-24
+64820383	10595	acta paulista de enfermagem	Acta Paulista De Enfermagem				3927	14085	2016-06-24
+68870015	12843	current hepatitis reports	Current Hepatitis Reports				526	1076	2016-06-24
+74113319	10561	autonomic neuroscience basic and clinical	Autonomic Neuroscience: Basic and Clinical	1566-0702		http://www.journals.elsevier.com/autonomic-neuroscience-basic-and-clinical/	3528	33294	2016-06-24
+76837745	11048	critical reviews in clinical laboratory sciences	Critical Reviews in Clinical Laboratory Sciences	1040-8363		http://www.tandfonline.com/ilab	738	26618	2016-06-24
+78735424	8916	cognitive science	Cognitive Science				7331	136809	2016-06-24
+89916932	15100	ageing research	Ageing Research				58	115	2016-06-24
+90310510	11426	disaster prevention and management	Disaster Prevention and Management				996	13525	2016-06-24
+90573847	8460	journal of magnetic resonance	Journal of Magnetic Resonance				12067	295612	2016-06-24
+91930975	12623	the soviet and post soviet review	The Soviet and Post-soviet Review				639	372	2016-06-24
+97325637	11598	carlsberg research communications	Carlsberg Research Communications				466	13645	2016-06-24
+97523130	15439	merkur deutsche zeitschrift fur europaisches denken	Merkur-deutsche Zeitschrift Fur Europaisches Denken				36	21	2016-06-24
+99003644	9393	photogrammetric engineering and remote sensing	Photogrammetric Engineering and Remote Sensing				3302	102479	2016-06-24
+99207334	12196	developments in geotechnical engineering	Developments in Geotechnical Engineering				484	2716	2016-06-24
+102063886	11823	journal of ocean university of china	Journal of Ocean University of China				1446	4010	2016-06-24
+102681701	8842	nuclear engineering and design	Nuclear Engineering and Design				13438	113739	2016-06-24
+105556297	9844	comparative political studies	Comparative Political Studies	0010-4140		http://www.sagepub.com/journalsProdDesc.nav?prodId=Journal200828	2118	63102	2016-06-24
+108042008	11164	drugs under experimental and clinical research	Drugs Under Experimental and Clinical Research				1555	14373	2016-06-24
+110783047	11347	living reviews in relativity	Living Reviews in Relativity	1433-8351		http://relativity.livingreviews.org/	113	15254	2016-06-24
+115796062	12095	aids reviews	Aids Reviews				404	10091	2016-06-24
+117267838	12440	ajob neuroscience	Ajob Neuroscience				729	2344	2016-06-24
+117810818	11749	medieval archaeology	Medieval Archaeology	0076-6097		http://www.medievalarchaeology.co.uk/index.php/publications-2/journal/	722	2598	2016-06-24
+118582311	14298	developments in integrated environmental assessment	Developments in Integrated Environmental Assessment				116	354	2016-06-24
+123709462	11800	sports medicine and arthroscopy review	Sports Medicine and Arthroscopy Review				871	9601	2016-06-24
+124760417	11551	journal of legal medicine	Journal of Legal Medicine				1328	4094	2016-06-24
+128375914	8588	africa	Africa	0001-9720		http://journals.cambridge.org/action/displayJournal?jid=AFR	11409	91424	2016-06-24
+131064935	10020	expert opinion on investigational drugs	Expert Opinion on Investigational Drugs	1354-3784		http://informahealthcare.com/loi/eid	3586	72376	2016-06-24
+134307698	17949	american intelligence journal	American Intelligence Journal				3	4	2016-06-24
+136307080	14383	bangladesh journal of anatomy	Bangladesh Journal of Anatomy				117	96	2016-06-24
+136942575	9265	leukemia research	Leukemia Research				10966	112505	2016-06-24
+137926684	10991	journal of mechanisms transmissions and automation in design	Journal of Mechanisms Transmissions and Automation in Design				689	11887	2016-06-24
+139377504	13925	journal of tort law	Journal of Tort Law	1932-9148		http://www.bepress.com/jtl/	80	111	2016-06-24
+140190917	11741	research communications in molecular pathology and pharmacology	Research Communications in Molecular Pathology and Pharmacology				986	8807	2016-06-24
+141528356	15122	international journal of computational models and algorithms in medicine	International Journal of Computational Models and Algorithms in Medicine				57	90	2016-06-24
+143624113	18139	research letters in physics	Research Letters in Physics			http://www.hindawi.com/journals/phys/	2	6	2016-06-24
+149213541	12280	journal of breast cancer	Journal of Breast Cancer				778	4258	2016-06-24
+151239915	11483	innovations in systems and software engineering	Innovations in Systems and Software Engineering	1614-5046		http://www.springer.com/computer/swe/journal/11334	669	3004	2016-06-24
+152450253	12246	oral and maxillofacial surgery	Oral and Maxillofacial Surgery				737	4102	2016-06-24
+154078021	9059	journal of medical microbiology	Journal of Medical Microbiology	0022-2615		http://jmm.sgmjournals.org/	8110	168150	2016-06-24
+157427695	12896	international journal of islamic and middle eastern finance and management	International Journal of Islamic and Middle Eastern Finance and Management				316	3253	2016-06-24
+159982353	14849	ire transactions on production techniques	Ire Transactions on Production Techniques				67	34	2016-06-24
+162137778	12407	public organization review	Public Organization Review				548	4508	2016-06-24
+163635089	13065	evidence based communication assessment and intervention	Evidence-based Communication Assessment and Intervention				413	1048	2016-06-24
+166458551	11177	current cardiology reports	Current Cardiology Reports				1749	15187	2016-06-24
+168280950	12310	sprache stimme gehor	Sprache-stimme-gehor				954	912	2016-06-24
+171515007	10928	journal of the forensic science society	Journal of The Forensic Science Society				2113	9680	2016-06-24
+173938835	14412	the open pain journal	The Open Pain Journal				92	606	2016-06-24
+175672440	9614	regional studies	Regional Studies				3576	103800	2016-06-24
+179546387	9856	medical and pediatric oncology	Medical and Pediatric Oncology				3496	61775	2016-06-24
+180906946	13053	hormones and cancer	Hormones and Cancer				300	3321	2016-06-24
+181098927	9495	the sociological review	The Sociological Review	0038-0261		http://www.thesociologicalreview.com/	4718	70905	2016-06-24
+186845296	14380	asian journal of clinical nutrition	Asian Journal of Clinical Nutrition				100	430	2016-06-24
+193281446	12720	progress in the chemistry of fats and other lipids	Progress in The Chemistry of Fats and Other Lipids				126	3541	2016-06-24
+194562448	9293	earthquake engineering & structural dynamics	Earthquake Engineering & Structural Dynamics				3933	103277	2016-06-24
+197895017	10549	policy sciences	Policy Sciences				1230	32172	2016-06-24
+199532750	13280	international multilingual research journal	International Multilingual Research Journal	1931-3152		http://www.tandfonline.com/action/aboutThisJournal?journalCode=hmrj20	259	1260	2016-06-24
+202107051	12239	trans form acao	Trans-form-acao				888	729	2016-06-24
+203131252	10480	acta virologica	Acta Virologica				4288	18919	2016-06-24
+935850568	17149	journal of the faculty of engineering and architecture of gazi university	Journal of The Faculty of Engineering and Architecture of Gazi University				8	4	2016-06-24
+938013056	15266	baha i studies review	Baha'i Studies Review	1354-8697		http://www.intellectbooks.co.uk/journals../view-Journal,id=155/	54	10	2016-06-24
+950477739	10780	annales de pediatrie	Annales De Pediatrie				4288	3141	2016-06-24
+984812430	19269	apollo the international magazine for collectors	Apollo-the International Magazine for Collectors				1	0	2016-06-24
+988483817	19269	journal of higher criticism	Journal of Higher Criticism	1075-7139		http://depts.drew.edu/jhc/	1	0	2016-06-24
+992069473	13155	pediatric allergy immunology and pulmonology	Pediatric Allergy Immunology and Pulmonology				361	1157	2016-06-24
+1000633639	18576	acta germanica	Acta Germanica	0065-1273		http://journals.sabinet.co.za/ej/ejour_german.html	2	0	2016-06-24
+2736475636	13978	revista colombiana de ciencias sociales	Revista Colombiana de Ciencias Sociales				195	23	2017-07-31
+2736577893	14359	indonesian journal of early childhood education studies	Indonesian Journal of Early Childhood Education Studies				129	8	2017-07-31
+2736681092	14313	la pediatria medica e chirurgica	La Pediatria Medica e Chirurgica				131	147	2017-07-31
+2736713895	14812	torun international studies	Torun International Studies				85	7	2017-07-31
+2736732754	19269	grafica documents de disseny grafic	Grafica: Documents de Disseny Gràfic				1	0	2017-07-31
+2737016236	13688	international journal of pharmacological research	International Journal of Pharmacological Research				259	109	2017-07-31
+2737075772	14694	massekultur & medier	Massekultur & Medier				97	2	2017-07-31
+2737228778	12588	family medicine & primary care review	Family Medicine & Primary Care Review				788	70	2017-07-31
+2737606381	14542	en letra	En Letra				113	0	2017-07-31
+2737720053	12251	agriculture	Agriculture				948	2426	2017-07-31
+2738068623	12331	pedagogia social revista interuniversitaria	Pedagogía Social: Revista Interuniversitaria				910	498	2017-07-31
+2738358428	13127	avances en periodoncia e implantologia oral	Avances en Periodoncia e Implantología Oral				438	408	2017-07-31
+2738924673	14391	ciencia y cuidado	Ciencia y Cuidado				129	39	2017-07-31
+2739108508	15228	vertices	Vértices				55	19	2017-07-31
+2739294355	19269	creativity and innovation journal	Creativity and Innovation Journal				1	0	2017-07-31
+2739317210	15342	research on education and media	Research on Education and Media				50	9	2017-07-31
+2751149461	9112	modern healthcare	Modern healthcare				24664	4816	2017-09-15
+2753083911	10244	no shinkei geka neurological surgery	No shinkei geka. Neurological surgery				6185	15413	2017-09-15
+2754177347	12728	comptes rendus de la societe française de gynecologie	Comptes rendus de la Société française de gynécologie				687	30	2017-09-25
+2754627726	12946	journal of healthcare materiel management	Journal of healthcare materiel management				493	212	2017-09-25
+2754672822	10832	archiv für orthopädische und unfall chirurgie	Archiv für orthopädische und Unfall-Chirurgie				3081	4537	2017-09-25
+2754816133	11533	tandlaegebladet	Tandlaegebladet				1734	2186	2017-09-25
+2755604372	12024	north american journal of medical sciences	North American Journal of Medical Sciences				903	6119	2017-09-25
+2764348143	14599	international journal of anesthesia	International journal of anesthesia				101	20	2017-10-27
+2764362806	13373	journal of guandong college petrochemical technology	Journal of Guandong College Petrochemical Technology				363	6	2017-10-27
+2764368349	10236	chinese journal of geophysics	Chinese Journal of Geophysics				6249	18209	2017-10-27
+2764372306	12466	chinese journal of digestion	Chinese Journal of Digestion				885	191	2017-10-27
+2764376652	11870	applied science and convergence technology	Applied Science and Convergence Technology				1531	474	2017-10-27
+2764378929	11034	journal of anhui health vocational & technical college	Journal of Anhui Health Vocational & Technical College				3771	13	2017-10-27
+2764400118	14482	faculty research bulletin	Faculty Research Bulletin				120	0	2017-10-27
+2764411857	13088	instrumentation control engineering	Instrumentation, control, engineering				480	18	2017-10-27
+2764414973	13403	the office of fair trading	The Office of Fair Trading				346	50	2017-10-27
+2764423505	13338	functional foods in health and disease	Functional Foods in Health and Disease				335	744	2017-10-27
+2764430736	11211	journal of clinical urology	Journal of Clinical Urology				3123	377	2017-10-27
+2764435084	11921	world sci tech r & d	World Sci-tech R & D				1475	421	2017-10-27
+2764438715	14194	comparative legal history	comparative legal history				142	21	2017-10-27
+2764448064	14342	journal of community nursing	Journal of Community Nursing				119	197	2017-10-27
+2764451629	12285	the journal of pharmaceutical practice	The Journal of Pharmaceutical Practice				1069	87	2017-10-27
+2764451760	13107	services in russia and abroad	Services in Russia and abroad				463	36	2017-10-27
+2764454256	13732	eye science	Eye science				230	319	2017-10-27
+2764462337	14566	journal of institute alb shkenca	Journal of Institute Alb-Shkenca				110	4	2017-10-27
+2764473434	13752	automobile science and technology	Automobile Science and Technology				243	17	2017-10-27
+2764495935	12352	school library media quarterly	School Library Media Quarterly				239	2926	2017-10-27
+2764514002	11859	textile auxiliaries	Textile Auxiliaries				1644	75	2017-10-27
+2764530595	13537	sichuan journal of cancer control	Sichuan Journal of Cancer Control				308	10	2017-10-27
+2764533258	12747	journal of clinical imaging science	Journal of clinical imaging science				516	1720	2017-10-27
+2764541403	14169	journal of computational methods in molecular design	Journal of Computational Methods in Molecular Design				154	126	2017-10-27
+2764541442	12421	journal of dalian fisheries university	Journal of Dalian Fisheries University				890	457	2017-10-27
+2764553197	13960	doshisha university studies in humanities	Doshisha University studies in humanities				202	2	2017-10-27
+2764554274	15337	classnk magazine	ClassNK magazine				51	0	2017-10-27
+2764557357	12990	the journal of the american paraplegia society	The Journal of the American Paraplegia Society				214	2109	2017-10-27
+2764557933	13614	report army medical research laboratory	Report. Army Medical Research Laboratory				210	180	2017-10-27
+2764566316	12237	journal of christian education	Journal of Christian Education				949	553	2017-10-27
+2764573992	12012	journal of babol university of medical sciences	Journal of Babol University of Medical Sciences				1334	926	2017-10-27
+2764578724	14047	journal of japan high pressure institute	Journal of Japan High Pressure Institute				178	21	2017-10-27
+2764578778	13851	annals of long term care	Annals of Long-Term Care				176	362	2017-10-27
+2764585188	12919	journal of landscape architecture	Journal of Landscape Architecture				493	491	2017-10-27
+2764596800	14228	journal of current surgery	Journal of Current Surgery				146	83	2017-10-27
+2764600028	13682	guangxi machinery	Guangxi Machinery				266	4	2017-10-27
+2764611369	14165	the iup journal of corporate governance	The IUP Journal of Corporate Governance				121	435	2017-10-27
+2764618438	13961	atomization journal of the ilass japan	Atomization : journal of the ILASS-Japan				202	0	2017-10-27
+2764638780	10844	water resources and power	Water Resources and Power				4009	614	2017-10-27
+2764648157	14238	nuts and seeds in health and disease prevention	Nuts and Seeds in Health and Disease Prevention				139	244	2017-10-27
+2764650376	13402	mid taiwan journal of medicine	Mid-Taiwan Journal of Medicine				333	225	2017-10-27
+2764657832	14217	transactions of the saest	Transactions of the SAEST				148	60	2017-10-27
+2764674985	12657	new formations	new formations				442	1349	2017-10-27
+2764682840	13250	kufa journal for nursing sciences	kufa Journal for Nursing sciences				408	32	2017-10-27
+2764691529	13158	sociology and anthropology	Sociology and anthropology				435	81	2017-10-27
+2764716327	14240	iamure international journal of multidisciplinary research	IAMURE: International Journal of Multidisciplinary Research				146	45	2017-10-27
+2764742294	13219	journal of the korean society of living environmental system	Journal of The Korean Society of Living Environmental System				402	91	2017-10-27
+2764744020	12815	case reports in cardiology	Case reports in cardiology				584	470	2017-10-27
+2764754618	12259	scholarly inquiry for nursing practice	Scholarly inquiry for nursing practice				359	5330	2017-10-27
+2764761518	12927	the review of korean cultural studies	The Review of Korean Cultural Studies				566	5	2017-10-27
+2764761791	17190	journal of nursing ufpe on line	Journal of Nursing UFPE on line				8	0	2017-10-27
+2764762855	14146	biodiversity observations	Biodiversity Observations				167	8	2017-10-27
+2764766100	13543	basic communication course annual	Basic Communication Course Annual				266	421	2017-10-27
+2764768561	14053	the processing of the institute of electrical engineers	The Processing of the Institute of Electrical Engineers				184	1	2017-10-27
+2764772365	12912	journal of armored force engineering institute	Journal of Armored Force Engineering Institute				440	54	2017-10-27
+2764783832	12830	egyptian journal of petroleum	Egyptian Journal of Petroleum				474	2297	2017-10-27
+2764793019	12584	cukiernictwo i piekarstwo	Cukiernictwo i Piekarstwo				797	21	2017-10-27
+2764808679	14374	letras femeninas a journal of women and gender studies in hispanic literatures and cultures	Letras Femeninas. A Journal of Women and Gender Studies in Hispanic Literatures and Cultures				133	1	2017-10-27
+2764815319	13018	automotive industries	Automotive industries				482	143	2017-10-27
+2764821879	14006	the journal of international management studies	The Journal of International Management Studies				185	115	2017-10-27
+2764838029	14087	economics and quantitative methods	Economics and Quantitative Methods				141	275	2017-10-27
+2764860915	14538	depaul journal of sports law	DePaul Journal of Sports Law				111	34	2017-10-27
+2764879589	12908	monash bioethics review	Monash bioethics review				449	959	2017-10-27
+2764886018	12293	lubricating oil	Lubricating Oil				1061	68	2017-10-27
+2764889216	14054	istanbul university journal of the school of business	Istanbul University Journal of the School of Business				173	156	2017-10-27
+2764897471	14443	annals of warsaw agricultural university veterinary medicine	Annals of Warsaw Agricultural University. Veterinary Medicine				119	39	2017-10-27
+2764899427	13121	mid western educational researcher	Mid-Western educational researcher				337	994	2017-10-27
+2764900504	12892	iranian journal of psychiatry and behavioral sciences	Iranian journal of psychiatry and behavioral sciences				516	1006	2017-10-27
+2764900678	14615	journal of national school of administration	Journal of National School of Administration				105	1	2017-10-27
+2764910352	12817	journal of sanming college	Journal of Sanming College				632	12	2017-10-27
+2764915444	14349	new economic journal	New Economic Journal				137	1	2017-10-27
+2764915710	12421	clinical nutrition espen	Clinical nutrition ESPEN				920	324	2017-10-27
+2764975661	12576	journal of nanjing xiaozhuang university	Journal of Nanjing Xiaozhuang University				803	19	2017-10-27
+2764988981	14159	applied environmental research	Applied Environmental Research				160	81	2017-10-27
+2764991953	12768	foucault studies	Foucault Studies				442	1508	2017-10-27
+2764992906	11654	hebei medical journal	Hebei Medical Journal				2026	35	2017-10-27
+2764993477	12803	advertising and society review	Advertising and society review				299	3136	2017-10-27
+2764998623	10995	jiangsu medical journal	Jiangsu Medical Journal				3913	115	2017-10-27
+2765002949	12816	machine dynamics problems	Machine Dynamics Problems				525	467	2017-10-27
+2765021808	12874	tropical oceanography	Tropical Oceanography				485	1085	2017-10-27
+2765022904	11684	water environment & technology	Water, environment & technology				1757	1321	2017-10-27
+2765031536	14176	international journal of water resources and environmental engineering	International journal of water resources and environmental engineering				146	233	2017-10-27
+2765044717	13655	cumhuriyet medical journal	Cumhuriyet medical journal				272	26	2017-10-27
+2765074581	12526	the aboriginal child at school	The Aboriginal Child at School				678	888	2017-10-27
+2885737415	14258	emc anestesia rianimazione	EMC - Anestesia-Rianimazione	1283-0771		https://www.journals.elsevier.com/emc-anestesia-rianimazione	150	0	2018-08-22
+2887937181	15515	international strategic management review	International Strategic Management Review	2306-7748		https://www.sciencedirect.com/journal/international-strategic-management-review	26	287	2018-08-22
+454503	11298	business communication quarterly	Business Communication Quarterly				1742	9603	2016-06-24
+2328614	17172	oncology new york	Oncology-new York				8	2	2016-06-24
+3794950	13187	recherche	Recherche				363	320	2016-06-24
+4460436	11621	reading & writing quarterly	Reading & Writing Quarterly				861	10524	2016-06-24
+5416984	14693	journal of asian history	Journal of Asian History				87	25	2016-06-24
+10815846	12812	china particuology	China Particuology				319	3209	2016-06-24
+12767827	15937	scms journal of indian management	SCMS Journal of Indian Management	0973-3167			26	38	2016-06-24
+12967704	9622	statistical science	Statistical Science	0883-4237		http://www.imstat.org/sts/	1686	73517	2016-06-24
+15976965	11476	revue d etudes comparatives est ouest	Revue D Etudes Comparatives Est-ouest				2142	1108	2016-06-24
+22421200	12070	transactions of the royal society of south australia	Transactions of The Royal Society of South Australia				740	3718	2016-06-24
+22862804	7472	physics of fluids	Physics of Fluids	1070-6631		http://pof.aip.org/	26214	574885	2016-06-24
+24264234	16011	giornale di neuropsicofarmacologia	Giornale Di Neuropsicofarmacologia				26	0	2016-06-24
+29120868	11799	acta scientiarum biological sciences	Acta Scientiarum. Biological Sciences				1374	5198	2016-06-24
+31793102	10422	fetal diagnosis and therapy	Fetal Diagnosis and Therapy				2774	33089	2016-06-24
+37012009	10659	journal of physiology and pharmacology	Journal of Physiology and Pharmacology				2335	42376	2016-06-24
+40305577	13132	marine technology and sname news	Marine Technology and Sname News				245	948	2016-06-24
+40496475	15251	pakistan journal of statistics	Pakistan Journal of Statistics				46	84	2016-06-24

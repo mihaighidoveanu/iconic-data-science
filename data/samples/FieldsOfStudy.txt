@@ -1,0 +1,1000 @@
+417682	20579	night air	Night air		2	105	732	2016-06-24
+1443462	18753	immobiliser	Immobiliser		2	391	962	2016-06-24
+1576492	12161	matrix pencil	Matrix pencil		3	919	10097	2016-06-24
+2657588	15118	combinatorial topology	Combinatorial topology		2	476	9236	2016-06-24
+3079626	9000	quantum electrodynamics	Quantum electrodynamics		1	534459	6218175	2016-06-24
+3535393	11594	mesophase	Mesophase		3	11393	170941	2016-06-24
+4084960	20579	latimer diagram	Latimer diagram		2	3	443	2016-06-24
+5688416	14174	neutron cross section	Neutron cross section		4	12242	45903	2016-06-24
+7271767	8288	primer	Primer (molecular biology)		3	106874	1707258	2016-06-24
+8748842	25000	versatile real time executive	Versatile Real-Time Executive		2	4	28	2016-06-24
+10389098	16926	batch file	Batch file	computer.file_format	2	412	2798	2016-06-24
+11045955	13845	elgamal encryption	ElGamal encryption		4	1338	14150	2016-06-24
+12404463	9849	chemical industry	Chemical industry	business.industry	2	13091	74249	2016-06-24
+13818915	16394	2 3 tree	2–3 tree		5	206	3349	2016-06-24
+14981831	12991	market clearing	Market clearing		2	2617	37732	2016-06-24
+16287357	19886	u s standard atmosphere	U.S. Standard Atmosphere		3	235	4648	2016-06-24
+18781661	18016	star height	Star height		5	104	1725	2016-06-24
+19044487	16187	control zone	Control zone		3	1833	12790	2016-06-24
+19159745	9043	social policy	Social policy		2	57711	590509	2016-06-24
+19513336	13975	snapshot isolation	Snapshot isolation		5	419	8244	2016-06-24
+19694107	17723	bouba kiki effect	Bouba/kiki effect		3	37	1847	2016-06-24
+20137635	13683	bionomics	Bionomics		2	3537	22459	2016-06-24
+20692236	17167	algorism	Algorism	symbols.namesake	2	786	1066	2016-06-24
+22081632	25000	turan s inequalities	Turán's inequalities		4	196	3093	2016-06-24
+22375264	19494	macaulay s method	Macaulay's method		3	7	47	2016-06-24
+22664368	25000	oracle unified method	Oracle Unified Method		4	832	6255	2016-06-24
+24914591	15383	specific force	Specific force		2	1301	22264	2016-06-24
+24992206	16476	roadway noise	Roadway noise		3	1674	4039	2016-06-24
+25036608	20579	geoponic	Geoponic		4	20	55	2016-06-24
+26268613	13139	cell disruption	Cell disruption		2	1448	25116	2016-06-24
+29500173	19066	viviani s theorem	Viviani's theorem	symbols.namesake	2	15	19	2016-06-24
+30658544	15371	mobile collaboration	Mobile collaboration		4	703	6134	2016-06-24
+31571166	25000	picard horn	Picard horn		4	323	1857	2016-06-24
+32719834	25000	common normal	Common normal		2	4	16	2016-06-24
+33107880	13599	retarder	Retarder		3	10514	48544	2016-06-24
+33341308	19480	terminal node controller	Terminal node controller		5	159	1895	2016-06-24
+33493656	18594	elliott halberstam conjecture	Elliott–Halberstam conjecture		4	787	4712	2016-06-24
+34911477	25000	supplee s paradox	Supplee's paradox		5	23	99	2016-06-24
+35294091	15131	loading dose	Loading dose		2	6274	153062	2016-06-24
+37914503	9933	mathematical physics	Mathematical physics		1	143066	322952	2016-06-24
+39078644	15420	isovolumetric contraction	Isovolumetric contraction		5	2367	45565	2016-06-24
+41484392	17720	arago spot	Arago spot	symbols.namesake	5	510	26118	2016-06-24
+42199009	13652	data cleansing	Data cleansing	computer.software_genre	3	775	9198	2016-06-24
+45462083	17605	documentation science	Documentation science		3	2253	4310	2016-06-24
+46097333	12914	disruptive selection	Disruptive selection		2	800	39946	2016-06-24
+48981059	15500	zugunruhe	Zugunruhe		2	244	5684	2016-06-24
+51450119	16345	irobot seaglider	iRobot Seaglider		4	269	2350	2016-06-24
+51807945	10318	electroplating	Electroplating		2	39851	207667	2016-06-24
+54281923	14067	displacement	Displacement (vector)		2	2453	25875	2016-06-24
+55457006	14464	kinesthetic learning	Kinesthetic learning		2	6183	66022	2016-06-24
+55743289	12632	laser guide star	Laser guide star		3	2225	12234	2016-06-24
+57130246	14815	broadside	Broadside		2	1570	6223	2016-06-24
+57736034	11974	molecular diffusion	Molecular diffusion		2	8912	199463	2016-06-24
+57997129	20560	drafting machine	Drafting machine		2	500	945	2016-06-24
+58217581	15890	session layer	Session layer		3	382	3835	2016-06-24
+60760409	10238	dye laser	Dye laser		3	17391	199875	2016-06-24
+61997241	18011	care perspective	Care perspective		3	1312	24999	2016-06-24
+63504599	12432	economic globalization	Economic globalization		3	12287	60392	2016-06-24
+64103335	19750	doorway page	Doorway page		5	285	12230	2016-06-24
+64301856	17131	morphological box	Morphological box		2	65	496	2016-06-24
+65487801	17092	growling	Growling		2	204	1826	2016-06-24
+70278141	25000	15 equal temperament	15 equal temperament		2	1	0	2016-06-24
+72129047	25000	supercomputing in europe	Supercomputing in Europe		3	45	178	2016-06-24
+73529369	18376	causal theory of knowledge	Causal theory of knowledge		4	162	1420	2016-06-24
+73758832	12642	splicing factor	Splicing factor		4	2867	126886	2016-06-24
+73782692	11453	random error	Random error		2	7126	108080	2016-06-24
+75323523	25000	giant retinal ganglion cells	Giant retinal ganglion cells		4	2459	80168	2016-06-24
+75866337	13741	radial basis function kernel	Radial basis function kernel		4	7062	106399	2016-06-24
+75877943	14098	cxcl13	CXCL13		4	1180	46220	2016-06-24
+75988497	17097	monster group	Monster group		3	138	2583	2016-06-24
+76713136	17717	curb weight	Curb weight		3	121	502	2016-06-24
+78945076	12801	herbarium	Herbarium		2	13119	77060	2016-06-24
+79061980	11339	inertial measurement unit	Inertial measurement unit		2	16466	121628	2016-06-24
+79877727	14388	wrky protein domain	WRKY protein domain		4	1454	47232	2016-06-24
+80621561	15244	operant conditioning chamber	Operant conditioning chamber	law.invention	3	368	5187	2016-06-24
+80963711	25000	technical lettering	Technical lettering		3	28	16	2016-06-24
+80994870	12469	stokes shift	Stokes shift	symbols.namesake	3	3990	73116	2016-06-24
+82747516	18169	widow s peak	Widow's peak		2	17	47	2016-06-24
+83199326	13999	acoustic levitation	Acoustic levitation		4	1592	10802	2016-06-24
+83487572	11102	space time block code	Space–time block code		4	5829	68076	2016-06-24
+86038547	14530	particle displacement	Particle displacement		2	3673	34113	2016-06-24
+87225262	18366	phantom power	Phantom power		4	522	4559	2016-06-24
+87626647	17795	ieee 802 1ae	IEEE 802.1AE		5	1175	4227	2016-06-24
+89448510	11260	dielectric barrier discharge	Dielectric barrier discharge		3	11973	105793	2016-06-24
+91066073	9386	dielectric loss	Dielectric loss		3	27551	310635	2016-06-24
+92767026	25000	comparative foot morphology	Comparative foot morphology		2	10	195	2016-06-24
+94898600	13257	flat panel detector	Flat panel detector		3	2062	13441	2016-06-24
+95392273	17057	fully qualified domain name	Fully qualified domain name		5	635	11886	2016-06-24
+95499613	25000	solenoid voltmeter	Solenoid voltmeter		5	65	197	2016-06-24
+95578405	18786	compound interest	Compound interest		5	68	272	2016-06-24
+96224696	11217	proportional control	Proportional control		3	5666	48238	2016-06-24
+98440294	16996	bethe formula	Bethe formula		3	188	3651	2016-06-24
+101676477	17745	remand	Remand (detention)		4	262	802	2016-06-24
+101901036	10843	semidefinite programming	Semidefinite programming		2	5556	143882	2016-06-24
+105525253	18689	methanizer	Methanizer		5	3050	36981	2016-06-24
+107553311	20444	comet	Comet (programming)		5	1487	28844	2016-06-24
+108812129	15370	anti zionism	Anti-Zionism		3	2282	6772	2016-06-24
+110332635	10725	genetic programming	Genetic programming		3	13276	255903	2016-06-24
+110342517	13950	constant coefficients	Constant coefficients		2	7508	92469	2016-06-24
+113308832	19886	biceps reflex	Biceps reflex		3	608	8342	2016-06-24
+114265396	13119	brood	Brood		2	14149	277872	2016-06-24
+116592611	17192	metabotropic glutamate receptor 4	Metabotropic glutamate receptor 4		5	1923	76412	2016-06-24
+117009084	11584	facility management	Facility management	business.industry	2	8518	37545	2016-06-24
+117262203	17664	board foot	Board foot		3	359	1585	2016-06-24
+117283582	17163	cornering force	Cornering force		4	563	3596	2016-06-24
+117774814	11737	electronic media	Electronic media	business.industry	2	11686	123869	2016-06-24
+119103378	19676	maximum operating depth	Maximum operating depth		5	87	318	2016-06-24
+120241979	17749	einselection	Einselection		4	395	12267	2016-06-24
+120923412	15875	prefoldin	Prefoldin		4	328	17468	2016-06-24
+120958224	13578	periodization	Periodization		2	2951	11311	2016-06-24
+121285527	17637	buffered oxide etch	Buffered oxide etch		4	1171	20448	2016-06-24
+124015408	17715	law of the land	Law of the land		3	1089	2670	2016-06-24
+126148662	13371	discretization error	Discretization error		3	1604	11810	2016-06-24
+126314574	8978	air quality index	Air quality index		2	58974	582523	2016-06-24
+128194758	12890	development anthropology	Development anthropology		4	1260	15626	2016-06-24
+129206188	14970	faraday rotator	Faraday rotator	law.invention	4	3697	25426	2016-06-24
+130453509	17211	stylobate	Stylobate		2	131	46	2016-06-24
+131390527	25000	decade	Decade		5	52	366	2016-06-24
+132126533	25000	operation olympic games	Operation Olympic Games		3	7	7	2016-06-24
+133377346	16705	lipophilic efficiency	Lipophilic efficiency		5	117	20495	2016-06-24
+134503902	10767	information technology management	Information technology management	business.industry	3	16271	151311	2016-06-24
+135255052	19742	dolby e	Dolby E		5	249	1698	2016-06-24
+135653721	17091	instructions per second	Instructions per second		2	440	10857	2016-06-24
+135736735	13875	space physics	Space physics		2	1908	12733	2016-06-24
+138154225	15277	elementary event	Elementary event		2	291	3074	2016-06-24
+138512509	15662	rolle s theorem	Rolle's theorem		5	293	839	2016-06-24
+139563560	11815	natural killer t cell	Natural killer T cell		3	17654	733018	2016-06-24
+139876678	12361	production function	Production function		2	3836	83336	2016-06-24
+140461892	16224	loop counter	Loop counter		4	350	4228	2016-06-24
+141055242	15157	molecular solid	Molecular solid		3	1937	35326	2016-06-24
+141101730	17399	fuel ladder	Fuel ladder		4	70	2539	2016-06-24
+141837378	19883	project cyclops	Project Cyclops		3	19	94	2016-06-24
+147165361	25000	equation of state calculations by fast computing machines	Equation of State Calculations by Fast Computing Machines		2	5	21946	2016-06-24
+147192597	9541	ionization energy	Ionization energy		4	21271	436849	2016-06-24
+147640893	18969	quasi analytic function	Quasi-analytic function		5	933	6622	2016-06-24
+148012203	18956	pre determined overhead rate	Pre-determined overhead rate		4	195	915	2016-06-24
+149440263	18435	systemic shock	Systemic shock		2	43	476	2016-06-24
+151510863	12593	lorenz system	Lorenz system		3	3792	69576	2016-06-24
+152233112	16795	cebpb	CEBPB		4	292	5839	2016-06-24
+155330019	11795	rna induced silencing complex	RNA-induced silencing complex		5	1938	153102	2016-06-24
+155878204	15420	k server problem	K-server problem		4	254	14035	2016-06-24
+156334865	18314	brianchon s theorem	Brianchon's theorem		5	60	495	2016-06-24
+156602925	18277	tropical marine climate	Tropical marine climate		2	1411	37108	2016-06-24
+156812175	10914	organizational architecture	Organizational architecture		2	8488	210028	2016-06-24
+159047783	8809	virology	Virology		1	2065538	30765333	2016-06-24
+162462649	25000	layers	Layers		5	73	887	2016-06-24
+163419389	15501	a priori probability	A priori probability		2	897	13672	2016-06-24
+164731562	13084	higgs mechanism	Higgs mechanism	symbols.namesake	4	4782	77850	2016-06-24
+165617652	13283	nested case control study	Nested case-control study		3	2729	61833	2016-06-24
+166126730	12472	planck	Planck	symbols.namesake	2	9881	100950	2016-06-24
+167310288	12130	sound quality	Sound quality		2	8861	59373	2016-06-24
+168020605	13120	blue straggler	Blue straggler		4	6384	70805	2016-06-24
+169855649	20579	mmode	MMode		5	58	674	2016-06-24
+171089853	14515	online search	Online search		3	2630	23098	2016-06-24
+172268261	9877	animal studies	Animal studies		2	37503	1157847	2016-06-24
+173890291	16220	patronymic	Patronymic		2	278	379	2016-06-24
+176181172	14035	nondeterministic algorithm	Nondeterministic algorithm		2	6859	115753	2016-06-24
+176524297	15055	active transport	Active transport		4	645	21652	2016-06-24
+176656743	15228	serving size	Serving size		2	663	11627	2016-06-24
+177551703	16346	hemicontinuity	Hemicontinuity		2	103	3105	2016-06-24
+177866494	25000	localizer performance with vertical guidance	Localizer performance with vertical guidance		5	141	300	2016-06-24
+178325634	20231	lenstra elliptic curve factorization	Lenstra elliptic curve factorization		5	828	13523	2016-06-24
+178557918	11375	polarization mode dispersion	Polarization mode dispersion		3	5757	55797	2016-06-24
+180500224	20579	file control block	File Control Block		4	8120	136734	2016-06-24
+181290262	17246	ekistics	Ekistics		2	103	295	2016-06-24
+181587685	15278	bejan number	Bejan number		4	426	9002	2016-06-24
+182207606	15998	geometallurgy	Geometallurgy		3	144	291	2016-06-24
+182548691	25000	degree of frost	Degree of frost		3	92	1240	2016-06-24
+182620335	12677	answer set programming	Answer set programming		3	2016	27051	2016-06-24
+182930780	16570	ecological urbanism	Ecological urbanism		4	965	11202	2016-06-24
+183906286	10564	material flow	Material flow		2	14329	181567	2016-06-24
+184125076	25000	classical hamiltonian quaternions	Classical Hamiltonian quaternions		4	267	3159	2016-06-24
+186569918	14081	neofunctionalism	Neofunctionalism		3	392	10220	2016-06-24
+188598960	13734	test strategy	Test strategy		2	6058	63512	2016-06-24
+188873839	14853	demand paging	Demand paging		5	1525	24381	2016-06-24
+193307473	16864	neume	Neume		4	221	413	2016-06-24
+194241460	15966	processing	Processing	computer.programming_language	3	1666	9452	2016-06-24
+194493963	25000	specific potential energy	Specific potential energy		3	47	236	2016-06-24
+195267511	14199	ciliogenesis	Ciliogenesis		3	1642	49349	2016-06-24
+195813598	12260	stakeholder analysis	Stakeholder analysis		4	6201	130436	2016-06-24
+198279363	16815	sargan test	Sargan test		3	24	156	2016-06-24
+198704716	11988	herbig haro object	Herbig–Haro object		4	2013	21435	2016-06-24
+201119975	20579	extraterrestrial liquid water	Extraterrestrial liquid water		5	8	129	2016-06-24
+202115187	25000	neurobiological effects of physical exercise	Neurobiological effects of physical exercise		4	19	1511	2016-06-24
+202472598	25000	case hardening of rocks	Case hardening of rocks		5	314	8899	2016-06-24
+206643129	15193	turbopause	Turbopause		4	203	5070	2016-06-24
+513476851	7846	dopamine	Dopamine	medicine.drug	2	108478	3561186	2016-06-24
+515488857	18015	financial cryptography	Financial cryptography		3	1140	23146	2016-06-24
+516372188	12171	neptunium	Neptunium	chemistry.chemical_element	3	4454	29925	2016-06-24
+524769229	11543	3d printing	3D printing	business.industry	2	14969	51552	2016-06-24
+543223122	13649	spiritualism	Spiritualism		2	2679	7824	2016-06-24
+550656013	12991	weather modification	Weather modification		3	1258	4765	2016-06-24
+2775832555	16567	bolinus brandaris	Bolinus brandaris	biology.organism_classification	5	52	1585	2018-01-05
+2775833265	19867	video over lte	Video over LTE		4	20	15	2018-01-05
+2775847919	20454	prochymal	Prochymal		4	22	2262	2018-01-05
+2775868036	19641	cylindrocarpon musae	Cylindrocarpon musae	biology.organism_classification	2	4	19	2018-01-05
+2775874391	17618	sinopoda	Sinopoda	biology.organism_classification	3	28	85	2018-01-05
+2775878893	11096	organic fertilizer	Organic fertilizer		3	17529	85393	2018-01-05
+2775882960	20579	ruling clique	Ruling clique		3	60	76	2018-01-05
+2775885016	15942	king crab	King crab		2	499	4161	2018-01-05
+2775888743	10828	cataract surgery	Cataract surgery	medicine.medical_treatment	2	23207	233107	2018-01-05
+2775890984	25000	nesiostrymon	Nesiostrymon	biology.organism_classification	3	2	3	2018-01-05
+2775907427	11896	orthogonal frequency division multiple access	Orthogonal frequency-division multiple access		4	4630	50813	2018-01-05
+2775912189	18600	flatpack	Flatpack		2	138	996	2018-01-05
+2775929512	25000	culebrasuchus	Culebrasuchus	biology.organism_classification	2	2	39	2018-01-05
+2775938904	14314	morphea	Morphea	medicine.disease	2	1592	17431	2018-01-05
+2775951179	25000	consumer ir	Consumer IR		2	3	52	2018-01-05
+2775964467	19886	retained mode	Retained mode		3	21	390	2018-01-05
+2775981830	19577	atrioventricular fistula	Atrioventricular fistula	medicine.disease	2	12	294	2018-01-05
+2775997378	16484	grindelia	Grindelia	biology.organism_classification	3	238	1345	2018-01-05
+2776014701	20520	weak inflection	Weak inflection		4	18	74	2018-01-05
+2776018799	18364	backfeeding	Backfeeding		2	57	454	2018-01-05
+2776018905	25000	papirovka	Papirovka	biology.organism_classification	4	12	0	2018-01-05
+2776020510	15443	monod equation	Monod equation		3	472	10107	2018-01-05
+2776023202	25000	pacific elaenia	Pacific elaenia	biology.organism_classification	3	1	5	2018-01-05
+2776040956	17784	iodine monobromide	Iodine monobromide	chemistry.chemical_compound	4	138	1044	2018-01-05
+2776043399	18050	bismut connection	Bismut connection		4	19	1109	2018-01-05
+2776043724	14872	dicrocoelium dendriticum	Dicrocoelium dendriticum	biology.organism_classification	3	545	3478	2018-01-05
+2776043785	16109	sitaxentan	Sitaxentan	medicine.drug	5	124	16833	2018-01-05
+2776044720	18949	melianthus major	Melianthus major	biology.organism_classification	2	9	49	2018-01-05
+2776056147	25000	coelorinchus sheni	Coelorinchus sheni	biology.organism_classification	3	1	0	2018-01-05
+2776061162	13912	ornaments	Ornaments		2	7483	46974	2018-01-05
+2776076120	17213	nickel selenide	Nickel selenide	chemistry.chemical_compound	3	113	21120	2018-01-05
+2776079936	19264	chrysoderma	Chrysoderma	biology.organism_classification	3	6	62	2018-01-05
+2776080819	18415	homalodotherium	Homalodotherium	biology.organism_classification	2	9	42	2018-01-05
+2776095582	19181	corylus chinensis	Corylus chinensis	biology.organism_classification	2	12	1	2018-01-05
+2776099795	19202	collinsia tinctoria	Collinsia tinctoria	biology.organism_classification	2	3	52	2018-01-05
+2776138524	19886	anterior tibial recurrent artery	Anterior tibial recurrent artery	medicine.artery	3	10	201	2018-01-05
+2776143587	17518	tapotement	Tapotement		3	50	252	2018-01-05
+2776144070	19293	or51e1	OR51E1		4	16	362	2018-01-05
+2776194327	15560	basal dendrite	Basal dendrite	medicine.anatomical_structure	3	141	5253	2018-01-05
+2776194824	16388	urea phosphate	Urea phosphate	chemistry.chemical_compound	3	264	1120	2018-01-05
+2776214116	25000	white cloud mountain minnow	White Cloud Mountain minnow	biology.organism_classification	3	26	147	2018-01-05
+2776240375	25000	chicomurex turschi	Chicomurex turschi	biology.organism_classification	3	1	2	2018-01-05
+2776245949	20579	exhaust heat management	Exhaust heat management		2	7	9	2018-01-05
+2776257225	14181	uranium 232	Uranium-232		5	116	388	2018-01-05
+2776269455	16187	paralimbic cortex	Paralimbic cortex	medicine.anatomical_structure	2	47	4788	2018-01-05
+2776279322	15970	surface ectoderm	Surface ectoderm		4	295	12014	2018-01-05
+2776290744	20579	hash function security summary	Hash function security summary		2	1	0	2018-01-05
+2776303664	19548	charaxes fulvescens	Charaxes fulvescens	biology.organism_classification	3	2	15	2018-01-05
+2776324051	15949	neopragmatism	Neopragmatism		3	213	3907	2018-01-05
+2776333308	19886	mahonia duclouxiana	Mahonia duclouxiana	biology.organism_classification	2	12	6	2018-01-05
+2776334297	17573	long running transaction	Long-running transaction		4	25	269	2018-01-05
+2776364352	25000	micro arrays for mass spectrometry	Micro-arrays for mass spectrometry		2	2	88	2018-01-05
+2776367685	25000	convention for the protection of the architectural heritage of europe	Convention for the Protection of the Architectural Heritage of Europe		2	7	25	2018-01-05
+2776385871	25000	brithopodidae	Brithopodidae	biology.organism_classification	2	1	1	2018-01-05
+2776392925	17437	thiovulum majus	Thiovulum majus	biology.organism_classification	3	18	267	2018-01-05
+2776400185	13799	bordetella parapertussis	Bordetella parapertussis	biology.organism_classification	4	458	11562	2018-01-05
+2776407044	18733	pentacrinites	Pentacrinites	biology.organism_classification	3	20	122	2018-01-05
+2776417830	12637	methimazole	Methimazole	medicine.drug	4	1907	23723	2018-01-05
+2776428424	9886	schiff base	Schiff base	chemistry.chemical_compound	3	30756	371360	2018-01-05
+2776429440	12360	intractable pain	Intractable pain		2	3310	69059	2018-01-05
+2776435075	11747	harmonious society	Harmonious Society		4	15719	2156	2018-01-05
+2776437493	16912	conjunctive grammar	Conjunctive grammar		5	26	508	2018-01-05
+2776450095	19569	dimetofrine	Dimetofrine	medicine.drug	3	4	6	2018-01-05
+2776454293	25000	macropodus hongkongensis	Macropodus hongkongensis	biology.organism_classification	3	1	1	2018-01-05
+2776456211	16157	hawaiian language	Hawaiian language	language.human_language	2	281	1254	2018-01-05
+2776463312	19886	genyatremus luteus	Genyatremus luteus	biology.organism_classification	3	18	11	2018-01-05
+2776469828	12529	coalbed methane	Coalbed methane		4	4744	35154	2018-01-05
+2776471341	25000	cassipourea flanaganii	Cassipourea flanaganii	biology.organism_classification	3	3	10	2018-01-05
+2776472604	25000	malapai hill	Malapai Hill		2	1	8	2018-01-05
+2776479269	20579	dalbergiella	Dalbergiella	biology.organism_classification	3	3	1	2018-01-05
+2776483862	17810	cash flow hedge	Cash flow hedge		5	35	61	2018-01-05
+2776488029	25000	platycerium alcicorne	Platycerium alcicorne	biology.organism_classification	2	6	19	2018-01-05
+2776498777	18394	nk2 homeobox 1	NK2 homeobox 1	biology.protein	4	42	1561	2018-01-05
+2776516433	25000	haplotrema vancouverense	Haplotrema vancouverense	biology.organism_classification	3	2	0	2018-01-05
+2776517088	25000	lecanorineae	Lecanorineae	biology.organism_classification	4	8	388	2018-01-05
+2776520165	20568	florestina	Florestina	biology.organism_classification	3	5	7	2018-01-05
+2776527877	16599	imbert fick law	Imbert-Fick law		2	7	595	2018-01-05
+2776538702	25000	philiris	Philiris	biology.organism_classification	4	9	7	2018-01-05
+2776539142	14742	voice user interface	Voice user interface		3	322	4804	2018-01-05
+2776545201	15214	collaborative leadership	Collaborative leadership		2	626	4956	2018-01-05
+2776546322	17483	impassibility	Impassibility		2	153	157	2018-01-05
+2776551883	14040	enzalutamide	Enzalutamide	chemistry.chemical_compound	5	2142	30523	2018-01-05
+2776560106	15475	pipeflow	Pipeflow		3	120	2407	2018-01-05
+2776565828	16486	tree inventory	Tree inventory		2	230	1901	2018-01-05
+2776566753	13511	rhipicephalus	Rhipicephalus	biology.organism_classification	3	3296	37299	2018-01-05
+2776590166	19838	crumbling skull rule	Crumbling skull rule		2	2	2	2018-01-05
+2776598285	16947	endoclip	Endoclip		2	196	1414	2018-01-05
+2776615586	19030	pillotina calotermitidis	Pillotina calotermitidis	ved/biology.organism_classification_rank.species	3	5	29	2018-01-05
+2776620753	19149	hyomandibula	Hyomandibula		2	91	3104	2018-01-05
+2776634448	10788	peptidoglycan	Peptidoglycan	chemistry.chemical_compound	2	11379	317768	2018-01-05
+2776650109	16799	constructivist epistemology	Constructivist epistemology		3	264	4759	2018-01-05
+2776652406	20498	harriotta	Harriotta	biology.organism_classification	4	27	247	2018-01-05
+2776656446	25000	ye olde	Ye olde		2	68	211	2018-01-05
+2776657194	17152	tellina	Tellina	biology.organism_classification	2	288	4468	2018-01-05
+2776663788	19886	pachypodium saundersii	Pachypodium saundersii	biology.organism_classification	3	2	2	2018-01-05
+2776665958	19856	chrysoprasis	Chrysoprasis	biology.organism_classification	4	11	23	2018-01-05
+2776670229	10413	acute pancreatitis	Acute pancreatitis	medicine.disease	3	32940	319639	2018-01-05
+2776678395	20579	antiparallelogram	Antiparallelogram		2	17	17	2018-01-05
+2776678418	19480	podkova	Podkova	biology.organism_classification	2	13	1	2018-01-05
+2776680057	18578	right of conquest	Right of conquest		3	51	125	2018-01-05
+2776680764	18169	goneplacoidea	Goneplacoidea	biology.organism_classification	5	19	35	2018-01-05
+2776693535	16044	isobutyl acetate	Isobutyl acetate	chemistry.chemical_compound	3	303	2928	2018-01-05
+2776694393	10725	choroid	Choroid	medicine.anatomical_structure	3	11177	186079	2018-01-05
+2776697301	19434	heteroplexis	Heteroplexis	biology.organism_classification	3	6	4	2018-01-05
+2776711409	17671	ctenotus taeniolatus	Ctenotus taeniolatus	biology.organism_classification	5	19	401	2018-01-05
+2776715858	14996	hypophosphorous acid	Hypophosphorous acid	chemistry.chemical_compound	2	871	6691	2018-01-05
+2776724219	17285	pythidae	Pythidae	biology.organism_classification	3	42	695	2018-01-05
+2776729680	18922	fatty acid metabolism disorder	Fatty-acid metabolism disorder	medicine.disease	2	12	103	2018-01-05
+2776737010	17409	aliivibrio	Aliivibrio	biology.organism_classification	4	123	1476	2018-01-05
+2776737494	18143	bondarzewia	Bondarzewia	biology.organism_classification	3	26	254	2018-01-05
+2776739073	16901	post s lattice	Post's lattice		4	26	783	2018-01-05
+2776775290	25000	n ethyltryptamine	N-Ethyltryptamine	medicine.drug	2	3	14	2018-01-05
+2776777198	14371	cerebral hypoxia	Cerebral hypoxia	medicine.disease	3	1411	26445	2018-01-05
+2776818612	20439	picobiliphyte	Picobiliphyte	biology.organism_classification	2	5	63	2018-01-05
+2776868714	16377	elsinoe fawcettii	Elsinoë fawcettii	biology.organism_classification	2	59	662	2018-01-05
+2776869110	19733	masticophis	Masticophis	biology.organism_classification	3	102	960	2018-01-05
+2776869503	17275	gnao1	GNAO1		4	74	1509	2018-01-05
+2776869800	25000	altrix	Altrix	biology.organism_classification	3	4	11	2018-01-05
+2776874219	25000	grevillea beadleana	Grevillea beadleana	biology.organism_classification	3	1	17	2018-01-05
+2776874415	18126	ampelodesmos	Ampelodesmos	biology.organism_classification	2	42	603	2018-01-05
+2776875504	16827	landscape evolution model	Landscape evolution model		3	267	14434	2018-01-05
+2776878808	20579	unfigured bass	Unfigured bass		2	13	75	2018-01-05
+2776879818	25000	vdso	vDSO		2	4	75	2018-01-05
+2776896709	15896	trial of labour	Trial of labour		4	299	5175	2018-01-05
+2776897232	18728	psmd13	PSMD13		3	14	139	2018-01-05
+2776929087	13015	cell penetrating peptide	Cell-penetrating peptide		3	1724	51395	2018-01-05
+2776939828	15763	net gain	Net gain		3	1114	12624	2018-01-05
+2776957806	14684	interim	Interim		2	35098	200181	2018-01-05
+2776959592	25000	jemmis mno rules	Jemmis mno rules		2	1	25	2018-01-05
+2776974093	17357	mangrove red snapper	Mangrove red snapper	biology.organism_classification	3	65	465	2018-01-05
+2776974504	15841	bicultural identity	Bicultural identity	medicine.symptom	3	345	16039	2018-01-05
+2776980937	16426	osteoderm	Osteoderm		2	128	2216	2018-01-05
+2776987556	25000	potamomusa	Potamomusa	biology.organism_classification	3	1	3	2018-01-05
+2776988535	19658	caulolatilus	Caulolatilus	biology.organism_classification	2	51	359	2018-01-05
+2776994406	14545	primary research	Primary research		2	6468	88239	2018-01-05
+2776997873	20579	anoba	Anoba	biology.organism_classification	2	6	9	2018-01-05
+2777000308	25000	coleophora sternipennella	Coleophora sternipennella	biology.organism_classification	3	1	0	2018-01-05
+2777003289	19886	global language system	Global language system		2	13	280	2018-01-05
+2777003301	18975	stylogaster	Stylogaster	biology.organism_classification	3	29	68	2018-01-05
+2777013347	20371	3 hydroxyacyl coenzyme a dehydrogenase deficiency	3-hydroxyacyl-coenzyme A dehydrogenase deficiency	medicine.disease	2	9	200	2018-01-05
+2777015139	17823	erythrodiplax	Erythrodiplax	biology.organism_classification	5	68	304	2018-01-05
+2777032105	18410	cheilomenes lunata	Cheilomenes lunata	biology.organism_classification	4	14	86	2018-01-05
+2777038317	25000	ischnostemma	Ischnostemma	food.ingredient	3	1	0	2018-01-05
+2777039156	15022	stibine	Stibine	chemistry.chemical_compound	5	623	6967	2018-01-05
+2777043372	18370	eucalyptus longifolia	Eucalyptus longifolia	biology.organism_classification	2	6	75	2018-01-05
+2777047896	11998	craniopharyngioma	Craniopharyngioma	medicine.disease	2	4016	55603	2018-01-05
+2777056640	18702	theory of functional systems	Theory of functional systems		2	88	255	2018-01-05
+2777066746	18705	palaeolenus	Palaeolenus	biology.organism_classification	4	20	168	2018-01-05
+2777069468	25000	australian medicines handbook	Australian Medicines Handbook		3	34	81	2018-01-05
+2777081086	17062	cough medicine	Cough medicine	medicine.medical_treatment	2	135	724	2018-01-05
+2777082925	13182	thalassiosira pseudonana	Thalassiosira pseudonana	biology.organism_classification	3	871	30979	2018-01-05
+2777097880	10150	essential hypertension	Essential hypertension	medicine.disease	4	32595	535655	2018-01-05
+2777108796	25000	tricomaria	Tricomaria	biology.organism_classification	3	4	2	2018-01-05
+2777112243	18717	suspensory ligament of ovary	Suspensory ligament of ovary	medicine.anatomical_structure	2	3	69	2018-01-05
+2777125044	17298	swimmer s ear	Swimmer's ear	medicine.symptom	3	49	207	2018-01-05
+2777131951	16970	old left	Old Left		4	190	1408	2018-01-05
+2777154459	13242	heating system	Heating system		2	31500	105570	2018-01-05
+2777180286	25000	stirtonanthus	Stirtonanthus	biology.organism_classification	3	4	50	2018-01-05
+2777182115	18670	diarrhena	Diarrhena	biology.organism_classification	2	16	194	2018-01-05
+2777204856	25000	pseudovermidae	Pseudovermidae	biology.organism_classification	3	2	17	2018-01-05
+2777215869	25000	eptatretus strickrotti	Eptatretus strickrotti	biology.organism_classification	2	1	13	2018-01-05
+2777216800	13817	metal injection molding	Metal injection molding		3	1498	5731	2018-01-05
+2777218816	16358	proliferation security initiative	Proliferation Security Initiative		3	211	401	2018-01-05
+2777228890	18049	eucynodontia	Eucynodontia	biology.organism_classification	2	35	1132	2018-01-05
+2777235101	25000	monitor filter	Monitor filter		2	47	340	2018-01-05
+2777236608	18340	kdm2b	KDM2B		4	113	5672	2018-01-05
+2777239540	25000	eccritotarsus	Eccritotarsus	biology.organism_classification	3	1	0	2018-01-05
+2777242046	25000	unciherpia	Unciherpia	biology.organism_classification	3	3	0	2018-01-05
+2777243702	20579	mercury i fluoride	Mercury(I) fluoride	chemistry.chemical_compound	2	3	5	2018-01-05
+2777247652	19422	camelini	Camelini	biology.organism_classification	3	14	187	2018-01-05
+2777253655	14679	foundational model of anatomy	Foundational Model of Anatomy		3	172	4156	2018-01-05
+2777258387	18513	endospermum medullosum	Endospermum medullosum	biology.organism_classification	2	17	68	2018-01-05
+2777261968	20579	dinogamasus	Dinogamasus	biology.organism_classification	2	6	8	2018-01-05
+2777271621	25000	myscelia cyaniris	Myscelia cyaniris	biology.organism_classification	3	1	0	2018-01-05
+2777278853	16480	agelastica alni	Agelastica alni	biology.organism_classification	3	63	1201	2018-01-05
+2777280806	17123	ruegeria	Ruegeria	biology.organism_classification	4	245	6231	2018-01-05
+2777282211	18728	pasteurella bettyae	Pasteurella bettyae	biology.organism_classification	2	11	81	2018-01-05
+2777290836	16225	ophrys sphegodes	Ophrys sphegodes	biology.organism_classification	4	49	1204	2018-01-05
+2777294040	16488	kaede	Kaede		3	221	20326	2018-01-05
+2777295280	25000	labrea fever	Lábrea fever	medicine.disease	2	2	18	2018-01-05
+2777304371	25000	didynamipus sjostedti	Didynamipus sjostedti	biology.organism_classification	3	2	14	2018-01-05
+2777314522	17996	distributed transmission system	Distributed transmission system		2	18	52	2018-01-05
+2777328239	14541	sarcopenic obesity	Sarcopenic obesity	medicine.disease	4	674	24230	2018-01-05
+2777328320	14519	tentorium	Tentorium		2	870	9957	2018-01-05
+2777339553	20579	eumichtis	Eumichtis	biology.organism_classification	3	3	0	2018-01-05
+2777356621	25000	cat massage	Cat massage		2	2	0	2018-01-05
+2777369524	15026	hydrilla	Hydrilla	biology.organism_classification	3	1424	13018	2018-01-05
+2777372006	19803	route card	Route card		2	7	50	2018-01-05
+2777387056	25000	dial on demand routing	Dial-on-demand routing		2	2	178	2018-01-05
+2777400059	16988	salpiglossis sinuata	Salpiglossis sinuata	biology.organism_classification	3	33	279	2018-01-05
+2777410594	13029	erythema nodosum	Erythema nodosum	medicine.disease	2	3889	40919	2018-01-05
+2777426525	14353	conger	Conger	biology.organism_classification	2	768	5540	2018-01-05
+2777426639	17225	agreed framework	Agreed Framework		3	181	514	2018-01-05
+2777439745	17537	archeogeography	Archeogeography		2	21	25	2018-01-05
+2777449830	20579	phalcoboenus	Phalcoboenus	biology.organism_classification	4	27	114	2018-01-05
+2777453110	18873	euryattus	Euryattus	biology.organism_classification	5	9	166	2018-01-05
+2777469149	19222	wiborgiella	Wiborgiella	biology.organism_classification	3	3	0	2018-01-05
+2777477085	20579	anomalotinea	Anomalotinea	biology.organism_classification	3	3	1	2018-01-05
+2777480306	25000	leiokarinosuchus	Leiokarinosuchus	biology.organism_classification	3	1	2	2018-01-05
+2777488010	13426	calpastatin	Calpastatin		3	1504	36469	2018-01-05
+2777491490	17927	crataerina	Crataerina	biology.organism_classification	3	11	96	2018-01-05
+2777518217	18572	clinocottus	Clinocottus	biology.organism_classification	3	21	282	2018-01-05
+2777526281	25000	sveltonectes	Sveltonectes	biology.organism_classification	3	2	60	2018-01-05
+2777544329	12784	blattellidae	Blattellidae	biology.organism_classification	3	976	10693	2018-01-05
+2777566804	19612	parakiefferiella	Parakiefferiella	biology.organism_classification	4	20	80	2018-01-05
+2777571086	17665	underground hydrogen storage	Underground hydrogen storage		4	41	302	2018-01-05
+2777580761	14868	levobunolol	Levobunolol	medicine.drug	5	255	3146	2018-01-05
+2777586496	13935	tetraodontiformes	Tetraodontiformes	biology.organism_classification	2	423	3955	2018-01-05
+2777605260	25000	changmaornis	Changmaornis	biology.organism_classification	3	1	0	2018-01-05
+2777610323	25000	dimethyl carbate	Dimethyl carbate	chemistry.chemical_compound	4	8	36	2018-01-05
+2777611841	19886	voice engine	Voice engine		2	45	270	2018-01-05
+2777613150	20579	myripnois	Myripnois	biology.organism_classification	2	8	1	2018-01-05
+2777616060	13645	dichloroacetic acid	Dichloroacetic acid	chemistry.chemical_compound	3	1312	18953	2018-01-05
+2777620836	15510	mcr 1	MCR-1		4	432	6842	2018-01-05
+2777623136	19089	dorylus orientalis	Dorylus orientalis	ved/biology.organism_classification_rank.species	2	17	17	2018-01-05
+2777631878	25000	saurocephalus	Saurocephalus	biology.organism_classification	2	8	32	2018-01-05
+2777648088	16542	musical instrument classification	Musical instrument classification		4	94	2213	2018-01-05
+2777651970	18371	neanderthal behavior	Neanderthal behavior	biology.organism_classification	4	22	320	2018-01-05
+2777693409	14874	virosome	Virosome		3	253	6436	2018-01-05
+2777705964	14955	hercynite	Hercynite	engineering.material	3	449	5201	2018-01-05
+2777722882	18773	atelerix	Atelerix	biology.organism_classification	3	176	1290	2018-01-05
+2777735388	15578	mir 137	mir-137		3	191	15539	2018-01-05
+2777741088	16670	allocryptopine	Allocryptopine	chemistry.chemical_compound	4	140	912	2018-01-05
+2777741194	18953	aponogeton crispus	Aponogeton crispus	biology.organism_classification	2	5	20	2018-01-05
+2777743866	20579	sitticus terebratus	Sitticus terebratus	biology.organism_classification	3	1	0	2018-01-05
+2777751859	20579	nolan chart	Nolan Chart		2	1	0	2018-01-05
+2777767772	25000	bt epoxy	BT-Epoxy		2	4	36	2018-01-05
+2777806129	16824	branchinecta	Branchinecta	biology.organism_classification	5	164	2260	2018-01-05
+2777810173	19150	mercury ii bromide	Mercury(II) bromide	chemistry.chemical_compound	3	34	155	2018-01-05
+2777813233	12385	grating	Grating		2	79229	655116	2018-01-05
+2777814307	19886	macedonian studies	Macedonian studies		2	23	7	2018-01-05
+2777846476	25000	pyrgus albescens	Pyrgus albescens	biology.organism_classification	3	1	4	2018-01-05
+2777852472	20579	plato s beard	Plato's beard		2	8	17	2018-01-05
+2777854078	15737	endolymphatic sac tumor	Endolymphatic sac tumor		4	197	4694	2018-01-05
+2777871851	19192	ethmia	Ethmia	biology.organism_classification	4	29	28	2018-01-05
+2777877921	13762	immunolabeling	Immunolabeling		2	2740	84918	2018-01-05
+2777882243	8804	small intestine	Small intestine	medicine.anatomical_structure	2	59724	924840	2018-01-05
+2777892635	19628	dicksonia squarrosa	Dicksonia squarrosa	biology.organism_classification	2	14	268	2018-01-05
+2777902257	15731	career pathways	Career Pathways		2	1085	5389	2018-01-05
+2777902833	17175	cactoideae	Cactoideae	biology.organism_classification	2	137	2434	2018-01-05
+2777909300	19356	chordeiles	Chordeiles	biology.organism_classification	2	116	908	2018-01-05
+2777916406	16682	kojibiose	Kojibiose	chemistry.chemical_compound	4	170	2243	2018-01-05
+2777917858	18770	inotilone	Inotilone	chemistry.chemical_compound	2	12	45	2018-01-05
+2777922890	20579	astomella	Astomella	biology.organism_classification	3	3	5	2018-01-05
+2777926627	15199	porites porites	Porites porites	biology.organism_classification	4	103	3763	2018-01-05
+2777928229	19704	vanilla andamanica	Vanilla andamanica	biology.organism_classification	2	4	61	2018-01-05
+2777930111	10070	nuclear fuel cycle	Nuclear fuel cycle		3	16529	42971	2018-01-05
+2777934089	25000	scirpus pendulus	Scirpus pendulus	biology.organism_classification	3	4	1	2018-01-05
+2777934238	16113	telomestatin	Telomestatin	chemistry.chemical_compound	4	151	19559	2018-01-05
+2777941724	17838	stellaria neglecta	Stellaria neglecta	biology.organism_classification	3	18	66	2018-01-05
+2777943936	25000	programming language for business	Programming Language for Business	computer.programming_language	2	1	0	2018-01-05
+2777958651	18890	ensete glaucum	Ensete glaucum	biology.organism_classification	3	17	65	2018-01-05
+2777962424	14121	acanthoscelides obtectus	Acanthoscelides obtectus	ved/biology.organism_classification_rank.species	3	687	6410	2018-01-05
+2777972492	20579	iris illyrica	Iris illyrica	biology.organism_classification	2	6	3	2018-01-05
+2777986515	18652	dirphia	Dirphia	biology.organism_classification	4	45	171	2018-01-05
+2778001298	11904	histone acetyltransferase	Histone acetyltransferase	biology.protein	3	2641	135733	2018-01-05
+2778001805	7722	mammary gland	Mammary gland	medicine.anatomical_structure	3	38668	1080229	2018-01-05
+2778024092	25000	melanophryniscus sanmartini	Melanophryniscus sanmartini	biology.organism_classification	2	6	10	2018-01-05
+2778033259	17868	toninia	Toninia	biology.organism_classification	4	81	882	2018-01-05
+2778048935	25000	immanant of a matrix	Immanant of a matrix		2	2	1	2018-01-05
+2778051948	18534	rosellinia pepo	Rosellinia pepo	biology.organism_classification	3	16	61	2018-01-05
+2778065733	19437	culicoidini	Culicoidini	biology.organism_classification	3	10	48	2018-01-05
+2778078080	19480	lysurus cruciatus	Lysurus cruciatus	biology.organism_classification	2	5	2	2018-01-05
+2778085095	25000	acriopsis indica	Acriopsis indica	biology.organism_classification	3	1	0	2018-01-05
+2778126903	19748	mathildellidae	Mathildellidae	biology.organism_classification	3	4	9	2018-01-05
+2778128938	25000	dromornis	Dromornis	biology.organism_classification	2	5	25	2018-01-05
+2778132155	19480	army cutworm	Army cutworm	biology.organism_classification	4	74	482	2018-01-05
+2778135390	17088	myxotrichaceae	Myxotrichaceae	biology.organism_classification	3	21	910	2018-01-05
+2778152223	17114	aenictus	Aenictus	biology.organism_classification	4	88	1305	2018-01-05
+2778155570	14787	gallex	GALLEX		5	282	5709	2018-01-05
+2778162015	16595	proteidae	Proteidae	biology.organism_classification	3	94	1613	2018-01-05
+2778169546	14583	pecuniary externality	Pecuniary externality		3	149	5359	2018-01-05
+2778172640	25000	the helsinki rules on the uses of the waters of international rivers	The Helsinki Rules on the Uses of the Waters of International Rivers		2	5	19	2018-01-05
+2778180636	25000	arthroleptis adolfifriederici	Arthroleptis adolfifriederici	biology.organism_classification	3	2	18	2018-01-05
+2778193716	18764	acraea horta	Acraea horta	biology.organism_classification	2	9	50	2018-01-05
+2778194997	25000	thermodynamic pump testing	Thermodynamic pump testing		2	1	0	2018-01-05
+2778205764	20579	enterprise bookmarking	Enterprise bookmarking		2	3	5	2018-01-05
+2778209712	25000	arenysaurus	Arenysaurus	biology.organism_classification	4	9	138	2018-01-05
+2778224220	25000	liaobaatar	Liaobaatar	biology.organism_classification	3	2	19	2018-01-05
+2778231709	20346	charonias	Charonias	biology.organism_classification	2	5	14	2018-01-05
+2778232641	25000	fireplane	Fireplane		3	8	193	2018-01-05
+2778236688	25000	orobates	Orobates	biology.organism_classification	2	4	97	2018-01-05
+2778237719	18499	hyperbolic dehn surgery	Hyperbolic Dehn surgery		5	28	1429	2018-01-05
+2778244660	15757	government office	Government Office		3	966	2203	2018-01-05
+2778248048	17587	internal obturator muscle	Internal obturator muscle		4	91	1141	2018-01-05
+2778254743	15643	intercostal nerve block	Intercostal nerve block		3	447	4080	2018-01-05
+2778268246	18244	parasaurolophus	Parasaurolophus	biology.organism_classification	3	40	366	2018-01-05
+2778299322	25000	edmontosaurus annectens	Edmontosaurus annectens	biology.organism_classification	2	7	121	2018-01-05
+2778302724	25000	splitting storm	Splitting storm		2	3	54	2018-01-05
+2778303017	14141	wide local excision	Wide local excision	medicine.medical_treatment	4	2597	42219	2018-01-05
+2778330003	25000	acute myeloid dendritic cell leukemia	Acute myeloid dendritic cell leukemia	medicine.disease	2	2	20	2018-01-05
+2778331110	25000	lycosuchus	Lycosuchus	biology.organism_classification	2	2	24	2018-01-05
+2778357643	16124	endostyle	Endostyle		4	242	4656	2018-01-05
+2778375319	14934	depside	Depside	chemistry.chemical_compound	3	367	4635	2018-01-05
+2778380004	25000	sinopoda okinawana	Sinopoda okinawana	biology.organism_classification	3	4	27	2018-01-05
+2778388657	16274	cfd ace	CFD-ACE+		2	98	221	2018-01-05
+2778390873	17649	genesis b	Genesis B		3	80	76	2018-01-05
+2778396310	25000	itaballia	Itaballia	biology.organism_classification	3	3	7	2018-01-05
+2778398978	19886	procatalepsis	Procatalepsis		2	6	15	2018-01-05
+2778406965	18435	sporobolus contractus	Sporobolus contractus	biology.organism_classification	2	7	89	2018-01-05
+2778413781	25000	penicillium aethiopicum	Penicillium aethiopicum	biology.organism_classification	3	5	18	2018-01-05
+2778444376	15891	zolantidine	Zolantidine	chemistry.chemical_compound	4	27	404	2018-01-05
+2778453073	12055	interaction point	Interaction point		3	2078	8912	2018-01-05
+2778465182	19207	sminthopsinae	Sminthopsinae	biology.organism_classification	2	11	240	2018-01-05
+2778466096	25000	distribution learning theory	Distribution learning theory		2	1	2	2018-01-05
+2778481852	19870	noblella lochites	Noblella lochites	biology.organism_classification	3	3	10	2018-01-05
+2778503278	14600	navigation function	Navigation function		2	929	13783	2018-01-05
+2778514736	25000	chamaemyces	Chamaemyces	biology.organism_classification	3	2	2	2018-01-05
+2778519617	25000	cromptodon	Cromptodon	biology.organism_classification	3	3	17	2018-01-05
+2778530908	15712	rs ophiuchi	RS Ophiuchi		3	284	2748	2018-01-05
+2778532505	14515	free convolution	Free convolution		4	181	5498	2018-01-05
+2778564246	20579	eryx tataricus	Eryx tataricus	biology.organism_classification	3	3	0	2018-01-05
+2778576049	18969	zetta	Zetta-		2	62	252	2018-01-05
+2778578793	19480	hypselobarbus	Hypselobarbus	biology.organism_classification	4	17	99	2018-01-05
+2778589297	20579	terinebrica	Terinebrica	biology.organism_classification	3	1	0	2018-01-05
+2778593475	15527	lychnis	Lychnis	biology.organism_classification	2	246	3800	2018-01-05
+2778595060	16698	forced pregnancy	Forced pregnancy		4	60	344	2018-01-05
+2778595535	18386	vaginula	Vaginula	biology.organism_classification	2	29	181	2018-01-05
+2778595782	25000	deltoidal hexecontahedron	Deltoidal hexecontahedron		2	1	0	2018-01-05
+2778605688	13409	freedom of movement	Freedom of movement		2	2179	9130	2018-01-05
+2778618113	16738	pompano	Pompano	biology.organism_classification	2	528	2461	2018-01-05
+2778621876	16004	molgramostim	Molgramostim	medicine.drug	4	109	1765	2018-01-05
+2778622159	25000	sumatran serow	Sumatran serow	biology.organism_classification	2	8	16	2018-01-05
+2778622709	16976	lamprologini	Lamprologini	biology.organism_classification	3	41	2887	2018-01-05
+2778624327	16764	growth of knowledge	Growth of knowledge		2	818	25128	2018-01-05
+2778624900	25000	posterior cecal artery	Posterior cecal artery	medicine.anatomical_structure	3	1	2	2018-01-05
+2778625725	25000	erythronium quinaultense	Erythronium quinaultense	biology.organism_classification	3	1	16	2018-01-05
+2778633104	18688	taxodone	Taxodone	chemistry.chemical_compound	4	16	509	2018-01-05
+2778633544	17004	poincare recurrence theorem	Poincaré recurrence theorem		3	66	1191	2018-01-05
+2778646435	12131	personal network	Personal network		3	1744	38544	2018-01-05
+2778648096	13408	prostate brachytherapy	Prostate brachytherapy	medicine.medical_treatment	5	3327	42522	2018-01-05
+2778649560	12277	limb girdle muscular dystrophy	Limb-girdle muscular dystrophy	medicine.disease	3	1577	41829	2018-01-05
+2778666122	15854	anterior interosseous nerve	Anterior interosseous nerve		3	527	5554	2018-01-05
+2778672243	20579	persistent aura without infarction	Persistent aura without infarction	medicine.disease	5	16	161	2018-01-05
+2778694354	20418	cambridgea	Cambridgea	biology.organism_classification	3	7	32	2018-01-05
+2778716959	16811	salsa20	Salsa20		5	84	569	2018-01-05
+2778725672	17504	left realism	Left realism		3	88	1711	2018-01-05
+2778750487	14606	aortoiliac occlusive disease	Aortoiliac occlusive disease	medicine.disease	2	755	14906	2018-01-05
+2778759276	25000	hexasulfur	Hexasulfur	chemistry.chemical_compound	2	18	144	2018-01-05
+2778760594	17621	cramer wold theorem	Cramér–Wold theorem		2	10	124	2018-01-05
+2778763586	16239	n butyllithium	n-Butyllithium	chemistry.chemical_compound	2	472	5510	2018-01-05
+2778763703	14059	bit rate reduction	Bit Rate Reduction	computer.file_format	3	517	4702	2018-01-05
+2778768369	19886	coloradia	Coloradia	biology.organism_classification	4	31	296	2018-01-05
+2778777050	19751	austropeplea	Austropeplea	biology.organism_classification	3	5	59	2018-01-05
+2778779836	25000	methanotorris	Methanotorris	biology.organism_classification	2	12	65	2018-01-05
+2778786452	15171	sphaeroceridae	Sphaeroceridae	biology.organism_classification	2	370	1270	2018-01-05
+2778794755	19836	slc39a7	SLC39A7	biology.protein	3	29	879	2018-01-05
+2778801609	13710	uranium tetrafluoride	Uranium tetrafluoride	chemistry.chemical_compound	3	856	1687	2018-01-05
+2778810951	16556	melvyl	Melvyl		3	111	683	2018-01-05
+2778815445	19148	risorius	Risorius		3	70	1043	2018-01-05
+2778820541	25000	oglasa	Oglasa	biology.organism_classification	2	69	1	2018-01-05
+2778825724	13955	sparrow	Sparrow	biology.animal	2	5967	91021	2018-01-05
+2778826306	20579	gpr31	GPR31		4	17	251	2018-01-05
+2778827014	18472	savignia	Savignia	biology.organism_classification	4	19	44	2018-01-05
+2778827303	12139	soluble guanylyl cyclase	Soluble guanylyl cyclase		4	2357	91312	2018-01-05
+2778831920	20199	asaia siamensis	Asaia siamensis	biology.organism_classification	5	12	220	2018-01-05
+2778833020	19333	haemantheae	Haemantheae	biology.organism_classification	2	4	34	2018-01-05
+2778844676	12419	central retinal vein occlusion	Central retinal vein occlusion	medicine.disease	2	2869	43672	2018-01-05
+2778849945	19818	stichorkis	Stichorkis	biology.organism_classification	3	2	3	2018-01-05
+2778858104	17952	dromaeosaurinae	Dromaeosaurinae	biology.organism_classification	2	4	58	2018-01-05
+2778862617	19886	whippomorpha	Whippomorpha	biology.organism_classification	2	5	537	2018-01-05
+2778866783	25000	psoralidium tenuiflorum	Psoralidium tenuiflorum	biology.organism_classification	3	4	62	2018-01-05
+2778899633	11911	sedentary lifestyle	Sedentary lifestyle		4	5755	146571	2018-01-05
+2778919839	25000	unesco convention on the means of prohibiting and preventing the illicit import export and transfer of ownership of cultural property	UNESCO Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property		2	4	15	2018-01-05
+2778925023	20579	provisional designation in astronomy	Provisional designation in astronomy		2	1	0	2018-01-05
+2778928312	20572	austroagrion	Austroagrion	biology.organism_classification	3	1	1	2018-01-05
+2778940482	14342	pathfinder	Pathfinder		2	4043	18050	2018-01-05
+2778944715	15184	porencephaly	Porencephaly	medicine.disease	2	602	11199	2018-01-05
+2778952307	19730	kalanchoe pumila	Kalanchoe pumila	biology.organism_classification	2	4	16	2018-01-05
+2778953754	25000	bauxitornis	Bauxitornis	biology.organism_classification	2	2	13	2018-01-05
+2778960179	18436	plasmodium sasai	Plasmodium sasai	biology.organism_classification	4	10	75	2018-01-05
+2778999918	19439	shorea gibbosa	Shorea gibbosa	biology.organism_classification	3	8	37	2018-01-05
+2779005526	15736	hermetic seal	Hermetic seal	law.invention	2	2191	27866	2018-01-05
+2779005926	14675	honeysuckle	Honeysuckle	biology.organism_classification	2	3610	10995	2018-01-05
+2779009331	14443	new zealand english	New Zealand English	language.human_language	2	572	6052	2018-01-05
+2779011220	25000	uhligia	Uhligia	biology.organism_classification	3	1	5	2018-01-05
+2779014585	17832	komokiacea	Komokiacea	biology.organism_classification	4	23	416	2018-01-05
+2779021924	16385	acute cutaneous lupus erythematosus	Acute cutaneous lupus erythematosus	medicine.disease	5	65	14770	2018-01-05
+2779024159	16720	lysmata	Lysmata	biology.organism_classification	4	157	2663	2018-01-05
+2779026043	20518	supernova early warning system	Supernova Early Warning System		5	20	192	2018-01-05
+2779054460	20123	atypus piceus	Atypus piceus	biology.organism_classification	2	15	66	2018-01-05
+2779057008	19859	gundersen flap	Gundersen flap		2	6	13	2018-01-05
+2779070231	17222	newman kwart rearrangement	Newman–Kwart rearrangement		2	51	781	2018-01-05
+2779072137	16824	terminal server	Terminal server		2	1958	5588	2018-01-05
+2779077654	17637	isodontia mexicana	Isodontia mexicana	biology.organism_classification	5	52	109	2018-01-05
+2779083740	17356	lynx1	LYNX1		5	87	2694	2018-01-05
+2779091347	15058	copaifera	Copaifera	biology.organism_classification	2	550	4873	2018-01-05
+2779123954	25000	polyedriopsis	Polyedriopsis	biology.organism_classification	2	5	31	2018-01-05
+2779134421	13716	paenibacillus polymyxa	Paenibacillus polymyxa	biology.organism_classification	3	1028	14853	2018-01-05
+2779139939	18697	aspidosperma excelsum	Aspidosperma excelsum	biology.organism_classification	4	12	124	2018-01-05
+2779147656	14186	dysfunctional uterine bleeding	Dysfunctional uterine bleeding	medicine.symptom	2	1952	14321	2018-01-05
+2779150434	14506	supply chain optimization	Supply chain optimization		4	834	7091	2018-01-05
+2779173278	11899	ozonolysis	Ozonolysis		2	5293	75023	2018-01-05
+2779187253	13380	xanthurenic acid	Xanthurenic acid	chemistry.chemical_compound	5	928	12573	2018-01-05
+2779189161	16509	ammonium hexafluorophosphate	Ammonium hexafluorophosphate	chemistry.chemical_compound	4	110	1722	2018-01-05
+2779204983	13689	phomopsis	Phomopsis	biology.organism_classification	2	2387	17372	2018-01-05
+2779207031	15728	tandem repeat locus	Tandem repeat locus		5	77	3394	2018-01-05
+2779223262	14154	baccharis	Baccharis	biology.organism_classification	2	1267	10347	2018-01-05
+2779224084	25000	elasterell	Elasterell		2	1	0	2018-01-05
+2779230619	18940	opogona	Opogona	biology.organism_classification	5	18	29	2018-01-05
+2779230917	25000	slender antbird	Slender antbird	biology.organism_classification	3	1	0	2018-01-05
+2779271920	13574	electronic article	Electronic article		2	681	7137	2018-01-05
+2779282603	14643	angular rate sensor	Angular rate sensor		3	867	8847	2018-01-05
+2779282661	16442	acacia salicina	Acacia salicina	biology.organism_classification	3	74	681	2018-01-05
+2779313563	16194	on language	On Language		2	12742	108587	2018-01-05
+2779333763	25000	galadi	Galadi	biology.organism_classification	2	10	29	2018-01-05
+2779336213	25000	charaxes viola	Charaxes viola	biology.organism_classification	3	3	0	2018-01-05
+2779345624	25000	cyanixia	Cyanixia	biology.organism_classification	2	2	7	2018-01-05
+2779354765	18054	madreporite	Madreporite		2	58	502	2018-01-05
+2779356393	14910	supply side economics	Supply-side economics		2	214	3268	2018-01-05
+2779386900	18354	anelytropsis	Anelytropsis	biology.organism_classification	4	8	181	2018-01-05
+2779396209	25000	malthusian catastrophe	Malthusian catastrophe		2	13	119	2018-01-05
+2779400325	25000	allium erdelii	Allium erdelii	biology.organism_classification	3	2	14	2018-01-05
+2779406158	25000	monstrotyphis tosaensis	Monstrotyphis tosaensis	biology.organism_classification	3	1	0	2018-01-05
+2779408690	25000	moserella	Moserella	biology.organism_classification	3	2	7	2018-01-05
+2779408833	15420	koro	Koro	medicine.disease	2	550	2709	2018-01-05
+2779426729	15008	frequency locked loop	Frequency-locked loop		3	444	3689	2018-01-05
+2779433023	14960	sedum alfredii	Sedum alfredii	biology.organism_classification	5	283	4590	2018-01-05
+2779457951	25000	dendrortyx	Dendrortyx	biology.organism_classification	3	23	55	2018-01-05
+2779463904	18261	anomalopidae	Anomalopidae	biology.organism_classification	3	22	231	2018-01-05
+2779471270	14697	diphyllobothrium	Diphyllobothrium	biology.organism_classification	3	1249	10529	2018-01-05
+2779473519	16406	glucono delta lactone	Glucono delta-lactone	chemistry.chemical_compound	2	164	1102	2018-01-05
+2779477288	18348	raphidocelis	Raphidocelis	biology.organism_classification	5	13	104	2018-01-05
+2779480814	13047	nandrolone	Nandrolone	medicine.drug	3	894	13855	2018-01-05
+2779489387	20290	diastictis	Diastictis	biology.organism_classification	3	4	6	2018-01-05
+2779501447	15104	mast cell leukemia	Mast cell leukemia	medicine.disease	4	373	14125	2018-01-05
+2779501808	17975	cement bond log	Cement bond log		3	82	365	2018-01-05
+2779509574	11831	caste	Caste		2	13985	96212	2018-01-05
+2779536203	25000	chelosphargis	Chelosphargis	biology.organism_classification	3	1	19	2018-01-05
+2779539726	17586	access token	Access token		3	356	4009	2018-01-05
+2779553363	25000	eotyrannus	Eotyrannus	biology.organism_classification	3	3	14	2018-01-05
+2779558830	16740	ordinary time	Ordinary Time		2	3493	175	2018-01-05
+2779561303	19074	cacatuinae	Cacatuinae	biology.organism_classification	2	5	59	2018-01-05
+2779569103	19886	micrarionta	Micrarionta	biology.organism_classification	2	7	5	2018-01-05
+2779589098	15879	linum flavum	Linum flavum	biology.organism_classification	3	72	1119	2018-01-05
+2779597901	25000	autosomal dominant retinal vasculopathy with cerebral leukodystrophy	Autosomal dominant retinal vasculopathy with cerebral leukodystrophy	medicine.disease	2	7	312	2018-01-05
+2779618061	18253	leptomeryx	Leptomeryx	biology.organism_classification	3	21	202	2018-01-05
+2779621243	20319	triraphis	Triraphis	biology.organism_classification	2	15	230	2018-01-05
+2779625490	12560	systemic scleroderma	Systemic scleroderma	medicine.disease	3	1918	34702	2018-01-05
+2779625713	11891	hemocyte	Hemocyte		2	1749	26852	2018-01-05
+2779643390	16033	folk etymology	Folk etymology		3	174	151	2018-01-05
+2779647852	18703	nuchal fibroma	Nuchal fibroma	medicine.disease	3	23	147	2018-01-05
+2779651054	25000	leptodactylus troglodytes	Leptodactylus troglodytes	biology.organism_classification	3	3	23	2018-01-05
+2779660336	19271	schizochlamys	Schizochlamys	biology.organism_classification	2	5	36	2018-01-05
+2779669930	18929	upper shoreface	Upper shoreface		4	335	4302	2018-01-05
+2779674987	13926	self acceptance	Self-acceptance	media_common.quotation_subject	2	1017	6852	2018-01-05
+2779681902	19393	neritoidea	Neritoidea	biology.organism_classification	3	19	148	2018-01-05
+2779682186	13153	friend virus	Friend virus	biology.organism_classification	3	1052	18577	2018-01-05
+2779683600	15431	distributed key generation	Distributed key generation		4	143	27241	2018-01-05
+2779691516	12824	multi chip module	Multi-chip module		3	1615	13138	2018-01-05
+2779699049	14965	herkogamy	Herkogamy		4	250	8233	2018-01-05
+2779699254	16441	recoupment	Recoupment		2	309	615	2018-01-05
+2779716515	19073	algar flynn oyamada reaction	Algar–Flynn–Oyamada reaction		3	16	39	2018-01-05
+2779719832	25000	ascocalvatia	Ascocalvatia	biology.organism_classification	3	2	43	2018-01-05
+2779746291	14015	piceatannol	Piceatannol	chemistry.chemical_compound	3	662	15193	2018-01-05
+2779758070	14463	sticking probability	Sticking probability		4	1651	38318	2018-01-05
+2779766525	25000	democratic globalization	Democratic globalization		4	27	378	2018-01-05
+2779785285	16542	idose	Idose	chemistry.chemical_compound	2	225	2903	2018-01-05
+2779785697	13873	christian tradition	Christian tradition		2	3600	7301	2018-01-05
+2779787166	19893	orthosoma	Orthosoma	biology.organism_classification	3	12	163	2018-01-05
+2779787402	25000	cryptocarya foveolata	Cryptocarya foveolata	biology.organism_classification	3	2	6	2018-01-05
+2779799295	20564	hyalophora gloveri	Hyalophora gloveri	biology.organism_classification	2	21	513	2018-01-05
+2779814568	10012	laminin	Laminin	biology.protein	3	16535	589014	2018-01-05
+2779823252	25000	pampaphoneus	Pampaphoneus	biology.organism_classification	2	2	26	2018-01-05
+2779834441	25000	balakata	Balakata	biology.organism_classification	3	2	1	2018-01-05
+2779839472	25000	nonthrombocytopenic purpura	Nonthrombocytopenic purpura	medicine.disease	4	48	473	2018-01-05
+2779845346	20579	epidromia	Epidromia	biology.organism_classification	3	3	1	2018-01-05
+2779854178	15177	panophthalmitis	Panophthalmitis	medicine.disease	3	437	4108	2018-01-05
+2779877383	25000	voiceless alveolar fricative	Voiceless alveolar fricative		2	11	3	2018-01-05
+2779878498	14974	cockle	Cockle		2	1326	14298	2018-01-05
+2779878814	17767	digital circuit multiplication equipment	Digital Circuit Multiplication Equipment		3	37	77	2018-01-05
+2779885752	15622	legume lectin	Legume lectin	biology.protein	3	170	9512	2018-01-05
+2779898098	18201	intracranial hypertension syndrome	Intracranial hypertension syndrome	medicine.disease	3	112	920	2018-01-05
+2779908692	16658	semail ophiolite	Semail Ophiolite		5	222	9949	2018-01-05
+2779911484	13479	4 nitroquinoline 1 oxide	4-Nitroquinoline 1-oxide	chemistry.chemical_compound	4	560	8020	2018-01-05
+2779924794	20562	hydrodynastes	Hydrodynastes	biology.organism_classification	2	10	104	2018-01-05
+2779935346	25000	pseudopyrenula	Pseudopyrenula	biology.organism_classification	3	5	38	2018-01-05
+2779937813	25000	psycharium montanum	Psycharium montanum	biology.organism_classification	3	2	0	2018-01-05
+2779951200	20579	ulas family	Ulas family		2	1	0	2018-01-05
+2779960602	14323	linguistic turn	Linguistic turn		2	1411	9434	2018-01-05
+2779965144	20579	disposable cup	Disposable cup		2	481	2396	2018-01-05
+2779970790	12301	aluminium sulfate	Aluminium sulfate	chemistry.chemical_compound	3	1285	18461	2018-01-05
+2779983348	14972	diastrophic dysplasia	Diastrophic dysplasia	medicine.symptom	3	260	4915	2018-01-05
+2780003326	20579	robovirus	Robovirus		2	6	47	2018-01-05
+2780004512	14666	brucella canis	Brucella canis	biology.organism_classification	3	608	5385	2018-01-05
+2780006128	16768	antidesma	Antidesma	biology.organism_classification	3	138	560	2018-01-05
+2780008595	19886	cornirostridae	Cornirostridae	biology.organism_classification	3	4	11	2018-01-05
+2780025797	25000	vatica perakensis	Vatica perakensis	biology.organism_classification	3	4	0	2018-01-05
+2780027701	16836	diploptera	Diploptera	biology.organism_classification	5	53	1139	2018-01-05
+2780036767	17966	anacamptis palustris	Anacamptis palustris	biology.organism_classification	5	14	180	2018-01-05
+2780038442	15351	poppet valve	Poppet valve		3	2291	16494	2018-01-05
+2780045565	18709	monocular estimate method	Monocular estimate method		5	19	345	2018-01-05
+2780051865	17681	cyathus striatus	Cyathus striatus	biology.organism_classification	2	35	361	2018-01-05
+2780065859	12199	feed additive	Feed additive		2	10589	42113	2018-01-05
+2780075732	25000	diisopromine	Diisopromine	medicine.drug	2	1	0	2018-01-05
+2780083837	25000	gender changer	Gender changer		2	15	106	2018-01-05
+2780095022	14171	maltotriose	Maltotriose	chemistry.chemical_compound	4	1479	28581	2018-01-05
+2780095259	18969	shadow table	Shadow table		3	30	181	2018-01-05
+2780103927	17494	stichotrich	Stichotrich	biology.organism_classification	4	31	482	2018-01-05
+2780107407	19192	subversion and containment	Subversion and containment		4	22	12	2018-01-05
+2780134985	25000	libotonius	Libotonius	biology.organism_classification	2	1	9	2018-01-05
+2780142257	15315	metropolitan police	Metropolitan police		2	1159	6462	2018-01-05
+2780150774	11078	user profile	User profile		2	10478	184855	2018-01-05
+2780158988	14232	centaurus a	Centaurus A		4	864	10235	2018-01-05
+2780188703	25000	sarbanissa	Sarbanissa	biology.organism_classification	3	2	0	2018-01-05
+2780200500	20434	utegenia	Utegenia	biology.organism_classification	4	6	78	2018-01-05
+2780209059	25000	hesperilla malindeva	Hesperilla malindeva	biology.organism_classification	3	2	4	2018-01-05
+2780211066	18013	machimoi	Machimoi		3	18	1	2018-01-05
+2780221509	18977	brassocattleya	Brassocattleya	biology.organism_classification	2	37	345	2018-01-05
+2780222749	25000	obesity in the middle east and north africa	Obesity in the Middle East and North Africa		2	1	0	2018-01-05
+2780236042	16618	fungus gnat	Fungus gnat		3	216	1515	2018-01-05
+2780238094	16393	http 2	HTTP/2		2	185	682	2018-01-05
+2780238774	25000	alert dialog box	Alert dialog box		2	1	0	2018-01-05
+2780242734	25000	gekko canaensis	Gekko canaensis	biology.organism_classification	3	2	0	2018-01-05
+2780248069	18664	5 10 methylenetetrahydromethanopterin reductase	5,10-methylenetetrahydromethanopterin reductase		2	2	76	2018-01-05
+2780255909	18038	quinupramine	Quinupramine	chemistry.chemical_compound	2	24	51	2018-01-05
+2780259371	15524	ecklonia stolonifera	Ecklonia stolonifera	biology.organism_classification	2	163	2216	2018-01-05
+2780286589	17980	microlife	Microlife		4	117	35747	2018-01-05
+2780292373	17108	l 663536	L 663536	chemistry.chemical_compound	2	1	270	2018-01-05
+2780294061	16274	hilbert symbol	Hilbert symbol		3	112	2684	2018-01-05
+2780306303	12001	folate receptor	Folate receptor		2	2424	78132	2018-01-05
+2780308851	15943	proportionalism	Proportionalism		2	104	534	2018-01-05
+2780316606	20563	chaperone usher fimbriae	Chaperone-Usher fimbriae		4	9	176	2018-01-05
+2780345915	17816	backslash	Backslash		2	662	2358	2018-01-05
+2780352551	20362	hermeuptychia atalanta	Hermeuptychia atalanta	biology.organism_classification	3	1	5	2018-01-05
+2780355595	17775	block lu decomposition	Block LU decomposition		5	47	898	2018-01-05
+2780356984	14139	quercus cerris	Quercus cerris	biology.organism_classification	2	594	5407	2018-01-05
+2780359420	20141	halidae	Halidae	biology.organism_classification	3	1	21	2018-01-05
+2780372667	15060	untranslatability	Untranslatability		2	622	2174	2018-01-05
+2780373153	16153	water resources law	Water resources law		3	80	499	2018-01-05
+2780384441	18701	pandemis cerasana	Pandemis cerasana	biology.organism_classification	5	19	23	2018-01-05
+2780395675	15730	flank	Flank		2	11483	82323	2018-01-05
+2780396414	16029	simkania negevensis	Simkania negevensis	biology.organism_classification	5	101	3907	2018-01-05
+2780408058	19197	phagnalon saxatile	Phagnalon saxatile	biology.organism_classification	3	4	13	2018-01-05
+2780434117	16773	livedoid vasculitis	Livedoid vasculitis	medicine.symptom	4	98	1983	2018-01-05
+2780439173	15201	trichothecium roseum	Trichothecium roseum	biology.organism_classification	2	467	3251	2018-01-05
+2780447437	15373	dreissenidae	Dreissenidae	biology.organism_classification	4	156	2906	2018-01-05
+2780461747	20095	pulju moraine	Pulju moraine		2	2	21	2018-01-05
+2780468109	25000	lepidogyne	Lepidogyne	biology.organism_classification	3	1	0	2018-01-05
+2780482319	25000	influenza a virus subtype h2n2	Influenza A virus subtype H2N2		2	1	3	2018-01-05
+2780482755	16111	theory ladenness	Theory-ladenness		2	102	38733	2018-01-05
+2780486988	25000	sciocoris homalonotus	Sciocoris homalonotus	biology.organism_classification	3	2	0	2018-01-05
+2780502919	18880	σ compact space	σ-compact space		2	6	15	2018-01-05
+2780518780	19651	nepanthia belcheri	Nepanthia belcheri	biology.organism_classification	3	3	34	2018-01-05
+2780519661	13688	curvaton	Curvaton		4	135	2869	2018-01-05
+2780526362	25000	hungaritidae	Hungaritidae	biology.organism_classification	3	1	3	2018-01-05
+2780534490	16230	free radical addition	Free-radical addition		2	724	8289	2018-01-05
+2780543592	18195	hippomane	Hippomane	food.ingredient	2	37	217	2018-01-05
+2780554747	12324	longitude	Longitude		3	11873	135616	2018-01-05
+2780559070	20556	neophryxe	Neophryxe	biology.organism_classification	3	2	2	2018-01-05
+2780571358	15654	gaeumannomyces	Gaeumannomyces	biology.organism_classification	2	960	13465	2018-01-05
+2780603692	25000	external water spray system	External water spray system		2	1	1	2018-01-05
+2780606951	18570	irisation	Irisation		2	33	63	2018-01-05
+2780618400	25000	globe effect	Globe effect		2	7	16	2018-01-05
+2780628603	17900	ileal conduit urinary diversion	Ileal conduit urinary diversion		5	299	5023	2018-01-05
+2780630512	12847	penicillium expansum	Penicillium expansum	biology.organism_classification	2	1914	31458	2018-01-05
+2780631570	18121	staffane	Staffane	chemistry.chemical_compound	3	11	177	2018-01-05
+2780634318	20236	symphyotrichum lanceolatum	Symphyotrichum lanceolatum	biology.organism_classification	2	5	19	2018-01-05
+2780643096	20252	gmelanone	Gmelanone	chemistry.chemical_compound	2	5	52	2018-01-05
+2780659091	18165	leptanilla japonica	Leptanilla japonica	biology.organism_classification	3	4	44	2018-01-05
+2780661322	19480	oculinidae	Oculinidae	biology.organism_classification	4	24	579	2018-01-05
+2780669972	19394	anopla	Anopla	biology.organism_classification	3	38	420	2018-01-05
+2780672046	15658	first sale doctrine	First-sale doctrine		3	254	187	2018-01-05
+2780676400	25000	antipodia	Antipodia	biology.organism_classification	3	1	3	2018-01-05
+2780676431	19470	widows and orphans	Widows and orphans		2	141	288	2018-01-05
+2780690605	25000	allium umbilicatum	Allium umbilicatum	biology.organism_classification	3	2	0	2018-01-05
+2780692604	18462	jalili syndrome	Jalili syndrome	medicine.disease	5	31	356	2018-01-05
+2780699913	14229	stream power	Stream power		4	1430	37907	2018-01-05
+2780702883	25000	boucekiola	Boucekiola	biology.organism_classification	3	1	0	2018-01-05
+2780720481	25000	smiles arbitrary target specification	Smiles arbitrary target specification		2	5	149	2018-01-05
+2780725409	25000	bradyrrhoa	Bradyrrhoa	biology.organism_classification	3	1	0	2018-01-05
+2780729929	19825	logarithmic units	Logarithmic units		2	89	2051	2018-01-05
+2780737243	12654	isogeometric analysis	Isogeometric analysis		3	1946	34284	2018-01-05
+2780755588	25000	niementowski quinazoline synthesis	Niementowski quinazoline synthesis		2	2	1	2018-01-05
+2780757810	13489	round window	Round window	medicine.anatomical_structure	3	2917	41987	2018-01-05
+2780757817	17439	2010 biodiversity target	2010 Biodiversity Target		4	52	1631	2018-01-05
+2780769633	18591	ethylidene diacetate	Ethylidene diacetate	chemistry.chemical_compound	5	164	782	2018-01-05
+2780777891	25000	acetanaerobacterium	Acetanaerobacterium	biology.organism_classification	3	16	280	2018-01-05
+2780785188	25000	myripristis jacobus	Myripristis jacobus	biology.organism_classification	2	8	112	2018-01-05
+2780797234	18115	frank ter haar syndrome	Frank–ter Haar syndrome	medicine.disease	4	17	149	2018-01-05
+2780797541	25000	monetary policy of india	Monetary policy of India		2	5	14	2018-01-05
+2780798861	19715	gahnia grandis	Gahnia grandis	biology.organism_classification	2	7	129	2018-01-05
+2780801442	25000	solid klein bottle	Solid Klein bottle		2	3	1	2018-01-05
+2780802524	25000	sericomyiini	Sericomyiini	biology.organism_classification	3	1	4	2018-01-05
+2780805959	16434	tropical theileriosis	Tropical theileriosis		3	257	3573	2018-01-05
+2780827338	25000	orthrias	Orthrias	biology.organism_classification	2	20	237	2018-01-05
+2780828124	25000	nanorana vicina	Nanorana vicina	biology.organism_classification	2	1	1	2018-01-05
+2780836893	12794	fire detection	Fire detection		2	5012	28839	2018-01-05
+2780852205	25000	chaotung vole	Chaotung vole	biology.organism_classification	2	2	7	2018-01-05
+2780876229	20579	scale of harmonics	Scale of harmonics		2	1	0	2018-01-05
+2780877649	18619	plesiosauridae	Plesiosauridae	biology.organism_classification	2	7	84	2018-01-05
+2780884312	25000	store and forward switching center	Store-and-forward switching center		2	1	1	2018-01-05
+2780901972	25000	leucochrysum albicans	Leucochrysum albicans	biology.organism_classification	2	7	105	2018-01-05
+2780911508	20579	year 2038 problem	Year 2038 problem		2	2	0	2018-01-05
+2780912709	18421	honing oil	Honing oil	chemistry.chemical_compound	4	28	50	2018-01-05
+2780918503	15688	tetraethylammonium chloride	Tetraethylammonium chloride	chemistry.chemical_compound	2	798	16435	2018-01-05
+2780923370	15763	vibrio natriegens	Vibrio natriegens	biology.organism_classification	4	150	2579	2018-01-05
+2780925005	16626	sicydiinae	Sicydiinae	biology.organism_classification	4	99	1932	2018-01-05
+2780949477	25000	helochares obscurus	Helochares obscurus	biology.organism_classification	3	2	12	2018-01-05
+2780951463	25000	eudaemons	Eudaemons		2	2	8	2018-01-05
+2780961447	19480	double check valve	Double check valve		5	140	763	2018-01-05
+2780963105	14711	carboxypeptidase e	Carboxypeptidase E	biology.protein	4	326	10418	2018-01-05
+2780970783	19236	politics in education	Politics in education		3	69	449	2018-01-05
+2780978199	13926	paced auditory serial addition test	Paced Auditory Serial Addition Test	medicine.diagnostic_test	3	449	34886	2018-01-05
+2780985892	25000	cynaeda dentalis	Cynaeda dentalis	biology.organism_classification	3	1	0	2018-01-05
+2780995823	17901	potassium tetrachloroplatinate	Potassium tetrachloroplatinate	chemistry.chemical_compound	4	139	1557	2018-01-05
+2780996845	17269	mesophyllum	Mesophyllum	biology.organism_classification	4	212	4428	2018-01-05
+2781004614	20579	leptothelaira	Leptothelaira	biology.organism_classification	3	2	2	2018-01-05
+2781004970	25000	epicopeia hainesii	Epicopeia hainesii	biology.organism_classification	3	1	2	2018-01-05
+2781005695	25000	campylocarpon pseudofasciculare	Campylocarpon pseudofasciculare	biology.organism_classification	3	3	2	2018-01-05
+2781010970	25000	handwriting movement analysis	Handwriting movement analysis		3	6	40	2018-01-05
+2781025457	25000	centropyge multispinis	Centropyge multispinis	biology.organism_classification	3	2	2	2018-01-05
+2781028716	12934	channelling	Channelling		3	3139	27625	2018-01-05
+2781030367	15074	food away from home	Food away from home		2	427	7640	2018-01-05
+2781030442	20579	surgical management of fecal incontinence	Surgical management of fecal incontinence		3	11	45	2018-01-05
+2781051878	25000	bulinus jousseaumei	Bulinus jousseaumei	biology.organism_classification	2	5	70	2018-01-05
+2781056656	25000	stenomesius	Stenomesius	biology.organism_classification	2	9	6	2018-01-05
+2781057722	16636	acne keloidalis nuchae	Acne keloidalis nuchae	medicine.disease	3	111	1398	2018-01-05
+2781063695	17031	caenorhabditis remanei	Caenorhabditis remanei	biology.organism_classification	5	95	13648	2018-01-05
+2781067395	18593	coumalic acid	Coumalic acid	chemistry.chemical_compound	2	26	96	2018-01-05
+2781099255	12221	hyperammonemia	Hyperammonemia	medicine.disease	3	3421	57456	2018-01-05
+2781100160	19367	pwo dna polymerase	Pwo DNA polymerase		4	10	357	2018-01-05
+2781102086	25000	callictita	Callictita	biology.organism_classification	3	1	0	2018-01-05
+2781114027	17798	paracoccus thiocyanatus	Paracoccus thiocyanatus	biology.organism_classification	3	7	117	2018-01-05
+2781116722	18428	holocacista rivillei	Holocacista rivillei	biology.organism_classification	4	12	65	2018-01-05
+2781118382	13983	acyl coa binding protein	Acyl-CoA-binding protein		3	296	8691	2018-01-05
+2781119452	18050	ictal headache	Ictal headache	medicine.disease	4	36	569	2018-01-05
+2781124850	25000	elachista vonschantzi	Elachista vonschantzi	biology.organism_classification	3	1	1	2018-01-05
+2781124955	19572	paracricotopus	Paracricotopus	biology.organism_classification	3	5	18	2018-01-05
+2781128275	16101	reinhardt domain	Reinhardt domain		3	136	1302	2018-01-05
+2781144357	12496	eisenia fetida	Eisenia fetida	biology.organism_classification	2	2400	37299	2018-01-05
+2781150533	18402	alonsoa meridionalis	Alonsoa meridionalis	biology.organism_classification	4	10	222	2018-01-05
+2781153181	17342	linifanib	Linifanib	chemistry.chemical_compound	4	106	29849	2018-01-05
+2781154459	18016	zinc ricinoleate	Zinc ricinoleate	chemistry.chemical_compound	4	67	302	2018-01-05
+2781156916	20579	ganzfeld effect	Ganzfeld effect		2	5	2	2018-01-05
+2781163209	18887	wilkie s theorem	Wilkie's theorem		2	8	25	2018-01-05
+2781169971	25000	cedestis exiguata	Cedestis exiguata	biology.organism_classification	3	1	2	2018-01-05
+2781172479	16523	evolutionary suicide	Evolutionary suicide		3	66	24433	2018-01-05
+2781173288	16266	fredholm module	Fredholm module		5	59	1414	2018-01-05
+2781174152	13937	sinigrin	Sinigrin	chemistry.chemical_compound	4	737	17404	2018-01-05
+2781186664	17571	ubqln1	UBQLN1		2	78	2680	2018-01-05
+2781187084	13159	network centric warfare	Network-centric warfare		2	1369	4229	2018-01-05
+2781198896	19813	zanonia	Zanonia	biology.organism_classification	2	17	100	2018-01-05
+2781205058	16362	philtrum	Philtrum	medicine.anatomical_structure	2	1030	11912	2018-01-05
+2781209946	18200	combretum paniculatum	Combretum paniculatum	biology.organism_classification	2	16	166	2018-01-05
+2781211006	13404	zygomatic arch	Zygomatic arch	medicine.anatomical_structure	2	1913	19513	2018-01-05
+2781221680	18452	viliuisk encephalomyelitis	Viliuisk encephalomyelitis		3	16	121	2018-01-05
+2781224432	25000	recognition failure of recallable words	Recognition failure of recallable words		5	40	2434	2018-01-05
+2781231350	12794	carborane	Carborane		2	3903	52215	2018-01-05
+2781232436	19783	preptotheria	Preptotheria		2	3	187	2018-01-05
+2781238917	14910	legislative intent	Legislative intent		3	878	1645	2018-01-05
+2781240919	13097	dyscalculia	Dyscalculia	medicine.disease	3	1187	25514	2018-01-05
+2781243190	19774	green nails	Green nails		3	10	73	2018-01-05
+2781243853	14752	archaism	Archaism		2	656	1741	2018-01-05
+2781244666	10314	pulmonary fibrosis	Pulmonary fibrosis	medicine.disease	4	14710	325035	2018-01-05
+2781245245	14884	brain stem tumor	Brain stem tumor	medicine.disease	2	165	4113	2018-01-05
+2781249489	18264	rhabdoderma	Rhabdoderma	biology.organism_classification	3	24	241	2018-01-05
+2781251936	25000	kornmannia	Kornmannia	biology.organism_classification	2	5	176	2018-01-05
+2781258874	19192	h 225 0	H.225.0		2	5	0	2018-01-05
+2781266209	18312	longjaw mudsucker	Longjaw mudsucker	biology.organism_classification	3	17	321	2018-01-05
+2781275174	15979	necrotizing sialometaplasia	Necrotizing sialometaplasia	medicine.disease	3	285	2571	2018-01-05
+2781275337	16899	natricinae	Natricinae	biology.organism_classification	3	86	1163	2018-01-05
+2781276060	16377	whips	WHIPS		2	299	1449	2018-01-05
+2781284071	17299	nettastomatidae	Nettastomatidae	biology.organism_classification	3	32	293	2018-01-05
+2781288300	16194	burkholderia pickettii	Burkholderia pickettii	biology.organism_classification	4	59	2647	2018-01-05
+2781300377	17169	galanthus elwesii	Galanthus elwesii	biology.organism_classification	3	49	239	2018-01-05
+2781304359	14635	oncidium	Oncidium	biology.organism_classification	3	518	2140	2018-01-05
+2781305313	15942	abax parallelepipedus	Abax parallelepipedus	biology.organism_classification	3	44	1410	2018-01-05
+2781319987	25000	sabrewing	Sabrewing	biology.organism_classification	2	15	40	2018-01-05
+2781333291	19886	hasora	Hasora	biology.organism_classification	2	6	8	2018-01-05
+2781341087	17296	forelius pruinosus	Forelius pruinosus	ved/biology.organism_classification_rank.species	4	21	473	2018-01-05
+2781351401	25000	textulariacea	Textulariacea	biology.organism_classification	2	4	39	2018-01-05
+2781358161	25000	syndactyla	Syndactyla	biology.organism_classification	2	17	331	2018-01-05
+2781361798	17294	logorrhea	Logorrhea	medicine.symptom	2	66	743	2018-01-05
+2781387946	18381	earnings before taxes	Earnings before taxes		3	57	99	2018-01-05
+2781394229	15224	bond fund	Bond fund		3	311	4089	2018-01-05
+2781400754	19029	model complete theory	Model complete theory		3	16	116	2018-01-05
+2781401465	19001	petrocephalus	Petrocephalus	biology.organism_classification	4	43	1323	2018-01-05
+2781407784	15602	pomatoschistus	Pomatoschistus	biology.organism_classification	3	562	13544	2018-01-05
+2781415766	11683	intertextuality	Intertextuality		2	11822	35099	2018-01-05
+2781416078	25000	haplotaenium	Haplotaenium	biology.organism_classification	5	9	10	2018-01-05
+2781416549	17591	chondracanthidae	Chondracanthidae	biology.organism_classification	3	97	738	2018-01-05
+2781417835	16433	rusty crayfish	Rusty crayfish	biology.organism_classification	4	155	5997	2018-01-05
+2781421257	14045	randomized hough transform	Randomized Hough transform		3	384	11987	2018-01-05
+2781421333	18142	bushveld igneous complex	Bushveld Igneous Complex		2	136	2042	2018-01-05
+2781430594	19866	agathodes	Agathodes	biology.organism_classification	3	5	2	2018-01-05
+2781438658	25000	athamantha	Athamantha	biology.organism_classification	3	1	0	2018-01-05
+2781442523	20377	metlaouia	Metlaouia	biology.organism_classification	3	1	3	2018-01-05
+2781446410	19884	pygmy mammoth	Pygmy mammoth	biology.organism_classification	4	11	167	2018-01-05
+2781465276	18807	gillichthys	Gillichthys	biology.organism_classification	2	130	3525	2018-01-05
+2781471104	25000	copidryas	Copidryas	biology.organism_classification	3	3	1	2018-01-05
+2781472557	20579	sydney funnel web spider	Sydney funnel-web spider	biology.organism_classification	4	42	385	2018-01-05
+482391	14397	acronym	Acronym		2	3982	16457	2016-06-24
+1147972	17843	goodman relation	Goodman relation		3	1160	11953	2016-06-24
+1653862	25000	continuity tester	Continuity tester		2	377	3664	2016-06-24
+1667742	9556	image retrieval	Image retrieval		2	28661	385180	2016-06-24
+2007064	25000	estimate of the situation	Estimate of the Situation		3	63	99	2016-06-24
+2224410	17392	alidade	Alidade		2	122	268	2016-06-24
+2952925	18112	artin schreier theory	Artin–Schreier theory		5	151	966	2016-06-24
+3544514	15396	humid continental climate	Humid continental climate		3	612	9355	2016-06-24
+3810323	14364	integrated assessment modelling	Integrated assessment modelling		3	314	6689	2016-06-24
+4957475	16966	s key	S/KEY		3	4941	56040	2016-06-24
+5970030	15807	plerocercoid	Plerocercoid		4	491	5122	2016-06-24
+7214806	14976	mulliken population analysis	Mulliken population analysis		3	2170	93286	2016-06-24
+10419127	10101	cell free system	Cell-free system		3	1449	36997	2016-06-24
+10547277	16786	least upper bound property	Least-upper-bound property		2	362	4275	2016-06-24
+13672336	11947	bag of words model	Bag-of-words model		2	3212	58006	2016-06-24
+14053116	14272	n terminus	N-terminus		3	5443	212038	2016-06-24
+14429134	20579	binet equation	Binet equation		4	16	7	2016-06-24
+14571615	16413	directory information tree	Directory information tree		4	1200	19137	2016-06-24
+14980834	19218	key stretching	Key stretching		5	392	10530	2016-06-24
+15190523	15382	non deterministic turing machine	Non-deterministic Turing machine		3	1408	17573	2016-06-24
+15522600	15963	cluster decay	Cluster decay		3	4252	21723	2016-06-24
+15824746	14583	ghost cell	Ghost cell		3	548	5633	2016-06-24
+15852256	10492	chern simons theory	Chern–Simons theory		3	5421	88590	2016-06-24
+16277566	13861	symphony	Symphony		2	16172	19094	2016-06-24
+21582691	14695	melting point depression	Melting-point depression		3	1557	30925	2016-06-24
+22461511	18030	virtual retinal display	Virtual retinal display	law.invention	4	1816	29562	2016-06-24
+22738907	15989	casualty insurance	Casualty insurance		3	13564	64047	2016-06-24
+22860579	14294	ribosomal intergenic spacer analysis	Ribosomal Intergenic Spacer analysis		4	767	28348	2016-06-24
+22983694	25000	chemistry	Chemistry (relationship)		5	1137	20755	2016-06-24
+23528732	7981	science technology and society	Science, technology and society		2	129452	399309	2016-06-24
+23725684	10110	maintenance engineering	Maintenance engineering		2	12044	44657	2016-06-24
+24292678	11971	wittig reaction	Wittig reaction		2	8922	99548	2016-06-24
+25024680	20497	srizbi botnet	Srizbi botnet		4	542	11318	2016-06-24
+26218039	15491	helmet streamer	Helmet streamer		5	710	14302	2016-06-24
+27549733	16745	dongba symbols	Dongba symbols		3	275	143	2016-06-24
+27710674	19135	dual superconductor model	Dual superconductor model		4	202	5093	2016-06-24
+28745240	14341	active laser medium	Active laser medium		4	9786	83626	2016-06-24
+29814102	19480	filevault	FileVault		5	41	122	2016-06-24
+30072841	12974	diagonalizable matrix	Diagonalizable matrix		3	2255	23818	2016-06-24
+30228295	16046	total shareholder return	Total shareholder return		5	429	4736	2016-06-24
+30849920	19477	metric time	Metric time		2	70	2176	2016-06-24
+31917865	25000	cutaneous structure development	Cutaneous structure development		2	5	108	2016-06-24
+32631574	25000	squared triangular number	Squared triangular number		5	37	125	2016-06-24
+32834411	17572	distinctness of image	Distinctness of image		3	114	1886	2016-06-24
+34259735	25000	zaid crops	Zaid crops		5	26	38	2016-06-24
+35869016	9304	software architecture	Software architecture		3	25110	265159	2016-06-24
+38095332	15317	riphean	Riphean		3	830	9421	2016-06-24
+38710091	11100	frustration	Frustration	media_common.quotation_subject	2	28238	301531	2016-06-24
+38753444	14746	inverse square law	Inverse-square law		3	797	5556	2016-06-24
+39350307	14599	preferred reporting items for systematic reviews and meta analyses	Preferred reporting items for systematic reviews and meta-analyses		2	135	40111	2016-06-24
+41661131	14207	interrupt	Interrupt		2	23661	215394	2016-06-24
+42211076	25000	reliable sources	Reliable Sources		3	10	110	2016-06-24
+43138044	25000	psycho oncology	Psycho-oncology		3	313	8777	2016-06-24
+43239065	16242	rank abundance curve	Rank abundance curve		4	694	48169	2016-06-24
+43450049	11970	psychoanalytic theory	Psychoanalytic theory		2	32968	299114	2016-06-24
+43592290	13533	placer mining	Placer mining		2	4563	8897	2016-06-24
+43820063	18969	logic probe	Logic probe		5	668	7332	2016-06-24
+47107517	15272	task positive network	Task-positive network		4	440	87728	2016-06-24
+50479213	12578	stochastic drift	Stochastic drift		2	1248	18175	2016-06-24
+53730454	17425	atmospheric pressure laser ionization	Atmospheric-pressure laser ionization		5	6141	71576	2016-06-24
+53840999	15529	equivalent rectangular bandwidth	Equivalent rectangular bandwidth		3	257	7612	2016-06-24
+55864363	15453	radiant flux	Radiant flux		3	1194	11923	2016-06-24
+63184880	9678	hydraulic conductivity	Hydraulic conductivity		2	23971	438637	2016-06-24
+65067816	14954	computer assisted web interviewing	Computer-assisted web interviewing		2	7825	64495	2016-06-24
+65313323	15874	anfo	ANFO		4	517	1060	2016-06-24
+65638666	25000	microbiology of decomposition	Microbiology of decomposition		2	2	144	2016-06-24
+67536143	12039	galois group	Galois group		2	5563	41224	2016-06-24
+68015696	12409	cognitive rehabilitation therapy	Cognitive rehabilitation therapy		3	3800	61430	2016-06-24
+68757728	13549	devs	DEVS		3	2170	15937	2016-06-24
+68782407	19365	counting points on elliptic curves	Counting points on elliptic curves		4	1266	34173	2016-06-24
+70410870	10092	clinical psychology	Clinical psychology		1	964616	11158574	2016-06-24
+70688697	25000	scoring functions for docking	Scoring functions for docking		4	259	60713	2016-06-24
+73301696	25000	formalism	Formalism (music)		5	18	6	2016-06-24
+74175586	16160	castor wax	Castor wax		3	1076	7041	2016-06-24
+75082401	15199	omega equation	Omega equation		5	452	4955	2016-06-24
+75319497	19449	kennelly heaviside layer	Kennelly–Heaviside layer	symbols.namesake	2	65	355	2016-06-24
+76069392	18547	davies equation	Davies equation		4	83	1416	2016-06-24
+76965819	19386	haynes shockley experiment	Haynes–Shockley experiment		4	103	929	2016-06-24
+77319485	14254	protein ligand docking	Protein–ligand docking		3	1177	67825	2016-06-24
+79072407	10434	flip chip	Flip chip		3	23328	233263	2016-06-24
+79367842	9481	coral reef	Coral reef	geography.geographical_feature_category	2	25101	583567	2016-06-24
+79369538	25000	minority interpretations of quantum mechanics	Minority interpretations of quantum mechanics		4	1810	42229	2016-06-24
+79708077	18880	normal wishart distribution	Normal-Wishart distribution		4	1864	80957	2016-06-24
+80134875	19130	pre illinoian	Pre-Illinoian		4	117	1706	2016-06-24
+80862487	9995	somatomedin	Somatomedin		4	4127	169705	2016-06-24
+81286331	20579	industrialization of services business model	Industrialization of services business model		4	2547	22818	2016-06-24
+81439078	8861	in situ hybridization	In situ hybridization		2	36486	1024490	2016-06-24
+81693640	12973	bud	Bud		3	5411	36346	2016-06-24
+82201958	25000	narcissistic supply	Narcissistic supply		5	158	11854	2016-06-24
+82823613	19475	bare trust	Bare trust		3	366	60920	2016-06-24
+82844589	13578	uraninite	Uraninite		3	1642	15046	2016-06-24
+82988372	20579	h5n1 genetic structure	H5N1 genetic structure		4	6411	155363	2016-06-24
+83200177	15957	ribosomal frameshift	Ribosomal frameshift		5	439	16634	2016-06-24
+83713313	17398	hspa9	HSPA9		4	1519	60671	2016-06-24
+83875123	20579	deviation risk measure	Deviation risk measure		5	543	20878	2016-06-24
+84418412	11837	digital forensics	Digital forensics		2	4690	26733	2016-06-24
+85240126	15108	transvection	Transvection		4	234	7531	2016-06-24
+85323577	11008	nymph	Nymph		2	15476	153108	2016-06-24
+86174229	19286	lauron	LAURON		4	50	336	2016-06-24
+87007009	8058	statistical hypothesis testing	Statistical hypothesis testing		2	56144	1411771	2016-06-24
+88337583	13184	underactuation	Underactuation		3	5836	61817	2016-06-24
+88520388	17417	ssh file transfer protocol	SSH File Transfer Protocol		5	5413	83029	2016-06-24
+88629717	14666	information bias	Information bias		3	821	42128	2016-06-24
+92880739	8407	nanocomposite	Nanocomposite		2	139236	2377864	2016-06-24
+92951342	15514	orthonormality	Orthonormality		3	927	13918	2016-06-24
+92998641	16952	schmidt sting pain index	Schmidt sting pain index		2	187	7274	2016-06-24
+98371066	12861	euclidean algorithm	Euclidean algorithm		3	1031	10736	2016-06-24
+99545648	13844	minimum cost flow problem	Minimum-cost flow problem		3	2231	42672	2016-06-24
+103217395	16005	fork head domain	Fork head domain		5	93	9660	2016-06-24
+105781521	25000	connell slatyer model of ecological succession	Connell–Slatyer model of ecological succession		4	105	17503	2016-06-24
+106165642	11475	dead reckoning	Dead reckoning		3	6059	62937	2016-06-24
+106195933	12948	truncation	Truncation (statistics)		3	796	15734	2016-06-24
+108203506	16625	reconstruction conjecture	Reconstruction conjecture		4	247	13425	2016-06-24
+108970007	13279	anoxic waters	Anoxic waters		2	20335	485186	2016-06-24
+109591128	15426	stat5a	STAT5A		4	492	14218	2016-06-24
+110050840	12012	turbofan	Turbofan		2	7336	31521	2016-06-24

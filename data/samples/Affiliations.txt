@@ -1,0 +1,1000 @@
+139176818	13089	institut gaspard monge	Institut Gaspard Monge		http://igm.u-pem.fr/	http://en.wikipedia.org/wiki/Institut_Gaspard_Monge	185	2876	2016-06-24
+2800456939	15737	tokoha gakuen university	Tokoha Gakuen University	grid.444805.9		https://en.wikipedia.org/wiki/Tokoha_Gakuen_University	26	61	2018-05-17
+2799389664	16187	shelby county schools	Shelby County Schools	grid.436162.4		https://en.wikipedia.org/wiki/Shelby_County_Schools_(Tennessee)	14	73	2018-05-17
+107371206	12638	sao paulo federal institute of education science and technology	São Paulo Federal Institute of Education, Science and Technology		http://www.ifsp.edu.br/	http://en.wikipedia.org/wiki/Federal_Institute_of_São_Paulo	640	500	2016-06-24
+125364530	13137	universidad nacional experimental del tachira	Universidad Nacional Experimental del Táchira	grid.442134.4	http://www.unet.edu.ve/	http://en.wikipedia.org/wiki/Universidad_Nacional_Experimental_del_Táchira	322	1081	2016-06-24
+913782294	13697	perceptive pixel	Perceptive Pixel		http://www.perceptivepixel.com/	http://en.wikipedia.org/wiki/Perceptive_Pixel	44	1675	2016-06-24
+1341135885	13089	vidant medical center	Vidant Medical Center	grid.415022.0	http://www.vidanthealth.com/medicalcenter/	http://en.wikipedia.org/wiki/Vidant_Medical_Center	231	2252	2016-06-24
+158397150	13090	florida southern college	Florida Southern College	grid.454559.c	http://www.flsouthern.edu/	http://en.wikipedia.org/wiki/Florida_Southern_College	260	2601	2016-06-24
+183668743	15177	fauji foundation	Fauji Foundation			http://en.wikipedia.org/wiki/Fauji_Foundation	49	59	2016-06-24
+35046152	9065	federal university of rio grande do norte	Federal University of Rio Grande do Norte	grid.411233.6	http://www.ufrn.edu.br/	http://en.wikipedia.org/wiki/Federal_University_of_Rio_Grande_do_Norte	17371	95657	2016-06-24
+893118138	13986	nationwide mutual insurance company	Nationwide Mutual Insurance Company	grid.467498.0	http://www.nationwide.com/	http://en.wikipedia.org/wiki/Nationwide_Mutual_Insurance_Company	46	1347	2016-06-24
+189195476	13320	united states army aviation and missile command	United States Army Aviation and Missile Command	grid.487569.1	https://www.army.mil/info/organization/unitsandcommands/commandstructure/amcom/	http://en.wikipedia.org/wiki/United_States_Army_Aviation_and_Missile_Command	136	1422	2016-06-24
+21867089	14634	gwynedd mercy university	Gwynedd Mercy University	grid.420550.6	https://www.gmercyu.edu/	http://en.wikipedia.org/wiki/Gwynedd_Mercy_University	54	436	2016-06-24
+2801607017	14432	north staffordshire combined healthcare nhs trust	North Staffordshire Combined Healthcare NHS Trust	grid.439358.0		https://en.wikipedia.org/wiki/North_Staffordshire_Combined_Healthcare_NHS_Trust	62	686	2018-05-17
+1304454745	16148	national endowment for democracy	National Endowment for Democracy	grid.480886.a	http://www.ned.org/	http://en.wikipedia.org/wiki/National_Endowment_for_Democracy	15	97	2016-06-24
+2801922374	18052	jesuit school of philosophy and theology	Jesuit School of Philosophy and Theology	grid.462408.c		https://en.wikipedia.org/wiki/Jesuit_School_of_Philosophy_and_Theology	3	0	2018-05-17
+35591632	11139	petroleum institute	Petroleum Institute		http://www.pi.ac.ae/	http://en.wikipedia.org/wiki/Petroleum_Institute	1954	15608	2016-06-24
+2800874886	17401	digital promise	Digital Promise	grid.475487.d		https://en.wikipedia.org/wiki/Digital_Promise	5	9	2018-05-17
+2800374234	12088	basque government	Basque Government	grid.431260.2		https://en.wikipedia.org/wiki/Basque_Government	292	7720	2018-05-17
+47631775	11319	hampshire college	Hampshire College	grid.256772.3	http://www.hampshire.edu/	http://en.wikipedia.org/wiki/Hampshire_College	934	19142	2016-06-24
+206139757	13919	university of the philippines mindanao	University of the Philippines Mindanao	grid.430521.1	http://www.upmin.edu.ph/	http://en.wikipedia.org/wiki/University_of_the_Philippines_Mindanao	149	542	2016-06-24
+94294566	11898	galatasaray university	Galatasaray University	grid.440430.7	http://gsu.edu.tr/	http://en.wikipedia.org/wiki/Galatasaray_University	703	10923	2016-06-24
+73588628	13468	polyone corporation	PolyOne Corporation		http://www.polyone.com/	http://en.wikipedia.org/wiki/PolyOne_Corporation	196	1026	2016-06-24
+142974352	8589	national sun yat sen university	National Sun Yat-sen University	grid.412036.2	http://www.nsysu.edu.tw/	http://en.wikipedia.org/wiki/National_Sun_Yat-sen_University	19327	238318	2016-06-24
+47935705	14136	sasken communication technologies	Sasken Communication Technologies		http://www.sasken.com/	http://en.wikipedia.org/wiki/Sasken_Communication_Technologies	55	831	2016-06-24
+100228500	12196	samsung heavy industries	Samsung Heavy Industries		http://www.shi.samsung.co.kr/eng/	http://en.wikipedia.org/wiki/Samsung_Heavy_Industries	564	4249	2016-06-24
+116765545	11831	churchill college	Churchill College		http://www.chu.cam.ac.uk/	http://en.wikipedia.org/wiki/Churchill_College,_Cambridge	542	7565	2016-06-24
+91633459	13678	middle east university	Middle East University	grid.449114.d	http://www.meu.edu.jo/	http://en.wikipedia.org/wiki/Middle_East_University_(Jordan)	205	548	2016-06-24
+74519640	15672	new college toronto	New College, Toronto		http://www.newcollege.utoronto.ca/	http://en.wikipedia.org/wiki/New_College,_Toronto	28	102	2016-06-24
+2802127417	16867	show me institute	Show-Me Institute	grid.473573.1		https://en.wikipedia.org/wiki/Show-Me_Institute	8	33	2018-05-17
+146584863	10414	children s medical research institute	Children's Medical Research Institute	grid.414235.5	http://www.cmri.org.au/	http://en.wikipedia.org/wiki/Children's_Medical_Research_Institute	1414	45792	2016-06-24
+2802607910	15676	trident technical college	Trident Technical College	grid.421851.b		https://en.wikipedia.org/wiki/Trident_Technical_College	25	113	2018-05-17
+41641357	8660	ege university	Ege University	grid.8302.9	http://www.ege.edu.tr/	http://en.wikipedia.org/wiki/Ege_University	15574	199466	2016-06-24
+17442442	11769	state grid corporation of china	State Grid Corporation of China	grid.433158.8	http://www.sgcc.com.cn/ywlm/default.shtml	http://en.wikipedia.org/wiki/State_Grid_Corporation_of_China	1287	3082	2016-06-24
+1308144728	15461	metropolitan washington council of governments	Metropolitan Washington Council of Governments	grid.487658.0	http://www.mwcog.org/	http://en.wikipedia.org/wiki/Metropolitan_Washington_Council_of_Governments	29	170	2016-06-24
+71063693	14889	pacific salmon commission	Pacific Salmon Commission	grid.448567.c	http://www.psc.org/index.htm	http://en.wikipedia.org/wiki/Pacific_Salmon_Commission	20	638	2016-06-24
+1334728619	14589	united nations interim force in lebanon	United Nations Interim Force in Lebanon		http://unifil.unmissions.org/	http://en.wikipedia.org/wiki/United_Nations_Interim_Force_in_Lebanon	83	168	2016-06-24
+200358475	12881	anglo european college of chiropractic	Anglo-European College of Chiropractic	grid.417783.e	https://www.aecc.ac.uk/	http://en.wikipedia.org/wiki/Anglo-European_College_of_Chiropractic	264	3979	2016-06-24
+2802543995	14195	agriculture fisheries and conservation department	Agriculture Fisheries and Conservation Department	grid.461935.c		https://en.wikipedia.org/wiki/Agriculture,_Fisheries_and_Conservation_Department	37	1107	2018-05-17
+2801033625	15781	penn state beaver	Penn State Beaver	grid.457005.3		https://en.wikipedia.org/wiki/Penn_State_Beaver	17	183	2018-05-17
+29406707	11904	pontifical catholic university of argentina	Pontifical Catholic University of Argentina	grid.412525.5	http://www.uca.edu.ar/	http://en.wikipedia.org/wiki/Pontifical_Catholic_University_of_Argentina	1152	3993	2016-06-24
+1297883686	12906	mclaren flint	McLaren Flint	grid.414718.f	http://www.mclaren.org/flint/flint.aspx	http://en.wikipedia.org/wiki/McLaren_Flint	160	3411	2016-06-24
+27498138	14982	florida department of environmental regulation	Florida Department of Environmental Regulation			http://en.wikipedia.org/wiki/Florida_Department_of_Environmental_Regulation	20	486	2016-06-24
+1303976077	14520	employment and social development canada	Employment and Social Development Canada	grid.453453.0	http://www.hrsdc.gc.ca/	http://en.wikipedia.org/wiki/Employment_and_Social_Development_Canada	50	797	2016-06-24
+115749120	14498	foley lardner	Foley & Lardner		http://www.foley.com/	http://en.wikipedia.org/wiki/Foley_&_Lardner	75	318	2016-06-24
+180606324	13985	ministry of water resources and irrigation	Ministry of Water Resources and Irrigation	grid.436222.3	http://www.mwri.gov.eg/	http://en.wikipedia.org/wiki/Ministry_of_Water_Resources_and_Irrigation_(Egypt)	105	955	2016-06-24
+2800972416	18956	deutsche bahn germany	Deutsche Bahn (Germany)	grid.12337.34		http://en.wikipedia.org/wiki/Deutsche_Bahn	1	1	2018-05-17
+42240936	13811	anglogold ashanti	AngloGold Ashanti	grid.450409.c	http://www.anglogoldashanti.com/	http://en.wikipedia.org/wiki/AngloGold_Ashanti	126	1034	2016-06-24
+2800342113	11054	royal sussex county hospital	Royal Sussex County Hospital	grid.416225.6		https://en.wikipedia.org/wiki/Royal_Sussex_County_Hospital	1361	19911	2018-05-17
+2800413542	18035	alvin community college	Alvin Community College	grid.461968.4		https://en.wikipedia.org/wiki/Alvin_Community_College	3	2	2018-05-17
+911458345	8178	vu university medical center	VU University Medical Center	grid.16872.3a	http://www.vumc.com/	http://en.wikipedia.org/wiki/VU_University_Medical_Center	18993	487682	2016-06-24
+4610292	9391	xiangtan university	Xiangtan University	grid.412982.4	http://www.xtu.edu.cn/	http://en.wikipedia.org/wiki/Xiangtan_University	12591	69217	2016-06-24
+1329879541	14688	avrasya university	Avrasya University	grid.465875.d	http://www.avrasya.edu.tr/	http://en.wikipedia.org/wiki/Avrasya_University	65	348	2016-06-24
+9421779	11051	biomerieux	BioMérieux		http://www.biomerieux.com/	http://en.wikipedia.org/wiki/BioMérieux	1366	25039	2016-06-24
+181950316	13406	saint francis university	Saint Francis University	grid.262940.b	http://www.francis.edu/	http://en.wikipedia.org/wiki/Saint_Francis_University	223	1318	2016-06-24
+263913023	14143	international university of africa	International University of Africa	grid.442398.0	http://www.iua.edu.sd/	http://en.wikipedia.org/wiki/International_University_of_Africa	121	404	2016-06-24
+2800813387	17911	reagan udall foundation	Reagan-Udall Foundation	grid.483480.3		https://en.wikipedia.org/wiki/Reagan-Udall_Foundation	2	13	2018-05-17
+204557473	13722	holar university college	Hólar University College	grid.440543.2	http://www.holar.is/	http://en.wikipedia.org/wiki/Hólar_University_College	111	1606	2016-06-24
+204553293	8615	china university of petroleum	China University of Petroleum	grid.411519.9	http://www.upc.edu.cn/	http://en.wikipedia.org/wiki/China_University_of_Petroleum	29242	124817	2016-06-24
+120629025	14933	shri ram college of commerce	Shri Ram College of Commerce		http://www.srcc.edu/	http://en.wikipedia.org/wiki/Shri_Ram_College_of_Commerce	55	205	2016-06-24
+2803056085	18446	veer surendra sai medical college and hospital	Veer Surendra Sai Medical College and Hospital	grid.464715.5		https://en.wikipedia.org/wiki/Veer_Surendra_Sai_Medical_College	2	1	2018-05-17
+272649133	15109	universidad argentina john f kennedy	Universidad Argentina John F. Kennedy	grid.441609.e	http://www.kennedy.edu.ar/	http://en.wikipedia.org/wiki/Universidad_Argentina_John_F._Kennedy	51	130	2016-06-24
+39431069	14511	royal netherlands institute of southeast asian and caribbean studies	Royal Netherlands Institute of Southeast Asian and Caribbean Studies	grid.450181.9	http://www.kitlv.nl/	http://en.wikipedia.org/wiki/Royal_Netherlands_Institute_of_Southeast_Asian_and_Caribbean_Studies	92	221	2016-06-24
+8826637	16045	columbia state community college	Columbia State Community College	grid.446518.a	http://www.columbiastate.edu/	http://en.wikipedia.org/wiki/Columbia_State_Community_College	12	117	2016-06-24
+2800623768	18455	jaypee group india	Jaypee Group (India)	grid.464872.b		https://en.wikipedia.org/wiki/Jaypee_Group	2	1	2018-05-17
+1294578330	13851	small business administration	Small Business Administration	grid.453092.9	http://www.sba.gov/	http://en.wikipedia.org/wiki/Small_Business_Administration	64	1609	2016-06-24
+26449359	12800	avondale college	Avondale College	grid.462044.0	http://www.avondale.edu.au/	http://en.wikipedia.org/wiki/Avondale_College	427	2223	2016-06-24
+63525992	15837	institute of american indian arts	Institute of American Indian Arts	grid.427077.1	http://www.iaia.edu/college/	http://en.wikipedia.org/wiki/Institute_of_American_Indian_Arts	16	141	2016-06-24
+280512119	15198	hamchoon women s clinic	Hamchoon Women's Clinic		http://www.hamchoon.com/	http://en.wikipedia.org/wiki/Hamchoon_Women's_Clinic	40	219	2016-06-24
+147439693	14142	soegijapranata catholic university	Soegijapranata Catholic University	grid.449291.3	http://www.unika.ac.id/	http://en.wikipedia.org/wiki/Soegijapranata_Catholic_University	135	236	2016-06-24
+46219095	15565	susquehanna international group	Susquehanna International Group		https://www.sig.com/	http://en.wikipedia.org/wiki/Susquehanna_International_Group	36	1	2016-06-24
+530967	9019	ryerson university	Ryerson University	grid.68312.3e	http://www.ryerson.ca/	http://en.wikipedia.org/wiki/Ryerson_University	14080	155883	2016-06-24
+2802301621	14398	dudley observatory	Dudley Observatory	grid.420698.1		https://en.wikipedia.org/wiki/Dudley_Observatory	56	406	2018-05-17
+877809299	13587	special rapporteur	Special Rapporteur			http://en.wikipedia.org/wiki/Special_Rapporteur	104	525	2016-06-24
+61623833	8765	university of agriculture faisalabad	University of Agriculture, Faisalabad	grid.413016.1	http://www.uaf.edu.pk/	http://en.wikipedia.org/wiki/University_of_Agriculture,_Faisalabad	19660	199356	2016-06-24
+2799299286	11172	singapore national eye center	Singapore National Eye Center	grid.419272.b		https://en.wikipedia.org/wiki/Singapore_National_Eye_Centre	535	18065	2018-05-17
+2799834026	13843	university of minnesota waseca	University Of Minnesota, Waseca	grid.410661.4		http://en.wikipedia.org/wiki/University_of_Minnesota_Waseca	86	1535	2018-05-17
+2802221309	12383	kettering medical center	Kettering Medical Center	grid.415198.0		https://en.wikipedia.org/wiki/Kettering_Medical_Center	277	7437	2018-05-17
+185492890	7767	university of canterbury	University of Canterbury	grid.21006.35	http://www.canterbury.ac.nz/	http://en.wikipedia.org/wiki/University_of_Canterbury	24675	433845	2016-06-24
+81831788	10991	health and safety executive	Health and Safety Executive	grid.9984.c	http://www.hse.gov.uk/	http://en.wikipedia.org/wiki/Health_and_Safety_Executive	1389	18813	2016-06-24
+54203891	11359	ferro corporation	Ferro Corporation	grid.480125.a	http://www.ferro.com/	http://en.wikipedia.org/wiki/Ferro_Corporation	817	9915	2016-06-24
+185977053	15513	swedish collegium for advanced study in the social sciences	Swedish Collegium for Advanced Study in the Social Sciences		http://www.swedishcollegium.se/	http://en.wikipedia.org/wiki/Swedish_Collegium_for_Advanced_Study	21	269	2016-06-24
+194706283	13684	st francis institute of technology	St. Francis Institute of Technology		http://www.sfitengg.org/	http://en.wikipedia.org/wiki/St._Francis_Institute_of_Technology	184	647	2016-06-24
+2801588710	18458	dr ram manohar lohia national law university	Dr. Ram Manohar Lohia National Law University	grid.449141.d		https://en.wikipedia.org/wiki/Dr._Ram_Manohar_Lohiya_National_Law_University	2	0	2018-05-17
+2801870843	18270	treasure valley community college	Treasure Valley Community College	grid.427325.5		https://en.wikipedia.org/wiki/Treasure_Valley_Community_College	2	6	2018-05-17
+165556055	10321	loyola university maryland	Loyola University Maryland	grid.259262.8	http://www.loyola.edu/	http://en.wikipedia.org/wiki/Loyola_University_Maryland	2356	46893	2016-06-24
+2799448187	15265	royal society of arts	Royal Society of Arts	grid.421627.4		https://en.wikipedia.org/wiki/Royal_Society_of_Arts	31	215	2018-05-17
+2801053641	13675	valley hospital medical center	Valley Hospital Medical Center	grid.417223.1		https://en.wikipedia.org/wiki/Valley_Hospital_Medical_Center	85	1599	2018-05-17
+2799596046	12423	fulbourn hospital	Fulbourn Hospital	grid.415163.4		https://en.wikipedia.org/wiki/Fulbourn_Hospital	196	7148	2018-05-17
+78798822	14688	lourdes university	Lourdes University	grid.446976.e	http://www.lourdes.edu/	http://en.wikipedia.org/wiki/Lourdes_University	65	320	2016-06-24
+104946051	8319	nihon university	Nihon University	grid.260969.2	http://www.nihon-u.ac.jp/en/	http://en.wikipedia.org/wiki/Nihon_University	27372	281699	2016-06-24
+884595191	14243	bradford college	Bradford College		http://www.bradfordalumni.org/	http://en.wikipedia.org/wiki/Bradford_College_(United_States)	85	750	2016-06-24
+10947320	9214	south african medical research council	South African Medical Research Council	grid.415021.3	http://www.mrc.ac.za/	http://en.wikipedia.org/wiki/South_African_Medical_Research_Council	2484	77303	2016-06-24
+1299107671	14740	queensland police service	Queensland Police Service	grid.474134.1	http://www.police.qld.gov.au/	http://en.wikipedia.org/wiki/Queensland_Police_Service	59	334	2016-06-24
+165453862	15340	new jersey department of education	New Jersey Department of Education	grid.427100.0	http://www.state.nj.us/education/	http://en.wikipedia.org/wiki/New_Jersey_Department_of_Education	27	190	2016-06-24
+2800828884	11468	institut d economie industrielle	Institut d'Economie Industrielle	grid.425175.0		https://en.wikipedia.org/wiki/Industrial_Economics_Institute	78	20208	2018-05-17
+11383257	11940	universidad del salvador	Universidad del Salvador	grid.108137.c	http://www.usal.edu.ar/	http://en.wikipedia.org/wiki/Universidad_del_Salvador	885	6120	2016-06-24
+2800860318	18052	ubi banca	UBI Banca	grid.484143.e		https://en.wikipedia.org/wiki/UBI_Banca	3	0	2018-05-17
+890611160	9651	martin marietta materials inc	Martin Marietta Materials, Inc.		http://www.martinmarietta.com/	http://en.wikipedia.org/wiki/Martin_Marietta_Materials	3606	52280	2016-06-24
+22749227	13753	tottori university of environmental studies	Tottori University of Environmental Studies	grid.443074.0	http://www.kankyo-u.ac.jp/	http://en.wikipedia.org/wiki/Tottori_University_of_Environmental_Studies	116	1286	2016-06-24
+2799553609	9504	rothamsted research	Rothamsted Research	grid.418374.d		http://en.wikipedia.org/wiki/Rothamsted_Research	4223	152374	2018-05-17
+2802220407	15087	chandka medical college	Chandka Medical College	grid.413797.f		https://en.wikipedia.org/wiki/Chandka_Medical_College	30	406	2018-05-17
+2801084220	15064	west yorkshire police	West Yorkshire Police	grid.439005.b		https://en.wikipedia.org/wiki/West_Yorkshire_Police	41	267	2018-05-17
+1581253	15914	argosy university seattle	Argosy University, Seattle	grid.488388.7	http://www.argosy.edu/seattle	http://en.wikipedia.org/wiki/Argosy_University,_Seattle	15	194	2016-06-24
+141661451	13669	brazilian navy	Brazilian Navy			http://en.wikipedia.org/wiki/Brazilian_Navy	190	726	2016-06-24
+19986915	13706	sndt women s university	SNDT Women's University		http://sndt.ac.in/default.htm	http://en.wikipedia.org/wiki/SNDT_Women's_University	184	856	2016-06-24
+2800118018	14767	cape breton regional hospital	Cape Breton Regional Hospital	grid.460768.b		https://en.wikipedia.org/wiki/Cape_Breton_Regional_Hospital	29	705	2018-05-17
+922619458	17149	alternative for germany	Alternative for Germany		https://www.afd.de/	http://en.wikipedia.org/wiki/Alternative_for_Germany	7	8	2016-06-24
+902853741	15194	blue ridge community college	Blue Ridge Community College	grid.462097.e	http://www.brcc.edu/	http://en.wikipedia.org/wiki/Blue_Ridge_Community_College_(Virginia)	35	234	2016-06-24
+7446070	11507	woosuk university	Woosuk University	grid.412965.d	http://www.woosuk.ac.kr/WoosukEnglish.do	http://en.wikipedia.org/wiki/Woosuk_University	1146	12832	2016-06-24
+2800768549	16172	naval history and heritage command	Naval History and Heritage Command	grid.482843.1		https://en.wikipedia.org/wiki/Naval_History_and_Heritage_Command	19	5	2018-05-17
+98849575	15037	kanazawa gakuin college	Kanazawa Gakuin College		http://www.kanazawa-gu.ac.jp/tandai/	http://en.wikipedia.org/wiki/Kanazawa_Gakuin_College	40	243	2016-06-24
+2801409098	12575	hartebeesthoek radio astronomy observatory	Hartebeesthoek Radio Astronomy Observatory	grid.470026.7		https://en.wikipedia.org/wiki/Hartebeesthoek_Radio_Astronomy_Observatory	188	2959	2018-05-17
+40753682	13534	ford werke gmbh	Ford-Werke GmbH	grid.23284.3f	http://www.ford.de/	http://en.wikipedia.org/wiki/Ford_Germany	193	613	2016-06-24
+61722147	9882	universidade do vale do rio dos sinos	Universidade do Vale do Rio dos Sinos	grid.412302.6	http://www.unisinos.br/	http://en.wikipedia.org/wiki/Universidade_do_Vale_do_Rio_dos_Sinos	8560	29477	2016-06-24
+138970914	16529	studium biblicum franciscanum	Studium Biblicum Franciscanum		http://sbf.custodia.org/	http://en.wikipedia.org/wiki/Studium_Biblicum_Franciscanum	13	12	2016-06-24
+912377674	10038	newbury college	Newbury College	grid.465718.9	http://www.newbury.edu/	http://en.wikipedia.org/wiki/Newbury_College_(United_States)	2773	63384	2016-06-24
+33264292	16928	bezalel academy of arts and design	Bezalel Academy of Arts and Design	grid.443048.f	http://www.bezalel.ac.il/en/	http://en.wikipedia.org/wiki/Bezalel_Academy_of_Arts_and_Design	8	12	2016-06-24
+1283576576	11118	netapp	NetApp	grid.471211.0	http://www.netapp.com/us/index.aspx	http://en.wikipedia.org/wiki/NetApp	1679	17539	2016-06-24
+2801106396	15537	aichi gakusen college	Aichi Gakusen College	grid.471435.0		https://en.wikipedia.org/wiki/Aichi_Gakusen_College	20	203	2018-05-17
+157793961	12353	quest international	Quest International			http://en.wikipedia.org/wiki/Quest_International	321	6109	2016-06-24
+37490319	14578	ajayi crowther university	Ajayi Crowther University	grid.442542.1	http://acu.edu.ng/	http://en.wikipedia.org/wiki/Ajayi_Crowther_University	74	392	2016-06-24
+181401687	8939	american university	American University	grid.63124.32	http://www.american.edu/	http://en.wikipedia.org/wiki/American_University	12394	170395	2016-06-24
+2802249273	15007	mallow general hospital	Mallow General Hospital	grid.460917.d		https://en.wikipedia.org/wiki/Mallow_General_Hospital	39	227	2018-05-17
+903241416	16037	bdo usa llp	BDO USA, LLP		http://www.bdo.com/	http://en.wikipedia.org/wiki/BDO_USA,_LLP	14	99	2016-06-24
+62936310	15283	huston tillotson university	Huston–Tillotson University	grid.257179.f	http://www.htu.edu/	http://en.wikipedia.org/wiki/Huston–Tillotson_University	43	77	2016-06-24
+59483232	11977	shandong university of finance and economics	Shandong University of Finance and Economics	grid.443413.5	http://www.sdufe.edu.cn/	http://en.wikipedia.org/wiki/Shandong_University_of_Finance_and_Economics	1119	3493	2016-06-24
+206046368	13428	british astronomical association	British Astronomical Association		http://www.britastro.org/	http://en.wikipedia.org/wiki/British_Astronomical_Association	90	1143	2016-06-24
+79312965	16300	offshore power systems	Offshore Power Systems			http://en.wikipedia.org/wiki/Offshore_Power_Systems	13	25	2016-06-24
+60837268	9741	king mongkut s university of technology thonburi	King Mongkut's University of Technology Thonburi	grid.412151.2	http://www.kmutt.ac.th/	http://en.wikipedia.org/wiki/King_Mongkut's_University_of_Technology_Thonburi	6736	76740	2016-06-24
+75522678	12601	tokyo university of science yamaguchi	Tokyo University of Science, Yamaguchi	grid.469470.8	http://www.yama.tus.ac.jp/	http://en.wikipedia.org/wiki/Tokyo_University_of_Science,_Yamaguchi	429	3675	2016-06-24
+1330654748	10384	madigan army medical center	Madigan Army Medical Center	grid.416237.5	http://www.mamc.amedd.army.mil/	http://en.wikipedia.org/wiki/Madigan_Army_Medical_Center	2542	43268	2016-06-24
+2800375602	14821	charleston school of law	Charleston School of Law	grid.465633.1		https://en.wikipedia.org/wiki/Charleston_School_of_Law	74	38	2018-05-17
+5053375	15804	eastfield college	Eastfield College	grid.464515.7	http://www.eastfieldcollege.edu/	http://en.wikipedia.org/wiki/Eastfield_College	25	45	2016-06-24
+830141	16896	national housing federation	National Housing Federation		http://www.housing.org.uk/	http://en.wikipedia.org/wiki/National_Housing_Federation	8	32	2016-06-24
+1292870144	15509	wisconsin department of corrections	Wisconsin Department of Corrections		http://doc.wi.gov/	http://en.wikipedia.org/wiki/Wisconsin_Department_of_Corrections	18	319	2016-06-24
+871458030	14528	imrb international	IMRB International		http://www.imrbint.com/	http://en.wikipedia.org/wiki/IMRB_International	76	344	2016-06-24
+38871580	15543	mondeca	Mondeca		http://www.mondeca.com/	http://en.wikipedia.org/wiki/Mondeca	28	91	2016-06-24
+115570527	9805	dublin institute of technology	Dublin Institute of Technology	grid.33695.3a	http://www.dit.ie/	http://en.wikipedia.org/wiki/Dublin_Institute_of_Technology	6209	73151	2016-06-24
+198445264	13615	arcada university of applied sciences	Arcada University of Applied Sciences	grid.445595.c	http://www.arcada.fi/	http://en.wikipedia.org/wiki/Arcada_University_of_Applied_Sciences	196	923	2016-06-24
+9341345	8838	university of lubeck	University of Lübeck	grid.4562.5	http://www.uni-luebeck.de/	http://en.wikipedia.org/wiki/University_of_Lübeck	7796	211619	2016-06-24
+21173400	11706	mutah university	Mutah University	grid.440897.6	http://www.mutah.edu.jo/	http://en.wikipedia.org/wiki/Mutah_University	881	11391	2016-06-24
+342246540	15541	karnataka state open university	Karnataka State Open University	grid.445109.d	http://ksoumysore.edu.in/	http://en.wikipedia.org/wiki/Karnataka_State_Open_University	30	116	2016-06-24
+205571821	9038	universidad iberoamericana	Universidad Iberoamericana Ciudad de México	grid.441047.2	http://www.uia.mx/	http://en.wikipedia.org/wiki/Universidad_Iberoamericana	4106	32231	2016-06-24
+2800014395	19151	great lakes aquarium	Great Lakes Aquarium	grid.474432.2		https://en.wikipedia.org/wiki/Great_Lakes_Aquarium	1	0	2018-05-17
+2801419690	18058	congress of aboriginal peoples	Congress of Aboriginal Peoples	grid.440092.b		https://en.wikipedia.org/wiki/Congress_of_Aboriginal_Peoples	2	7	2018-05-17
+1322298273	13455	industry canada	Industry Canada		https://www.canada.ca/en/innovation-science-economic-development.html	http://en.wikipedia.org/wiki/Innovation,_Science_and_Economic_Development_Canada	154	2055	2016-06-24
+16686681	14585	morris brown college	Morris Brown College	grid.421870.8	http://www.morrisbrown.edu/	http://en.wikipedia.org/wiki/Morris_Brown_College	53	474	2016-06-24
+1296244642	13754	northwest kidney centers	Northwest Kidney Centers	grid.420106.1	http://nwkidney.org/	http://en.wikipedia.org/wiki/Northwest_Kidney_Centers	47	1859	2016-06-24
+1313723110	14656	gima	Gima		https://sites.google.com/site/lesmotosgima/	http://en.wikipedia.org/wiki/Gima_(motorcycles)	66	329	2016-06-24
+1302044186	15099	tanzania atomic energy commission	Tanzania Atomic Energy Commission			http://en.wikipedia.org/wiki/Tanzania_Atomic_Energy_Commission	32	210	2016-06-24
+2802597357	15642	ellison medical foundation	Ellison Medical Foundation	grid.452976.b		https://en.wikipedia.org/wiki/Ellison_Medical_Foundation	9	307	2018-05-17
+64073142	13920	islamia college	Islamia College			http://en.wikipedia.org/wiki/Islamia_College_(Lahore)	105	1218	2016-06-24
+5699542	14730	sasin graduate institute of business administration of chulalongkorn university	Sasin Graduate Institute of Business Administration of Chulalongkorn University		http://www.sasin.edu/	http://en.wikipedia.org/wiki/Sasin_Graduate_Institute_of_Business_Administration_of_Chulalongkorn_University	33	699	2016-06-24
+45205469	11925	aichi prefectural university	Aichi Prefectural University	grid.413427.7	http://www.aichi-pu.ac.jp/eng/	http://en.wikipedia.org/wiki/Aichi_Prefectural_University	863	5813	2016-06-24
+158506100	17265	pennsylvania board of probation and parole	Pennsylvania Board of Probation and Parole		http://www.pbpp.state.pa.us/	http://en.wikipedia.org/wiki/Pennsylvania_Board_of_Probation_and_Parole	4	57	2016-06-24
+51153785	15876	boots uk	Boots UK	grid.418420.b	http://boots-uk.com/	http://en.wikipedia.org/wiki/Boots_UK	20	114	2016-06-24
+216106892	14031	digipen institute of technology	DigiPen Institute of Technology	grid.454295.b	https://www.digipen.edu/	http://en.wikipedia.org/wiki/DigiPen_Institute_of_Technology	114	666	2016-06-24
+79563041	12837	n i lobachevsky state university of nizhny novgorod	N. I. Lobachevsky State University of Nizhny Novgorod	grid.28171.3d	http://www.unn.ru/eng	http://en.wikipedia.org/wiki/N._I._Lobachevsky_State_University_of_Nizhny_Novgorod	437	1550	2016-06-24
+44948468	11932	salem state university	Salem State University	grid.419433.8	http://www.salemstate.edu/	http://en.wikipedia.org/wiki/Salem_State_University	779	7345	2016-06-24
+168251715	10320	max m fisher college of business	Max M. Fisher College of Business		http://fisher.osu.edu/	http://en.wikipedia.org/wiki/Max_M._Fisher_College_of_Business	968	74063	2016-06-24
+163600702	13911	moscow state forest university	Moscow State Forest University	grid.448763.a	http://www.mgul.ac.ru/eng/	http://en.wikipedia.org/wiki/Moscow_State_Forest_University	103	761	2016-06-24
+97610503	15595	georgia highlands college	Georgia Highlands College	grid.468931.1	http://www.highlands.edu/	http://en.wikipedia.org/wiki/Georgia_Highlands_College	25	182	2016-06-24
+32480017	13415	florida polytechnic university	Florida Polytechnic University	grid.462208.a	https://floridapoly.edu/	http://en.wikipedia.org/wiki/Florida_Polytechnic_University	177	1957	2016-06-24
+2800405502	17147	reading area community college	Reading Area Community College	grid.447222.5		https://en.wikipedia.org/wiki/Reading_Area_Community_College	7	5	2018-05-17
+2802366575	14296	swim across america	Swim Across America	grid.484684.2		https://en.wikipedia.org/wiki/Swim_Across_America	27	1292	2018-05-17
+164956901	11328	visa inc	Visa Inc.	grid.474754.1		http://en.wikipedia.org/wiki/Visa_Inc.	656	21668	2016-06-24
+2802904733	15707	martin luther college	Martin Luther College	grid.465580.a		https://en.wikipedia.org/wiki/Martin_Luther_College	7	270	2018-05-17
+21215505	11620	al quds university	Al-Quds University	grid.16662.35	http://www.alquds.edu/	http://en.wikipedia.org/wiki/Al-Quds_University	975	11140	2016-06-24
+1342450778	14762	tennessee wildlife resources agency	Tennessee Wildlife Resources Agency	grid.467995.0	http://www.tennessee.gov/twra	http://en.wikipedia.org/wiki/Tennessee_Wildlife_Resources_Agency	51	452	2016-06-24
+2802488035	18166	european food information resource	European Food Information Resource	grid.424817.c		https://en.wikipedia.org/wiki/European_Food_Information_Resource_Network	1	21	2018-05-17
+2800666027	18193	mexican academy of sciences	Mexican Academy of Sciences	grid.478233.9		https://en.wikipedia.org/wiki/Mexican_Academy_of_Sciences	2	6	2018-05-17
+64772209	14624	superior oil company	Superior Oil Company			http://en.wikipedia.org/wiki/Superior_Oil_Company	28	371	2016-06-24
+305386	9679	colgate palmolive	Colgate-Palmolive	grid.467381.f	http://colgatepalmolive.com/	http://en.wikipedia.org/wiki/Colgate-Palmolive	4289	62859	2016-06-24
+1314135232	9373	nationwide children s hospital	Nationwide Children's Hospital	grid.240344.5	http://www.nationwidechildrens.org/	http://en.wikipedia.org/wiki/Nationwide_Children's_Hospital	6425	117482	2016-06-24
+1283633810	13862	association of american geographers	Association of American Geographers	grid.289438.c	http://www.aag.org/	http://en.wikipedia.org/wiki/Association_of_American_Geographers	88	1321	2016-06-24
+207840292	14616	santa fe university of art and design	Santa Fe University of Art and Design	grid.421329.f	http://www.santafeuniversity.edu/	http://en.wikipedia.org/wiki/Santa_Fe_University_of_Art_and_Design	35	759	2016-06-24
+2799487757	12060	suburban hospital	Suburban Hospital	grid.416674.6		https://en.wikipedia.org/wiki/Suburban_Hospital	316	9065	2018-05-17
+147020272	15981	university of northern virginia	University of Northern Virginia	grid.441218.a	http://www.unva.edu/	http://en.wikipedia.org/wiki/University_of_Northern_Virginia	18	59	2016-06-24
+148667019	14064	brescia university college	Brescia University College		http://www.brescia.uwo.ca/	http://en.wikipedia.org/wiki/Brescia_University_College	103	889	2016-06-24
+113330528	14575	khazar university	Khazar University	grid.442897.4	http://www.khazar.org/	http://en.wikipedia.org/wiki/Khazar_University	81	282	2016-06-24
+1320184640	12807	public health agency of sweden	Public Health Agency of Sweden	grid.419734.c	http://www.folkhalsomyndigheten.se/	http://en.wikipedia.org/wiki/Public_Health_Agency_of_Sweden	340	2668	2016-06-24
+407022935	14906	university of montemorelos	University of Montemorelos	grid.441133.0	http://www.um.edu.mx/	http://en.wikipedia.org/wiki/University_of_Montemorelos	56	204	2016-06-24
+167322064	13228	universita degli studi ecampus	Università degli Studi eCampus	grid.449889.0	http://www.uniecampus.it/	http://en.wikipedia.org/wiki/Università_degli_Studi_eCampus	270	1608	2016-06-24
+2802146118	11042	queen victoria hospital	Queen Victoria Hospital	grid.415586.b		https://en.wikipedia.org/wiki/Queen_Victoria_Hospital	1451	21102	2018-05-17
+2800437794	14324	federal university lafia	Federal University Lafia	grid.459488.c		https://en.wikipedia.org/wiki/Federal_University_of_Technology,_Lafia	110	259	2018-05-17
+158244335	11877	netherlands forensic institute	Netherlands Forensic Institute	grid.419915.1	https://www.forensicinstitute.nl/	http://en.wikipedia.org/wiki/Netherlands_Forensic_Institute	625	9175	2016-06-24
+215168068	16074	university of maine at fort kent	University of Maine at Fort Kent	grid.441089.0	http://www.umfk.maine.edu/	http://en.wikipedia.org/wiki/University_of_Maine_at_Fort_Kent	18	69	2016-06-24
+86346663	13670	royal university of phnom penh	Royal University of Phnom Penh	grid.20440.32	http://www.rupp.edu.kh/	http://en.wikipedia.org/wiki/Royal_University_of_Phnom_Penh	166	1025	2016-06-24
+100894355	10168	ericsson mobile communications	Ericsson Mobile Communications			http://en.wikipedia.org/wiki/Ericsson_Mobile_Communications	2587	42219	2016-06-24
+889431882	15517	qwest corporation	Qwest Corporation		http://www.qwest.com/	http://en.wikipedia.org/wiki/Qwest_Corporation	14	121	2016-06-24
+170409389	11048	the forsyth institute	The Forsyth Institute		http://www.forsyth.org/	http://en.wikipedia.org/wiki/The_Forsyth_Institute	985	31752	2016-06-24
+2799887148	16856	frank phillips college	Frank Phillips College	grid.462225.5		https://en.wikipedia.org/wiki/Frank_Phillips_College	5	77	2018-05-17
+2801995556	16617	texas general land office	Texas General Land Office	grid.448378.4		https://en.wikipedia.org/wiki/Texas_General_Land_Office	11	20	2018-05-17
+13491362	9181	hamamatsu university	Hamamatsu University	grid.411951.9	http://www.hamamatsu-u.ac.jp/	http://en.wikipedia.org/wiki/Hamamatsu_University	9350	147424	2016-06-24
+308136634	14648	ada university	ADA University	grid.448556.e	http://www.ada.edu.az/	http://en.wikipedia.org/wiki/ADA_University	79	158	2016-06-24
+2799736854	10954	nanjing institute of technology	Nanjing Institute of Technology	grid.443518.f		https://en.wikipedia.org/wiki/Nanjing_Institute_of_Technology	3111	6547	2018-05-17
+57589565	12266	reutlingen university	Reutlingen University	grid.434088.3	http://www.reutlingen-university.de/	http://en.wikipedia.org/wiki/Reutlingen_University	756	2996	2016-06-24
+992397	11434	university of boras	University of Borås	grid.412442.5	http://www.hb.se/en/	http://en.wikipedia.org/wiki/University_of_Borås	1454	13500	2016-06-24
+17626003	8037	university of rhode island	University of Rhode Island	grid.20431.34	http://www.uri.edu/	http://en.wikipedia.org/wiki/University_of_Rhode_Island	19886	485831	2016-06-24
+1341575764	10455	federal reserve bank of minneapolis	Federal Reserve Bank of Minneapolis		https://www.minneapolisfed.org/	http://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Minneapolis	630	49499	2016-06-24
+151192355	14372	jabalpur engineering college	Jabalpur Engineering College		https://www.jecjabalpur.ac.in/index.aspx	http://en.wikipedia.org/wiki/Jabalpur_Engineering_College	97	364	2016-06-24
+160727737	11838	ecole des mines de douai	École des Mines de Douai	grid.462161.6	http://www2.mines-douai.fr/en/	http://en.wikipedia.org/wiki/École_des_Mines_de_Douai	742	10096	2016-06-24
+161515732	10146	university of st thomas	University of St. Thomas (Minnesota)	grid.267207.6	http://www.stthomas.edu/	http://en.wikipedia.org/wiki/University_of_St._Thomas_(Minnesota)	4822	47548	2016-06-24
+2800580492	18458	shatt al arab university college	Shatt Al-Arab University College	grid.460880.2		https://en.wikipedia.org/wiki/Shatt_Al-Arab_University_College	2	0	2018-05-17
+2799782091	11162	riverside methodist hospital	Riverside Methodist Hospital	grid.415981.0		https://en.wikipedia.org/wiki/Riverside_Methodist_Hospital	528	19937	2018-05-17
+2802253651	18043	poetry foundation	Poetry Foundation	grid.447018.e		https://en.wikipedia.org/wiki/Poetry_Foundation	3	1	2018-05-17
+205592152	15433	south african college	South African College			http://en.wikipedia.org/wiki/South_African_College	33	97	2016-06-24
+114132059	9415	tokyo electron	Tokyo Electron	grid.460108.b	http://www.tel.com/global/index.htm	http://en.wikipedia.org/wiki/Tokyo_Electron	6016	87167	2016-06-24
+158949172	13172	curtin university sarawak	Curtin University Sarawak	grid.448987.e	http://www.curtin.edu.my/	http://en.wikipedia.org/wiki/Curtin_University_Sarawak	313	1396	2016-06-24
+13005920	13274	world vegetable center	World Vegetable Center	grid.468369.6	http://avrdc.org/	http://en.wikipedia.org/wiki/World_Vegetable_Center	197	2564	2016-06-24
+2800026589	14430	northwest college	Northwest College	grid.422833.c		https://en.wikipedia.org/wiki/Northwest_College	59	499	2018-05-17
+2800935791	13362	uc san diego health system	UC San Diego Health System	grid.420234.3		https://en.wikipedia.org/wiki/UC_San_Diego_Health	164	1371	2018-05-17
+94936111	16553	moore theological college	Moore Theological College	grid.462546.7	http://www.moore.edu.au/	http://en.wikipedia.org/wiki/Moore_Theological_College	12	20	2016-06-24
+150702061	14931	academy of economic studies of moldova	Academy of Economic Studies of Moldova	grid.445959.0	http://www.ase.md/	http://en.wikipedia.org/wiki/Academy_of_Economic_Studies_of_Moldova	67	19	2016-06-24
+2802250162	13374	health promotion board	Health Promotion Board	grid.413892.5		https://en.wikipedia.org/wiki/Health_Promotion_Board	113	2472	2018-05-17
+882656400	10637	komatsu limited	Komatsu Limited	grid.471189.2	http://www.komatsu.com/	http://en.wikipedia.org/wiki/Komatsu_Limited	2252	17219	2016-06-24
+2802412784	13785	banner health	Banner Health	grid.418204.b		https://en.wikipedia.org/wiki/Banner_Health	133	1033	2018-05-17
+79279574	12249	green templeton college	Green Templeton College		http://www.gtc.ox.ac.uk/	http://en.wikipedia.org/wiki/Green_Templeton_College,_Oxford	342	4658	2016-06-24
+161045057	14637	royal mail	Royal Mail		http://royalmail.com/	http://en.wikipedia.org/wiki/Royal_Mail	65	310	2016-06-24
+2801339427	16369	abat oliba ceu university	Abat Oliba CEU University	grid.448532.c		https://en.wikipedia.org/wiki/Abat_Oliba_CEU_University	16	3	2018-05-17
+121881413	11100	defence science and technology organization	Defence Science and Technology Organization		http://www.senatedefencecommittee.com.pk/production-detail.php?pageid=news-detail&pid=OQ==	http://en.wikipedia.org/wiki/Defence_Science_and_Technology_Organization_(Pakistan)	1127	19037	2016-06-24
+2801875606	19151	jewish museum berlin	Jewish Museum Berlin	grid.461722.4		https://en.wikipedia.org/wiki/Jewish_Museum,_Berlin	1	0	2018-05-17
+62856769	10094	saudi aramco	Saudi Aramco	grid.480028.6	http://www.saudiaramco.com/	http://en.wikipedia.org/wiki/Saudi_Aramco	5999	28238	2016-06-24
+88155538	8473	university of navarra	University of Navarra	grid.5924.a	http://www.unav.es/english	http://en.wikipedia.org/wiki/University_of_Navarra	19082	317279	2016-06-24
+147554453	9870	university of bedfordshire	University of Bedfordshire	grid.15034.33	http://www.beds.ac.uk/	http://en.wikipedia.org/wiki/University_of_Bedfordshire	4884	67897	2016-06-24
+74897591	8985	marmara university	Marmara University	grid.16477.33	http://www.marmara.edu.tr/	http://en.wikipedia.org/wiki/Marmara_University	11411	118646	2016-06-24
+19648265	8425	wright state university	Wright State University	grid.268333.f	http://www.wright.edu/	http://en.wikipedia.org/wiki/Wright_State_University	19296	280737	2016-06-24
+200009255	14161	astrophysics research institute	Astrophysics Research Institute		https://web.archive.org/web/20121021232739/http://www.astro.ljmu.ac.uk/Main_Page	http://en.wikipedia.org/wiki/Astrophysics_Research_Institute	66	530	2016-06-24
+55817014	15794	mchenry county college	McHenry County College	grid.431488.2	http://www.mchenry.edu/	http://en.wikipedia.org/wiki/McHenry_County_College	23	83	2016-06-24
+16767117	14230	guru nanak khalsa college	Guru Nanak Khalsa College		http://www.gnkhalsa.edu.in/	http://en.wikipedia.org/wiki/Guru_Nanak_Khalsa_College_(King's_Circle)	92	753	2016-06-24
+860670893	14182	philadelphia fight	Philadelphia Fight	grid.423553.6		http://en.wikipedia.org/wiki/Philadelphia_Fight	40	900	2016-06-24
+189460059	11411	el bosque university	El Bosque University	grid.412195.a	http://www.unbosque.edu.co/	http://en.wikipedia.org/wiki/El_Bosque_University	1634	8725	2016-06-24
+1334218459	15713	american academy of forensic sciences	American Academy of Forensic Sciences		http://www.aafs.org/	http://en.wikipedia.org/wiki/American_Academy_of_Forensic_Sciences	21	66	2016-06-24
+227185868	15841	imps college of engineering and technology	IMPS College of Engineering and Technology		http://www.impscet.net/	http://en.wikipedia.org/wiki/IMPS_College_of_Engineering_and_Technology	22	74	2016-06-24
+36523846	14061	stenden university of applied sciences	Stenden University of Applied Sciences	grid.461051.7	https://stenden.com/en/	http://en.wikipedia.org/wiki/Stenden_University_of_Applied_Sciences	136	664	2016-06-24
+165755214	12635	geoscience research institute	Geoscience Research Institute			http://en.wikipedia.org/wiki/Geoscience_Research_Institute	328	3608	2016-06-24
+2802515901	16662	anoka hennepin school district	Anoka-Hennepin School District	grid.487933.2		https://en.wikipedia.org/wiki/Anoka-Hennepin_School_District_11	5	86	2018-05-17
+108377105	12435	tainan university of technology	Tainan University of Technology	grid.445068.b	http://www.tut.edu.tw/	http://en.wikipedia.org/wiki/Tainan_University_of_Technology	499	4987	2016-06-24
+88060688	8403	technical university of madrid	Technical University of Madrid	grid.5690.a	http://www.upm.es/	http://en.wikipedia.org/wiki/Technical_University_of_Madrid	26030	261420	2016-06-24
+2799369990	17743	women in government	Women in Government	grid.439317.b		https://en.wikipedia.org/wiki/Women_in_government	3	17	2018-05-17
+932706081	13606	amal jyothi college of engineering kottayam	Amal Jyothi College of Engineering, Kottayam		http://www.ajce.in/	http://en.wikipedia.org/wiki/Amal_Jyothi_College_of_Engineering_Kanjirappally	217	626	2016-06-24
+71346753	13258	inatel	Inatel	grid.454284.b	http://www.inatel.br/	http://en.wikipedia.org/wiki/Inatel	314	638	2016-06-24
+196758499	14991	fryske akademy	Fryske Akademy	grid.450022.1	http://www.fryske-akademy.nl/	http://en.wikipedia.org/wiki/Fryske_Akademy	55	135	2016-06-24
+2800142400	19151	skolkovo moscow school of management	Skolkovo Moscow School of Management	grid.469207.e		https://en.wikipedia.org/wiki/Skolkovo_Moscow_School_of_Management	1	0	2018-05-17
+1319597252	9996	center for global development	Center for Global Development	grid.466498.1	http://www.cgdev.org/	http://en.wikipedia.org/wiki/Center_for_Global_Development	3099	74798	2016-06-24
+181942792	13973	humber college	Humber College	grid.420778.e	http://www.humber.ca/	http://en.wikipedia.org/wiki/Humber_College	151	418	2016-06-24
+94649555	11878	indiana university southeast	Indiana University Southeast	grid.411590.8	http://www.ius.edu/	http://en.wikipedia.org/wiki/Indiana_University_Southeast	800	8990	2016-06-24
+2799421115	19120	geumgang university	Geumgang University	grid.444036.1		https://en.wikipedia.org/wiki/Geumgang_University	1	1	2018-05-17
+141597827	11924	fonterra	Fonterra	grid.482689.9	http://www.fonterra.com/	http://en.wikipedia.org/wiki/Fonterra	613	12798	2016-06-24
+35749132	10455	westport innovations	Westport Innovations		http://westport.com/	http://en.wikipedia.org/wiki/Westport_Innovations	2146	29616	2016-06-24
+2801647585	15341	southwest wisconsin technical college	Southwest Wisconsin Technical College	grid.462922.9		https://en.wikipedia.org/wiki/Southwest_Wisconsin_Technical_College	17	350	2018-05-17
+2801838318	10758	institut jules bordet	Institut Jules Bordet	grid.418119.4		https://en.wikipedia.org/wiki/Institut_Jules_Bordet	1276	30022	2018-05-17
+292939124	16231	sitananda college	Sitananda College		http://www.sitanandacollege.in/	http://en.wikipedia.org/wiki/Sitananda_College	10	146	2016-06-24
+4901143	14200	university of virginia s college at wise	University of Virginia's College at Wise	grid.441550.1	http://www.uvawise.edu/	http://en.wikipedia.org/wiki/University_of_Virginia's_College_at_Wise	110	508	2016-06-24
+11983389	8970	manchester metropolitan university	Manchester Metropolitan University	grid.25627.34	http://www.mmu.ac.uk/	http://en.wikipedia.org/wiki/Manchester_Metropolitan_University	11906	205669	2016-06-24
+2799323393	16639	sultan abdul halim hospital	Sultan Abdul Halim Hospital	grid.461061.4		https://en.wikipedia.org/wiki/Sultan_Abdul_Halim_Hospital	11	13	2018-05-17
+2802045935	17707	grantham university	Grantham University	grid.441149.d		https://en.wikipedia.org/wiki/Grantham_University	4	6	2018-05-17
+1313929544	15627	mse	MSE		http://www.mseuk.co.uk/	http://en.wikipedia.org/wiki/MSE_(centrifuges)	26	101	2016-06-24
+72245776	14032	fontbonne university	Fontbonne University	grid.431413.0	http://www.fontbonne.edu/	http://en.wikipedia.org/wiki/Fontbonne_University	88	1066	2016-06-24
+183156949	14618	honeywell turbo technologies	Honeywell Turbo Technologies		http://turbo.honeywell.com/	http://en.wikipedia.org/wiki/Honeywell_Turbo_Technologies	64	256	2016-06-24
+69356397	11235	xi an jiaotong liverpool university	Xi'an Jiaotong-Liverpool University	grid.440701.6	http://www.xjtlu.edu.cn/en	http://en.wikipedia.org/wiki/Xi'an_Jiaotong-Liverpool_University	1991	10736	2016-06-24
+1332404233	16878	martinus nijhoff publishers	Martinus Nijhoff Publishers		http://www.nijhoffonline.nl/	http://en.wikipedia.org/wiki/Martinus_Nijhoff_Publishers	7	34	2016-06-24
+129388089	16513	new england culinary institute	New England Culinary Institute		http://www.neci.edu/	http://en.wikipedia.org/wiki/New_England_Culinary_Institute	9	48	2016-06-24
+2803018670	11295	providence hospital	Providence Hospital	grid.415295.e		https://en.wikipedia.org/wiki/Providence_Hospital_(Mobile,_Alabama)	1024	15903	2018-05-17
+36448004	13250	shaheed zulfiqar ali bhutto institute of science and technology	Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology	grid.444886.2	http://www.szabist.edu.pk/	http://en.wikipedia.org/wiki/Shaheed_Zulfikar_Ali_Bhutto_Institute_of_Science_and_Technology	294	1150	2016-06-24
+22407884	11696	university of maryland eastern shore	University of Maryland Eastern Shore	grid.266678.b	http://www.umes.edu/	http://en.wikipedia.org/wiki/University_of_Maryland_Eastern_Shore	1016	9756	2016-06-24
+45418591	15685	seabury western theological seminary	Seabury-Western Theological Seminary		http://www.bexleyseabury.edu/	http://en.wikipedia.org/wiki/Seabury-Western_Theological_Seminary	30	17	2016-06-24
+2802054180	19151	science centre ahhaa	Science Centre AHHAA	grid.426158.c		https://en.wikipedia.org/wiki/AHHAA	1	0	2018-05-17
+1344001258	17062	adirondack museum	Adirondack Museum	grid.446341.0	https://www.theadkx.org/	http://en.wikipedia.org/wiki/Adirondack_Museum	7	11	2016-06-24
+153374732	9940	liaoning normal university	Liaoning Normal University	grid.440818.1	https://web.archive.org/web/20060515230208/http://www.lnnu.edu.cn/	http://en.wikipedia.org/wiki/Liaoning_Normal_University	8092	26874	2016-06-24
+185020484	15216	catholic university of avila	Catholic University of Ávila	grid.448685.3	http://www.ucavila.es/	http://en.wikipedia.org/wiki/Catholic_University_of_Ávila	43	135	2016-06-24
+2799577271	14833	william w backus hospital	William W Backus Hospital	grid.492543.d		https://en.wikipedia.org/wiki/Backus_Hospital	33	381	2018-05-17
+1329084839	13412	national centre for medium range weather forecasting	National Centre for Medium Range Weather Forecasting	grid.464960.9	http://www.ncmrwf.gov.in/	http://en.wikipedia.org/wiki/National_Centre_for_Medium_Range_Weather_Forecasting	191	1575	2016-06-24
+2252096349	7053	fujitsu	Fujitsu	grid.75318.38	http://www.fujitsu.com/	http://en.wikipedia.org/wiki/Fujitsu	60830	647660	2016-06-24
+2800645480	15777	ussuriysk astrophysical observatory	Ussuriysk Astrophysical Observatory	grid.440481.d		https://en.wikipedia.org/wiki/Ussuriysk_Astrophysical_Observatory	16	171	2018-05-17
+130769515	5867	pennsylvania state university	Pennsylvania State University	grid.29857.31	http://www.psu.edu/	http://en.wikipedia.org/wiki/Pennsylvania_State_University	149167	4166353	2016-06-24
+21165324	13960	boston psychoanalytic society and institute	Boston Psychoanalytic Society and Institute	grid.418426.d	http://bpsi.org/	http://en.wikipedia.org/wiki/Boston_Psychoanalytic_Society_and_Institute	111	1018	2016-06-24
+870713136	11729	national academies	National Academies		http://www.nationalacademies.org/	http://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine	239	14007	2016-06-24
+2802088768	14449	puerto rico department of health	Puerto Rico Department of Health	grid.280499.e		http://en.wikipedia.org/wiki/Puerto_Rico_Department_of_Health	58	605	2018-05-17
+52334195	13673	universidad francisco marroquin	Universidad Francisco Marroquín	grid.441524.2	http://www.ufm.edu/	http://en.wikipedia.org/wiki/Universidad_Francisco_Marroquín	173	922	2016-06-24
+123131354	12288	nihon fukushi university	Nihon Fukushi University	grid.444261.1	http://www.n-fukushi.ac.jp/ENGLISH/TOP.HTML	http://en.wikipedia.org/wiki/Nihon_Fukushi_University	366	4400	2016-06-24
+7969619	11337	oak ridge institute for science and education	Oak Ridge Institute for Science and Education		http://orise.orau.gov/	http://en.wikipedia.org/wiki/Oak_Ridge_Institute_for_Science_and_Education	1276	12780	2016-06-24
+167110943	14772	ceylon electricity board	Ceylon Electricity Board		http://www.ceb.lk/	http://en.wikipedia.org/wiki/Ceylon_Electricity_Board	67	163	2016-06-24
+78818856	14303	analytik jena	Analytik Jena		http://www.analytik-jena.com/	http://en.wikipedia.org/wiki/Analytik_Jena	84	610	2016-06-24
+1299303238	4849	national institutes of health	National Institutes of Health	grid.94365.3d	http://www.nih.gov/	http://en.wikipedia.org/wiki/National_Institutes_of_Health	278757	13405954	2016-06-24
+2799893456	17600	campbell hospital	Campbell Hospital	grid.461357.2		https://en.wikipedia.org/wiki/Campbell_Hospital,_Portsoy	4	12	2018-05-17
+155284866	12529	maharishi markandeshwar university mullana	Maharishi Markandeshwar University, Mullana	grid.440699.6	http://www.mmumullana.org/	http://en.wikipedia.org/wiki/Maharishi_Markandeshwar_University,_Mullana	554	3373	2016-06-24
+2802546094	16840	kinshasa general hospital	Kinshasa General Hospital	grid.460770.2		https://en.wikipedia.org/wiki/Kinshasa_General_Hospital	4	80	2018-05-17
+57910388	12662	middle east technical university northern cyprus campus	Middle East Technical University Northern Cyprus Campus				483	3074	2016-06-24
+2802660513	18006	brain tumour charity	Brain Tumour Charity	grid.453676.5		https://en.wikipedia.org/wiki/The_Brain_Tumour_Charity	3	3	2018-05-17
+2800207309	16903	royal institute of art	Royal Institute of Art	grid.445299.7		https://en.wikipedia.org/wiki/Royal_Institute_of_Art	4	64	2018-05-17
+322491407	11592	acibadem university	Acıbadem University	grid.411117.3			1370	7660	2016-06-24
+2801518522	17193	mercer university health sciences center	Mercer University Health Sciences Center	grid.259907.0		https://en.wikipedia.org/wiki/Mercer_University_Health_Sciences_Center	6	29	2018-05-17
+17024267	13092	universite d abobo adjame	Université d'Abobo-Adjamé		http://www.univ-na.edu.ci/	http://en.wikipedia.org/wiki/Université_d'Abobo-Adjamé	221	3002	2016-06-24
+2889748465	19151	lakes college	Lakes College	grid.468955.3		https://en.wikipedia.org/wiki/Lakes_College_(West_Cumbria)	1	0	2018-09-27
+896005021	13680	inholland university of applied sciences	Inholland University of Applied Sciences	grid.448984.d		http://en.wikipedia.org/wiki/Inholland_University_of_Applied_Sciences	171	1145	2016-06-24
+56165029	13634	universidad de moron	Universidad de Morón	grid.441705.3	http://www.unimoron.edu.ar/	http://en.wikipedia.org/wiki/Universidad_de_Morón	197	936	2016-06-24
+2800850957	16591	moberly area community college	Moberly Area Community College	grid.462612.5		https://en.wikipedia.org/wiki/Moberly_Area_Community_College	8	92	2018-05-17
+1308200039	14165	bureau of fisheries and aquatic resources	Bureau of Fisheries and Aquatic Resources		http://www.bfar.da.gov.ph/	http://en.wikipedia.org/wiki/Bureau_of_Fisheries_and_Aquatic_Resources	58	1227	2016-06-24
+2800440370	16591	signature healthcare brockton hospital	Signature Healthcare Brockton Hospital	grid.476948.0		https://en.wikipedia.org/wiki/Brockton_Hospital	9	65	2018-05-17
+170583851	11910	opole university	Opole University	grid.107891.6	http://www.uni.opole.pl/	http://en.wikipedia.org/wiki/Opole_University	1050	5616	2016-06-24
+2800929372	15657	southeast community college	Southeast Community College	grid.422399.7		https://en.wikipedia.org/wiki/Southeast_Community_College	19	180	2018-05-17
+200946902	11768	yichun university	Yichun University	grid.449868.f	http://www.ycu.jx.cn/	http://en.wikipedia.org/wiki/Yichun_University	1502	1680	2016-06-24
+165525304	11089	edge hill university	Edge Hill University	grid.255434.1	https://www.edgehill.ac.uk/	http://en.wikipedia.org/wiki/Edge_Hill_University	2174	16016	2016-06-24
+26836456	14056	narasinha dutt college	Narasinha Dutt College		http://www.narasinhaduttcollege.edu.in/	http://en.wikipedia.org/wiki/Narasinha_Dutt_College	107	925	2016-06-24
+2799325720	16491	sydney missionary and bible college	Sydney Missionary and Bible College	grid.462890.1		https://en.wikipedia.org/wiki/Sydney_Missionary_and_Bible_College	14	3	2018-05-17
+83308685	12034	canadian light source	Canadian Light Source	grid.423571.6	http://www.lightsource.ca/	http://en.wikipedia.org/wiki/Canadian_Light_Source	575	8668	2016-06-24
+1316910977	7409	dupont	DuPont	grid.481935.2	http://www.dupont.com/	http://en.wikipedia.org/wiki/DuPont	36742	690280	2016-06-24
+896602014	12591	national federation of republican assemblies	National Federation of Republican Assemblies		http://RepublicanAssemblies.org	http://en.wikipedia.org/wiki/National_Federation_of_Republican_Assemblies	89	2886	2016-06-24
+2801397489	16124	directorate general for health and food safety	Directorate-General for Health and Food Safety	grid.478758.1		https://en.wikipedia.org/wiki/Directorate-General_for_Health_and_Food_Safety	18	39	2018-05-17
+84026095	12869	guru nanak dev engineering college ludhiana	Guru Nanak Dev Engineering College, Ludhiana		http://www.gndec.ac.in/	http://en.wikipedia.org/wiki/Guru_Nanak_Dev_Engineering_College,_Ludhiana	413	1918	2016-06-24
+2800653159	17566	mid america baptist theological seminary	Mid-America Baptist Theological Seminary	grid.462566.5		https://en.wikipedia.org/wiki/Mid-America_Baptist_Theological_Seminary	4	15	2018-05-17
+1321249462	13702	velammal college of engineering and technology	Velammal College of Engineering and Technology		http://vcet.ac.in/	http://en.wikipedia.org/wiki/Velammal_College_of_Engineering_and_Technology	196	519	2016-06-24
+2801357656	14469	society for research in child development	Society for Research in Child Development	grid.475493.8		https://en.wikipedia.org/wiki/Society_for_Research_in_Child_Development	38	943	2018-05-17
+168974072	12182	government medical college nagpur	Government Medical College, Nagpur	grid.413213.6	http://gmcnagpur.org/	http://en.wikipedia.org/wiki/Government_Medical_College_(Nagpur)	554	5710	2016-06-24
+2802340986	17404	matany hospital	Matany Hospital	grid.461219.9		https://en.wikipedia.org/wiki/Matany_Hospital	1	34	2018-05-17
+1342665661	13892	italian ministry of public education	Italian Ministry of Public Education		http://www.pubblica.istruzione.it/	http://en.wikipedia.org/wiki/Ministry_of_Public_Education_(Italy)	35	936	2016-06-24
+2801108673	16054	full sail university	Full Sail University	grid.448822.0		https://en.wikipedia.org/wiki/Full_Sail_University	20	35	2018-05-17
+52325	8228	oswaldo cruz foundation	Oswaldo Cruz Foundation	grid.418068.3	https://portal.fiocruz.br/en/	http://en.wikipedia.org/wiki/Oswaldo_Cruz_Foundation	26175	356471	2016-06-24
+171165547	11683	king s college aberdeen	King's College, Aberdeen		https://www.abdn.ac.uk/about/campus/kings-58.php	http://en.wikipedia.org/wiki/King's_College,_Aberdeen	700	12388	2016-06-24
+18925743	11766	shanghai university of sport	Shanghai University of Sport	grid.412543.5	http://www.sus.edu.cn/	http://en.wikipedia.org/wiki/Shanghai_University_of_Sport	1424	3135	2016-06-24
+10874241	10644	jawaharlal nehru technological university hyderabad	Jawaharlal Nehru Technological University, Hyderabad	grid.411828.6	http://www.jntuh.ac.in/	http://en.wikipedia.org/wiki/Jawaharlal_Nehru_Technological_University,_Hyderabad	3694	19170	2016-06-24
+59198280	10098	snecma	Snecma		http://www.safran-aircraft-engines.com/	http://en.wikipedia.org/wiki/Snecma	4667	28507	2016-06-24
+180944728	13156	atlantic veterinary college	Atlantic Veterinary College		http://www.upei.ca/~avc/	http://en.wikipedia.org/wiki/Atlantic_Veterinary_College	169	3351	2016-06-24
+65322002	12322	volgograd state university	Volgograd State University	grid.112857.8	http://www.volsu.ru/	http://en.wikipedia.org/wiki/Volgograd_State_University	811	1891	2016-06-24
+71766726	11770	jacobs engineering group	Jacobs Engineering Group		http://www.jacobs.com/	http://en.wikipedia.org/wiki/Jacobs_Engineering_Group	474	6951	2016-06-24
+207754163	13854	royal district nursing service	Royal District Nursing Service		http://www.boltonclarke.com.au/	http://en.wikipedia.org/wiki/Royal_District_Nursing_Service_(Victoria)	128	1158	2016-06-24
+2801059880	17956	muscatine community college	Muscatine Community College	grid.462590.c		https://en.wikipedia.org/wiki/Muscatine_Community_College	3	1	2018-05-17
+64264942	14631	federal biomedical agency	Federal Biomedical Agency		http://fmbaros.ru/	http://en.wikipedia.org/wiki/Federal_Biomedical_Agency	82	152	2016-06-24
+257272505	17850	american trucking associations	American Trucking Associations		http://www.trucking.org/	http://en.wikipedia.org/wiki/American_Trucking_Associations	3	4	2016-06-24
+17145004	8185	northwestern polytechnical university	Northwestern Polytechnical University	grid.440588.5	http://www.nwpu.edu.cn/	http://en.wikipedia.org/wiki/Northwestern_Polytechnical_University	45680	179683	2016-06-24
+1329765538	8880	universities space research association	Universities Space Research Association	grid.410493.b	http://www.usra.edu/	http://en.wikipedia.org/wiki/Universities_Space_Research_Association	3260	105160	2016-06-24
+46375955	15179	synovate	Synovate		http://www.synovate.com/	http://en.wikipedia.org/wiki/Synovate	25	416	2016-06-24
+2801280657	16431	candu owners group	CANDU Owners Group	grid.450569.b		https://en.wikipedia.org/wiki/CANDU_Owners_Group	6	99	2018-05-17
+10904573	19151	commissariat	Commissariat			http://en.wikipedia.org/wiki/Commissariat	1	0	2016-06-24
+2801870424	15237	askham bryan college	Askham Bryan College	grid.459384.7		https://en.wikipedia.org/wiki/Askham_Bryan_College	22	352	2018-05-17
+2802607932	16435	european hematology association	European Hematology Association	grid.469727.9		https://en.wikipedia.org/wiki/European_Hematology_Association	11	36	2018-05-17
+181631907	8868	university of ibadan	University of Ibadan	grid.9582.6	http://www.ui.edu.ng/	http://en.wikipedia.org/wiki/University_of_Ibadan	12564	137690	2016-06-24
+2802539864	14574	guru teg bahadur hospital	Guru Teg Bahadur Hospital	grid.413343.2		https://en.wikipedia.org/wiki/Guru_Teg_Bahadur_Hospital	78	307	2018-05-17
+911821948	12158	ntt data	NTT DATA		http://www.nttdata.com/global/en/	http://en.wikipedia.org/wiki/NTT_DATA	518	4338	2016-06-24
+51077184	10285	saint joseph s university	Saint Joseph's University	grid.262952.8	http://www.sju.edu/	http://en.wikipedia.org/wiki/Saint_Joseph's_University	3424	43641	2016-06-24
+2799534737	17110	wellspring university	Wellspring University	grid.472457.7		https://en.wikipedia.org/wiki/Wellspring_University	6	25	2018-05-17
+904372625	13778	franklin college	Franklin College	grid.421573.6	http://www.franklincollege.edu/	http://en.wikipedia.org/wiki/Franklin_College_(Indiana)	105	970	2016-06-24
+201480613	14488	tama university	Tama University	grid.444897.2	http://www.tama.ac.jp/	http://en.wikipedia.org/wiki/Tama_University	88	234	2016-06-24
+2801074850	17755	humphreys college	Humphreys College	grid.465636.4		https://en.wikipedia.org/wiki/Humphreys_College	4	1	2018-05-17
+243586174	14442	keiser university	Keiser University	grid.429433.b	http://www.keiseruniversity.edu/	http://en.wikipedia.org/wiki/Keiser_University	95	228	2016-06-24
+2800936732	12776	princess margaret rose orthopaedic hospital	Princess Margaret Rose Orthopaedic Hospital	grid.415241.7		https://en.wikipedia.org/wiki/Princess_Margaret_Rose_Orthopaedic_Hospital	199	4765	2018-05-17
+2802723755	17522	independent sector	Independent Sector	grid.479912.0		https://en.wikipedia.org/wiki/Independent_Sector	5	2	2018-05-17
+116405630	14691	woodstock college	Woodstock College			http://en.wikipedia.org/wiki/Woodstock_College	53	292	2016-06-24
+2800345347	15965	berlin mathematical school	Berlin Mathematical School	grid.484014.d		https://en.wikipedia.org/wiki/Berlin_Mathematical_School	16	139	2018-05-17
+2801482984	13138	magen david adom	Magen David Adom	grid.425389.1		https://en.wikipedia.org/wiki/Magen_David_Adom	110	2774	2018-05-17
+2802742124	7778	john radcliffe hospital	John Radcliffe Hospital	grid.8348.7		https://en.wikipedia.org/wiki/John_Radcliffe_Hospital	16838	711946	2018-05-17
+2802684099	18356	st louis christian college	St. Louis Christian College	grid.454660.5		https://en.wikipedia.org/wiki/St._Louis_Christian_College	2	4	2018-05-17
+131827901	8241	stmicroelectronics	STMicroelectronics	grid.5403.2	http://www.st.com/	http://en.wikipedia.org/wiki/STMicroelectronics	25219	199764	2016-06-24
+2800906782	16260	hong kong science and technology parks corporation	Hong Kong Science and Technology Parks Corporation	grid.493736.c		https://en.wikipedia.org/wiki/Hong_Kong_Science_and_Technology_Parks_Corporation	11	90	2018-05-17
+2800940057	15076	center for the advancement of natural discoveries using light emission	Center for the Advancement of Natural Discoveries using Light Emission	grid.473267.3		https://en.wikipedia.org/wiki/CANDLE_Synchrotron_Research_Institute	18	211	2018-05-17
+2004880	14967	irish management institute	Irish Management Institute	grid.435607.3	http://www.imi.ie/	http://en.wikipedia.org/wiki/Irish_Management_Institute	32	570	2016-06-24
+200606013	12826	daffodil international university	Daffodil International University	grid.442989.a	http://daffodilvarsity.edu.bd/	http://en.wikipedia.org/wiki/Daffodil_International_University	492	1090	2016-06-24
+27367753	14428	el shorouk academy	El Shorouk Academy	grid.442464.4	http://sha.edu.eg/	http://en.wikipedia.org/wiki/El_Shorouk_Academy	92	341	2016-06-24
+3798612	14674	andong science college	Andong Science College			http://en.wikipedia.org/wiki/Andong_Science_College	60	411	2016-06-24
+2801963157	17386	federal ministry of food and agriculture	Federal Ministry of Food and Agriculture	grid.454821.e		https://en.wikipedia.org/wiki/Federal_Ministry_of_Food_and_Agriculture_(Germany)	3	34	2018-05-17
+125584214	15273	quinsigamond community college	Quinsigamond Community College	grid.437622.6	http://www.qcc.edu/	http://en.wikipedia.org/wiki/Quinsigamond_Community_College	28	339	2016-06-24
+2799613648	12397	parco tecnologico padano	Parco Tecnologico Padano	grid.425375.2		https://en.wikipedia.org/wiki/Parco_Tecnologico_Padano	320	7719	2018-05-17
+114030911	10156	otsuka pharmaceutical	Otsuka Pharmaceutical	grid.487332.9	http://www.otsuka.com/en/	http://en.wikipedia.org/wiki/Otsuka_Pharmaceutical	2352	59936	2016-06-24
+197854408	9987	university of malta	University of Malta	grid.4462.4	http://www.um.edu.mt/	http://en.wikipedia.org/wiki/University_of_Malta	5058	52752	2016-06-24
+884002606	10506	paul ehrlich institute	Paul Ehrlich Institute	grid.425396.f	http://www.pei.de/	http://en.wikipedia.org/wiki/Paul_Ehrlich_Institute	1761	38707	2016-06-24
+16002159	15962	national roads authority	National Roads Authority		http://www.tii.ie/	http://en.wikipedia.org/wiki/National_Roads_Authority	16	105	2016-06-24
+179638627	12501	cancer treatment centers of america	Cancer Treatment Centers of America	grid.476875.f	http://www.cancercenter.com/	http://en.wikipedia.org/wiki/Cancer_Treatment_Centers_of_America	401	4795	2016-06-24
+1323861001	11104	conrad hotels	Conrad Hotels		http://conradhotels.com/	http://en.wikipedia.org/wiki/Conrad_Hotels	1423	16095	2016-06-24
+57233200	13790	mannheim centre for european social research	Mannheim Centre for European Social Research		http://www.mzes.uni-mannheim.de/d7/en	http://en.wikipedia.org/wiki/Mannheim_Centre_for_European_Social_Research	135	1575	2016-06-24
+2800273996	11031	south african weather service	South African Weather Service	grid.463572.1		https://en.wikipedia.org/wiki/South_African_Weather_Service	187	29424	2018-05-17
+51622183	10365	shaanxi university of science and technology	Shaanxi University of Science and Technology	grid.454711.2	http://www.sust.edu.cn/	http://en.wikipedia.org/wiki/Shaanxi_University_of_Science_and_Technology	5497	17297	2016-06-24
+2801410363	12478	stony brook university hospital	Stony Brook University Hospital	grid.412695.d		https://en.wikipedia.org/wiki/Stony_Brook_University_Hospital	510	3523	2018-05-17
+126135577	13272	lufthansa technik	Lufthansa Technik		http://www.lufthansa-technik.com/	http://en.wikipedia.org/wiki/Lufthansa_Technik	294	579	2016-06-24
+35340524	13159	central university of kerala	Central University of Kerala	grid.440670.1	http://cukerala.ac.in/index.php?lang=en	http://en.wikipedia.org/wiki/Central_University_of_Kerala	335	1002	2016-06-24
+2799765569	12978	metropolitan hospital center	Metropolitan Hospital Center	grid.415455.4		https://en.wikipedia.org/wiki/Metropolitan_Hospital_Center	165	3151	2018-05-17
+53619486	15007	dungar college	Dungar College		http://www.dungarcollege.ac.in/	http://en.wikipedia.org/wiki/Dungar_College	52	160	2016-06-24
+197251160	6604	hebrew university of jerusalem	Hebrew University of Jerusalem	grid.9619.7	http://www.huji.ac.il/	http://en.wikipedia.org/wiki/Hebrew_University_of_Jerusalem	78372	2122920	2016-06-24
+2802079417	18052	west college scotland	West College Scotland	grid.468730.e		https://en.wikipedia.org/wiki/West_College_Scotland	3	0	2018-05-17
+213364340	15094	rubicon technology	Rubicon Technology		http://www.rubicontechnology.com/	http://en.wikipedia.org/wiki/Rubicon_Technology	33	410	2016-06-24
+2802893334	17206	police forensic science laboratory dundee	Police Forensic Science Laboratory Dundee	grid.423199.4		https://en.wikipedia.org/wiki/Police_Forensic_Science_Laboratory_Dundee	4	40	2018-05-17
+2802805805	14359	space research and technology institute	Space Research and Technology Institute	grid.426425.3		https://en.wikipedia.org/wiki/Space_Research_and_Technology_Institute	93	331	2018-05-17
+1302262991	15927	fundacao de amparo a pesquisa do estado da bahia	Fundação de Amparo à Pesquisa do Estado da Bahia	grid.454766.2	http://www.fapesb.ba.gov.br/	http://en.wikipedia.org/wiki/Fundação_de_Amparo_à_Pesquisa_do_Estado_da_Bahia	22	51	2016-06-24
+146682468	11020	national institute for interdisciplinary science and technology	National Institute for Interdisciplinary Science and Technology	grid.419023.d	http://www.niist.res.in/english/	http://en.wikipedia.org/wiki/National_Institute_for_Interdisciplinary_Science_and_Technology	1786	28498	2016-06-24
+2799511635	19097	som biotech spain	SOM Biotech (Spain)	grid.476697.d		https://en.wikipedia.org/wiki/SOM_Biotech	1	2	2018-05-17
+2800024422	15540	universitas wijaya putra	Universitas Wijaya Putra	grid.444457.2		https://en.wikipedia.org/wiki/Wijaya_Putra_University	37	0	2018-05-17
+1301553790	9118	j craig venter institute	J. Craig Venter Institute	grid.469946.0	http://www.jcvi.org/	http://en.wikipedia.org/wiki/J._Craig_Venter_Institute	1570	155988	2016-06-24
+229760095	16028	ic manage	IC Manage		http://www.icmanage.com/	http://en.wikipedia.org/wiki/IC_Manage	21	22	2016-06-24
+163706842	12558	black veatch	Black & Veatch		http://www.bv.com/	http://en.wikipedia.org/wiki/Black_&_Veatch	371	3766	2016-06-24
+161765314	14643	hidayatullah national law university	Hidayatullah National Law University	grid.448674.d	http://www.hnlu.ac.in/	http://en.wikipedia.org/wiki/Hidayatullah_National_Law_University	82	147	2016-06-24
+2800778610	17765	kensington college of business	Kensington College of Business	grid.462457.6		https://en.wikipedia.org/wiki/Kensington_College_of_Business	4	0	2018-05-17
+1285200648	15233	japanese ministry of internal affairs and communications	Japanese Ministry of Internal Affairs and Communications	grid.484465.f	http://www.soumu.go.jp/	http://en.wikipedia.org/wiki/Ministry_of_Internal_Affairs_and_Communications	34	200	2016-06-24
+178232147	9391	guizhou university	Guizhou University	grid.443382.a	http://www.gzu.edu.cn/	http://en.wikipedia.org/wiki/Guizhou_University	15038	32122	2016-06-24
+2802012704	14793	pulmonary vascular research institute	Pulmonary Vascular Research Institute	grid.489200.7		https://en.wikipedia.org/wiki/Pulmonary_Vascular_Research_Institute	19	822	2018-05-17
+1286593407	16425	musee de la civilisation	Musée de la civilisation	grid.459281.3	http://www.mcq.org/index_en.html	http://en.wikipedia.org/wiki/Musée_de_la_civilisation	15	2	2016-06-24
+2801923502	17263	government of hungary	Government of Hungary	grid.454801.c		https://en.wikipedia.org/wiki/Government_of_Hungary	6	9	2018-05-17
+2799420559	13182	american college of veterinary surgeons	American College of Veterinary Surgeons	grid.478222.9		https://en.wikipedia.org/wiki/American_College_of_Veterinary_Surgeons	231	2054	2018-05-17
+2802195471	14438	shoe and allied trades research association	Shoe and Allied Trades Research Association	grid.79330.3e		https://en.wikipedia.org/wiki/SATRA	43	499	2018-05-17
+94782393	14558	champlain regional college	Champlain Regional College	grid.459237.e	http://admin.crc-sher.qc.ca/	http://en.wikipedia.org/wiki/Champlain_Regional_College	51	418	2016-06-24
+2802562207	12300	deutsche bundespost	Deutsche Bundespost	grid.424149.e		http://en.wikipedia.org/wiki/Deutsche_Bundespost	439	2745	2018-05-17
+1326125022	11687	guttmacher institute	Guttmacher Institute	grid.417837.e	http://www.guttmacher.org/	http://en.wikipedia.org/wiki/Guttmacher_Institute	322	15680	2016-06-24
+80565981	13196	carroll college	Carroll College	grid.253718.a	http://www.carroll.edu/	http://en.wikipedia.org/wiki/Carroll_College_(Montana)	223	2058	2016-06-24
+11039511	10506	university of bergamo	University of Bergamo	grid.33236.37	http://www.unibg.it/	http://en.wikipedia.org/wiki/University_of_Bergamo	3384	30916	2016-06-24
+2801783332	17496	city of wolverhampton college	City of Wolverhampton College	grid.461982.0		https://en.wikipedia.org/wiki/City_of_Wolverhampton_College	3	31	2018-05-17
+2801481098	16388	university press of kansas	University Press of Kansas	grid.447236.0		https://en.wikipedia.org/wiki/University_Press_of_Kansas	12	81	2018-05-17
+67438157	16230	banca monte dei paschi di siena	Banca Monte dei Paschi di Siena		https://www.gruppomps.it/	http://en.wikipedia.org/wiki/Banca_Monte_dei_Paschi_di_Siena	16	29	2016-06-24
+136810615	12120	national research corporation	National Research Corporation		http://www.nationalresearch.com/	http://en.wikipedia.org/wiki/National_Research_Corporation	257	3130	2016-06-24
+2801269832	10658	castle hill hospital	Castle Hill Hospital	grid.413509.a		https://en.wikipedia.org/wiki/Castle_Hill_Hospital	1360	32025	2018-05-17
+141589445	10031	roche institute of molecular biology	Roche Institute of Molecular Biology			http://en.wikipedia.org/wiki/Roche_Institute_of_Molecular_Biology	1532	73098	2016-06-24
+2800001333	13678	bundang jesaeng hospital	Bundang Jesaeng Hospital	grid.413128.d		https://en.wikipedia.org/wiki/Bundang_Jesaeng_Hospital	168	1071	2018-05-17
+2799523070	16756	society for values in higher education	Society for Values in Higher Education	grid.447543.5		https://en.wikipedia.org/wiki/Society_for_Values_in_Higher_Education	8	29	2018-05-17
+2800714591	16973	kampala capital city authority	Kampala Capital City Authority	grid.479461.9		https://en.wikipedia.org/wiki/Kampala_Capital_City_Authority	7	32	2018-05-17
+319786031	14329	catholic university of mozambique	Catholic University of Mozambique	grid.287982.e	http://www.ucm.ac.mz/	http://en.wikipedia.org/wiki/Catholic_University_of_Mozambique	37	670	2016-06-24
+1282951731	13600	national bureau of statistics of nigeria	National Bureau of Statistics of Nigeria		http://www.nigerianstat.gov.ng/	http://en.wikipedia.org/wiki/National_Bureau_of_Statistics,_Nigeria	95	1857	2016-06-24
+2800414823	14144	sigma theta tau international	Sigma Theta Tau International	grid.484635.8		https://en.wikipedia.org/wiki/Sigma_Theta_Tau	109	581	2018-05-17
+33824798	15563	university of nanking	University of Nanking			http://en.wikipedia.org/wiki/University_of_Nanking	14	188	2016-06-24
+2800903681	14231	henrietta egleston hospital for children	Henrietta Egleston Hospital for Children	grid.414408.d		https://en.wikipedia.org/wiki/Henrietta_Egleston_Hospital_for_Children	56	880	2018-05-17
+2800475051	19088	cecom software engineering center	CECOM Software Engineering Center	grid.417996.4		https://en.wikipedia.org/wiki/United_States_Army_Communications-Electronics_Command	1	1	2018-05-17
+2802611144	16294	poultry science association	Poultry Science Association	grid.486399.9		https://en.wikipedia.org/wiki/Poultry_Science_Association	13	67	2018-05-17
+2799810722	19151	hillsong international leadership college	Hillsong International Leadership College	grid.468862.6		https://en.wikipedia.org/wiki/Hillsong_International_Leadership_College	1	0	2018-05-17
+1321686444	10508	westchester medical center	Westchester Medical Center	grid.417052.5	http://www.westchestermedicalcenter.com/	http://en.wikipedia.org/wiki/Westchester_Medical_Center	1054	25031	2016-06-24
+25163455	11304	delaware biotechnology institute	Delaware Biotechnology Institute			http://en.wikipedia.org/wiki/Delaware_Biotechnology_Institute	570	27581	2016-06-24
+2801641098	17053	trocaire college	Trocaire College	grid.469213.b		https://en.wikipedia.org/wiki/Trocaire_College	8	3	2018-05-17
+1342692935	13005	ordnance survey	Ordnance Survey	grid.71062.32	http://www.ordnancesurvey.co.uk/	http://en.wikipedia.org/wiki/Ordnance_Survey	232	2819	2016-06-24
+33434090	8866	university of massachusetts boston	University of Massachusetts Boston	grid.266685.9	http://www.umb.edu/	http://en.wikipedia.org/wiki/University_of_Massachusetts_Boston	10267	189191	2016-06-24
+890166507	17460	volkswagen motorsport	Volkswagen Motorsport		http://www.volkswagen-motorsport.com/	http://en.wikipedia.org/wiki/Volkswagen_Motorsport	3	9	2016-06-24
+2802726010	19151	american phytopathological society	American Phytopathological Society	grid.426759.b		https://en.wikipedia.org/wiki/American_Phytopathological_Society	1	0	2018-05-17
+55283087	15679	asia e university	Asia e University	grid.460999.b	http://www.aeu.edu.my/	http://en.wikipedia.org/wiki/Asia_e_University	30	44	2016-06-24
+889827437	16140	civilian marksmanship program	Civilian Marksmanship Program			http://en.wikipedia.org/wiki/Civilian_Marksmanship_Program	20	3	2016-06-24
+81730078	13815	ministry of commerce and industry	Ministry of Commerce and Industry			http://en.wikipedia.org/wiki/Ministry_of_Commerce_and_Industry_(Japan)	114	1081	2016-06-24
+1302253308	13857	iowa primate learning sanctuary	Iowa Primate Learning Sanctuary		https://web.archive.org/web/20130713163039/http://www.iowaprimatelearning.org:80/	http://en.wikipedia.org/wiki/Iowa_Primate_Learning_Sanctuary	73	1313	2016-06-24
+2802872610	10460	hospital research foundation	Hospital Research Foundation	grid.479900.3		https://en.wikipedia.org/wiki/The_Hospital_Research_Foundation	1388	50592	2018-05-17
+2801822846	16458	bevill state community college	Bevill State Community College	grid.423267.6		https://en.wikipedia.org/wiki/Bevill_State_Community_College	10	65	2018-05-17
+158447531	12698	altran	Altran		http://www.altran.com/	http://en.wikipedia.org/wiki/Altran	361	2579	2016-06-24
+2802135278	13938	desert botanical garden	Desert Botanical Garden	grid.420478.d		https://en.wikipedia.org/wiki/Desert_Botanical_Garden	80	1245	2018-05-17
+135767803	15309	college of the ozarks	College of the Ozarks	grid.428074.d	http://www.cofo.edu/	http://en.wikipedia.org/wiki/College_of_the_Ozarks	37	146	2016-06-24
+76973811	10698	abant izzet baysal university	Abant Izzet Baysal University	grid.411082.e	http://www.ibu.edu.tr/	http://en.wikipedia.org/wiki/Abant_Izzet_Baysal_University	3026	26780	2016-06-24
+79660296	14231	florida memorial university	Florida Memorial University	grid.255983.0	http://www.fmuniv.edu/	http://en.wikipedia.org/wiki/Florida_Memorial_University	131	94	2016-06-24
+84129438	11729	mcgraw edison	McGraw-Edison			http://en.wikipedia.org/wiki/McGraw-Edison	424	5324	2016-06-24
+1331244672	12357	illinois department of public health	Illinois Department of Public Health	grid.280362.d	http://www.dph.illinois.gov/	http://en.wikipedia.org/wiki/Illinois_Department_of_Public_Health	266	6249	2016-06-24
+1309488066	15878	interfaith youth core	Interfaith Youth Core		http://www.ifyc.org/about-us/eboo-patel	http://en.wikipedia.org/wiki/Interfaith_Youth_Core	22	24	2016-06-24
+108484188	13723	fundacion universitaria san martin	Fundación Universitaria San Martín		http://www.sanmartin.edu.co/	http://en.wikipedia.org/wiki/Saint_Martin_University	209	282	2016-06-24
+883101408	14883	geneva academy of international humanitarian law and human rights	Geneva Academy of International Humanitarian Law and Human Rights		http://www.geneva-academy.ch/	http://en.wikipedia.org/wiki/Geneva_Academy_of_International_Humanitarian_Law_and_Human_Rights	67	84	2016-06-24
+2801462254	17073	bournville college	Bournville College	grid.468665.f		https://en.wikipedia.org/wiki/Bournville_College	7	10	2018-05-17
+19630809	10116	mario negri institute for pharmacological research	Mario Negri Institute for Pharmacological Research	grid.4527.4	http://www.marionegri.it/	http://en.wikipedia.org/wiki/Mario_Negri_Institute_for_Pharmacological_Research	1709	73912	2016-06-24
+1335486098	8629	electric power research institute	Electric Power Research Institute	grid.418781.3	http://www.epri.com/	http://en.wikipedia.org/wiki/Electric_Power_Research_Institute	21337	118180	2016-06-24
+2801590645	16898	health and disability commissioner	Health and Disability Commissioner	grid.475981.6		https://en.wikipedia.org/wiki/Health_and_Disability_Commissioner	4	71	2018-05-17
+1298129408	14219	center for climate and energy solutions	Center for Climate and Energy Solutions		http://www.c2es.org/	http://en.wikipedia.org/wiki/Center_for_Climate_and_Energy_Solutions	31	1187	2016-06-24
+107229657	11987	zamorano	Zamorano		https://www.zamorano.edu/	http://en.wikipedia.org/wiki/Zamorano	1078	3247	2016-06-24
+125866687	13246	wayne state college	Wayne State College	grid.439142.9	http://www.wsc.edu/	http://en.wikipedia.org/wiki/Wayne_State_College	173	2911	2016-06-24
+2800531617	12975	sparrow hospital	Sparrow Hospital	grid.416223.0		https://en.wikipedia.org/wiki/Sparrow_Hospital	176	3112	2018-05-17
+79052877	13994	volga state university of technology	Volga State University of Technology	grid.445147.7	http://eng.volgatech.net/	http://en.wikipedia.org/wiki/Volga_State_University_of_Technology	162	138	2016-06-24
+299711103	16740	internet engineering task force	Internet Engineering Task Force		http://ietf.org/	http://en.wikipedia.org/wiki/Internet_Engineering_Task_Force	6	39	2016-06-24
+167471854	14307	hydro tasmania	Hydro Tasmania	grid.474064.5	http://www.hydro.com.au/	http://en.wikipedia.org/wiki/Hydro_Tasmania	55	925	2016-06-24
+115474868	10551	centro federal de educacao tecnologica de minas gerais	Centro Federal de Educação Tecnológica de Minas Gerais			http://en.wikipedia.org/wiki/Centro_Federal_de_Educação_Tecnológica_de_Minas_Gerais	4134	16608	2016-06-24
+159428640	15337	state university of new york at canton	State University of New York at Canton	grid.430477.3	http://www.canton.edu/	http://en.wikipedia.org/wiki/State_University_of_New_York_at_Canton	38	148	2016-06-24
+1338139034	11349	new jersey department of health and senior services	New Jersey Department of Health and Senior Services	grid.238434.a	http://www.state.nj.us/health/	http://en.wikipedia.org/wiki/New_Jersey_Department_of_Health_and_Senior_Services	409	15903	2016-06-24
+137839430	13077	botswana college of agriculture	Botswana College of Agriculture		http://www.bca.bw/	http://en.wikipedia.org/wiki/Botswana_College_of_Agriculture	281	2514	2016-06-24
+2800314275	16279	brighton and hove city council	Brighton and Hove City Council	grid.432564.2		https://en.wikipedia.org/wiki/Brighton_and_Hove_City_Council	17	13	2018-05-17
+148632828	14571	beckley foundation	Beckley Foundation	grid.490720.8	http://www.beckleyfoundation.org/	http://en.wikipedia.org/wiki/Beckley_Foundation	33	1031	2016-06-24
+145220665	12198	cornell college	Cornell College	grid.254690.c	https://www.cornellcollege.edu/	http://en.wikipedia.org/wiki/Cornell_College	524	6712	2016-06-24
+37609400	15933	kawamura gakuen women s university	Kawamura Gakuen Women's University	grid.443200.1	http://www.kgwu.ac.jp/	http://en.wikipedia.org/wiki/Kawamura_Gakuen_Women's_University	20	64	2016-06-24
+859956996	16576	college of menominee nation	College of Menominee Nation	grid.421332.5	http://www.menominee.edu/	http://en.wikipedia.org/wiki/College_of_Menominee_Nation	6	113	2016-06-24
+233843957	11181	bj services company	BJ Services Company			http://en.wikipedia.org/wiki/BJ_Services_Company	1267	13281	2016-06-24
+2801817492	18214	miningwatch canada	MiningWatch Canada	grid.439991.f		https://en.wikipedia.org/wiki/MiningWatch_Canada	2	8	2018-05-17
+2802270767	18410	american thyroid association	American Thyroid Association	grid.478451.b		https://en.wikipedia.org/wiki/American_Thyroid_Association	2	1	2018-05-17
+204308271	7481	medical college of wisconsin	Medical College of Wisconsin	grid.30760.32	http://www.mcw.edu/	http://en.wikipedia.org/wiki/Medical_College_of_Wisconsin	29366	899075	2016-06-24
+42570316	9641	japanese foundation for cancer research	Japanese Foundation for Cancer Research	grid.410807.a	http://www.jfcr.or.jp/english/index.html	http://en.wikipedia.org/wiki/Japanese_Foundation_for_Cancer_Research	3349	106961	2016-06-24
+2800697196	14581	john sealy hospital	John Sealy Hospital	grid.461476.6		https://en.wikipedia.org/wiki/John_Sealy_Hospital	30	496	2018-05-17
+121345201	10969	inesc id	INESC-ID	grid.14647.30	http://www.inesc-id.pt/	http://en.wikipedia.org/wiki/INESC-ID	2232	17612	2016-06-24
+134429446	14523	tower international	Tower International		http://www.towerinternational.com/	http://en.wikipedia.org/wiki/Tower_International	33	504	2016-06-24
+2801292914	16829	cloud county community college	Cloud County Community College	grid.468724.b		https://en.wikipedia.org/wiki/Cloud_County_Community_College	7	44	2018-05-17
+207056914	12877	state university of novi pazar	State University of Novi Pazar	grid.445145.5	http://www.np.ac.rs/	http://en.wikipedia.org/wiki/State_University_of_Novi_Pazar	423	1807	2016-06-24
+132157868	13170	dr babasaheb ambedkar technological university	Dr. Babasaheb Ambedkar Technological University	grid.444731.1	http://www.dbatuonline.com/	http://en.wikipedia.org/wiki/Dr._Babasaheb_Ambedkar_Technological_University	276	1756	2016-06-24
+860003557	11860	pec university of technology	PEC University of Technology	grid.444343.0	http://www.pec.ac.in/	http://en.wikipedia.org/wiki/PEC_University_of_Technology	1024	5441	2016-06-24
+2802693690	17102	bantry general hospital	Bantry General Hospital	grid.460890.3		https://en.wikipedia.org/wiki/Bantry_General_Hospital	7	13	2018-05-17
+2801357902	8289	carlos iii health institute	Carlos III Health Institute	grid.413448.e	http://www.isciii.es/	https://en.wikipedia.org/wiki/Carlos_III_Health_Institute	18673	355058	2018-05-17
+112754052	11691	sambalpur university	Sambalpur University	grid.444716.4	http://www.suniv.ac.in/	http://en.wikipedia.org/wiki/Sambalpur_University	1139	9400	2016-06-24
+2800101591	16294	watereuse association	WateReuse Association	grid.427293.9		https://en.wikipedia.org/wiki/WateReuse	2	217	2018-05-17
+12963820	14046	academie nationale de medecine	Académie Nationale de Médecine		http://gallica.bnf.fr/ark:/12148/cb34348109k/date	http://en.wikipedia.org/wiki/Académie_Nationale_de_Médecine	131	535	2016-06-24
+162838928	8611	national chung hsing university	National Chung Hsing University	grid.260542.7	http://www.nchu.edu.tw/en-index.php	http://en.wikipedia.org/wiki/National_Chung_Hsing_University	18215	276513	2016-06-24
+2801221094	18297	constructing excellence	Constructing Excellence	grid.421492.8		https://en.wikipedia.org/wiki/Constructing_Excellence	2	6	2018-05-17
+2801048434	18404	liberty memorial	Liberty Memorial	grid.446929.4		https://en.wikipedia.org/wiki/Liberty_Memorial	2	1	2018-05-17
+1328723229	14070	planned parenthood	Planned Parenthood	grid.477710.2	http://www.plannedparenthood.org/	http://en.wikipedia.org/wiki/Planned_Parenthood	96	799	2016-06-24
+2802697702	14413	woolmanhill hospital	Woolmanhill Hospital	grid.461316.7		https://en.wikipedia.org/wiki/Woolmanhill_Hospital	25	834	2018-05-17
+1335490905	10006	synopsys	Synopsys	grid.425313.2	http://www.synopsys.com/	http://en.wikipedia.org/wiki/Synopsys	3955	47874	2016-06-24
+99981631	14817	danish institute for human rights	Danish Institute for Human Rights	grid.480637.e	http://menneskeret.dk/	http://en.wikipedia.org/wiki/Danish_Institute_for_Human_Rights	67	193	2016-06-24
+79576946	5398	university of pennsylvania	University of Pennsylvania	grid.25879.31	http://www.upenn.edu/	http://en.wikipedia.org/wiki/University_of_Pennsylvania	193832	7107888	2016-06-24
+183348475	13459	regina qu appelle health region	Regina Qu'Appelle Health Region	grid.415781.e	http://rqhealth.ca/	http://en.wikipedia.org/wiki/Regina_Qu'Appelle_Health_Region	177	1553	2016-06-24
+908205633	14924	birmingham school of law	Birmingham School of Law		http://www.bsol.com/	http://en.wikipedia.org/wiki/Birmingham_School_of_Law	66	51	2016-06-24
+1343871089	6609	los alamos national laboratory	Los Alamos National Laboratory	grid.148313.c	http://www.lanl.gov/	http://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory	72076	1695534	2016-06-24
+1342576191	15890	health sponsorship council	Health Sponsorship Council			http://en.wikipedia.org/wiki/Health_Sponsorship_Council	14	178	2016-06-24
+2799429177	15679	catholic university of applied sciences freiburg	Catholic University of Applied Sciences Freiburg	grid.465922.e		https://en.wikipedia.org/wiki/Catholic_University_of_Applied_Sciences_Freiburg	22	139	2018-05-17
+2801737446	16081	supreme council of antiquities	Supreme Council of Antiquities	grid.438181.7		https://en.wikipedia.org/wiki/Supreme_Council_of_Antiquities	16	68	2018-05-17
+27324606	12119	degremont	Degrémont		http://www.degremont.com/	http://en.wikipedia.org/wiki/Degrémont	550	4782	2016-06-24
+57765912	15249	tokyo management college	Tokyo Management College	grid.472086.f		http://en.wikipedia.org/wiki/Tokyo_Management_College	19	128	2016-06-24
+148520331	14362	kinnaird college for women university	Kinnaird College for Women University	grid.444922.d	http://www.kinnaird.edu.pk/	http://en.wikipedia.org/wiki/Kinnaird_College_for_Women_University	97	335	2016-06-24
+84500057	11918	institut de mathematiques de toulouse	Institut de Mathématiques de Toulouse		http://www.math.univ-toulouse.fr/	http://en.wikipedia.org/wiki/Institut_de_Mathématiques_de_Toulouse	876	8352	2016-06-24
+63341726	9884	universite du quebec a trois rivieres	Université du Québec à Trois-Rivières	grid.265703.5	https://www.uqtr.ca/	http://en.wikipedia.org/wiki/Université_du_Québec_à_Trois-Rivières	5527	65285	2016-06-24
+150870154	10571	indian institute of management ahmedabad	Indian Institute of Management Ahmedabad	grid.418226.b	http://www.iimahd-ernet.in/	http://en.wikipedia.org/wiki/Indian_Institute_of_Management_Ahmedabad	2962	25841	2016-06-24
+157855434	13339	bourns college of engineering	Bourns College of Engineering		http://www.engr.ucr.edu/	http://en.wikipedia.org/wiki/Bourns_College_of_Engineering	70	3088	2016-06-24
+1343180700	7048	intel	Intel	grid.472840.d	http://www.intel.com/	http://en.wikipedia.org/wiki/Intel	54509	982465	2016-06-24
+224382143	16472	the explorers club	The Explorers Club	grid.479015.e	http://www.explorers.org/	http://en.wikipedia.org/wiki/The_Explorers_Club	14	10	2016-06-24
+150653062	12081	magna international	Magna International	grid.473166.1	http://www.magna.com/	http://en.wikipedia.org/wiki/Magna_International	569	4245	2016-06-24
+172510744	15673	ite college central	ITE College Central		http://central.ite.edu.sg/	http://en.wikipedia.org/wiki/ITE_College_Central	20	133	2016-06-24
+2802394909	17381	australia council for the arts	Australia Council for the Arts	grid.454048.9		https://en.wikipedia.org/wiki/Australia_Council_for_the_Arts	5	13	2018-05-17
+2802350677	16025	wilbur wright college	Wilbur Wright College	grid.443944.a		https://en.wikipedia.org/wiki/Wilbur_Wright_College	16	67	2018-05-17
+916048824	12304	hunan first normal university	Hunan First Normal University		http://www.hnfnu.edu.cn/	http://en.wikipedia.org/wiki/Hunan_First_Normal_University	879	931	2016-06-24
+46763700	14681	nova chemicals	Nova Chemicals	grid.292803.2	http://www.novachemicals.com/	http://en.wikipedia.org/wiki/Nova_Chemicals	61	336	2016-06-24
+176933996	14879	interdenominational theological center	Interdenominational Theological Center	grid.465672.4	http://www.itc.edu/	http://en.wikipedia.org/wiki/Interdenominational_Theological_Center	59	152	2016-06-24
+55215948	10752	tata consultancy services	Tata Consultancy Services	grid.452790.d	http://www.tcs.com/	http://en.wikipedia.org/wiki/Tata_Consultancy_Services	3034	15567	2016-06-24
+869089601	12914	netflix	Netflix		https://www.netflix.com/	http://en.wikipedia.org/wiki/Netflix	269	2809	2016-06-24
+114960800	17517	erl	ERL			http://en.wikipedia.org/wiki/ERL_(automobile_manufacturer)	4	22	2016-06-24
+206681638	15330	national council of teachers of english	National Council of Teachers of English		http://www.ncte.org/	http://en.wikipedia.org/wiki/National_Council_of_Teachers_of_English	36	116	2016-06-24
+214307087	14316	touro university college of medicine	Touro University College of Medicine		https://web.archive.org/web/20080131163158/http://www.touromed.touro.edu/	http://en.wikipedia.org/wiki/Touro_University_College_of_Medicine	25	963	2016-06-24
+167833397	15332	triton college	Triton College	grid.421863.a	http://www.triton.edu/	http://en.wikipedia.org/wiki/Triton_College	30	245	2016-06-24
+176922709	13652	molloy college	Molloy College	grid.419950.0	http://www.molloy.edu/	http://en.wikipedia.org/wiki/Molloy_College	197	838	2016-06-24
+169864488	12436	abubakar tafawa balewa university	Abubakar Tafawa Balewa University	grid.411092.f	http://www.atbu.edu.ng/	http://en.wikipedia.org/wiki/Abubakar_Tafawa_Balewa_University	602	2985	2016-06-24
+1313323035	6177	russian academy of sciences	Russian Academy of Sciences	grid.4886.2	http://www.ras.ru/	http://en.wikipedia.org/wiki/Russian_Academy_of_Sciences	267795	1769098	2016-06-24
+1295943188	17422	brooklyn children s museum	Brooklyn Children's Museum	grid.423207.0	http://www.brooklynkids.org/	http://en.wikipedia.org/wiki/Brooklyn_Children's_Museum	5	8	2016-06-24
+264750291	16181	hamdard university bangladesh	Hamdard University Bangladesh	grid.448966.1	http://hamdarduniversity.edu.bd/	http://en.wikipedia.org/wiki/Hamdard_University_Bangladesh	19	9	2016-06-24
+1298563314	14113	actionaid	ActionAid	grid.479116.c	http://www.actionaid.org/	http://en.wikipedia.org/wiki/ActionAid	73	981	2016-06-24
+53979717	12649	hawaiian sugar planters association	Hawaiian Sugar Planters' Association		http://www.harc-hspa.com/	http://en.wikipedia.org/wiki/Hawaiian_Sugar_Planters'_Association	206	4287	2016-06-24
+2802058688	14757	russian academy of architecture and construction sciences	Russian Academy of Architecture and Construction Sciences	grid.483594.7		https://en.wikipedia.org/wiki/Russian_Academy_of_Architecture_and_Construction_Sciences	78	29	2018-05-17
+203914989	13335	yamazaki mazak corporation	Yamazaki Mazak Corporation		https://www.mazak.com/	http://en.wikipedia.org/wiki/Yamazaki_Mazak_Corporation	191	1085	2016-06-24
+145697608	15203	yamaha motor company	Yamaha Motor Company		http://global.yamaha-motor.com/	http://en.wikipedia.org/wiki/Yamaha_Motor_Company	22	152	2016-06-24
+107098906	10507	alternatives	Alternatives		http://www.alternatives.ca/	http://en.wikipedia.org/wiki/Alternatives	2922	20826	2016-06-24
+2799759799	15185	foreign agricultural service	Foreign Agricultural Service	grid.483011.f		https://en.wikipedia.org/wiki/Foreign_Agricultural_Service	37	180	2018-05-17
+1325642587	14070	the wildlife society	The Wildlife Society		http://www.wildlife.org/	http://en.wikipedia.org/wiki/The_Wildlife_Society	58	1009	2016-06-24
+1293555014	13314	islamic azad university of tabriz	Islamic Azad University of Tabriz	grid.459617.8			297	765	2016-06-24
+2802369246	18322	nash community college	Nash Community College	grid.462627.3		https://en.wikipedia.org/wiki/Nash_Community_College	2	7	2018-05-17
+1301758268	16348	society of antiquaries of london	Society of Antiquaries of London		http://www.sal.org.uk/	http://en.wikipedia.org/wiki/Society_of_Antiquaries_of_London	13	32	2016-06-24
+83335382	14809	royal norwegian council for scientific and industrial research	Royal Norwegian Council for Scientific and Industrial Research			http://en.wikipedia.org/wiki/Royal_Norwegian_Council_for_Scientific_and_Industrial_Research	23	336	2016-06-24
+1313416372	8137	united states forest service	United States Forest Service	grid.472551.0	http://www.fs.fed.us/	http://en.wikipedia.org/wiki/United_States_Forest_Service	15554	499302	2016-06-24
+885209872	17300	bank of central african states	Bank of Central African States		http://www.beac.int/	http://en.wikipedia.org/wiki/Bank_of_Central_African_States	6	7	2016-06-24
+2800961874	19151	united states military entrance processing command	United States Military Entrance Processing Command	grid.420320.7		https://en.wikipedia.org/wiki/United_States_Military_Entrance_Processing_Command	1	0	2018-05-17
+224661542	15705	opet	OPET		http://www.opet.com.tr/	http://en.wikipedia.org/wiki/OPET	28	56	2016-06-24
+1305893487	15175	indian ministry of labour and employment	Indian Ministry of Labour and Employment		http://labour.gov.in/	http://en.wikipedia.org/wiki/Ministry_of_Labour_and_Employment_(India)	36	203	2016-06-24
+60559429	11430	nazarbayev university	Nazarbayev University	grid.428191.7	http://nu.edu.kz/	http://en.wikipedia.org/wiki/Nazarbayev_University	1848	6407	2016-06-24
+1339191578	10500	dornier flugzeugwerke	Dornier Flugzeugwerke	grid.44705.32	http://www.eads.com/eads/int/en.html	http://en.wikipedia.org/wiki/Dornier_Flugzeugwerke	2998	18244	2016-06-24
+72373871	13171	achva academic college	Achva Academic College	grid.443007.4	http://www.achva.ac.il/	http://en.wikipedia.org/wiki/Achva_Academic_College	240	2576	2016-06-24
+1287240670	11606	food and environment research agency	Food and Environment Research Agency	grid.470556.5	http://www.fera.co.uk/	http://en.wikipedia.org/wiki/Fera_Science	764	15481	2016-06-24
+180740530	13060	national committee for quality assurance	National Committee for Quality Assurance	grid.422207.1	http://www.ncqa.org/	http://en.wikipedia.org/wiki/National_Committee_for_Quality_Assurance	110	2503	2016-06-24
+878975991	16533	czech radio	Czech Radio	grid.485072.c	http://www.rozhlas.cz/	http://en.wikipedia.org/wiki/Czech_Radio	11	42	2016-06-24
+70865968	13747	rhine waal university of applied sciences	Rhine-Waal University of Applied Sciences	grid.449481.4	http://www.hochschule-rhein-waal.de/en	http://en.wikipedia.org/wiki/Rhine-Waal_University_of_Applied_Sciences	171	897	2016-06-24
+35870678	11284	university of northampton	University of Northampton	grid.44870.3f	http://www.northampton.ac.uk/	http://en.wikipedia.org/wiki/University_of_Northampton	1600	16395	2016-06-24
+921326330	15268	dubuque theological seminary	Dubuque Theological Seminary		http://udts.dbq.edu/	http://en.wikipedia.org/wiki/Dubuque_Theological_Seminary	46	36	2016-06-24
+75410023	16761	st clair county community college	St. Clair County Community College	grid.431477.2	http://www.sc4.edu/	http://en.wikipedia.org/wiki/St._Clair_County_Community_College	8	29	2016-06-24
+2800082882	18337	confederated tribes of siletz indians	Confederated Tribes of Siletz Indians	grid.467656.0		https://en.wikipedia.org/wiki/Confederated_Tribes_of_Siletz_Indians	2	4	2018-05-17
+2800698854	11935	hospital de base	Hospital de Base	grid.414433.5		https://en.wikipedia.org/wiki/Hospital_de_Base	793	6712	2018-05-17
+157913058	11032	generalitat of catalonia	Generalitat of Catalonia		http://www.gencat.cat/index_eng.htm	http://en.wikipedia.org/wiki/Generalitat_de_Catalunya	1708	23175	2016-06-24
+32467609	10895	merrill lynch	Merrill Lynch		http://www.ml.com/	http://en.wikipedia.org/wiki/Merrill_Lynch	363	18846	2016-06-24
+1339417872	10234	wadsworth center	Wadsworth Center	grid.465543.5	http://www.wadsworth.org/	http://en.wikipedia.org/wiki/Wadsworth_Center	1158	61195	2016-06-24
+62257733	14524	lugansk state medical university	Lugansk State Medical University	grid.445804.9	http://lsmu.edu.ua/	http://en.wikipedia.org/wiki/Lugansk_State_Medical_University	97	83	2016-06-24
+1302135459	12152	paypal	PayPal	grid.480323.e	https://www.paypal.com/	http://en.wikipedia.org/wiki/PayPal	699	4945	2016-06-24
+2800600548	9801	aberdeen royal infirmary	Aberdeen Royal Infirmary	grid.417581.e		https://en.wikipedia.org/wiki/Aberdeen_Royal_Infirmary	3532	75444	2018-05-17
+2801851194	14351	cincinnati museum center	Cincinnati Museum Center	grid.421209.c		https://en.wikipedia.org/wiki/Cincinnati_Museum_Center_at_Union_Terminal	55	870	2018-05-17
+1321305853	6994	national bureau of economic research	National Bureau of Economic Research	grid.250279.b	http://www.nber.org/	http://en.wikipedia.org/wiki/National_Bureau_of_Economic_Research	19359	1787793	2016-06-24
+53497360	15486	bank of uganda	Bank of Uganda		http://www.bou.or.ug/	http://en.wikipedia.org/wiki/Bank_of_Uganda	30	129	2016-06-24
+27429435	9257	kyoto institute of technology	Kyoto Institute of Technology	grid.419025.b	http://www.kit.ac.jp/english/	http://en.wikipedia.org/wiki/Kyoto_Institute_of_Technology	10714	107830	2016-06-24
+142171552	15971	ranaghat college	Ranaghat College		http://www.ranaghatcollege.org.in/	http://en.wikipedia.org/wiki/Ranaghat_College	18	72	2016-06-24
+1301666793	11530	american enterprise institute	American Enterprise Institute	grid.417956.8	http://www.aei.org/	http://en.wikipedia.org/wiki/American_Enterprise_Institute	836	12417	2016-06-24
+2800772125	11147	denver federal center	Denver Federal Center	grid.417819.2		https://en.wikipedia.org/wiki/Denver_Federal_Center	590	24897	2018-05-17
+189290911	13727	chungshan institute of science and technology	Chungshan Institute of Science and Technology	grid.453340.5	http://www.ncsist.org.tw/eng	http://en.wikipedia.org/wiki/National_Chung-Shan_Institute_of_Science_and_Technology	126	1112	2016-06-24
+130009713	11588	suez university	Suez University	grid.430657.3	http://suezuniv.edu.eg/	http://en.wikipedia.org/wiki/Suez_University	640	4239	2016-06-24
+199525922	12943	national institutes of natural sciences japan	National Institutes of Natural Sciences, Japan	grid.250358.9	http://www.nins.jp/english/	http://en.wikipedia.org/wiki/National_Institutes_of_Natural_Sciences,_Japan	252	3184	2016-06-24
+2801301940	15984	bank of sweden tercentenary foundation	Bank of Sweden Tercentenary Foundation	grid.454174.7		https://en.wikipedia.org/wiki/Bank_of_Sweden_Tercentenary_Foundation	10	99	2018-05-17
+2802014537	16203	law and society association	Law and Society Association	grid.420834.9		https://en.wikipedia.org/wiki/Law_and_Society_Association	9	154	2018-05-17
+71305448	10520	voronezh state university	Voronezh State University	grid.20567.36	http://www.vsu.ru/	http://en.wikipedia.org/wiki/Voronezh_State_University	4477	14030	2016-06-24
+156456378	12765	american association of poison control centers	American Association of Poison Control Centers	grid.417930.8	http://www.aapcc.org/	http://en.wikipedia.org/wiki/American_Association_of_Poison_Control_Centers	47	4177	2016-06-24
+158123994	10358	toyo university	Toyo University	grid.265125.7	http://www.toyo.ac.jp/	http://en.wikipedia.org/wiki/Toyo_University	3864	30221	2016-06-24
+145294602	13812	wessex water	Wessex Water		http://www.wessexwater.co.uk/	http://en.wikipedia.org/wiki/Wessex_Water	94	1392	2016-06-24
+182712176	10818	university of leoben	University of Leoben	grid.181790.6	http://www.unileoben.ac.at/index.php?id=2765&amp;L=1	http://en.wikipedia.org/wiki/University_of_Leoben	1803	30541	2016-06-24
+256606533	14168	hsba hamburg school of business administration	HSBA Hamburg School of Business Administration	grid.466309.e	http://www.hsba.de/en	http://en.wikipedia.org/wiki/HSBA_Hamburg_School_of_Business_Administration	87	924	2016-06-24
+182380053	12162	st louis college of pharmacy	St. Louis College of Pharmacy	grid.419579.7	http://www.stlcop.edu/	http://en.wikipedia.org/wiki/St._Louis_College_of_Pharmacy	497	6572	2016-06-24
+2800993576	16644	vodafone spain	Vodafone (Spain)	grid.424869.5		https://en.wikipedia.org/wiki/Vodafone_Spain	9	38	2018-05-17
+2799700698	16956	canadore college	Canadore College	grid.432759.e		https://en.wikipedia.org/wiki/Canadore_College	7	34	2018-05-17
+2799939529	17285	girl scouts of the usa	Girl Scouts of the USA	grid.426795.b		https://en.wikipedia.org/wiki/Girl_Scouts_of_the_USA	6	15	2018-05-17
+920498297	14910	pepco	Pepco		http://www.pepco.com/	http://en.wikipedia.org/wiki/Pepco	19	122	2016-06-24
+2800169628	11819	good samaritan medical center	Good Samaritan Medical Center	grid.413190.e		https://en.wikipedia.org/wiki/Good_Samaritan_Medical_Center_(West_Palm_Beach,_Florida)	528	10838	2018-05-17
+1288162130	9876	university of colorado hospital	University of Colorado Hospital	grid.413085.b	http://www.uchealth.org/	http://en.wikipedia.org/wiki/University_of_Colorado_Hospital	2201	83430	2016-06-24
+178846432	14347	shorter university	Shorter University	grid.422170.2	http://www.shorter.edu/	http://en.wikipedia.org/wiki/Shorter_University	82	525	2016-06-24
+109995039	14201	hanyang cyber university	Hanyang Cyber University	grid.461858.6	http://en.hycu.ac.kr/	http://en.wikipedia.org/wiki/Hanyang_Cyber_University	113	424	2016-06-24
+155320856	11988	national microbiology laboratory	National Microbiology Laboratory			http://en.wikipedia.org/wiki/National_Microbiology_Laboratory	270	7724	2016-06-24
+192972912	14258	rockford university	Rockford University	grid.437389.2	http://www.rockford.edu/	http://en.wikipedia.org/wiki/Rockford_University	91	561	2016-06-24
+2799949648	15063	central institution for meteorology and geodynamics	Central Institution for Meteorology and Geodynamics	grid.423520.2		https://en.wikipedia.org/wiki/Central_Institution_for_Meteorology_and_Geodynamics	43	128	2018-05-17
+70703428	9563	palacký university olomouc	Palacký University, Olomouc	grid.10979.36	http://www.upol.cz/en/	http://en.wikipedia.org/wiki/Palacký_University,_Olomouc	4558	65271	2016-06-24
+88453119	13857	istituto sperimentale per la zoologia agraria	Istituto Sperimentale per la Zoologia Agraria	grid.435874.9	http://www.isza.it/	http://en.wikipedia.org/wiki/Istituto_Sperimentale_per_la_Zoologia_Agraria	66	2082	2016-06-24
+119598438	10361	raman research institute	Raman Research Institute	grid.250595.e	http://www.rri.res.in/	http://en.wikipedia.org/wiki/Raman_Research_Institute	2583	34111	2016-06-24
+2799997674	19151	scottish storytelling centre	Scottish Storytelling Centre	grid.437919.1		https://en.wikipedia.org/wiki/Scottish_Storytelling_Centre	1	0	2018-05-17
+2800082925	16301	murambinda mission hospital	Murambinda Mission Hospital	grid.461569.9		https://en.wikipedia.org/wiki/Murambinda_Mission_Hospital	5	131	2018-05-17
+335284955	13573	foundation for liver research	Foundation for Liver Research	grid.479039.0	http://www.liver-research.org.uk/	http://en.wikipedia.org/wiki/Foundation_for_Liver_Research	118	1887	2016-06-24
+2800417724	18458	esperantic studies foundation	Esperantic Studies Foundation	grid.453116.4		https://en.wikipedia.org/wiki/Esperantic_Studies_Foundation	2	0	2018-05-17
+2801334344	16528	australian film television and radio school	Australian Film, Television and Radio School	grid.466485.d		https://en.wikipedia.org/wiki/Australian_Film,_Television_and_Radio_School	12	26	2018-05-17
+95553153	11970	finnish institute of marine research	Finnish Institute of Marine Research			http://en.wikipedia.org/wiki/Finnish_Institute_of_Marine_Research	368	12677	2016-06-24
+2800963090	18052	vatican secret archives	Vatican Secret Archives	grid.483282.7		https://en.wikipedia.org/wiki/Vatican_Secret_Archives	3	0	2018-05-17
+146436837	15537	tajik state pedagogical university	Tajik State Pedagogical University	grid.443551.2	http://www.tgpu.tj/	http://en.wikipedia.org/wiki/Tajik_State_Pedagogical_University	34	15	2016-06-24
+2801428152	17433	information and communication technology authority	Information and Communication Technology Authority	grid.463676.6		https://en.wikipedia.org/wiki/Information_and_Communication_Technology_Authority_(Kenya)	5	8	2018-05-17
+13268429	10319	madurai kamaraj university	Madurai Kamaraj University	grid.10214.36	http://www.mkuniversity.org/	http://en.wikipedia.org/wiki/Madurai_Kamaraj_University	4056	44303	2016-06-24
+107257983	10004	darmstadt university of applied sciences	Darmstadt University of Applied Sciences	grid.449026.d	http://www.h-da.de/	http://en.wikipedia.org/wiki/Darmstadt_University_of_Applied_Sciences	4414	42943	2016-06-24
+1335392276	16502	interac	Interac		https://www.interac.ca/	http://en.wikipedia.org/wiki/Interac	9	51	2016-06-24
+331344534	15317	nagasaki wesleyan university	Nagasaki Wesleyan University	grid.444369.8	http://www.wesleyan.ac.jp/	http://en.wikipedia.org/wiki/Nagasaki_Wesleyan_University	28	276	2016-06-24
+1293067938	8708	international institute of minnesota	International Institute of Minnesota		http://www.iimn.org/	http://en.wikipedia.org/wiki/International_Institute_of_Minnesota	12704	256111	2016-06-24
+2800345494	16407	san francisco museum of modern art	San Francisco Museum of Modern Art	grid.447394.9		https://en.wikipedia.org/wiki/San_Francisco_Museum_of_Modern_Art	13	32	2018-05-17
+79767729	10681	pontificia universidade catolica de campinas	Pontifícia Universidade Católica de Campinas	grid.442113.1	http://www.puc-campinas.edu.br/	http://en.wikipedia.org/wiki/Pontifical_Catholic_University_of_Campinas	3797	13131	2016-06-24
+2800784730	15340	post university	Post University	grid.441544.4		https://en.wikipedia.org/wiki/Post_University	34	171	2018-05-17
+86310350	11677	aswan university	Aswan University	grid.417764.7	http://www.aswu.edu.eg/	http://en.wikipedia.org/wiki/Aswan_University	1058	4882	2016-06-24
+87162078	15677	the institute for clinical social work	The Institute for Clinical Social Work		http://www.icsw.edu/	http://en.wikipedia.org/wiki/Institute_for_Clinical_Social_Work	29	48	2016-06-24
+2803097894	16036	christus health	Christus Health	grid.419650.f		https://en.wikipedia.org/wiki/CHRISTUS_Health	16	86	2018-05-17
+129587102	14828	orissa engineering college	Orissa Engineering College		http://www.oec.ac.in/	http://en.wikipedia.org/wiki/Orissa_Engineering_College	63	173	2016-06-24
+2802616447	19151	petroleum conservation research association	Petroleum Conservation Research Association	grid.481032.c		https://en.wikipedia.org/wiki/Petroleum_Conservation_Research_Association	1	0	2018-05-17
+246906079	16262	abacus consulting	Abacus Consulting		http://www.abacus-global.com/	http://en.wikipedia.org/wiki/Abacus_Consulting	5	191	2016-06-24
+2801588297	16847	athens technical college	Athens Technical College	grid.431899.e		https://en.wikipedia.org/wiki/Athens_Technical_College	8	37	2018-05-17
+45571853	14120	yashoda hospitals	Yashoda Hospitals		https://www.yashodahospitals.com/	http://en.wikipedia.org/wiki/Yashoda_Hospitals	131	311	2016-06-24
+2800852415	16403	dalberg global development advisors	Dalberg Global Development Advisors	grid.479192.0		https://en.wikipedia.org/wiki/Dalberg_Global_Development_Advisors	13	22	2018-05-17
+58473710	12586	british railways board	British Railways Board			http://en.wikipedia.org/wiki/British_Railways_Board	259	2181	2016-06-24
+97291115	14570	ensco plc	Ensco plc		http://www.enscoplc.com/	http://en.wikipedia.org/wiki/Ensco_plc	59	323	2016-06-24
+54316950	13422	university of jendouba	University of Jendouba	grid.442518.e	http://www.uj.rnu.tn/	http://en.wikipedia.org/wiki/University_of_Jendouba	264	878	2016-06-24
+91339672	12730	arthur andersen	Arthur Andersen		http://www.qcenter.com/	http://en.wikipedia.org/wiki/Arthur_Andersen	243	3660	2016-06-24
+2799521863	10941	social insurance institution	Social Insurance Institution	grid.460437.2		https://en.wikipedia.org/wiki/Kela_(Finnish_institution)	859	29989	2018-05-17
+1313603282	12496	gavi alliance	GAVI Alliance	grid.452434.0	http://www.gavi.org/	http://en.wikipedia.org/wiki/Gavi,_the_Vaccine_Alliance	49	1219	2016-06-24
+51434173	12214	institute of economics academia sinica	Institute of Economics, Academia Sinica			http://en.wikipedia.org/wiki/Institute_of_Economics,_Academia_Sinica	493	7172	2016-06-24
+130847708	14389	divine word university	Divine Word University	grid.449086.7	http://www.dwu.ac.pg/	http://en.wikipedia.org/wiki/Divine_Word_University	57	673	2016-06-24
+68673971	13456	taoyuan innovation institute of technology	Taoyuan Innovation Institute of Technology		http://web.tiit.edu.tw/english/style01/e01.asp	http://en.wikipedia.org/wiki/Taoyuan_Innovation_Institute_of_Technology	231	1087	2016-06-24
+74613187	12871	kamaraj college of engineering and technology	Kamaraj College of Engineering and Technology		http://www.kcetvnr.org/	http://en.wikipedia.org/wiki/Kamaraj_College_of_Engineering_and_Technology	381	2534	2016-06-24
+143860126	14087	university of dubuque	University of Dubuque	grid.266259.c	http://www.dbq.edu/	http://en.wikipedia.org/wiki/University_of_Dubuque	116	502	2016-06-24
+276820968	15961	j b institute of engineering and technology	J. B. Institute of Engineering and Technology		http://www.jbiet.edu.in/	http://en.wikipedia.org/wiki/J._B._Institute_of_Engineering_and_Technology	23	15	2016-06-24
+158858619	10246	alza	Alza			http://en.wikipedia.org/wiki/ALZA	1595	71861	2016-06-24
+877107980	11254	mackenzie investments	Mackenzie Investments		http://www.mackenzieinvestments.com/	http://en.wikipedia.org/wiki/Mackenzie_Investments	1383	12817	2016-06-24
+167694869	10179	bu ali sina university	Bu-Ali Sina University	grid.411807.b	http://www.basu.ac.ir/	http://en.wikipedia.org/wiki/Bu-Ali_Sina_University	4958	52368	2016-06-24
+926810776	14363	united states chess federation	United States Chess Federation		http://www.uschess.org/	http://en.wikipedia.org/wiki/United_States_Chess_Federation	65	615	2016-06-24
+72530909	14183	natura	Natura		http://www.natura.com.br/	http://en.wikipedia.org/wiki/Natura	108	338	2016-06-24
+90725969	14439	aurecon	Aurecon		http://www.aurecongroup.com/	http://en.wikipedia.org/wiki/Aurecon	85	363	2016-06-24
+1320999837	15685	state space agency of ukraine	State Space Agency of Ukraine		http://www.nkau.gov.ua/	http://en.wikipedia.org/wiki/State_Space_Agency_of_Ukraine	27	44	2016-06-24
+4068193	7802	university of belgrade	University of Belgrade	grid.7149.b	http://www.bg.ac.rs/	http://en.wikipedia.org/wiki/University_of_Belgrade	31757	312639	2016-06-24
+2801388914	8633	southampton general hospital	Southampton General Hospital	grid.123047.3		https://en.wikipedia.org/wiki/Southampton_General_Hospital	7877	289121	2018-05-17
+2802162544	17795	northern gulf institute	Northern Gulf Institute	grid.468458.3		https://en.wikipedia.org/wiki/Northern_Gulf_Institute	2	15	2018-05-17
+119444248	15839	nkumba university	Nkumba University	grid.442622.4	http://www.nkumbauniversity.ac.ug/	http://en.wikipedia.org/wiki/Nkumba_University	26	26	2016-06-24
+172917736	9305	christian medical college hospital	Christian Medical College & Hospital	grid.11586.3b	http://www.cmch-vellore.edu/	http://en.wikipedia.org/wiki/Christian_Medical_College_&_Hospital	7603	83068	2016-06-24
+2801809033	15110	pakistan environmental protection agency	Pakistan Environmental Protection Agency	grid.494080.1		https://en.wikipedia.org/wiki/Pakistan_Environmental_Protection_Agency	6	641	2018-05-17
+9842412	8609	nanjing university of aeronautics and astronautics	Nanjing University of Aeronautics and Astronautics	grid.64938.30	http://www.nuaa.edu.cn/	http://en.wikipedia.org/wiki/Nanjing_University_of_Aeronautics_and_Astronautics	27828	138281	2016-06-24
+1298748095	14049	american meteorological society	American Meteorological Society	grid.296913.6	http://www.ametsoc.org/	http://en.wikipedia.org/wiki/American_Meteorological_Society	124	426	2016-06-24
+195165	11457	unitika ltd	Unitika Ltd.	grid.480398.e	http://www.unitika.co.jp/e/index.html	http://en.wikipedia.org/wiki/Unitika	757	9966	2016-06-24
+2890559060	19151	shri dharmasthala manjunatheswara college of ayurveda and hospital	Shri Dharmasthala Manjunatheswara College of Ayurveda and Hospital	grid.459968.f		https://en.wikipedia.org/wiki/Sri_Dharmasthala_Ayurvedic_college	1	0	2018-09-27
+19807155	13477	shanghai academy of spaceflight technology	Shanghai Academy of Spaceflight Technology				187	1329	2016-06-24
+124601658	8187	university of parma	University of Parma	grid.10383.39	http://www.unipr.it/	http://en.wikipedia.org/wiki/University_of_Parma	21350	452665	2016-06-24
+2801670068	19151	american society for photogrammetry and remote sensing	American Society for Photogrammetry and Remote Sensing	grid.432375.4		https://en.wikipedia.org/wiki/American_Society_for_Photogrammetry_and_Remote_Sensing	1	0	2018-05-17
+59272784	12224	arab academy for science technology maritime transport	Arab Academy for Science, Technology & Maritime Transport		http://www.aast.edu/	http://en.wikipedia.org/wiki/Arab_Academy_for_Science,_Technology_&_Maritime_Transport	852	2739	2016-06-24
+2802682181	17202	suny orange	SUNY Orange	grid.487762.8		https://en.wikipedia.org/wiki/SUNY_Orange	7	2	2018-05-17
+74624717	12890	akershus university college	Akershus University College			http://en.wikipedia.org/wiki/Akershus_University_College	168	5454	2016-06-24
+2801053747	12991	australian institute of tropical health and medicine	Australian Institute of Tropical Health and Medicine	grid.488664.0		https://en.wikipedia.org/wiki/Australian_Institute_of_Tropical_Health_and_Medicine	332	2101	2018-05-17
+2801016671	14698	bolan medical college	Bolan Medical College	grid.414533.4		https://en.wikipedia.org/wiki/Bolan_Medical_College	43	642	2018-05-17
+2799417728	16744	european inter university centre for human rights and democratisation	European Inter-University Centre for Human Rights and Democratisation	grid.466650.7		https://en.wikipedia.org/wiki/European_Inter-University_Centre_for_Human_Rights_and_Democratisation	11	1	2018-05-17
+36443711	11348	magna graecia university	Magna Græcia University	grid.411489.1	http://www.unicz.it/	http://en.wikipedia.org/wiki/Magna_Græcia_University	1266	17571	2016-06-24
+1310012087	14544	royal statistical society	Royal Statistical Society		http://rss.org.uk/	http://en.wikipedia.org/wiki/Royal_Statistical_Society	89	114	2016-06-24
+1323896637	15266	cenex	Cenex		http://www.cenex.co.uk/	http://en.wikipedia.org/wiki/Cenex	22	202	2016-06-24
+70160889	14650	mikkeli university of applied sciences	Mikkeli University of Applied Sciences		http://www.mamk.fi/	http://en.wikipedia.org/wiki/Mikkeli_University_of_Applied_Sciences	66	371	2016-06-24
+145610796	10189	southern university and a m college	Southern University and A&M College	grid.263880.7	http://www.subr.edu/	http://en.wikipedia.org/wiki/Southern_University	2118	32924	2016-06-24
+190930483	9554	kyorin university	Kyorin University	grid.411205.3	http://www.kyorin-u.ac.jp/English/	http://en.wikipedia.org/wiki/Kyorin_University	5382	95559	2016-06-24
+151934421	10184	university of northern british columbia	University of Northern British Columbia	grid.266876.b	http://www.unbc.ca/	http://en.wikipedia.org/wiki/University_of_Northern_British_Columbia	3454	57281	2016-06-24
+2799279645	11183	chapel allerton hospital	Chapel Allerton Hospital	grid.413818.7		https://en.wikipedia.org/wiki/Chapel_Allerton_Hospital	719	20583	2018-05-17
+2802247371	17189	professional assistance for development action	Professional Assistance for Development Action	grid.479525.8		https://en.wikipedia.org/wiki/PRADAN	6	13	2018-05-17
+1341215271	14484	pesticides safety directorate	Pesticides Safety Directorate			http://en.wikipedia.org/wiki/Pesticides_Safety_Directorate	42	698	2016-06-24
+1289184318	16813	academia argentina de letras	Academia Argentina de Letras		http://www.aal.edu.ar/	http://en.wikipedia.org/wiki/Academia_Argentina_de_Letras	10	6	2016-06-24
+124113063	11042	university of scranton	University of Scranton	grid.267131.0	http://www.scranton.edu/	http://en.wikipedia.org/wiki/University_of_Scranton	1676	22253	2016-06-24
+1286561144	14835	american philosophical society	American Philosophical Society	grid.428194.2	https://amphilsoc.org/	http://en.wikipedia.org/wiki/American_Philosophical_Society	58	193	2016-06-24
+176714629	12346	bell canada	Bell Canada	grid.410432.0	https://www.bell.ca/	http://en.wikipedia.org/wiki/Bell_Canada	293	3940	2016-06-24
+283776267	11881	clatterbridge cancer centre nhs foundation trust	Clatterbridge Cancer Centre NHS Foundation Trust	grid.418624.d	http://www.clatterbridgecc.nhs.uk/	http://en.wikipedia.org/wiki/Clatterbridge_Cancer_Centre_NHS_Foundation_Trust	541	8825	2016-06-24
+2800244395	16067	tertiary education commission	Tertiary Education Commission	grid.467643.4		https://en.wikipedia.org/wiki/Tertiary_education_in_New_Zealand	12	134	2018-05-17
+2800681035	15952	norfolk public schools	Norfolk Public Schools	grid.472648.b		https://en.wikipedia.org/wiki/Norfolk_Public_Schools	17	127	2018-05-17
+294755765	15710	international turkmen turkish university	International Turkmen-Turkish University	grid.444352.0		http://en.wikipedia.org/wiki/International_Turkmen-Turkish_University	20	157	2016-06-24
+8975392	9840	osmania university	Osmania University	grid.412419.b	http://www.osmania.ac.in/	http://en.wikipedia.org/wiki/Osmania_University	6953	55274	2016-06-24
+2802231754	14556	nalsar university of law	Nalsar University of Law	grid.444450.5		https://en.wikipedia.org/wiki/Nalsar_University_of_Law	96	38	2018-05-17
+2800804238	13366	fraunhofer institute for open communication systems	Fraunhofer Institute for Open Communication Systems	grid.469837.7		https://en.wikipedia.org/wiki/Fraunhofer_Institute_for_Open_Communication_Systems	193	1175	2018-05-17
+217738364	15786	girijananda chowdhury institute of management and technology	Girijananda Chowdhury Institute of Management and Technology		http://www.gimt-guwahati.ac.in/	http://en.wikipedia.org/wiki/Girijananda_Chowdhury_Institute_of_Management_and_Technology	27	32	2016-06-24
+178098764	8913	brother industries	Brother Industries	grid.471175.1	http://www.brother.com/	http://en.wikipedia.org/wiki/Brother_Industries	9883	110478	2016-06-24
+2801076334	13690	chester zoo	Chester Zoo	grid.452232.0		https://en.wikipedia.org/wiki/Chester_Zoo	121	1300	2018-05-17
+245417339	17449	vodafone germany	Vodafone Germany	grid.424801.b	http://www.vodafone.de/	http://en.wikipedia.org/wiki/Vodafone_Germany	5	1	2016-06-24
+2802433978	14078	pliva croatia	Pliva (Croatia)	grid.476561.7		https://en.wikipedia.org/wiki/Pliva	109	642	2018-05-17
+1319171921	12369	national measurement institute	National Measurement Institute	grid.418177.c	http://www.measurement.gov.au/	http://en.wikipedia.org/wiki/National_Measurement_Institute,_Australia	429	5813	2016-06-24
+158522022	13799	tuv sud	TÜV SÜD		http://www.tuv-sud.com/	http://en.wikipedia.org/wiki/TÜV_SÜD	146	566	2016-06-24
+2800436618	18201	nicolet area technical college	Nicolet Area Technical College	grid.462636.3		https://en.wikipedia.org/wiki/Nicolet_Area_Technical_College	2	8	2018-05-17
+869467088	13473	kimep university	KIMEP University	grid.443466.7	http://www.kimep.kz/	http://en.wikipedia.org/wiki/KIMEP_University	227	1189	2016-06-24
+2800785840	14748	library of parliament	Library of Parliament	grid.462491.c		https://en.wikipedia.org/wiki/Library_of_Parliament	26	730	2018-05-17
+142069970	13791	western australian institute of sport	Western Australian Institute of Sport			http://en.wikipedia.org/wiki/Western_Australian_Institute_of_Sport	78	2221	2016-06-24
+246010334	12996	kore university of enna	Kore University of Enna	grid.440863.d	http://www.unikore.it/	http://en.wikipedia.org/wiki/Kore_University_of_Enna	309	2513	2016-06-24
+53560885	9787	areva	Areva	grid.436096.e	http://de.areva.com/	http://en.wikipedia.org/wiki/Areva	6481	36284	2016-06-24
+2800191209	10867	pennsylvania hospital	Pennsylvania Hospital	grid.417219.8		https://en.wikipedia.org/wiki/Pennsylvania_Hospital	1314	28961	2018-05-17
+98647062	10258	clariant	Clariant	grid.482805.3	http://www.clariant.com/	http://en.wikipedia.org/wiki/Clariant	4480	26539	2016-06-24
+72689128	13348	aino university	Aino University	grid.448610.f	http://univ.aino.ac.jp/	http://en.wikipedia.org/wiki/Aino_University	156	2541	2016-06-24
+2800879674	16558	society for industrial and applied mathematics	Society for Industrial and Applied Mathematics	grid.294116.9		https://en.wikipedia.org/wiki/Society_for_Industrial_and_Applied_Mathematics	5	130	2018-05-17
+14116566	10717	wuhan polytechnic university	Wuhan Polytechnic University	grid.412969.1	http://www.whpu.edu.cn/	http://en.wikipedia.org/wiki/Wuhan_Polytechnic_University	3927	11091	2016-06-24
+1331142282	9934	royal women s hospital	Royal Women's Hospital	grid.416259.d	http://www.thewomens.org.au/	http://en.wikipedia.org/wiki/Royal_Women's_Hospital	3437	77248	2016-06-24
+116132077	14517	indian institute of crop processing technology	Indian Institute of Crop Processing Technology		http://www.iifpt.edu.in/	http://en.wikipedia.org/wiki/Indian_Institute_of_Crop_Processing_Technology	75	499	2016-06-24
+2801238529	18931	james sprunt community college	James Sprunt Community College	grid.447118.f		https://en.wikipedia.org/wiki/James_Sprunt_Community_College	1	5	2018-05-17
+2800917498	15894	new college of the humanities	New College of the Humanities	grid.462656.5		https://en.wikipedia.org/wiki/New_College_of_the_Humanities	25	17	2018-05-17
+72816309	7290	drexel university	Drexel University	grid.166341.7	http://www.drexel.edu/	http://en.wikipedia.org/wiki/Drexel_University	40603	978077	2016-06-24
+1336338359	14544	department of national defence	Department of National Defence	grid.461959.6	http://www.dnd.ca/	http://en.wikipedia.org/wiki/Department_of_National_Defence_(Canada)	60	432	2016-06-24
+172054892	15911	eastern mennonite seminary	Eastern Mennonite Seminary		http://www.emu.edu/seminary/	http://en.wikipedia.org/wiki/Eastern_Mennonite_Seminary	24	18	2016-06-24
+141301092	10105	china meteorological administration	China Meteorological Administration	grid.8658.3	http://www.cma.gov.cn/	http://en.wikipedia.org/wiki/China_Meteorological_Administration	4485	49955	2016-06-24
+2800331022	17320	shalamar hospital	Shalamar Hospital	grid.460995.7		https://en.wikipedia.org/wiki/Shalamar_Hospital	6	6	2018-05-17
+189273616	9481	rosalind franklin university of medicine and science	Rosalind Franklin University of Medicine and Science	grid.262641.5	https://www.rosalindfranklin.edu/	http://en.wikipedia.org/wiki/Rosalind_Franklin_University_of_Medicine_and_Science	4956	127344	2016-06-24
+93352707	11716	roche applied science	Roche Applied Science		http://www.roche-applied-science.com/	http://en.wikipedia.org/wiki/Roche_Applied_Science	59	8262	2016-06-24
+67751107	13720	ilc dover	ILC Dover	grid.486984.f	http://www.ilcdover.com/	http://en.wikipedia.org/wiki/ILC_Dover	104	906	2016-06-24
+2800419323	10663	princess margaret hospital for children	Princess Margaret Hospital for Children	grid.410667.2		https://en.wikipedia.org/wiki/Princess_Margaret_Hospital_for_Children	1695	33497	2018-05-17
+100191712	10163	pepperdine university	Pepperdine University	grid.261833.d	http://www.pepperdine.edu/	http://en.wikipedia.org/wiki/Pepperdine_University	4947	37915	2016-06-24
+1281539108	8999	hospital for special surgery	Hospital for Special Surgery	grid.239915.5	http://www.hss.edu/	http://en.wikipedia.org/wiki/Hospital_for_Special_Surgery	7865	226794	2016-06-24
+1310729568	11331	deaconess hospital	Deaconess Hospital	grid.413549.e	https://www.multicare.org/deaconess-hospital/	http://en.wikipedia.org/wiki/Deaconess_Hospital_(Spokane,_Washington)	678	20023	2016-06-24
+75632865	11481	ussr academy of medical sciences	USSR Academy of Medical Sciences			http://en.wikipedia.org/wiki/USSR_Academy_of_Medical_Sciences	797	14166	2016-06-24
+21881038	9846	bogor agricultural university	Bogor Agricultural University	grid.440754.6	http://www.ipb.ac.id/	http://en.wikipedia.org/wiki/Bogor_Agricultural_University	9167	22773	2016-06-24
+2801173708	17783	society of health and physical educators	Society of Health and Physical Educators	grid.478169.5		https://en.wikipedia.org/wiki/SHAPE_America	3	15	2018-05-17
+2801756270	17328	north atlantic salmon conservation organization	North Atlantic Salmon Conservation Organization	grid.494257.9		https://en.wikipedia.org/wiki/North_Atlantic_Salmon_Conservation_Organization	5	21	2018-05-17
+42633754	15881	basingstoke college of technology	Basingstoke College of Technology		http://www.bcot.ac.uk/	http://en.wikipedia.org/wiki/Basingstoke_College_of_Technology	21	63	2016-06-24
+2800771162	19151	fairbanks museum and planetarium	Fairbanks Museum and Planetarium	grid.446759.d		https://en.wikipedia.org/wiki/Fairbanks_Museum_and_Planetarium	1	0	2018-05-17
+42852656	10894	shenyang university	Shenyang University	grid.412562.6	http://www.syu.edu.cn/	http://en.wikipedia.org/wiki/Shenyang_University	3486	5279	2016-06-24
+2802330085	15555	london borough of lewisham	London Borough Of Lewisham	grid.468081.3		https://en.wikipedia.org/wiki/London_Borough_of_Lewisham	15	282	2018-05-17
+63640472	14892	companhia siderurgica nacional	Companhia Siderúrgica Nacional		http://www.csn.com.br/	http://en.wikipedia.org/wiki/Companhia_Siderúrgica_Nacional	55	200	2016-06-24
+79209787	13149	salisbury nhs foundation trust	Salisbury NHS Foundation Trust	grid.419439.2	http://www.salisbury.nhs.uk/Pages/home.aspx	http://en.wikipedia.org/wiki/Salisbury_NHS_Foundation_Trust	157	1791	2016-06-24
+2800308357	19002	schlow centre region library	Schlow Centre Region Library	grid.473483.f		https://en.wikipedia.org/wiki/Schlow_Centre_Region_Library	1	2	2018-05-17
+136150977	10482	te connectivity	TE Connectivity	grid.481964.6	http://www.te.com/	http://en.wikipedia.org/wiki/TE_Connectivity	2687	26253	2016-06-24
+2801263446	18599	canadian federation of humane societies	Canadian Federation of Humane Societies	grid.450519.c		https://en.wikipedia.org/wiki/Canadian_Federation_of_Humane_Societies	1	14	2018-05-17
+69416788	12059	south african institute for aquatic biodiversity	South African Institute for Aquatic Biodiversity		http://www.saiab.ac.za/	http://en.wikipedia.org/wiki/South_African_Institute_for_Aquatic_Biodiversity	589	8415	2016-06-24
+171851574	11913	ramapo college	Ramapo College	grid.418922.4	http://www.ramapo.edu/	http://en.wikipedia.org/wiki/Ramapo_College	874	7021	2016-06-24
+77566578	9744	united microelectronics corporation	United Microelectronics Corporation	grid.481779.4	http://www.umc.com/	http://en.wikipedia.org/wiki/United_Microelectronics_Corporation	5062	44352	2016-06-24
+194348271	11511	government college university faisalabad	Government College University, Faisalabad	grid.411786.d	http://gcuf.edu.pk/	http://en.wikipedia.org/wiki/Government_College_University_(Faisalabad)	1484	10634	2016-06-24
+1282691321	15009	national library board	National Library Board	grid.462574.6	http://www.nlb.gov.sg/	http://en.wikipedia.org/wiki/National_Library_Board	38	299	2016-06-24
+2800405606	16102	piraeus bank	Piraeus Bank	grid.435260.6		https://en.wikipedia.org/wiki/Piraeus_Bank	13	186	2018-05-17
+70749802	14973	royal pharmaceutical society of great britain	Royal Pharmaceutical Society of Great Britain			http://en.wikipedia.org/wiki/Royal_Pharmaceutical_Society_of_Great_Britain	38	278	2016-06-24
+150282011	15661	americans for medical advancement	Americans For Medical Advancement			http://en.wikipedia.org/wiki/Americans_For_Medical_Advancement	11	327	2016-06-24
+1291466424	17239	insurance information institute	Insurance Information Institute		http://www.iii.org/	http://en.wikipedia.org/wiki/Insurance_Information_Institute	6	19	2016-06-24
+903604750	9995	mcmaster carr	McMaster-Carr		http://www.mcmaster.com/	http://en.wikipedia.org/wiki/McMaster-Carr	2316	68102	2016-06-24
+2799668691	17702	dunwoody college of technology	Dunwoody College of Technology	grid.468805.7		https://en.wikipedia.org/wiki/Dunwoody_College_of_Technology	4	6	2018-05-17
+33999463	11813	melbourne institute of technology	Melbourne Institute of Technology		http://www.mit.edu.au/	http://en.wikipedia.org/wiki/Melbourne_Institute_of_Technology	522	8790	2016-06-24
+2802911365	17743	humber bridge board	Humber Bridge Board	grid.435114.6		https://en.wikipedia.org/wiki/Humber_Bridge	2	22	2018-05-17
+2801317890	17977	piraeus port authority	Piraeus Port Authority	grid.425533.6		https://en.wikipedia.org/wiki/Port_of_Piraeus	3	3	2018-05-17
+2799810409	8824	hospital of the university of pennsylvania	Hospital of the University of Pennsylvania	grid.411115.1		https://en.wikipedia.org/wiki/Hospital_of_the_University_of_Pennsylvania	9054	210143	2018-05-17
+60638368	11092	covance	Covance	grid.469910.3	http://www.covance.com/	http://en.wikipedia.org/wiki/Covance	1112	22308	2016-06-24
+2802790207	19020	legacy meridian park medical center	Legacy Meridian Park Medical Center	grid.490292.4		https://en.wikipedia.org/wiki/Legacy_Meridian_Park_Medical_Center	1	4	2018-05-17
+131651094	8472	university of denver	University of Denver	grid.266239.a	http://www.du.edu/	http://en.wikipedia.org/wiki/University_of_Denver	11580	256951	2016-06-24
+78663439	12024	institute of chartered financial analysts of india	Institute of Chartered Financial Analysts of India	grid.444755.3	http://www.icfaiuniversity.in/	http://en.wikipedia.org/wiki/Institute_of_Chartered_Financial_Analysts_of_India	1053	3570	2016-06-24
+115849699	13901	kobe design university	Kobe Design University	grid.272605.4	http://www.kobe-du.ac.jp/	http://en.wikipedia.org/wiki/Kobe_Design_University	125	870	2016-06-24
+159165171	13392	hokkaido information university	Hokkaido Information University	grid.440878.7	http://www.do-johodai.ac.jp/	http://en.wikipedia.org/wiki/Hokkaido_Information_University	200	1446	2016-06-24
+94305156	16347	indian academy of sciences	Indian Academy of Sciences		http://www.ias.ac.in/	http://en.wikipedia.org/wiki/Indian_Academy_of_Sciences	16	9	2016-06-24
+55464072	10561	metropolitan university	Metropolitan University	grid.265544.4	http://www.suagm.edu/umet	http://en.wikipedia.org/wiki/Metropolitan_University_(Puerto_Rico)	2493	15912	2016-06-24
+174836887	14489	university of maine at machias	University of Maine at Machias	grid.266650.1	http://machias.edu/	http://en.wikipedia.org/wiki/University_of_Maine_at_Machias	50	897	2016-06-24
+35845393	13356	university of gafsa	University of Gafsa	grid.442516.0	http://www.univgb.rnu.tn/	http://en.wikipedia.org/wiki/University_of_Gafsa	268	1061	2016-06-24
+228671173	13956	thangal kunju musaliar college of engineering kollam	Thangal Kunju Musaliar College of Engineering, Kollam		http://www.tkmce.ac.in/	http://en.wikipedia.org/wiki/Thangal_Kunju_Musaliar_College_of_Engineering,_Kollam	156	391	2016-06-24
+1355163	13344	sinai university	Sinai University	grid.442728.f	http://www.su.edu.eg/	http://en.wikipedia.org/wiki/Sinai_University	170	2203	2016-06-24
+162185876	12937	universidade da amazonia	Universidade da Amazônia	grid.442050.7	http://www.unama.br/	http://en.wikipedia.org/wiki/Universidade_da_Amazônia	478	319	2016-06-24
+2802168257	17408	krell institute	Krell Institute	grid.426678.9		https://en.wikipedia.org/wiki/Krell_Institute	3	9	2018-05-17
+120611246	12364	obayashi corporation	Obayashi Corporation	grid.471907.c	http://www.obayashi.co.jp/english/	http://en.wikipedia.org/wiki/Obayashi_Corporation	474	3816	2016-06-24
+879325887	12198	ravenshaw college	Ravenshaw College		http://www.ravenshawuniversity.ac.in/	http://en.wikipedia.org/wiki/Ravenshaw_College	562	5400	2016-06-24
+2800721106	17186	copenhagen business academy	Copenhagen Business Academy	grid.465896.0		https://en.wikipedia.org/wiki/Copenhagen_Business_Academy	7	2	2018-05-17
+2801674040	12792	kosin university gospel hospital	Kosin University Gospel Hospital	grid.411145.4		https://en.wikipedia.org/wiki/Gospel_Hospital	462	1582	2018-05-17
+2799713863	12458	leibniz institute for astrophysics potsdam	Leibniz Institute for Astrophysics Potsdam	grid.423694.e		http://en.wikipedia.org/wiki/Leibniz_Institute_for_Astrophysics_Potsdam	197	3681	2018-05-17
+112612939	12718	california western school of law	California Western School of Law	grid.418559.4	https://www.cwsl.edu/	http://en.wikipedia.org/wiki/California_Western_School_of_Law	529	1060	2016-06-24
+125485651	13298	university of mentouri	University of Mentouri	grid.410699.3	http://www.umc.edu.dz/	http://en.wikipedia.org/wiki/University_of_Mentouri	266	1225	2016-06-24
+2800251648	15572	sobell house	Sobell House	grid.459935.7		https://en.wikipedia.org/wiki/Sobell_House_Hospice	21	228	2018-05-17
+81289433	15310	can in automation	CAN in Automation			http://en.wikipedia.org/wiki/CAN_in_Automation	17	229	2016-06-24
+2802056718	17855	new leaders	New Leaders	grid.479493.4		https://en.wikipedia.org/wiki/New_Leaders	3	17	2018-05-17
+157273133	10149	university of botswana	University of Botswana	grid.7621.2	http://www.UB.bw	http://en.wikipedia.org/wiki/University_of_Botswana	5051	44171	2016-06-24
+2800710378	10002	naval university of engineering	Naval University of Engineering	grid.472481.c		https://en.wikipedia.org/wiki/PLA_Naval_University_of_Engineering	8440	15137	2018-05-17
+2802375293	12882	european respiratory society	European Respiratory Society	grid.424882.0		https://en.wikipedia.org/wiki/European_Respiratory_Society	127	2394	2018-05-17
+87354575	10091	national chengchi university	National Chengchi University	grid.412042.1	http://www.nccu.edu.tw/	http://en.wikipedia.org/wiki/National_Chengchi_University	5038	53922	2016-06-24
+2802052008	18407	bethany university	Bethany University	grid.470507.1		https://en.wikipedia.org/wiki/Bethany_University	2	3	2018-05-17
+129695118	13322	yuhan college	Yuhan College	grid.461231.3	http://www.yuhan.ac.kr/en/enterInfo/ei1001.jsp	http://en.wikipedia.org/wiki/Yuhan_College	238	1518	2016-06-24
+7576732	12268	boeing phantom works	Boeing Phantom Works			http://en.wikipedia.org/wiki/Boeing_Phantom_Works	305	5926	2016-06-24
+153151563	15557	harrisburg university of science and technology	Harrisburg University of Science and Technology	grid.256835.f	http://www.harrisburgu.edu/	http://en.wikipedia.org/wiki/Harrisburg_University_of_Science_and_Technology	23	189	2016-06-24
+76240187	15036	carol i national defence university	Carol I National Defence University	grid.448667.f	http://www.unap.ro/	http://en.wikipedia.org/wiki/Carol_I_National_Defence_University	58	56	2016-06-24
+76514561	12441	population services international	Population Services International	grid.489754.3	http://www.psi.org/	http://en.wikipedia.org/wiki/Population_Services_International	303	5729	2016-06-24
+53110688	8497	university of cordoba	University of Córdoba (Spain)		http://www.uco.es/	http://en.wikipedia.org/wiki/University_of_Córdoba_(Spain)	17739	267307	2016-06-24
+2801688508	11320	nepean hospital	Nepean Hospital	grid.413243.3		https://en.wikipedia.org/wiki/Nepean_Hospital	854	14165	2018-05-17
+158404207	13519	city college of san francisco	City College of San Francisco	grid.254251.5	http://www.ccsf.edu/	http://en.wikipedia.org/wiki/City_College_of_San_Francisco	134	1984	2016-06-24
+162709352	13069	sul ross state university	Sul Ross State University	grid.264359.f	http://www.sulross.edu/	http://en.wikipedia.org/wiki/Sul_Ross_State_University	239	2322	2016-06-24
+94871006	13365	turkish military academy	Turkish Military Academy	grid.462944.9	http://www.kho.edu.tr/	http://en.wikipedia.org/wiki/Turkish_Military_Academy	231	1537	2016-06-24
+76109909	12884	iowa department of natural resources	Iowa Department of Natural Resources	grid.487630.e	http://www.iowadnr.gov/	http://en.wikipedia.org/wiki/Iowa_Department_of_Natural_Resources	205	3967	2016-06-24
+133759619	11516	interdisciplinary center for neural computation	Interdisciplinary Center for Neural Computation		http://icnc.huji.ac.il/	http://en.wikipedia.org/wiki/Interdisciplinary_Center_for_Neural_Computation	360	20654	2016-06-24
+14044430	12805	institut de recherche robert sauve en sante et en securite du travail	Institut de recherche Robert-Sauvé en santé et en sécurité du travail	grid.416702.6	http://www.irsst.qc.ca/en/	http://en.wikipedia.org/wiki/Institut_de_recherche_Robert-Sauvé_en_santé_et_en_sécurité_du_travail	309	3838	2016-06-24
+1317621060	9536	indian institute of technology guwahati	Indian Institute of Technology Guwahati	grid.417972.e	http://www.iitg.ac.in/	http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Guwahati	9332	82541	2016-06-24
+195931504	10535	egerton university	Egerton University	grid.8301.a	http://www.egerton.ac.ke/	http://en.wikipedia.org/wiki/Egerton_University	1195	18085	2016-06-24
+55783418	13482	university of life sciences in poznan	University of Life Sciences in Poznań	grid.410688.3	http://www.up.poznan.pl/	http://en.wikipedia.org/wiki/University_of_Life_Sciences_in_Poznań	192	1632	2016-06-24
+159061593	12859	florida power light	Florida Power & Light		http://fpl.com/	http://en.wikipedia.org/wiki/Florida_Power_&_Light	193	2182	2016-06-24
+859753955	15055	nalanda	Nalanda		http://asi.nic.in/asi_monu_tktd_bihar_nalanda.asp	http://en.wikipedia.org/wiki/Nalanda	56	94	2016-06-24
+1326579796	14347	friends hospital	Friends Hospital		http://www.friendshospital.com/	http://en.wikipedia.org/wiki/Friends_Hospital	65	688	2016-06-24
+25234659	15067	reinhardt university	Reinhardt University	grid.449472.8	http://www.reinhardt.edu/	http://en.wikipedia.org/wiki/Reinhardt_University	38	246	2016-06-24
+127336678	12425	ecole mohammadia d ingenieurs	École Mohammadia d'ingénieurs		http://www.emi.ac.ma/	http://en.wikipedia.org/wiki/École_Mohammadia_d'ingénieurs	533	3745	2016-06-24
+86843133	11731	university of pamplona	University of Pamplona	grid.441950.d	http://www.unipamplona.edu.co/	http://en.wikipedia.org/wiki/University_of_Pamplona	1441	3245	2016-06-24
+271244728	14080	bolivarian university of venezuela	Bolivarian University of Venezuela	grid.442087.d	http://www.ubv.edu.ve/	http://en.wikipedia.org/wiki/Bolivarian_University_of_Venezuela	152	56	2016-06-24
+168959743	14385	university of america	University of America	grid.465705.5	http://www.uamerica.edu.co/	http://en.wikipedia.org/wiki/University_of_America	115	48	2016-06-24
+59225215	12084	bahria university	Bahria University	grid.444787.c	http://www.bahria.edu.pk/	http://en.wikipedia.org/wiki/Bahria_University	959	3306	2016-06-24
+79765343	11019	university of vaasa	University of Vaasa	grid.19397.35	http://www.uva.fi/en/	http://en.wikipedia.org/wiki/University_of_Vaasa	1985	23536	2016-06-24
+2800164252	19151	karagandy state university	Karagandy State University	grid.443550.3		https://en.wikipedia.org/wiki/Karagandy_State_University	1	0	2018-05-17
+109969950	12909	university of copenhagen faculty of health sciences	University of Copenhagen Faculty of Health Sciences		http://healthsciences.ku.dk/	http://en.wikipedia.org/wiki/University_of_Copenhagen_Faculty_of_Health_and_Medical_Sciences	174	4329	2016-06-24
+55124834	15083	icfai university dehradun	ICFAI University, Dehradun	grid.448897.e	http://www.iudehradun.edu.in/	http://en.wikipedia.org/wiki/ICFAI_University,_Dehradun	42	263	2016-06-24
+87650153	11897	emerson college	Emerson College	grid.418810.4	http://www.emerson.edu/	http://en.wikipedia.org/wiki/Emerson_College	773	8837	2016-06-24
+2802857469	18458	emmanuel bible college	Emmanuel Bible College	grid.468874.1		https://en.wikipedia.org/wiki/Emmanuel_Bible_College	2	0	2018-05-17
+279976351	14862	university of donja gorica	University of Donja Gorica	grid.446012.5	http://www.udg.edu.me/	http://en.wikipedia.org/wiki/University_of_Donja_Gorica	67	89	2016-06-24
+68740497	10737	university of carabobo	University of Carabobo	grid.412884.3	http://www.uc.edu.ve/	http://en.wikipedia.org/wiki/University_of_Carabobo	3506	12110	2016-06-24
+2800115808	16380	council of graduate schools	Council of Graduate Schools	grid.421583.9		https://en.wikipedia.org/wiki/Council_of_Graduate_Schools	9	73	2018-05-17
+71454806	11945	dynamics research corporation	Dynamics Research Corporation		http://www.drc.com/	http://en.wikipedia.org/wiki/Dynamics_Research_Corporation	419	5336	2016-06-24
+2799481701	16039	oasis hospital	Oasis Hospital	grid.461322.0		https://en.wikipedia.org/wiki/Oasis_Hospital,_Al_Ain	16	116	2018-05-17
+2800735659	15955	naval meteorology and oceanography command	Naval Meteorology and Oceanography Command	grid.473809.1		https://en.wikipedia.org/wiki/Naval_Meteorology_and_Oceanography_Command	14	102	2018-05-17
+175611932	13724	electricity generating authority of thailand	Electricity Generating Authority of Thailand	grid.468123.a	http://www.egat.co.th/en/	http://en.wikipedia.org/wiki/Electricity_Generating_Authority_of_Thailand	137	1043	2016-06-24
+63533367	9560	general atomics	General Atomics	grid.192673.8	http://www.ga.com/	http://en.wikipedia.org/wiki/General_Atomics	5158	79960	2016-06-24
+2801488757	17063	south ukrainian national pedagogical university named after k d ushynsky	South Ukrainian National Pedagogical University named after K. D. Ushynsky	grid.445943.b		https://en.wikipedia.org/wiki/K._D._Ushynsky_South_Ukrainian_National_Pedagogical_University	8	2	2018-05-17
+78833166	14899	camellia institute of technology	Camellia Institute of Technology		http://camelliait.ac.in/	http://en.wikipedia.org/wiki/Camellia_Institute_of_Technology	55	233	2016-06-24
+2799623607	15391	hellenic civil aviation authority	Hellenic Civil Aviation Authority	grid.494141.d		https://en.wikipedia.org/wiki/Hellenic_Civil_Aviation_Authority	27	250	2018-05-17
+44377176	8984	european space research and technology centre	European Space Research and Technology Centre	grid.424669.b	http://www.esa.int/About_Us/ESTEC	http://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre	5818	100276	2016-06-24
+2799490518	15363	society of exploration geophysicists	Society of Exploration Geophysicists	grid.467007.2		https://en.wikipedia.org/wiki/Society_of_Exploration_Geophysicists	34	96	2018-05-17
+177879584	11765	roquette freres	Roquette Freres		https://www.roquette.com/	http://en.wikipedia.org/wiki/Roquette_Frères	901	7693	2016-06-24
+254571519	12466	bartin university	Bartın University	grid.449350.f	http://www.bartin.edu.tr/	http://en.wikipedia.org/wiki/Bartın_University	598	3454	2016-06-24
+872719	12304	bellarmine university	Bellarmine University	grid.252934.b	http://www.bellarmine.edu/	http://en.wikipedia.org/wiki/Bellarmine_University	593	4890	2016-06-24
+2800703229	11737	research institute for fragrance materials	Research Institute for Fragrance Materials	grid.419096.3		https://en.wikipedia.org/wiki/Research_Institute_of_Fragrance_Materials	642	5718	2018-05-17
+131434179	10434	nanjing university of chinese medicine	Nanjing University of Chinese Medicine	grid.410745.3	http://www.njutcm.edu.cn/	http://en.wikipedia.org/wiki/Nanjing_University_of_Chinese_Medicine	5230	16754	2016-06-24
+2802293656	13899	georgian national museum	Georgian National Museum	grid.452450.2		https://en.wikipedia.org/wiki/Georgian_National_Museum	71	1461	2018-05-17
+99840328	12318	rosetta genomics	Rosetta Genomics	grid.459859.c	http://www.rosettagenomics.com/	http://en.wikipedia.org/wiki/Rosetta_Genomics	125	9096	2016-06-24
+2800139702	17720	australian college of nursing	Australian College of Nursing	grid.453492.d		https://en.wikipedia.org/wiki/Australian_College_of_Nursing	4	3	2018-05-17
+196345858	8482	chungnam national university	Chungnam National University	grid.254230.2	http://www.cnu.ac.kr/	http://en.wikipedia.org/wiki/Chungnam_National_University	23498	248988	2016-06-24
+1313097216	14978	goulburn valley health	Goulburn Valley Health	grid.492290.4	http://www.gvhealth.org.au/	http://en.wikipedia.org/wiki/Goulburn_Valley_Health	48	239	2016-06-24
+106778892	13670	princess nora bint abdul rahman university	Princess Nora bint Abdul Rahman University	grid.449346.8	http://www.pnu.edu.sa/	http://en.wikipedia.org/wiki/Princess_Nora_bint_Abdul_Rahman_University	195	794	2016-06-24
+208899625	14409	university of burundi	University of Burundi	grid.7749.d	http://www.ub.edu.bi/	http://en.wikipedia.org/wiki/University_of_Burundi	74	593	2016-06-24
+2799353445	14515	tuberculosis vaccine initiative	TuBerculosis Vaccine Initiative	grid.425962.e		https://en.wikipedia.org/wiki/TBVI	28	897	2018-05-17
+2800696421	17338	accademia della crusca	Accademia della Crusca	grid.482012.d		https://en.wikipedia.org/wiki/Accademia_della_Crusca	6	2	2018-05-17
+47164929	12048	najran university	Najran University	grid.440757.5	http://portal.nu.edu.sa/	http://en.wikipedia.org/wiki/Najran_University	744	8084	2016-06-24
+82957580	13321	csc it center for science	CSC – IT Center for Science		http://www.csc.fi/	http://en.wikipedia.org/wiki/CSC_–_IT_Center_for_Science	144	2225	2016-06-24
+85230861	12155	morehouse college	Morehouse College	grid.260235.0	http://www.morehouse.edu/	http://en.wikipedia.org/wiki/Morehouse_College	585	6280	2016-06-24
+69015056	12147	radcliffe institute for advanced study	Radcliffe Institute for Advanced Study		http://www.radcliffe.harvard.edu/	http://en.wikipedia.org/wiki/Radcliffe_Institute_for_Advanced_Study	228	6551	2016-06-24
+102322052	8854	wistar institute	Wistar Institute	grid.251075.4	http://www.wistar.org/	http://en.wikipedia.org/wiki/Wistar_Institute	5046	261380	2016-06-24
+36782756	15288	royal thai police	Royal Thai Police		http://www.royalthaipolice.go.th/	http://en.wikipedia.org/wiki/Royal_Thai_Police	33	218	2016-06-24
+190085865	9672	universidade federal de sergipe	Universidade Federal de Sergipe	grid.411252.1	http://www.ufs.br/	http://en.wikipedia.org/wiki/Federal_University_of_Sergipe	9764	38571	2016-06-24
+122144792	11327	citibank	Citibank		http://www.citi.com/	http://en.wikipedia.org/wiki/Citibank	355	20600	2016-06-24
+1305756057	14362	pininfarina	Pininfarina	grid.426030.3	http://www.pininfarina.com/	http://en.wikipedia.org/wiki/Pininfarina	38	406	2016-06-24
+106826634	11898	jain university	Jain University	grid.449351.e	http://www.jainuniversity.ac.in/	http://en.wikipedia.org/wiki/Jain_University	1168	4398	2016-06-24
+2802422331	15667	office of electricity delivery and energy reliability	Office of Electricity Delivery and Energy Reliability	grid.453355.1		https://en.wikipedia.org/wiki/Office_of_Electricity_Delivery_and_Energy_Reliability	13	181	2018-05-17
+280119520	15096	national rural health alliance	National Rural Health Alliance		http://www.movrha.com/	http://en.wikipedia.org/wiki/National_Rural_Health_Alliance	41	205	2016-06-24
+31721044	11344	centro de investigacion y docencia economicas	Centro de Investigación y Docencia Económicas	grid.451581.c	http://www.cide.edu/	http://en.wikipedia.org/wiki/Centro_de_Investigación_y_Docencia_Económicas	1726	9878	2016-06-24
+39764317	17611	banco de credito e inversiones	Banco de Crédito e Inversiones		http://www.bci.cl/	http://en.wikipedia.org/wiki/Banco_de_Crédito_e_Inversiones	4	8	2016-06-24
+2799887075	13061	calderdale royal hospital	Calderdale Royal Hospital	grid.413217.2		https://en.wikipedia.org/wiki/Calderdale_Royal_Hospital	134	3834	2018-05-17
+2800781889	19047	jorvik viking centre	Jorvik Viking Centre	grid.443891.3		https://en.wikipedia.org/wiki/Jorvik_Viking_Centre	1	3	2018-05-17
+56327960	12030	sarah lawrence college	Sarah Lawrence College	grid.263175.4	http://www.sarahlawrence.edu/	http://en.wikipedia.org/wiki/Sarah_Lawrence_College	568	7302	2016-06-24
+1285887220	11789	sydney south west area health service	Sydney South West Area Health Service	grid.413772.4	http://www.sswahs.nsw.gov.au/	http://en.wikipedia.org/wiki/Sydney_South_West_Area_Health_Service	444	14926	2016-06-24
+1302338503	14505	australian institute of aboriginal and torres strait islander studies	Australian Institute of Aboriginal and Torres Strait Islander Studies	grid.454071.3	http://www.aiatsis.gov.au/	http://en.wikipedia.org/wiki/Australian_Institute_of_Aboriginal_and_Torres_Strait_Islander_Studies	68	611	2016-06-24
+264077921	15983	the australian ballet	The Australian Ballet		http://www.australianballet.com.au/	http://en.wikipedia.org/wiki/The_Australian_Ballet	13	156	2016-06-24
+123127086	10913	north carolina central university	North Carolina Central University	grid.261038.e	http://www.nccu.edu/	http://en.wikipedia.org/wiki/North_Carolina_Central_University	1909	22649	2016-06-24
+1329315715	16105	wyoming department of transportation	Wyoming Department of Transportation		http://www.dot.state.wy.us/	http://en.wikipedia.org/wiki/Wyoming_Department_of_Transportation	16	63	2016-06-24
+2802206110	16225	jewish museum	Jewish Museum	grid.447145.7		https://en.wikipedia.org/wiki/Jewish_Museum_(Manhattan)	18	12	2018-05-17
+142444530	7422	university of trieste	University of Trieste	grid.5133.4	http://www.units.it/	http://en.wikipedia.org/wiki/University_of_Trieste	23407	488377	2016-06-24
+2802939634	9847	chinese pla general hospital	Chinese PLA General Hospital	grid.414252.4		https://en.wikipedia.org/wiki/301_Military_Hospital	7597	43063	2018-05-17
+2803035300	12743	tallaght hospital	Tallaght Hospital	grid.413305.0		https://en.wikipedia.org/wiki/Tallaght_Hospital	427	2386	2018-05-17
+59807684	15131	akaki tsereteli state university	Akaki Tsereteli State University	grid.443747.7	http://www.atsu.edu.ge/	http://en.wikipedia.org/wiki/Akaki_Tsereteli_State_University	49	111	2016-06-24
+83878805	11188	armed forces medical college	Armed Forces Medical College	grid.413909.6	http://afmc.nic.in/	http://en.wikipedia.org/wiki/Armed_Forces_Medical_College_(India)	2255	8410	2016-06-24
+39565521	12672	united states department of energy office of science	United States Department of Energy Office of Science		http://science.energy.gov/	http://en.wikipedia.org/wiki/Office_of_Science	294	3970	2016-06-24
+56137084	16220	cambridge philosophical society	Cambridge Philosophical Society	grid.484525.a	http://www.cambridgephilosophicalsociety.org/	http://en.wikipedia.org/wiki/Cambridge_Philosophical_Society	18	14	2016-06-24
+115044455	15879	aichi kiwami college of nursing	Aichi Kiwami College of Nursing	grid.471442.0	http://ns.aichi-kiwami.ac.jp/	http://en.wikipedia.org/wiki/Aichi_Kiwami_College_of_Nursing	24	32	2016-06-24
+2800803785	15303	dinajpur medical college	Dinajpur Medical College	grid.468809.b		https://en.wikipedia.org/wiki/Dinajpur_Medical_College	44	38	2018-05-17
+63098007	8460	liverpool john moores university	Liverpool John Moores University	grid.4425.7	http://www.ljmu.ac.uk/	http://en.wikipedia.org/wiki/Liverpool_John_Moores_University	13066	254692	2016-06-24
+63125664	14767	weston college	Weston College	grid.463065.2	http://www.weston.ac.uk/	http://en.wikipedia.org/wiki/Weston_College	43	264	2016-06-24
+43591049	9551	perkinelmer	PerkinElmer	grid.482382.7	http://www.perkinelmer.com/	http://en.wikipedia.org/wiki/PerkinElmer	4476	69130	2016-06-24
+60381969	12478	ross university	Ross University		http://www.rossu.edu/	http://pt.wikipedia.org/wiki/Ross_University	476	4142	2016-06-24
+927971549	13199	remy international	Remy International		http://remyinc.com/	http://en.wikipedia.org/wiki/Remy_International	130	1057	2016-06-24
+2802515739	13056	studsvik sweden	Studsvik (Sweden)	grid.426004.4		https://en.wikipedia.org/wiki/Studsvik	104	2365	2018-05-17
+2800024054	14542	skin cancer foundation	Skin Cancer Foundation	grid.430325.3		https://en.wikipedia.org/wiki/Skin_Cancer_Foundation	36	828	2018-05-17
+119561980	11273	umicore	Umicore	grid.426468.a	http://www.umicore.com/	http://en.wikipedia.org/wiki/Umicore	1253	12865	2016-06-24
+149766970	14466	maharashtra university of health sciences	Maharashtra University of Health Sciences	grid.415552.2	http://www.muhs.ac.in/	http://en.wikipedia.org/wiki/Maharashtra_University_of_Health_Sciences	93	270	2016-06-24
+184889055	10547	washington and lee university	Washington and Lee University	grid.268042.a	http://www.wlu.edu/	http://en.wikipedia.org/wiki/Washington_and_Lee_University	3146	26435	2016-06-24
+25763013	12936	south african nuclear energy corporation	South African Nuclear Energy Corporation	grid.463569.b	http://www.necsa.co.za/	http://en.wikipedia.org/wiki/South_African_Nuclear_Energy_Corporation	361	1749	2016-06-24
+131900273	14700	university college of engineering tindivanam	University College of Engineering Tindivanam		http://www.aucet.in/	http://en.wikipedia.org/wiki/University_College_of_Engineering_Tindivanam	61	329	2016-06-24
+2800848520	11717	lagos university teaching hospital	Lagos University Teaching Hospital	grid.411283.d		https://en.wikipedia.org/wiki/Lagos_University_Teaching_Hospital	811	7951	2018-05-17
+261899835	15288	iwate college of nursing	Iwate College of Nursing	grid.471653.2	http://www.iwate-nurse.ac.jp/	http://en.wikipedia.org/wiki/Iwate_College_of_Nursing	8	472	2016-06-24
+1299457549	13492	civil aviation administration of china	Civil Aviation Administration of China	grid.454750.7	http://www.caac.gov.cn/	http://en.wikipedia.org/wiki/Civil_Aviation_Administration_of_China	244	666	2016-06-24
+1322486353	13921	national association of social workers	National Association of Social Workers	grid.468544.f	http://www.socialworkers.org/	http://en.wikipedia.org/wiki/National_Association_of_Social_Workers	124	728	2016-06-24
+8204097	6203	ludwig maximilian university of munich	Ludwig Maximilian University of Munich	grid.5252.0	https://www.en.uni-muenchen.de/index.html	http://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich	121632	2804613	2016-06-24
+2801937912	18038	xprize foundation	XPRIZE Foundation	grid.475716.6		https://en.wikipedia.org/wiki/X_Prize_Foundation	3	1	2018-05-17
+2802304811	16624	cambridge information group	Cambridge Information Group	grid.431282.e		https://en.wikipedia.org/wiki/Cambridge_Information_Group	2	73	2018-05-17
+200267027	11992	universidad juarez del estado de durango	Universidad Juárez del Estado de Durango	grid.412198.7	http://ujed.mx/	http://en.wikipedia.org/wiki/Universidad_Juárez_del_Estado_de_Durango	1021	4177	2016-06-24
+253568910	12447	maharana pratap university of agriculture and technology	Maharana Pratap University of Agriculture and Technology	grid.444738.8	http://www.mpuat.ac.in/	http://en.wikipedia.org/wiki/Maharana_Pratap_University_of_Agriculture_and_Technology	529	4385	2016-06-24
+2800186071	14935	yeovil district hospital nhs foundation trust	Yeovil District Hospital NHS Foundation Trust	grid.440204.6		https://en.wikipedia.org/wiki/Yeovil_District_Hospital_NHS_Foundation_Trust	45	262	2018-05-17
+1328025062	17114	bhagwan mahavir institute of engineering technology	Bhagwan Mahavir Institute Of Engineering & Technology		http://www.bmiet.net/	http://en.wikipedia.org/wiki/Bhagwan_Mahaveer_Institute_Of_Engineering_&_Technology	6	24	2016-06-24
+197220011	12723	qazvin islamic azad university	Qazvin Islamic Azad University	grid.449392.1	http://www.qiau.ac.ir/	http://en.wikipedia.org/wiki/Qazvin_Islamic_Azad_University	436	2631	2016-06-24
+116292333	11387	national graduate institute for policy studies	National Graduate Institute for Policy Studies	grid.444282.c	http://www.grips.ac.jp/	http://en.wikipedia.org/wiki/National_Graduate_Institute_for_Policy_Studies	958	16986	2016-06-24
+144926016	12982	polytechnic institute of castelo branco	Polytechnic Institute of Castelo Branco	grid.55834.3f	http://www.ipcb.pt/en/	http://en.wikipedia.org/wiki/Polytechnic_Institute_of_Castelo_Branco	349	1688	2016-06-24
+1316036230	15394	madonna rehabilitation hospital	Madonna Rehabilitation Hospital	grid.416245.0	http://www.madonna.org/	http://en.wikipedia.org/wiki/Madonna_Rehabilitation_Hospital	33	162	2016-06-24
+139934261	10185	kavli institute for theoretical physics	Kavli Institute for Theoretical Physics		http://www.kitp.ucsb.edu/	http://en.wikipedia.org/wiki/Kavli_Institute_for_Theoretical_Physics	1555	50592	2016-06-24
+859837995	14360	strand bookstore	Strand Bookstore		http://www.strandbooks.com/	http://en.wikipedia.org/wiki/Strand_Bookstore	45	672	2016-06-24
+890889367	13628	royal society for the prevention of cruelty to animals	Royal Society for the Prevention of Cruelty to Animals	grid.467012.6	http://www.rspca.org.uk/	http://en.wikipedia.org/wiki/Royal_Society_for_the_Prevention_of_Cruelty_to_Animals	106	1904	2016-06-24
+2802102276	17142	jevs human services	JEVS Human Services	grid.454454.0		https://en.wikipedia.org/wiki/JEVS_Human_Services	2	69	2018-05-17
+178665097	11112	linear technology	Linear Technology		http://www.linear.com/	http://en.wikipedia.org/wiki/Linear_Technology	752	13675	2016-06-24
+2800250315	15255	audubon nature institute	Audubon Nature Institute	grid.418166.c		https://en.wikipedia.org/wiki/Audubon_Nature_Institute	29	331	2018-05-17
+193482396	14927	illinois bell	Illinois Bell		http://www.att.com/	http://en.wikipedia.org/wiki/Illinois_Bell	34	160	2016-06-24
+2802642760	15927	montgomery high school	Montgomery High School	grid.462543.2		https://en.wikipedia.org/wiki/Montgomery_High_School_(New_Jersey)	19	95	2018-05-17
+2803024712	12779	glasgow royal maternity hospital	Glasgow Royal Maternity Hospital	grid.415264.0		https://en.wikipedia.org/wiki/Glasgow_Royal_Maternity_Hospital	171	3859	2018-05-17
+55230551	12032	pamplin college of business	Pamplin College of Business		http://www.pamplin.vt.edu/	http://en.wikipedia.org/wiki/Pamplin_College_of_Business	346	12739	2016-06-24
+205944377	14644	valley city state university	Valley City State University	grid.430999.e	http://www.vcsu.edu/	http://en.wikipedia.org/wiki/Valley_City_State_University	75	192	2016-06-24
+146696386	12962	aai corporation	AAI Corporation		http://www.textronsystems.com/	http://en.wikipedia.org/wiki/AAI_Corporation	203	2074	2016-06-24
+2801052211	16910	canada foundation for innovation	Canada Foundation for Innovation	grid.439998.6		http://en.wikipedia.org/wiki/Canada_Foundation_for_Innovation	5	61	2018-05-17
+1302456161	13443	walt disney animation studios	Walt Disney Animation Studios				162	1601	2016-06-24
+41960970	15299	konrad adenauer foundation	Konrad Adenauer Foundation		http://www.kas.de/wf/en/	http://en.wikipedia.org/wiki/Konrad_Adenauer_Foundation	41	110	2016-06-24
+2802247742	17936	meridian international center	Meridian International Center	grid.447184.a		https://en.wikipedia.org/wiki/Meridian_International_Center	3	8	2018-05-17
+2800199052	17849	columbia gorge community college	Columbia Gorge Community College	grid.462024.6		https://en.wikipedia.org/wiki/Columbia_Gorge_Community_College	2	17	2018-05-17
+2802425954	14591	center for scientific review	Center for Scientific Review	grid.453876.b		https://en.wikipedia.org/wiki/Center_for_Scientific_Review	19	728	2018-05-17
+59900826	13678	indiana university purdue university columbus	Indiana University – Purdue University Columbus	grid.257411.4	http://www.iupuc.edu/	http://en.wikipedia.org/wiki/Indiana_University_–_Purdue_University_Columbus	121	1646	2016-06-24
+111532955	12558	regulus therapeutics	Regulus Therapeutics	grid.488377.7	http://www.regulusrx.com/	http://en.wikipedia.org/wiki/Regulus_Therapeutics	111	8768	2016-06-24
+99601430	12255	west bengal university of technology	West Bengal University of Technology	grid.440742.1	http://www.wbut.ac.in/	http://en.wikipedia.org/wiki/Maulana_Abul_Kalam_Azad_University_of_Technology	750	4030	2016-06-24
+5873027	16190	columbia international university	Columbia International University	grid.441004.5	http://www.ciu.edu/	http://en.wikipedia.org/wiki/Columbia_International_University	16	68	2016-06-24
+127108963	10406	daikin	Daikin	grid.486757.f	http://www.daikin.com/	http://en.wikipedia.org/wiki/Daikin	2858	22937	2016-06-24
+288011450	14699	comilla university	Comilla University	grid.442968.5	http://cou.ac.bd/	http://en.wikipedia.org/wiki/Comilla_University	77	151	2016-06-24
+1317444621	13821	icad inc	iCAD Inc.		http://icadmed.com/	http://en.wikipedia.org/wiki/ICAD_Inc.	79	1197	2016-06-24
+53421241	10514	national institute of nutrition hyderabad	National Institute of Nutrition, Hyderabad	grid.419610.b	http://ninindia.org/	http://en.wikipedia.org/wiki/National_Institute_of_Nutrition,_Hyderabad	2536	45363	2016-06-24
+921149408	14263	toyota motor sales u s a inc	Toyota Motor Sales, U.S.A., Inc.		http://www.toyota.com/	http://en.wikipedia.org/wiki/Toyota_Motor_Sales,_U.S.A.,_Inc.	56	684	2016-06-24
+2803027280	19134	canadian historical association	Canadian Historical Association	grid.440030.3		http://en.wikipedia.org/wiki/Canadian_Historical_Association	1	1	2018-05-17
+2799362445	19151	tetra pak sweden	Tetra Pak (Sweden)	grid.452027.6		https://en.wikipedia.org/wiki/Tetra_Pak	1	0	2018-05-17
+2889156155	19151	posiva finland	Posiva (Finland)	grid.425535.0		https://en.wikipedia.org/wiki/Posiva	1	0	2018-09-07
+2800277132	18458	korea fair trade commission	Korea Fair Trade Commission	grid.467771.4		https://en.wikipedia.org/wiki/Fair_Trade_Commission_(South_Korea)	2	0	2018-05-17
+2802094821	10812	atlantic oceanographic and meteorological laboratory	Atlantic Oceanographic and Meteorological Laboratory	grid.436459.9		https://en.wikipedia.org/wiki/Atlantic_Oceanographic_and_Meteorological_Laboratory	777	29553	2018-05-17
+8901234	9353	foundation for research technology hellas	Foundation for Research & Technology – Hellas		http://www.forth.gr/	http://en.wikipedia.org/wiki/Foundation_for_Research_&_Technology_–_Hellas	5397	110911	2016-06-24
+332586783	14271	pine river capital management	Pine River Capital Management		http://www.pinerivercapital.com/	http://en.wikipedia.org/wiki/Pine_River_Capital_Management	24	909	2016-06-24
+199741918	9680	g d searle company	G. D. Searle & Company		http://pfizer.com/	http://en.wikipedia.org/wiki/G.D._Searle,_LLC	4264	73781	2016-06-24
+162282272	9957	rohm	Rohm	grid.410855.d	http://www.rohm.com/web/global/	http://en.wikipedia.org/wiki/Rohm	3598	41229	2016-06-24
+169741353	13811	canadian national railway	Canadian National Railway		http://www.cn.ca/	http://en.wikipedia.org/wiki/Canadian_National_Railway	83	937	2016-06-24
+867387847	11848	associated universities inc	Associated Universities, Inc.	grid.55033.30	http://www.aui.edu/	http://en.wikipedia.org/wiki/Associated_Universities,_Inc.	318	7920	2016-06-24
+42095658	12619	central scientific instruments organisation	Central Scientific Instruments Organisation		http://www.csio.res.in/	http://en.wikipedia.org/wiki/Central_Scientific_Instruments_Organisation	477	3215	2016-06-24
+91125648	10242	wuhan institute of technology	Wuhan Institute of Technology	grid.433800.c	http://www.wit.edu.cn/	http://en.wikipedia.org/wiki/Wuhan_Institute_of_Technology	6055	21340	2016-06-24
+2276074	12033	lawrence technological university	Lawrence Technological University	grid.258979.8	http://www.ltu.edu/	http://en.wikipedia.org/wiki/Lawrence_Technological_University	784	5593	2016-06-24
+2801702882	12802	social science research center berlin	Social Science Research Center Berlin	grid.13388.31		http://en.wikipedia.org/wiki/WZB_Berlin_Social_Science_Center	247	6125	2018-05-17
+927439370	10824	ntn corporation	NTN CORPORATION	grid.471227.5	http://www.ntnglobal.com/en/index.html	http://en.wikipedia.org/wiki/NTN_Corporation	1900	17124	2016-06-24
+96916377	11856	walailak university	Walailak University	grid.412867.e	http://www.wu.ac.th/	http://en.wikipedia.org/wiki/Walailak_University	1061	6306	2016-06-24
+2802591998	18283	maryland higher education commission	Maryland Higher Education Commission	grid.453826.e		https://en.wikipedia.org/wiki/Maryland_Higher_Education_Commission	2	9	2018-05-17
+1313298211	8093	st jude children s research hospital	St. Jude Children's Research Hospital	grid.240871.8	http://www.stjude.org/	http://en.wikipedia.org/wiki/St._Jude_Children's_Research_Hospital	12256	514721	2016-06-24
+1281635806	12932	alberta environment	Alberta Environment	grid.431902.d		http://en.wikipedia.org/wiki/Alberta_Environment	226	3172	2016-06-24
+1344111245	17489	american holistic nurses association	American Holistic Nurses Association	grid.489456.2	http://www.ahna.org/	https://www.linkedin.com/company/american-holistic-nurses-association	5	8	2016-06-24
+95265282	14761	national population and family planning commission	National Population and Family Planning Commission		http://www.chinapop.gov.cn/	http://en.wikipedia.org/wiki/National_Population_and_Family_Planning_Commission	55	369	2016-06-24
+161460629	9947	universidade federal rural do rio de janeiro	Universidade Federal Rural do Rio de Janeiro	grid.412391.c	http://www.ufrrj.br/	http://en.wikipedia.org/wiki/Federal_Rural_University_of_Rio_de_Janeiro	7119	39945	2016-06-24
+180919343	13003	verigy	Verigy		http://www.verigy.com/	http://en.wikipedia.org/wiki/Verigy	284	1543	2016-06-24
+142606810	7926	pacific northwest national laboratory	Pacific Northwest National Laboratory	grid.451303.0	http://www.pnnl.gov/	http://en.wikipedia.org/wiki/Pacific_Northwest_National_Laboratory	21182	556637	2016-06-24
+92715842	10222	university of west bohemia	University of West Bohemia	grid.22557.37	http://www.zcu.cz/en/	http://en.wikipedia.org/wiki/University_of_West_Bohemia	5266	30261	2016-06-24
+199736988	12325	komarov botanical institute	Komarov Botanical Institute		http://www.binran.ru/	http://en.wikipedia.org/wiki/Komarov_Botanical_Institute	336	5792	2016-06-24
+189109744	10341	indian school of mines	Indian School of Mines	grid.417984.7	http://www.ismdhanbad.ac.in/	http://en.wikipedia.org/wiki/Indian_School_of_Mines	4445	33913	2016-06-24
+1324021844	10921	st louis children s hospital	St. Louis Children's Hospital	grid.416775.6	http://www.stlouischildrens.org/	http://en.wikipedia.org/wiki/St._Louis_Children's_Hospital	1163	27604	2016-06-24
+909566970	14321	energy recovery inc	Energy Recovery Inc.		http://www.energyrecovery.com/	http://en.wikipedia.org/wiki/Energy_Recovery_Inc.	63	575	2016-06-24
+865419266	8365	catholic university of leuven	Catholic University of Leuven			http://en.wikipedia.org/wiki/Catholic_University_of_Leuven_(1834–1968)	13678	402003	2016-06-24
+2802581893	14583	united states army medical research and materiel command	United States Army Medical Research and Materiel Command	grid.420210.5		https://en.wikipedia.org/wiki/United_States_Army_Medical_Research_and_Materiel_Command	46	657	2018-05-17
+46635041	12135	public schools of rockford illinois	Public schools of Rockford, Illinois			http://en.wikipedia.org/wiki/Public_schools_of_Rockford,_Illinois	331	6122	2016-06-24
+9323808	10540	daegu university	Daegu University	grid.412077.7	http://daegu.ac.kr/	http://en.wikipedia.org/wiki/Daegu_University	3281	29029	2016-06-24
+217663830	13172	kuban state technological university	Kuban State Technological University	grid.440658.b	http://kubstu.ru/	http://en.wikipedia.org/wiki/Kuban_State_Technological_University	333	653	2016-06-24
+1302836201	11600	bell helicopter	Bell Helicopter	grid.292536.9	http://www.bellflight.com/	http://en.wikipedia.org/wiki/Bell_Helicopter	995	6036	2016-06-24
+2800072022	13692	university of bristol dental hospital	University Of Bristol Dental Hospital	grid.415174.2		https://en.wikipedia.org/wiki/University_of_Bristol_Dental_Hospital	74	2016	2018-05-17
+2802807761	17465	trans european research and education networking association	Trans-European Research and Education Networking Association	grid.23218.3a		https://en.wikipedia.org/wiki/TERENA	2	19	2018-05-17
+113643904	11002	beni suef university	Beni-Suef University	grid.411662.6	http://www.bsu.edu.eg//	http://en.wikipedia.org/wiki/Beni-Suef_University	2472	17365	2016-06-24
+157485424	7335	kaist	KAIST	grid.37172.30	http://www.kaist.edu/	http://en.wikipedia.org/wiki/KAIST	58805	862375	2016-06-24
+1315786102	16169	kam controls	Kam Controls		http://www.kam.com/	http://en.wikipedia.org/wiki/Kam_Controls	4	154	2016-06-24
+2800803215	15494	oneida indian nation	Oneida Indian Nation	grid.453888.a		https://en.wikipedia.org/wiki/Oneida_Indian_Nation	9	989	2018-05-17
+29891158	10803	university of sharjah	University of Sharjah	grid.412789.1	http://www.sharjah.ac.ae/	http://en.wikipedia.org/wiki/University_of_Sharjah	2765	20830	2016-06-24
+72427458	10986	jdsu	JDSU	grid.481661.c	http://www.jdsu.com/	http://en.wikipedia.org/wiki/JDSU	1367	18713	2016-06-24
+1321863559	14589	dutch ministry of health welfare and sport	Dutch Ministry of Health, Welfare and Sport	grid.425719.c	http://www.government.nl/ministries/vws	http://en.wikipedia.org/wiki/Ministry_of_Health,_Welfare_and_Sport_(Netherlands)	45	404	2016-06-24
+11259723	10582	watson school of biological sciences	Watson School of Biological Sciences		http://gradschool.cshl.edu/	http://en.wikipedia.org/wiki/Watson_School_of_Biological_Sciences	278	53533	2016-06-24
+2799529917	15105	liu post	LIU Post	grid.465750.5		https://en.wikipedia.org/wiki/LIU_Post	49	112	2018-05-17
+2802809536	18052	research data alliance	Research Data Alliance	grid.484715.b		https://en.wikipedia.org/wiki/Research_Data_Alliance	3	0	2018-05-17
+2781204	14491	katwa college	Katwa College		http://www.katwacollege.com/	http://en.wikipedia.org/wiki/Katwa_College	88	306	2016-06-24
+27963644	12845	hhl leipzig graduate school of management	HHL Leipzig Graduate School of Management	grid.461621.6	http://www.hhl.de/	http://en.wikipedia.org/wiki/HHL_Leipzig_Graduate_School_of_Management	464	1617	2016-06-24
+2800610419	12346	shepherd center	Shepherd Center	grid.419148.1		https://en.wikipedia.org/wiki/Shepherd_Center	298	7521	2018-05-17
+200868477	14082	sardar vallabhbhai patel institute of technology	Sardar Vallabhbhai Patel Institute of Technology		http://www.svitvasad.ac.in/	http://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_Institute_of_Technology	128	457	2016-06-24
+8659980	13154	volkswagen group of america	Volkswagen Group of America		http://www.volkswagengroupamerica.com/	http://en.wikipedia.org/wiki/Volkswagen_Group_of_America	60	2779	2016-06-24
+286207536	14427	university of mount olive	University of Mount Olive	grid.429366.c	http://www.umo.edu/	http://en.wikipedia.org/wiki/University_of_Mount_Olive	89	364	2016-06-24
+860802082	15881	intelligent actuator	Intelligent Actuator		http://www.intelligentactuator.com/	http://en.wikipedia.org/wiki/Intelligent_Actuator	24	22	2016-06-24
+162147314	12710	hungarian national bank	Hungarian National Bank		http://www.mnb.hu/	http://en.wikipedia.org/wiki/Hungarian_National_Bank	358	3580	2016-06-24
+199145359	11931	u s agency for toxic substances and disease registry	U.S. Agency for Toxic Substances and Disease Registry	grid.453168.d	http://www.atsdr.cdc.gov/	http://en.wikipedia.org/wiki/Agency_for_Toxic_Substances_and_Disease_Registry	423	9837	2016-06-24
+278342622	14712	fundacao nacional do indio	Fundação Nacional do Índio		http://www.funai.gov.br/	http://en.wikipedia.org/wiki/Fundação_Nacional_do_Índio	53	304	2016-06-24
+112679378	12856	newman university	Newman University	grid.260943.a	http://www.newmanu.edu/	http://en.wikipedia.org/wiki/Newman_University,_Wichita	321	2844	2016-06-24
+2802805919	11346	science north	Science North	grid.421943.9		http://en.wikipedia.org/wiki/Science_North	959	16183	2018-05-17
+2800023466	14461	energy technologies institute	Energy Technologies Institute	grid.421038.c		https://en.wikipedia.org/wiki/Energy_Technologies_Institute	30	315	2018-05-17
+21300717	12128	college of engineering guindy	College of Engineering, Guindy		http://ceg.annauniv.edu/	http://en.wikipedia.org/wiki/College_of_Engineering,_Guindy	748	4982	2016-06-24
+100625452	12069	on semiconductor	ON Semiconductor	grid.481768.4	http://www.onsemi.com/	http://en.wikipedia.org/wiki/ON_Semiconductor	796	3497	2016-06-24
+47459439	11190	pricewaterhousecoopers	PricewaterhouseCoopers	grid.423310.7	http://www.pwc.com/	http://en.wikipedia.org/wiki/PricewaterhouseCoopers	1341	15883	2016-06-24
+2802198758	15675	american economic association	American Economic Association	grid.422434.7		https://en.wikipedia.org/wiki/American_Economic_Association	17	164	2018-05-17
+134915210	14709	capco	Capco		http://www.capco.com/	http://en.wikipedia.org/wiki/Capco	61	218	2016-06-24
+2802429123	15646	hagley museum and library	Hagley Museum and Library	grid.446695.c		https://en.wikipedia.org/wiki/Hagley_Museum_and_Library	29	68	2018-05-17
+2799396288	15748	dairy farmers of canada	Dairy Farmers Of Canada	grid.410426.5		https://en.wikipedia.org/wiki/Dairy_Farmers_of_Canada	8	262	2018-05-17
+1284215983	11982	reserve bank of new zealand	Reserve Bank of New Zealand	grid.467703.1	http://www.rbnz.govt.nz/	http://en.wikipedia.org/wiki/Reserve_Bank_of_New_Zealand	738	6342	2016-06-24
+2801270593	13693	cleveland metroparks zoo	Cleveland Metroparks Zoo	grid.484049.5		https://en.wikipedia.org/wiki/Cleveland_Metroparks_Zoo	106	1612	2018-05-17
+1292789330	13419	orbis international	Orbis International		http://www.orbis.org/	http://en.wikipedia.org/wiki/Orbis_International	139	1663	2016-06-24
+61116821	15525	autoform	AutoForm		http://www.autoform.com/	http://en.wikipedia.org/wiki/AutoForm	21	122	2016-06-24
+53012624	11634	joint bioenergy institute	Joint BioEnergy Institute	grid.451372.6	http://www.jbei.org/	http://en.wikipedia.org/wiki/Joint_BioEnergy_Institute	494	17732	2016-06-24
+2800131643	16380	institut fur europaische politik	Institut für Europäische Politik	grid.435521.4		https://en.wikipedia.org/wiki/Institute_for_European_Politics	15	11	2018-05-17
+187779737	13442	zero knowledge systems	Zero Knowledge Systems		https://web.archive.org/web/20010202020300/http://www.zero-knowledge.com/	http://en.wikipedia.org/wiki/Zero_Knowledge_Systems	14	1819	2016-06-24
+2801924861	9763	freeman hospital	Freeman Hospital	grid.415050.5		https://en.wikipedia.org/wiki/Freeman_Hospital	4332	79002	2018-05-17
+905010384	10179	marin software	Marin Software		http://www.marinsoftware.com/	http://en.wikipedia.org/wiki/Marin_Software	3785	45546	2016-06-24
+2800644850	18356	british academy of film and television arts	British Academy of Film and Television Arts	grid.432303.5		https://en.wikipedia.org/wiki/British_Academy_of_Film_and_Television_Arts	2	3	2018-05-17
+2802584695	14490	government of karnataka	Government of Karnataka	grid.464881.7		https://en.wikipedia.org/wiki/Government_of_Karnataka	50	675	2018-05-17
+920807811	12263	hutchinson technology incorporated	Hutchinson Technology Incorporated		http://www.htch.com/	http://en.wikipedia.org/wiki/Hutchinson_Technology	338	6818	2016-06-24
+152988861	11472	exelixis	Exelixis		http://www.exelixis.com/	http://en.wikipedia.org/wiki/Exelixis	450	19129	2016-06-24
+2799595691	17200	pingry school	Pingry School	grid.469095.7		https://en.wikipedia.org/wiki/Pingry_School	7	2	2018-05-17
+1319467473	13360	british airways	British Airways	grid.424345.0	http://www.britishairways.com/	http://en.wikipedia.org/wiki/British_Airways	147	1688	2016-06-24
+49487121	12873	yung ta institute of technology and commerce	Yung Ta Institute of Technology and Commerce		http://www6.ytit.edu.tw/english/mp5178.html	http://en.wikipedia.org/wiki/Yung_Ta_Institute_of_Technology_and_Commerce	279	3260	2016-06-24
+11304807	12202	veolia water	Veolia Water		http://www.veolia.com/	http://en.wikipedia.org/wiki/Veolia_Water	513	6640	2016-06-24
+2799841569	15647	bhabha hospital	Bhabha Hospital	grid.460903.8		https://en.wikipedia.org/wiki/Bhabha_Hospital	26	117	2018-05-17
+139506611	13514	institut d etudes politiques de bordeaux	Institut d'études politiques de Bordeaux	grid.435453.0	http://www.sciencespobordeaux.fr/	http://en.wikipedia.org/wiki/Institut_d'études_politiques_de_Bordeaux	247	695	2016-06-24
+2802998804	16224	los angeles community college district	Los Angeles Community College District	grid.421004.3		https://en.wikipedia.org/wiki/Los_Angeles_Community_College_District	12	95	2018-05-17
+881547903	12808	iri	IRI		http://www.iriworldwide.com/	http://en.wikipedia.org/wiki/IRI_(company)	95	4001	2016-06-24
+46781620	13854	eternal university	Eternal University	grid.448698.f	http://www.eternaluniversity.edu.in/	http://en.wikipedia.org/wiki/Eternal_University	153	757	2016-06-24

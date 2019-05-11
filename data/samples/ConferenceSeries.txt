@@ -1,0 +1,1000 @@
+1134804816	12912	ICIDS	International Conference on Interactive Digital Storytelling	441	1717	2016-06-24
+1165160117	14881	SWAT4LS	Semantic Web Applications and Tools for Life Sciences	74	152	2016-06-24
+1192093291	12172	TRIDENTCOM	Testbeds and Research Infrastructures for the DEvelopment of NeTworks and COMmunities	563	4459	2016-06-24
+1199066382	10379	BIOINFORMATICS	International Conference on Bioinformatics	7129	10681	2016-06-24
+1201746639	15463	AIS	Autonomous and Intelligent Systems	163	798	2016-06-24
+2621640373	12469	EDAPS	Electrical Design of Advanced Packaging and Systems Symposium	752	836	2017-06-15
+2622088384	10912	ICMTMA	International Conference on Measuring Technology and Mechatronics Automation	3643	4841	2017-06-15
+2622501483	11596	iWAT	International Workshop on Antenna Technology	1423	3555	2017-06-15
+2623061857	13265	IMFEDK	International Meeting for Future of Electron Devices, Kansai	376	218	2017-06-15
+2755564649	14123	EBCCSP	International Conference on Event-based Control, Communication, and Signal Processing	156	228	2017-09-25
+2755777083	11384	DSP	Dagstuhl Seminar Proceedings	1896	7507	2017-09-25
+2755805862	14675	B-HCI	British HCI Conference	76	220	2017-09-25
+2756335957	13767	EEM	International Conference on European Electricity Market	136	723	2017-09-25
+2756510695	15090	NESEA	Networked Embedded Systems for Enterprise Applications	32	293	2017-10-06
+2757735947	16767	SIMPLEX	Simplifying Complex Networks for Practitioners	11	58	2017-10-06
+2891871500	14537	FDIA	Future Directions Information Access	96	183	2018-09-27
+1119484956	11120	SAB	Simulation of Adaptive Behavior	1155	15044	2016-06-24
+1124356716	12723	CMSB	Computational Methods in Systems Biology	391	5909	2016-06-24
+1198654179	9859	BMVC	British Machine Vision Conference	2822	56089	2016-06-24
+2624055407	12204	IIT	International Conference on Innovations in Information Technology	816	3301	2017-06-15
+2754378120	12785	ICSR	International Conference on Social Robotics	500	1889	2017-09-25
+2755198219	13179	ASQED	Asia Symposium on Quality Electronic Design	354	758	2017-09-25
+2756137309	11557	BEAMS	International Conference on High-Power Particle Beams	1898	1700	2017-09-25
+2756316134	13987	PSC	Clemson University Power Systems Conference	154	378	2017-09-25
+2758358459	16454	AAIP	Approaches and Applications of Inductive Programming	10	80	2017-10-06
+1128819360	12131	RR	Web Reasoning and Rule Systems	856	2957	2016-06-24
+1131091954	15125	CiE	Conference on Computability in Europe	1164	9841	2016-06-24
+1142011064	11998	ICAD	International Conference on Auditory Display	505	6480	2016-06-24
+1142809651	12180	FSR	Field and Service Robotics	618	4562	2016-06-24
+1146437905	12038	EUROCAST	Computer Aided Systems Theory	1362	3272	2016-06-24
+1171527391	11056	ISDA	Intelligent Systems Design and Applications	2579	10609	2016-06-24
+1177288818	11041	CSE	Computational Science and Engineering	3360	22129	2016-06-24
+2622964579	10212	ICTON	International Conference on Transparent Optical Networks	5605	12131	2017-06-15
+2753945848	17022	ADEHMS	Analysis, Design, and Evaluation of Human-Machine Systems	284	610	2017-09-25
+2754253602	13731	Experiment	Experiment@International Conference	231	158	2017-09-25
+2754428651	13541	DCS	International Conference on Dependability of Computer Systems	193	983	2017-09-25
+2754537352	12914	RIAO	RIAO Conference	154	2475	2017-09-25
+2754723884	13613	ICIS	International Conference on Computer and Information Science	228	712	2017-09-25
+2755073670	12058	LO	International Conference Laser Optics	1348	155	2017-09-25
+2755610872	12747	ISP	IEEE International Symposium on Intelligent Signal Processing,	365	2395	2017-09-25
+2756353761	11819	SCTAC	Structure in Complexity Theory Annual Conference	349	6925	2017-09-25
+2757911374	15143	GSD	Global Software Development for the Practitioner	17	458	2017-10-06
+2758125784	12571	PASSAT	Privacy, Security, Risk and Trust	368	4963	2017-10-06
+2759390434	14330	TextGraphs	Workshop on Graph Based Methods for Natural Language Processing	51	744	2017-10-06
+2760183467	11967	ASPAAI	Conference on Advanced Signal Processing : Algorithms, Architectures, and Implemenations	900	3766	2017-10-06
+2890992763	17851	ICMME	International Conference Mechatronics and Mechanical Engineering	6	3	2018-09-27
+1163163559	8244	ICIP	International Conference on Image Processing	22928	220876	2016-06-24
+1182750626	12638	AIRS	Asia Information Retrieval Symposium	632	2522	2016-06-24
+2754001383	14654	ICIMSA	International Conference on Industrial Engineering, Management Science and Application	105	43	2017-09-25
+2754306351	13482	HAIAP	International Conference on Human Aspects of IT for Aged Population	310	292	2017-09-25
+2754342648	13284	MCMSE	International Conference on Mathematical and Computational Methods in Science and Engineering	358	322	2017-09-25
+2754360969	13877	NAVITEC	ESA Workshop on Satellite Navigation Technologies and European Workshop on GNSS Signals and Signal Processing	150	495	2017-09-25
+2755279793	12613	MAS	International Conference on Multi Agent Systems	116	3700	2017-09-25
+2755443121	10871	MACE	International Conference on Mechanic Automation and Control Engineering	4235	1623	2017-09-25
+2757016865	16557	ODBIS	Ontologies-Based Databases and Information Systems	9	46	2017-10-06
+2890280880	19269	ICMSET	International Conference Material Science and Engineering Technology	25	8	2018-09-27
+2890929939	15732	ICMCE	International Conference Mechatronics and Control Engineering	44	10	2018-09-27
+1133508372	12158	LATIN	Latin American Symposium on Theoretical Informatics	740	6482	2016-06-24
+1136617647	12295	AIAI	Artificial Intelligence Applications and Innovations	863	2103	2016-06-24
+1140174619	12556	WKDD	Workshop on Knowledge Discovery and Data Mining	396	1463	2016-06-24
+1150269835	13409	JTRES	Java Technologies for Real-time and Embedded Systems	210	1694	2016-06-24
+1185630141	11912	CSIE	Computer Science and Information Engineering	1248	2783	2016-06-24
+1195635621	13337	WoLLIC	Workshop on Logic, Language, Information and Computation	324	1547	2016-06-24
+2622105362	12464	ICCP	International Conference on Intelligent Computer Communication and Processing	718	2003	2017-06-15
+2754010095	13834	DeLFI	DeLFI Workshops	212	125	2017-09-25
+2754477225	14079	ICDeCom	International Conference on Devices and Communications	116	618	2017-09-25
+2754846123	12806	INSS	International Conference on Networked Sensing Systems	338	2283	2017-09-25
+2754881410	14592	ReTIS	IEEE International Conference on Recent Trends in Information Systems	94	169	2017-09-25
+2755852590	13391	UT	IEEE International Underwater Technology Symposium	296	348	2017-09-25
+2756032960	12420	ICSET	IEEE International Conference on Sustainable Energy Technologies	500	2952	2017-09-25
+2756736737	15098	DSMML	international conference on Deterministic and Statistical Methods in Machine Learning	20	235	2017-10-06
+2757194849	15205	EETN	Teletraffic Symposium Performance Engineering in Telecommunications Networks	39	94	2017-10-06
+2758640569	15326	icSPORTS	International Congress on Sports Science Research and Technology Support	53	14	2017-10-06
+2759725227	14554	DCNET	International Conference on Data Communication Networking	101	111	2017-10-06
+2892278751	16496	SALC	conference Scandinavian Association for Language and Cognition	16	0	2018-09-27
+1147832778	14029	CLADE	Challenges of Large Applications in Distributed Environments	78	858	2016-06-24
+1158801738	13670	PGM	Probabilistic Graphical Models	215	899	2016-06-24
+1162521816	11638	MSR	Mining Software Repositories	811	14443	2016-06-24
+1180646617	12996	LID	Logic in Databases	101	1815	2016-06-24
+1191172908	12595	AMAST	Algebraic Methodology and Software Technology	572	6787	2016-06-24
+2754059319	12130	CGIV 	International Conference on Computer Graphics, Imaging and Visualisation	855	2895	2017-09-25
+2754135502	13863	SISIDE	Sino-foreign-interchange conference on Intelligent Science and Intelligent Data Engineering	201	271	2017-09-25
+2754446120	13653	ANNES	New Zealand International Two-Stream Conference on Artificial Neural Networks and Expert Systems	185	680	2017-09-25
+2756098343	14097	PCITC	IEEE Power, Communication and Information Technology Conference	168	124	2017-09-25
+2759925731	15127	LESS	Lean Enterprise Software and Systems	45	231	2017-10-06
+2889830079	16625	MAPR	International Conference Multimedia Analysis and Pattern Recognition	14	1	2018-09-27
+2891479373	14460	ICICA	International Conference Intelligent Computing and Applications	94	214	2018-09-27
+2892077183	11577	ICInPro	International Conference Information Processing	1706	6072	2018-09-27
+1154039276	11030	ESA	European Symposium on Algorithms	2390	24845	2016-06-24
+1166235906	10863	CBMS	Computer-Based Medical Systems	2585	14533	2016-06-24
+1168671587	12593	AAMAS	Adaptive Agents and Multi-Agents Systems	6262	94750	2016-06-24
+1177537908	12504	MLDM	Machine Learning and Data Mining in Pattern Recognition	730	3902	2016-06-24
+1178880552	13708	IWAAL	International Workshop on Ambient Assisted Living	198	747	2016-06-24
+1183637428	10673	PSB	Pacific Symposium on Biocomputing	1175	31211	2016-06-24
+1198399583	13251	TGC	Trustworthy Global Computing	228	2069	2016-06-24
+2621925306	12967	CIMSA	International Conference on Computational Intelligence for Measurement Systems and Applications	352	1724	2017-06-15
+2623151190	12191	Healthcom	International Conference on e-Health Networking, Applications and Services	867	3256	2017-06-15
+2624178097	11304	ISCE	International Symposium on Consumer Electronics	1904	6294	2017-06-15
+2626326608	12000	CF	Computing Frontiers	697	6450	2017-06-23
+2727682610	13914	BDCloud	International Conference on Big Data and Cloud Computing	181	450	2017-07-14
+2754068770	12816	IREC	International Renewable Energy Congress	592	521	2017-09-25
+2754141368	10780	ICLP	International Conference on Lightning Protection	2027	15689	2017-09-25
+2754836383	12894	EDBT-ICDT	EDBT/ICDT Workshops	384	2267	2017-09-25
+2755052031	12827	IFELC	International Free Electron Laser Conference	788	2032	2017-09-25
+2755467670	13285	KBEI	International Conference on Knowledge-Based Engineering and Innovation	388	135	2017-09-25
+2755870440	12449	SPGS	International Conference on Sustainable Power Generation and Supply	627	2075	2017-09-25
+2756241335	14066	BTW	BTW Workshops	158	315	2017-09-25
+2758023765	14019	IWSC	International Workshop on Software Clones	114	861	2017-10-06
+2758636182	15884	miproBIS	Business Intelligence Systems	28	21	2017-10-06
+2890817247	14257	CSS	Computational Social Science	152	272	2018-09-27
+1131672992	13830	LCTES	Languages, Compilers, and Tools for Embedded Systems	469	8727	2016-06-24
+1140961231	11868	IIS	Intelligent Information Systems	1832	23997	2016-06-24
+1144277514	12175	IMECS	International MultiConference of Engineers and Computer Scientists	1067	1540	2016-06-24
+1185773761	10314	DCC	Data Compression Conference	2503	25511	2016-06-24
+2623493804	11287	ICDCSW	International Conference on Distributed Computing Systems Workshops	1234	13565	2017-06-15
+2625971837	14579	BuildSys	International Conference on Systems for Energy-Efficient Built Environments	99	122	2017-06-23
+2754374854	13241	S3S	IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference	358	416	2017-09-25
+2754527366	13739	BIR	International Conference on Business Informatics Research	206	587	2017-09-25
+2754742224	12137	Israel	Convention of Electrical and Electronics Engineers in Israel	877	1974	2017-09-25
+2754955730	12803	EEE	IEEE International Conference on e-Technology, e-Commerce and e-Service	229	3130	2017-09-25
+2756230929	13944	ISACI	International Symposium on Advances in Computation and Intelligence	149	527	2017-09-25
+2756313868	14069	NN	IEEE Symposium on Neuroinformatics and Neurocomputers	148	115	2017-09-25
+2756401274	13703	COIN-NGNCON	Joint International Conference on Optical Internet and Next Generation Network	228	225	2017-09-25
+2757777968	14299	BTE	Workshop on Beyond Time and Errors	83	741	2017-10-06
+2757832149	16428	LBM	Languages in Biology and Medicine	14	106	2017-10-06
+2757896810	15845	BDSE	International Workshop on BIG Data Software Engineering	22	117	2017-10-06
+2759033409	15145	INOC	International Network Optimization Conference	76	438	2017-10-06
+2890505119	19269	TTRAEurope	Travel and Tourism Research Association European Chapter Conference	1	0	2018-09-27
+1131300907	11787	SBCCI	Symposium on Integrated Circuits and Systems Design	1016	5554	2016-06-24
+1176326080	11795	OSS	Open Source Systems	1272	4607	2016-06-24
+1179702818	12063	AMT	Active Media Technology	1157	1927	2016-06-24
+2537594308	9680	SECURITY	USENIX Security Symposium	1187	70523	2016-10-28
+2623592691	13068	PECI	Power and Energy Conference at Illinois	343	1229	2017-06-15
+2736004929	13111	JCSSE	International Joint Conference on Computer Science and Software Engineering	425	516	2017-07-21
+2736046303	10857	ISSSTA	International Symposium on Spread Spectrum Techniques and Applications	1547	10966	2017-07-21
+2754127509	13810	ITMC	International Technology Management Conference	212	313	2017-09-25
+2754217282	13160	INGN	International Conference on Intelligence in Next Generation Networks	284	1358	2017-09-25
+2754376901	13926	ICPEC	International Conference on Power, Energy and Control	153	520	2017-09-25
+2754767283	12420	CCPR	Chinese Conference on Pattern Recognition	827	1188	2017-09-25
+2754905290	13447	INMMC	Workshop on Integrated Nonlinear Microwave and Millimetre-wave Circuits	250	512	2017-09-25
+2755255298	13429	PSAN	International Symposium on Pervasive Systems, Algorithms, and Networks	254	1187	2017-09-25
+2755652246	12029	ICITAB	IEEE International Conference on Information Technology and Applications in Biomedicine	782	4013	2017-09-25
+2756065896	14119	ISET	International Symposium on Educational Technology	169	42	2017-09-25
+2756998668	14992	BPMDS	Business Process Modeling, Development and Support	45	235	2017-10-06
+2757305654	16076	ACM-L	Active Conceptual Modeling of Learning	17	84	2017-10-06
+2758634423	14309	SNAKDD	Social Network Mining and Analysis	66	946	2017-10-06
+2759815964	16421	MBDS	Workshop on Management of Big Data Systems	11	69	2017-10-06
+2760248163	15519	HCIEd	International conference on HCI Educators	33	76	2017-10-06
+2889629706	14421	ICMSA	IMT-GT International Conference Mathematics, Statistics and Their Applications	127	9	2018-09-27
+1129450674	14037	EvoBIO	Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics	144	883	2016-06-24
+1129724978	12780	SEMCCO	Swarm, Evolutionary, and Memetic Computing	530	1523	2016-06-24
+1144674403	10604	ISMIR	International Symposium/Conference on Music Information Retrieval	1763	32645	2016-06-24
+1164203406	13310	WADT	Workshop on Recent Trends in Algebraic Development Techniques	232	2309	2016-06-24
+1170525533	12886	SERA	Software Engineering Research and Applications	396	1758	2016-06-24
+1183478919	9694	ICDM	International Conference on Data Mining	5263	83566	2016-06-24
+1196883058	14010	PDSW	Petascale Data Storage Workshop	70	991	2016-06-24
+2736010911	12639	APACE	Asia-Pacific Conference on Applied Electromagnetics	572	1222	2017-07-21
+2754457197	11865	EFTF	European Frequency and Time Forum	1227	2240	2017-09-25
+2754589071	12414	CSCIT	International Conference on Computer Sciences and Convergence Information Technology	722	1800	2017-09-25
+2755214297	12406	BCTM	Bipolar Circuits and Technology Meeting,	235	1861	2017-09-25
+2755460317	16222	ICNI	International Congress on Nursing Informatics	197	304	2017-09-25
+2755549812	11305	ICCSIT	International Conference on Computer Science and Information Technology	2324	5559	2017-09-25
+2755701141	13379	ICCDCS	International Caribbean Conference on Devices, Circuits and Systems	276	642	2017-09-25
+2755825106	12278	DCMA	International Conference on Dublin Core and Metadata Applications	580	2389	2017-09-25
+2755883048	14048	IST	SBT/IEEE International Symposium on Telecommunications	116	264	2017-09-25
+2755936140	14023	TAEE	Technologies Applied to Electronics Teaching	163	178	2017-09-25
+2755980765	12011	IPDPSW	IEEE International Symposium on Parallel & Distributed Processing, Workshops and Phd Forum	817	5946	2017-09-25
+2756414524	13015	RFM	IEEE International RF and Microwave Conference	397	972	2017-09-25
+2756714439	14641	CNL	Controlled Natural Language	78	619	2017-10-06
+2760794530	15178	HotMiddlebox	Workshop on Hot topics in Middleboxes and Network Function Virtualization	31	312	2017-10-06
+2890069163	14809	DSC	IEEE Conference Dependable and Secure Computing	89	27	2018-09-27
+2890632074	14270	WISTP	International Conference Information Security Theory and Practice	93	619	2018-09-27
+1127267470	13168	eTELEMED	International Conference on eHealth, Telemedicine, and Social Medicine	328	1065	2016-06-24
+1140917629	12252	WASA	Wireless Algorithms, Systems, and Applications	795	2586	2016-06-24
+1142762373	14021	ICSDM	International Conference on Spatial Data Mining and Geographical Knowledge Services	166	296	2016-06-24
+1143423991	12483	COCOA	Conference on Combinatorial Optimization and Applications	584	1965	2016-06-24
+1171745684	10817	DIS	Designing Interactive Systems	2084	20263	2016-06-24
+1180338098	12271	ECSA	European Conference on Software Architecture	871	4143	2016-06-24
+2606469623	9876	SC	Conference on High Performance Computing (Supercomputing)	1764	55956	2017-04-28
+2621553703	9106	EuMC	European Microwave Conference	12884	45059	2017-06-15
+2622029738	9972	ICCE	International Conference on Consumer Electronics	10438	37454	2017-06-15
+2625165767	13172	VANET	International Workshop on VehiculAr Inter-NETworking	106	2530	2017-06-23
+2625859420	14399	WETSoM	Workshop on Emerging Trends in Software Metrics	92	458	2017-06-23
+2754124891	14449	UPCON	IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering	122	45	2017-09-25
+2754172319	11210	URSI GASS	URSI General Assembly and Scientific Symposium	2805	2478	2017-09-25
+2754262276	13555	ESARS	International Conference on Electrical Systems for Aircraft, Railway, Ship Propulsion and Road Vehicles	244	400	2017-09-25
+2754404193	14223	ILAKC	International Learning Analytics & Knowledge Conference	134	252	2017-09-25
+2754680936	12422	APMPPI	International Symposium on Advanced Packaging Materials. Processes, Properties and Interfaces	427	2611	2017-09-25
+2754760598	12186	SIBCON	International Siberian Conference on Control and Communications	997	1111	2017-09-25
+2756059627	13902	IWAENC	International Workshop on Acoustic Signal Enhancement	161	449	2017-09-25
+2756302420	14171	ISUC	International Symposium on Universal Communication	80	388	2017-09-25
+2756396667	13645	IWSOC 	International Workshop on System-on-Chip for Real-Time Applications	156	826	2017-09-25
+2759159208	14997	GreenCom	International Conference on Green Computing and Communications	45	283	2017-10-06
+2891173915	25000	ICSMR	International Conference Smart Material Research	2	0	2018-09-27
+1130524533	12310	IVCNZ	Image and Vision Computing New Zealand	798	2414	2016-06-24
+1136755600	10659	FPGA	Field Programmable Gate Arrays	1406	25826	2016-06-24
+1148878455	11763	BIS	Business Information Systems	1934	8899	2016-06-24
+1160211978	12145	ACNS	Applied Cryptography and Network Security	547	9989	2016-06-24
+1161412788	11747	ICFHR	International Conference on Frontiers in Handwriting Recognition	779	8399	2016-06-24
+1168669760	14551	WFLP	Workshop on Functional and Constraint Logic Programming	91	371	2016-06-24
+1183580825	10390	ICONIP	International Conference on Neural Information Processing	5650	17015	2016-06-24
+1192710661	11207	MSWiM	Modeling Analysis and Simulation of Wireless and Mobile Systems	922	14192	2016-06-24
+2623135487	15135	CIDU	Conference on Intelligent Data Understanding	49	224	2017-06-15
+2624217010	10370	IRMMW-THz	International Conference on Infrared, Millimeter, and Terahertz Waves	6378	6367	2017-06-15
+2627017190	12070	ICEGOV	International Conference on Theory and Practice of Electronic Governance	1055	2844	2017-06-23
+2754278388	12934	ICED	International Conference on Electronic Design	453	874	2017-09-25
+2755585586	14104	ECCE	International Conference on Electrical, Computer and Communication Engineering	172	35	2017-09-25
+2755684428	13391	RASI	Revista Avances en Sistemas e Informática	321	316	2017-09-25
+2756138763	12882	ECAI	International Conference on Electronics, Computers and Artificial Intelligence	556	424	2017-09-25
+2756537883	15624	TRIOS	International Conference on Timely Results in Operating Systems	23	161	2017-10-06
+2757377769	13578	WHM	Workshop on Human Motion	50	1356	2017-10-06
+2757915777	13635	EMBS	Engineering in Medicine and Biology Society Conference	247	249	2017-10-06
+2757925143	10238	AC	AIAA/CEAS Aeroacoustics Conference	5057	31583	2017-10-06
+2758512898	14742	WCPS	Workshop on Cyber-Physical Systems	80	186	2017-10-06
+2889642138	15769	LDK	Language, Data and Knowledge	32	17	2018-09-27
+2890507930	17660	kdbc	Korean Database Conference	5	0	2018-09-27
+2892334996	15040	SMART	International Conference System Modeling & Advancement Research Trends	66	34	2018-09-27
+1134880735	13038	ENC	Mexican International Conference on Computer Science	333	1561	2016-06-24
+1152595915	12754	Infoscale	Scalable Information Systems	323	2111	2016-06-24
+1181892187	12940	WWIC	Wired/Wireless Internet Communications	406	2096	2016-06-24
+2622668024	11473	SmartGridComm	International Conference on Smart Grid Communications	997	13104	2017-06-15
+2625027540	13381	HAI	Human-Agent Interaction	329	295	2017-06-23
+2734539333	12866	SCVT	Symposium on Communications and Vehicular Technology in the Benelux	341	1535	2017-07-21
+2754076204	12518	FNCES 	National Conference for Engineering Sciences	850	63	2017-09-25
+2755763040	14153	CW	Computation World: Future Computing, Service Computation, Cognitive, Adaptive, Content, Patterns	117	530	2017-09-25
+2756306689	13359	ICOS	IEEE Conference on Open Systems	287	844	2017-09-25
+1136212596	12581	GRAPP	International Conference on Computer Graphics Theory and Applications	689	1308	2016-06-24
+1175548354	12544	WIDM	Web Information and Data Management	210	4694	2016-06-24
+1176077016	14451	SAMOS	International Conference / Workshop on Embedded Computer Systems: Architectures, Modeling and Simulation	151	1081	2016-06-24
+1178327129	12201	PAKDD	Pacific-Asia Conference on Knowledge Discovery and Data Mining	1105	8088	2016-06-24
+1181023599	13180	CASoN	Computational Aspects of Social Networks	337	1099	2016-06-24
+1185016349	13132	AIMS	Autonomous Infrastructure, Management and Security	355	1119	2016-06-24
+1191474766	10621	FPL	Field-Programmable Logic and Applications	2826	28620	2016-06-24
+1201175904	12468	Ada-Europe	International Conference on Reliable Software Technologies	800	3212	2016-06-24
+1203645832	14291	Autonomics	Autonomic Computing and Communication Systems	84	544	2016-06-24
+2623113813	12794	EMS	European Symposium on Computer Modeling and Simulation	475	1688	2017-06-15
+2623319337	12179	ESTS	Electric Ship Technologies Symposium	587	3892	2017-06-15
+2626020790	11912	ETRA	Eye Tracking Research & Application	394	10083	2017-06-23
+2627068791	15584	NDM	Network-aware Data Management	28	179	2017-06-23
+2754347256	14872	WIMS 	International Conference on Web Intelligence, Mining and Semantics	62	245	2017-09-25
+2754643071	12451	EWPDP	Euromicro Workshop on Parallel and Distributed Processing	530	3197	2017-09-25
+2754673160	14014	PDSN	IEEE International Symposium on Policies for Distributed Systems and Networks	110	798	2017-09-25
+2754750461	14921	ICEC	International Conference on Engineering Computation	68	93	2017-09-25
+2754885367	12491	EIConRus	IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering	867	79	2017-09-25
+2754931281	13051	NSEC	National Symposium on Electromagnetic Compatibility	286	533	2017-09-25
+2754932198	13334	IWCSE	International Workshop on Computer Science and Engineering	288	676	2017-09-25
+2755226198	13053	EMP	International Conference on Electronic Materials and Packaging	389	712	2017-09-25
+2755509239	13219	VAMR	International Conference on Virtual, Augmented and Mixed Reality	382	608	2017-09-25
+2755965242	13838	ICMO	SBMO/IEEE MTT-S International Conference on Microwave and Optoelectronics	158	444	2017-09-25
+2756909668	15147	IMMM	International Conference on Advances in Information Mining and Management	49	86	2017-10-06
+2759526785	16841	RWDSL	International Workshop on Real World Domain Specific Languages	11	5	2017-10-06
+2889813098	25000	TEA	International Technology Enhanced Assessment Conference	1	1	2018-09-27
+1128547292	15614	DBSocial	Databases and Social Networks	20	197	2016-06-24
+1133691915	10846	APCCAS	Asia Pacific Conference on Circuits and Systems	3091	9017	2016-06-24
+1135237122	9265	MM	ACM Multimedia	5771	118939	2016-06-24
+2622168059	11727	SiRF	Topical Meeting on Silicon Monolithic Integrated Circuits in RF Systems	956	4230	2017-06-15
+2623379053	13295	NVMTS	Non-Volatile Memory Technology Symposium	284	934	2017-06-15
+2624544097	12576	BIC-TA	Bio-Inspired Computing: Theories and Applications	697	1420	2017-06-15
+2754133892	12175	ISIT	International Symposium on Information Technology	823	3340	2017-09-25
+2754429661	12830	ICIIP	IEEE International Conference on Image Information Processing	512	1228	2017-09-25
+2754756178	14193	ICEMPE	International Conference on Electrical Materials and Power Equipment	159	10	2017-09-25
+2754923793	13061	M-NANO	International Conference on Manipulation, Manufacturing and Measurement on Nanoscale	480	211	2017-09-25
+2755058989	12112	JCIS 	Joint International Conference on Information Sciences	1011	2571	2017-09-25
+2755563550	13473	MECBE	Middle East Conference on Biomedical Engineering	284	490	2017-09-25
+2755705128	14348	ICCAT	International Conference on Computer Applications Technology	110	297	2017-09-25
+2755908901	14476	CoSeRa	International Workshop on Compressed Sensing Theory and its Applications to Radar, Sonar and Remote Sensing	110	151	2017-09-25
+2758088368	13943	NSDR	ACM workshop on Networked Systems for Developing Regions	56	1019	2017-10-06
+2758433210	12691	AMS	Asia International Conference on Modelling and Simulation	435	2492	2017-10-06
+2759923341	14199	WSS	Conference on USENIX Windows Systems Symposium	12	648	2017-10-06
+2891749462	15659	PACT	Pan African Conference Science, Computing and Telecommunications	34	38	2018-09-27
+1186934258	12313	NTMS	New Technologies, Mobility and Security	747	3041	2016-06-24
+2621439068	11484	IPFA	International Symposium on the Physical and Failure Analysis of Integrated Circuits	1905	2932	2017-06-15
+2622134253	10642	ESSDERC	European Solid-State Device Research Conference	4324	13148	2017-06-15
+2624310872	11220	NAPS	North American Power Symposium	1853	8377	2017-06-15
+2624656010	11822	ICET	International Conference on Emerging Technologies	1258	3342	2017-06-15
+2754675597	12797	DySPAN	IEEE International Symposium on Dynamic Spectrum Access Networks	327	3090	2017-09-25
+2755727715	13063	SCT	IEEE Workshop on Speech Coding for Telecommunications	166	1219	2017-09-25
+2756250854	13281	OIP	International Conference on Optoelectronics and Image Processing	362	339	2017-09-25
+2756477910	12351	ICRTIT	International Conference on Recent Trends in Information Technology	788	2202	2017-09-25
+2891852472	17459	LocalRec	ACM SIGSPATIAL Workshop Recommendations for Location-based Services and Social Networks	6	2	2018-09-27
+1143886216	16017	INTENSIVE	International Conference on Intensive Applications and Services	12	120	2016-06-24
+1172379331	10866	AIED	Artificial Intelligence in Education	2057	27463	2016-06-24
+2537396833	12707	ASIST	Association for Information Science and Technology	1317	6715	2016-10-28
+2625361550	12698	ICIMCS	International Conference on Internet Multimedia Computing and Service	609	960	2017-06-23
+2625551219	12573	EASE	Evaluation and Assessment in Software Engineering	405	4228	2017-06-23
+2754161470	14497	ICEM	IEEE Annual Conference International Council for Education Media	111	56	2017-09-25
+2755265722	13842	IECBES	IEEE Conference on Biomedical Engineering and Sciences	204	286	2017-09-25
+2756104231	13781	PhotonicsGlobal	IEEE PhotonicsGlobal	223	198	2017-09-25
+2757393251	14625	PaIR	Patent Information Retrieval	57	471	2017-10-06
+2759214834	14944	ETP	ACM SIGMM workshop on Experiential Telepresence	18	356	2017-10-06
+2890518945	15451	AT	International Conference Agreement Technologies	39	84	2018-09-27
+2890745585	25000	Cyber Science	Cyber Science	1	0	2018-09-27
+2891497671	11448	TRF	Transport Research Forum	2045	3286	2018-09-27
+1136783206	10880	ICPADS	International Conference on Parallel and Distributed Systems	2674	14288	2016-06-24
+1137552346	11572	SAS	Static Analysis Symposium	1547	14939	2016-06-24
+1200240976	14071	DBKDA	Databases, Knowledge, and Data Applications	146	441	2016-06-24
+2622340237	14789	RELAW	International Workshop on Requirements Engineering and Law	63	377	2017-06-15
+2624615226	13206	ICTer	International Conference on Advances in ICT for Emerging Regions	386	496	2017-06-15
+2627043526	11590	IDC	Interaction Design and Children	1123	10433	2017-06-23
+2755171650	13314	NSPS	Nordic Signal Processing Symposium	210	1372	2017-09-25
+2755314191	10739	ECML	European conference on Machine Learning	2167	45884	2017-09-25
+2755806319	14412	ICUE	International Conference and Utility Exhibition on Green Energy for Sustainable Development	117	116	2017-09-25
+2756209004	11887	PS	International Conference on Photonics in Switching	1383	1340	2017-09-25
+1166230065	12181	FMCAD	Formal Methods in Computer-Aided Design	570	9864	2016-06-24
+1180274659	10231	NDSS	Network and Distributed System Security Symposium	770	41200	2016-06-24
+1181711330	12855	NMR	Non-Monotonic Reasoning	227	2087	2016-06-24
+2754357506	13788	STE	International Conference on Software Technology and Engineering	176	617	2017-09-25
+2755414939	13033	IESM	International Conference on Industrial Engineering and Systems Management	483	520	2017-09-25
+2756858386	15600	WHAT	Workshop on Hybrid Approaches to Translation	33	96	2017-10-06
+2758099404	12769	Usenix-stc	USENIX Summer Technical Conference	40	1948	2017-10-06
+2891092409	16340	ICAASE	International Conference Advanced Aspects Software Engineering	18	12	2018-09-27
+1122418201	11297	DSD	Digital Systems Design	1731	9545	2016-06-24
+1127352206	12710	PLDI	Programming Language Design and Implementation	1386	96171	2016-06-24
+1140216390	9913	ICIS	International Conference on Information Systems	7075	48422	2016-06-24
+1150919317	12963	MICRO	International Symposium on Microarchitecture	3254	128847	2016-06-24
+1152271581	11866	CGI	Computer Graphics International	782	6940	2016-06-24
+1162013546	11095	CCC	Conference on Computational Complexity	2521	13196	2016-06-24
+1184048318	10662	IWSEC	International Workshop on Security	2175	21429	2016-06-24
+2625909334	11516	CODES+ISSS	International Conference on Hardware/Software Codesign and System Synthesis	701	12658	2017-06-23
+2754049124	13338	ELT	International Symposium on Electromagnetic Launch Technology	505	2516	2017-09-25
+2754321678	13897	ICEDEG	International Conference on eDemocracy & eGovernment	207	107	2017-09-25
+2754729378	13879	HotStorage	USENIX conference on Hot topics in storage and file systems	109	1152	2017-09-25
+2754920443	10539	SFC	Annual Symposium on Frequency Control	2099	13288	2017-09-25
+2755509916	14277	AISP	CSI International Symposium on Artificial Intelligence and Signal Processing	114	398	2017-09-25
+2755631541	12702	ICE	IEEE International Technology Management Conference	585	1259	2017-09-25
+2755847365	14245	ScalCom	International Conference on Scalable Computing and Communications	122	276	2017-09-25
+2756120078	13334	ISPD	International Symposium on Pervasive Displays	249	1329	2017-09-25
+2756153282	13413	EEE	Conference on e-Business, e-Services and e-Society	304	587	2017-09-25
+2756393639	12706	ICSIP	IEEE International Conference on Signal and Image Processing	611	1003	2017-09-25
+2757357463	14846	HOPL	ACM SIGPLAN conference on History of Programming Languages	74	1846	2017-10-06
+2758650831	16433	ARTEMIS	ACM/IEEE international workshop on Analysis and Retrieval of Tracked Events and Motion in Imagery Stream	10	72	2017-10-06
+2759023276	15220	LDTA	Language Descriptions, Tools and Applications	47	518	2017-10-06
+2891994890	14635	HIBIT	International Symposium Health Informatics and Bioinformatics	93	172	2018-09-27
+1121493235	12568	AIMSA	Artificial Intelligence: Methodology, Systems, Applications	668	2503	2016-06-24
+1136631244	12431	OPODIS	International Conference on Principles of Distributed Systems	629	4642	2016-06-24
+1140213147	9345	EUROCRYPT	Theory and Application of Cryptographic Techniques	1460	102109	2016-06-24
+1169008467	13145	InfoSecCD	Information Security Curriculum Development	285	1337	2016-06-24
+1169806927	10340	FM	Formal Methods	4636	55374	2016-06-24
+1188965700	10908	RECOMB	Research in Computational Molecular Biology	1376	25794	2016-06-24
+1197725624	14477	SERENE	Software Engineering for Resilient Systems	93	338	2016-06-24
+1197804595	11348	BROADNETS	Broadband Communications, Networks and Systems	1340	9657	2016-06-24
+2621911652	14818	SMI	Shape Modeling International Conference	32	469	2017-06-15
+2622815044	12420	CementCon	Cement Industry Technical Conference	777	1852	2017-06-15
+2625190319	14475	APL	International Conference on APL	978	2223	2017-06-23
+2625849710	13522	MobiArch	Mobility in the Evolving Internet Architecture 	108	1579	2017-06-23
+2625908621	14090	C3S2E	International C* Conference on Computer Science & Software Engineering	140	459	2017-06-23
+2754603575	13670	ACBD	International Conference on Advanced Cloud and Big Data	253	204	2017-09-25
+2754637515	14504	ICSGCE	International Conference on Smart Grid and Clean Energy Technologies	113	56	2017-09-25
+2754697138	13765	EuroHaptics	International Conference on Haptics: Perception, Devices and Scenarios	119	1098	2017-09-25
+2755362109	14155	ICCCT	International Conference on Computing and Communications Technologies	155	85	2017-09-25
+2756396664	13272	GIS	Encyclopedia of GIS	337	648	2017-09-25
+2757226066	13676	SSS	International Symposium on Stabilization, Safety, and Security of Distributed Systems	236	1135	2017-10-06
+2757256279	14532	IESS	International Embedded Systems Symposium	85	263	2017-10-06
+2759827559	14040	AMS	Autonome Mobile Systeme	133	344	2017-10-06
+1121181248	12967	BNAIC	Belgium-Netherlands Conference on Artificial Intelligence	248	924	2016-06-24
+1125490875	13050	ReCoSoC	Reconfigurable Communication-centric Systems-on-Chip	368	1197	2016-06-24
+1130053016	12355	NaBIC	Nature and Biologically Inspired Computing	709	4987	2016-06-24
+1154077072	12271	CONIELECOMP	International Conference on Electronics, Communications, and Computers	799	1775	2016-06-24
+1169373553	11050	ISSPA	Information Sciences, Signal Processing and their Applications	2097	9383	2016-06-24
+1170695740	8753	SMC	Systems, Man and Cybernetics	28628	542712	2016-06-24
+2622930878	12108	MMAR	International Conference on Methods and Models in Automation and Robotics	1379	2629	2017-06-15
+2623190570	11965	ISWPC	International Symposium on Wireless Pervasive Computing	645	5141	2017-06-15
+2624946902	13526	SIGSMALL	Symposium on Small Systems	220	754	2017-06-23
+2625105974	17426	PADD	Workshop on Parallel & Distributed Debugging	65	2794	2017-06-23
+2626463979	19269	WIIAT	International Conferences on Web Intelligence and Intelligent Agent Technology	1	0	2017-06-23
+2754187978	12138	PEEED	International Conference on Power Engineering, Energy and Electrical Drives	748	3322	2017-09-25
+2754710603	11524	ICSICT	IEEE International Conference on Solid-State and Integrated Circuit Technology	2095	1592	2017-09-25
+2754760940	13281	ISE 	International Symposium on Electrets	1531	2497	2017-09-25
+2755191341	14262	ABLAZE	International Conference on Futuristic Trends on Computational Analysis and Knowledge Management	132	196	2017-09-25
+2755307621	14247	InECCE	International Conference on Electrical, Control and Computer Engineering	105	413	2017-09-25
+2755529264	12868	MEMS	IEEE/LEOS International Conference on Optical MEMS	263	1736	2017-09-25
+2755813646	11231	ACC	Asian Control Conference	2401	5375	2017-09-25
+2889993175	17646	FWCG	Fall Workshop Computational Geometry	10	121	2018-09-27
+1174458453	13040	ISPEC	Information Security Practice and Experience	316	2450	2016-06-24
+2622163546	12215	HPCS	International Conference on High Performance Computing and Simulation	883	3736	2017-06-15
+2622250501	11958	CSEE&T	Conference on Software Engineering Education and Training	852	4712	2017-06-15
+2623605732	10638	ASICON	International Conference on ASIC	3899	10936	2017-06-15
+2753970348	13104	IFEEC	IEEE International Future Energy Electronics Conference	411	519	2017-09-25
+2753990971	13686	HCC	International Conference on Human Centered Computing	260	113	2017-09-25
+2754492142	10241	ICMC	International Computer Music Conference	3938	21215	2017-09-25
+2754513596	11822	ICETET	International Conference on Emerging Trends in Engineering and Technology	1115	4038	2017-09-25
+2755123489	13935	FIT	International Conference on Future Information Technology	143	883	2017-09-25
+2755323504	13304	IconSpace	IEEE International Conference on Space Science and Communication	323	542	2017-09-25
+2755590033	14202	PCHP	International Conference on Progress in Cultural Heritage Preservation	97	499	2017-09-25
+2755591691	13580	CIEC	International Conference on Control, Instrumentation, Energy & Communication	266	318	2017-09-25
+2756249232	13430	TechSym	IEEE Students’ Technology Symposium	258	809	2017-09-25
+2756464993	13359	HNICEM	International Conference on Humanoid, Nanotechnology, Information Technology,Communication and Control, Environment and Management	345	223	2017-09-25
+2760749209	12020	Med2.0	Medicine 2.0 Conference	1378	1134	2017-10-06
+2890430446	15454	CSBio	International Conference Computational Systems-Biology and Bioinformatics	44	37	2018-09-27
+2891131036	18505	AIES	AAAI/ACM conference Artificial Intelligence, Ethics, and Society	2	1	2018-09-27
+1179814642	13114	IWOMP	International Workshop on OpenMP	304	2755	2016-06-24
+2624387484	13497	AMPS	International Workshop on Applied Measurements for Power Systems	215	723	2017-06-15
+2625712539	14829	AGERE	Programming Based on Actors, Agents, and Decentralized Control	63	301	2017-06-23
+2734428011	12638	IWAGPR	International Workshop on Advanced Ground Penetrating Radar	436	940	2017-07-21
+2754917662	14249	IEDMS	International Electron Devices and Materials Symposium	146	23	2017-09-25
+2755267605	12660	IEEE-CS	IEEE Congress on Services	314	3484	2017-09-25
+2755402677	13193	CHSE	IEEE Colloquium on Humanities, Science and Engineering	360	680	2017-09-25
+2755820735	14038	ISNCC	International Symposium on Networks, Computers and Communications	170	230	2017-09-25
+2756487522	15440	EMMSAD	Exploring Modeling Methods for Systems Analysis and Design	31	259	2017-10-06
+2757548706	25000	ECDM	Evolution and Change in Data Management	30	583	2017-10-06
+2757979746	14215	BICS	Brain Inspired Cognitive Systems	137	282	2017-10-06
+2758535835	15964	CARDIOTECHNIX	International Congress on Cardiovascular Technologies	26	54	2017-10-06
+2889720264	19269	ubimus	Workshop Ubiquitous Music	1	0	2018-09-27
+2892017464	17883	ICCNCT	International conference Computer Networks and Inventive Communication Technologies	4	0	2018-09-27
+1125007497	13188	WAOA	Workshop on Approximation and Online Algorithms	359	2221	2016-06-24
+1134101006	12316	ICSC	International Conference on Semantic Computing	742	3009	2016-06-24
+1141762878	13876	BIOSIG	Biometrics and Electronic Signatures	147	677	2016-06-24
+1163280044	12800	FQAS	Flexible Query Answering Systems	496	2857	2016-06-24
+1169379829	12563	REFSQ	Requirements Engineering: Foundation for Software Quality	406	3885	2016-06-24
+1198936338	11703	CASES	Compilers, Architecture, and Synthesis for Embedded Systems	588	9853	2016-06-24
+2624727967	13221	KoliCalling	Koli Calling International Conference on Computing Education Research	255	1400	2017-06-23
+2753967874	12747	EMTS	URSI International Symposium on Electromagnetic Theory	572	754	2017-09-25
+2754019522	12614	IPMS	International Power Modulator Symposium	417	1313	2017-09-25
+2754420305	11273	HIVETS	Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems	752	14804	2017-09-25
+2754632699	14497	ALRLIP	ACM Transactions on Asian and Low-Resource Language Information Processing	111	121	2017-09-25
+2755250830	12812	PPID	International Symposium on Plasma Process-Induced Damage	383	1065	2017-09-25
+2755413012	14439	ICCCI	IEEE International Conference on Computer Communication and Internet	121	47	2017-09-25
+2755424799	13412	ICSTM	International Conference on Smart Technologies and Management for Computing, Communication, Controls, Energy and Materials	312	377	2017-09-25
+2756051574	13241	CODEC	International Conference on Computers and Devices for Communication	357	598	2017-09-25
+2760479278	14693	ANNIIP	Artificial Neural Networks and Intelligent Information Processing	90	88	2017-10-06
+2890698416	25000	ACSS	International Doctoral Symposium Applied Computation and Security Systems	1	0	2018-09-27
+2891434011	16379	ICTTE	International Conference Transportation and Traffic Engineering	18	0	2018-09-27
+1121344769	11263	ADHOCNETS	Ad Hoc Networks	2585	67469	2016-06-24
+1123889583	13742	LoCA	Location- and Context-Awareness	90	2455	2016-06-24
+1156437979	14283	MOL	Mathematics of Language	118	351	2016-06-24
+1160032607	9442	POPL	Symposium on Principles of Programming Languages	1648	107865	2016-06-24
+1198629739	13521	AIIDE	Artificial Intelligence and Interactive Digital Entertainment Conference	248	759	2016-06-24
+2621869715	12123	INES	International Conference on Intelligent Engineering Systems	902	2844	2017-06-15
+2625221505	14422	PMAM	Programming Models and Applications for Multicores and Manycores	99	317	2017-06-23
+2626255382	15195	E2SC	International Workshop on Energy Efficient Supercomputing	45	183	2017-06-23
+2754929257	14119	CFIS	Iranian Joint Congress on Fuzzy and Intelligent Systems	172	38	2017-09-25
+2755632681	11823	ICALIP	International Conference on Audio, Language and Image Processing	1334	2233	2017-09-25
+2756264349	14173	GI	Informatik bewegt: Informatik - . Jahrestagung der Gesellschaft für Informatik e.v.	145	152	2017-09-25
+2760724673	15093	ALA	Adaptive and Learning Agents	54	358	2017-10-06
+2889571404	18576	EASC	Engineering and Applied Science Conference	2	0	2018-09-27
+2891291146	16324	LENLS	Logic and Engineering Natural Language Semantics	15	61	2018-09-27
+1165958984	11804	CSL	Computer Science Logic	1319	13641	2016-06-24
+1171812933	13981	SASP	Symposium on Application Specific Processors	81	917	2016-06-24
+1179671792	12807	ICSIPA	International Conference on Signal and Image Processing Applications	525	1157	2016-06-24
+1183230087	8441	ISSCC	International Solid-State Circuits Conference	9429	177728	2016-06-24
+1187230347	12958	SBBD	Brazilian Symposium on Databases	460	879	2016-06-24
+1195800536	11432	PARCO	Parallel Computing	5896	63792	2016-06-24
+1198780418	7699	CDC	Conference on Decision and Control	37212	325456	2016-06-24
+2623243338	14104	ISPCE	Symposium on Product Compliance Engineering	154	156	2017-06-15
+2753949760	12756	ICNN	International Conference on Nanoscience and Nanotechnology	862	1329	2017-09-25
+2753952956	13217	ICCP	IEEE International Conference on Communication Problem-Solving	410	127	2017-09-25
+2754167565	13176	CECT	International Conference on Control Engineering and Communication Technology	407	317	2017-09-25
+2754451680	13181	Glottometrics	Glottometrics	309	1043	2017-09-25
+2754562224	12402	ICIA	IEEE International Conference on Information Acquisition	649	2430	2017-09-25
+2754596533	12394	LFNM	International Conference on Laser and Fiber-Optical Networks Modeling	892	394	2017-09-25
+2754679666	12541	PEMMSW	International Kharkov Symposium on Physics and Engineering of Microwaves, Millimeter, and Submillimeter Waves	731	442	2017-09-25
+2755582339	12196	ICMV	International Conference on Machine Vision	1323	1539	2017-09-25
+2755747537	13231	WMNC	Joint IFIP Wireless and Mobile Networking Conference	279	1326	2017-09-25
+2756328140	9809	NSS	IEEE Nuclear Science Symposium	9722	60301	2017-09-25
+2758382744	15896	FIRE	FIRE Workshops	29	23	2017-10-06
+2889931467	14850	ICoSaPS	International Conference Social and Political Sciences	84	0	2018-09-27
+1122308263	12060	WISA	Workshop on Information Security Applications	938	4410	2016-06-24
+1132833691	12495	ICESS	International Conference on Embedded Software and Systems	651	2618	2016-06-24
+1152604843	13203	ICARIS	International Conference on Artificial Immune Systems	345	5836	2016-06-24
+1153556929	14251	EUROSEC	European Workshop on System Security	50	893	2016-06-24
+1159925514	11976	PST	Conference on Privacy, Security and Trust	1089	3719	2016-06-24
+1173972131	11609	MobiQuitous	International Conference on Mobile and Ubiquitous Systems: Networking and Services	813	9923	2016-06-24
+1174915412	13630	EC	Electronic Commerce	2157	77906	2016-06-24
+1187160151	10486	DSN	Dependable Systems and Networks	1813	36008	2016-06-24
+1187420394	12007	DocEng	Document Engineering	730	6279	2016-06-24
+1187726438	11379	ITNG	International Conference on Information Technology: New Generations	1763	8496	2016-06-24
+1197179538	12613	PACCS	Pacific-Asia Conference on Circuits, Communications and Systems	687	817	2016-06-24
+1200891582	12291	COMMA	Computational Models of Argument	718	3025	2016-06-24
+1200979010	11773	ICAART	International Conference on Agents and Artificial Intelligence	1603	2515	2016-06-24
+2625777887	17391	IRTAW	International Workshop on Real-time Ada Issues	84	412	2017-06-23
+2626107884	13664	SCM	Software Configuration Management Workshop	121	1802	2017-06-23
+2735158333	11422	NER	International IEEE/EMBS Conference on Neural Engineering	1769	7242	2017-07-21
+2754109186	13167	IACEMPE	International Aegean Conference on Electrical Machines and Power Electronics	282	1034	2017-09-25
+2754387498	13572	IITSI	International Symposium on Intelligent Information Technology and Security Informatics	224	654	2017-09-25
+2754470935	9083	IAS	IEEE Industry Applications Society Annual Meeting	9091	169567	2017-09-25
+2754660096	12701	APCAP	IEEE Asia-Pacific Conference on Antennas and Propagation	646	385	2017-09-25
+2754731631	13221	CSCS	International Conference on Control Systems and Computer Science	367	644	2017-09-25
+2755724983	12798	Eurohaptics	International Conference on Human Haptic Sensing and Touch Enabled Computer Applications	531	1638	2017-09-25
+2755912860	12795	PEDSTC 	The Power Electronics, Drive Systems & Technologies Conference	512	1157	2017-09-25
+2755945200	13023	APMRC	Asia-Pacific Magnetic Recording Conference	737	4646	2017-09-25
+2756114173	12483	DMCC	Distributed Memory Computing Conference	360	2113	2017-09-25
+2757634473	17520	WoMO	Workshop on Modular Ontologies	4	35	2017-10-06
+2757784406	14685	DAMP	Workshop on Declarative Aspects of Multicore Programming	35	650	2017-10-06
+2758028224	13626	VRIC	Virtual Reality International Conference	225	495	2017-10-06
+2892093180	12259	Modelica	International Modelica Conference	703	3274	2018-09-27
+1124125381	10536	VTS	VLSI Test Symposium	1810	25951	2016-06-24
+1127463865	14107	AISM	Australian Information Security Management Conference	142	296	2016-06-24
+1130347816	11522	FPT	Field-Programmable Technology	1188	9032	2016-06-24
+1180161503	12569	SoCPaR	Soft Computing and Pattern Recognition	633	1976	2016-06-24
+2623320220	10966	INDICON	IEEE India Conference	3044	6860	2017-06-15
+2626605953	13935	ERLANG	Annual ERLANG Workshop	160	1147	2017-06-23
+2754301691	14433	ICEPE	International Conference on Energy, Power and Environment	119	75	2017-09-25
+2754355516	14068	WoW	IEEE PELS Workshop on Emerging Technologies: Wireless Power Transfer	173	70	2017-09-25
+2754697363	13399	TMGF	Technology Management for Global Future - PICMET Conference	281	760	2017-09-25
+2755860554	14185	CCC	Computing Colombian Conference	151	104	2017-09-25
+2755924430	12981	ECWT	European Conference on Wireless Technology	323	1447	2017-09-25
+2755934618	13458	CHI	Conference on Human Interface	240	777	2017-09-25
+2756267278	13094	BigComp	International Conference on Big Data and Smart Computing	440	530	2017-09-25
+2756296263	13424	ICITACEE	International Conference on Information Technology, Computer, and Electrical Engineering	324	202	2017-09-25
+2760214619	17630	HoloMAS	Holonic and Multi-Agent Systems for Manufacturing	28	222	2017-10-06
+2760332667	15210	FMN	Future Multimedia Networking	44	137	2017-10-06
+1195738541	12335	SASO	Self-Adaptive and Self-Organizing Systems	660	4020	2016-06-24
+1196868077	13822	ICCVG	International Conference on Computer Vision and Graphics	247	435	2016-06-24
+2622186505	15147	WEIT	Workshop-School on Theoretical Computer Science	54	88	2017-06-15
+2754054839	14262	ICTCK	International Congress on Technology, Communication and Knowledge	144	73	2017-09-25
+2754183309	12792	ICROM	International Conference on Robotics and Mechatronics	593	720	2017-09-25
+2754415389	13630	OMAC	IEEE/LEOS International Conference on Optical MEMS and Their Applications Conference	195	412	2017-09-25
+2755482459	13809	SGC	Smart Grid Conference	215	226	2017-09-25
+2755486007	14771	PDCN	International Conference on Parallel and Distributed Computing and Networks	154	320	2017-09-25
+2756024885	12616	CME	IEEE/ICME International Conference on Complex Medical Engineering	619	1372	2017-09-25
+2756318837	12545	DOOD	International Conference on Deductive and Object-Oriented Databases	157	3256	2017-09-25
+2758124996	12952	SoCC	System-on-Chip Conference	588	1118	2017-10-06
+1121713910	12983	SWS	Secure Web Services	306	1771	2016-06-24
+1124713781	10874	ICWSM	International Conference on Weblogs and Social Media	1130	33626	2016-06-24
+1160389874	14518	MobiSec	Security and Privacy in Mobile Information and Communication Systems	67	437	2016-06-24
+1173521070	11982	WAIM	Web-Age Information Management	1574	5708	2016-06-24
+1184914352	8254	AAAI	National Conference on Artificial Intelligence	14304	248728	2016-06-24
+1194923781	13315	MATES	Multiagent System Technologies	330	1942	2016-06-24
+2621410413	13241	ICSGRC	Control and System Graduate Research Colloquium	341	681	2017-06-15
+2622693136	12658	APWC	Topical Conference on Antennas and Propagation in Wireless Communications	598	865	2017-06-15
+2624202484	12943	ISPCS	International Symposium on Precision Clock Synchronization for Measurement Control and Communication	243	1939	2017-06-15
+2626628861	16214	MobileHealth	International Workshop on Pervasive Wireless Healthcare	14	89	2017-06-23
+2754690216	12365	ICISA	International Conference on Information Science and Applications	797	1664	2017-09-25
+2754892586	13217	IPMM	International Conference on Intelligent Processing and Manufacturing of Materials	218	699	2017-09-25
+2755017206	12123	IFITA	International Forum on Information Technology and Applications	912	1604	2017-09-25
+2757842872	16503	WMC	Workshop on Web-scale Multimedia Corpus	7	88	2017-10-06
+1119712653	12678	CAINE	Computer Applications in Industry and Engineering	631	801	2016-06-24
+1127979935	12864	ARSO	Advanced Robotics and its Social Impacts	414	1572	2016-06-24
+1144120221	12771	SoMeT	New Trends in Software Methodologies, Tools and Techniques	590	820	2016-06-24
+1144604942	11553	NordiCHI	Nordic Conference on Human-Computer Interaction	919	11132	2016-06-24
+1157881478	12201	WIAMIS	Workshop on Image Analysis for Multimedia Interactive Services	591	3250	2016-06-24
+1162660226	13637	W2GIS	Web and Wireless Geographical Information Systems	221	1341	2016-06-24
+1185931494	11637	FedCSIS	Federated Conference on Computer Science and Information Systems	1649	4753	2016-06-24
+1187862248	13910	BSB	Brazilian Symposium on Bioinformatics	169	588	2016-06-24
+2533559355	10857	GI	Graphics Interface	932	21325	2016-10-28
+2538156572	12260	AOMAM	Academy of Management Annual Meeting	1118	8646	2016-10-28
+2623057608	10742	SPAWC	International Workshop on Signal Processing Advances in Wireless Communications	2758	14719	2017-06-15
+2623982781	10961	PacRim	Pacific Rim Conference on Communications, Computers and Signal Processing	2421	8204	2017-06-15
+2626823052	16846	DAMP	Declarative Aspects and Applications of Multicore Programming	7	51	2017-06-23
+2754451753	13035	MAHN	Annual Mediterranean Ad Hoc Networking Workshop	309	1951	2017-09-25
+2754456056	13157	SANER	IEEE International Conference on Software Analysis, Evolution, and Reengineering	358	1415	2017-09-25
+2754669714	14122	HiNC	IFIP Conference on history of nordic computing	157	143	2017-09-25
+2755175125	13130	ICCCD	International Conference on Cross-Cultural Design	437	326	2017-09-25
+2755305800	13210	VIPC	Visual Information Processing Conference	330	1141	2017-09-25
+2755916190	13094	NNPS	International Forum on Applications of Neural Networks to Power Systems	132	1104	2017-09-25
+2756019746	13352	CSN	International conference on Wireless Communication and Sensor Networks	301	686	2017-09-25
+2756245007	12523	HVEA	International Conference on High Voltage Engineering and Application	641	1258	2017-09-25
+2757866354	25000	CIAA	Conference on Implementation and Application of Automata	11	215	2017-10-06
+2758299037	13436	MMCS	Mathematical Methods for Curves and Surfaces	182	1097	2017-10-06
+2758506058	14581	ISAmI	International Symposium on Ambient Intelligence	98	207	2017-10-06
+2759565471	14397	SHARK	Sharing and Reusing Architectural Knowledge	63	768	2017-10-06
+1139297330	12738	APLAS	Asian Symposium on Programming Languages and Systems	503	4594	2016-06-24
+1166315290	9746	UIST	User Interface Software and Technology	1713	67689	2016-06-24
+2537263150	15613	EC	Economics and Computation	402	2017	2016-10-28
+2623948813	12193	ICSPCS	International Conference on Signal Processing and Communication Systems	931	2247	2017-06-15
+2735450524	12612	LANMAN	Workshop on Local and Metropolitan Area Networks	449	2060	2017-07-21
+2754108113	11085	PSCE	IEEE PES Power Systems Conference and Exposition	1205	13087	2017-09-25
+2754215482	12786	IASF	International Congress on Instrumentation in Aerospace Simulation Facilities	381	1452	2017-09-25
+2754775545	12477	ISIEA	IEEE Symposium on Industrial Electronics and Applications	628	2302	2017-09-25
+2754939982	12885	WSA	International ITG Workshop on Smart Antennas	320	2179	2017-09-25
+2754945561	12225	URSJE	Urban Remote Sensing Joint Event	783	2608	2017-09-25
+2755108967	12549	DASC	IEEE International Conference on Dependable, Autonomic and Secure Computing	557	2920	2017-09-25
+2756222420	13443	DAPI	International Conference on Distributed, Ambient, and Pervasive Interactions	309	389	2017-09-25
+2756369022	14010	CNT	International Conference on Computer and Network Technology	122	708	2017-09-25
+2759233208	16355	IWEI	International Workshop on Enterprise Interoperability	11	94	2017-10-06
+2759714381	14627	WOSS	ACM SIGSOFT workshop on Self-managed Systems	22	566	2017-10-06
+2890098435	14723	ICSRS	International Conference System Reliability and Safety	94	3	2018-09-27
+2891748985	25000	ICCED	International Conference Computing Engineering and Design	47	0	2018-09-27
+1126579363	13421	ECMR	European Conference on Mobile Robots	231	1097	2016-06-24
+1145950025	12341	VALUETOOLS	Performance Evaluation Methodolgies and Tools	652	4046	2016-06-24
+1173322821	17155	ISSE	Information Security Solutions Europe	17	59	2016-06-24
+1175727152	11464	ISAAC	International Symposium on Algorithms and Computation	2347	13766	2016-06-24
+2622554062	11322	ICCST	International Carnahan Conference on Security Technology	1662	7634	2017-06-15
+2626018664	15176	SPM	Solid and Physical Modeling	236	3304	2017-06-23
+2735779883	10099	QELS	Quantum Electronics and Laser Science Conference	8674	17015	2017-07-21
+2754027635	14083	CSCN	IEEE Conference on Standards for Communications and Networking	154	249	2017-09-25
+2754873752	13133	EQEC	European Quantum Electronic Conference	443	208	2017-09-25
+2755158789	13275	PST-PIC	Joint International Conference on Power System Technology and IEEE Power India Conference	240	1140	2017-09-25
+2755559408	13776	ICINS	Saint Petersburg International Conference on Integrated Navigation Systems	228	83	2017-09-25
+2756259377	14112	SCMI	International Conference on Supply Chain Management and Information	168	112	2017-09-25
+2757484200	14172	MCS	Multiple Classifier Systems	262	7162	2017-10-06
+2758047087	15022	IWAI	International Workshop on Affective Interactions	15	444	2017-10-06
+2758740029	13000	AI*IA	Congress of the Italian Association for Artificial Intelligence	573	3077	2017-10-06
+2892005837	16041	ICCBDC	International Conference Cloud and Big Data Computing	25	3	2018-09-27
+1127419992	9211	INTERACT	International Conference on Human-Computer Interaction	16559	53053	2016-06-24
+1152478978	13501	EuroCG	European Workshop on Computational Geometry	266	1722	2016-06-24
+1174979956	13612	ECMFA	European Conference on Modelling Foundations and Applications	190	1246	2016-06-24
+2623179781	10653	BCTM	Bipolar/BiCMOS Circuits and Technology Meeting	2261	11406	2017-06-15
+2623794690	12503	EuMIC	European Microwave Integrated Circuits Conference	577	1388	2017-06-15
+2754170066	13253	ICCES	International Conference on Communication and Electronics Systems	407	54	2017-09-25
+2755247319	12940	TAAI	International Conference on Technologies and Applications of Artificial Intelligence	479	761	2017-09-25
+2755330030	13220	ISET	International Symposium on Electromagnetic Theory	344	557	2017-09-25
+2757403054	13268	SocProS	Soft Computing for Problem Solving	358	578	2017-10-06
+2759500638	12071	WTEC	USENIX Winter Technical Conference	28	3149	2017-10-06
+2889931010	14152	ES	International Conference Enterprise Systems	158	232	2018-09-27
+2891957951	15534	JITH	Journées Internationales de Thermique	41	5	2018-09-27
+1165196434	11670	ICIRA	International Conference on Intelligent Robotics and Applications	1716	2751	2016-06-24
+1173173816	11996	FORTE	Formal Techniques for (Networked and) Distributed Systems	848	7516	2016-06-24
+1173897633	12008	PETS	Privacy Enhancing Technologies	424	14480	2016-06-24
+1179516875	12215	SCSC	Summer Computer Simulation Conference	714	2809	2016-06-24
+1190496814	11380	MIR	Multimedia Information Retrieval	542	13270	2016-06-24
+1195359883	12885	BIODEVICES	International Conference on Biomedical Electronics and Devices	519	566	2016-06-24
+2624118894	12515	REPC	Rural Electric Power Conference	514	3240	2017-06-15
+2754677391	13393	DHM	International Conference on Digital Human Modeling	260	1020	2017-09-25
+2754704957	13614	ICSITech	International Conference on Science in Information Technology	276	94	2017-09-25
+2755258409	11254	PCC	Power Conversion Conference	826	9173	2017-09-25
+2756028741	11301	ICRSETE	International Conference on Remote Sensing, Environment and Transportation Engineering	2808	867	2017-09-25
+2757030968	10268	SCAMC	Annual Symposium on Computer Application in Medical Care	3926	14859	2017-10-06
+2759788639	13236	MOS	International Workshop on Mobile Object Systems	27	1648	2017-10-06
+2760746302	15066	WS-REST	International Workshop on RESTful Design	31	363	2017-10-06
+1122019578	13479	BMSD	Business Modeling and Software Design	311	256	2016-06-24
+1132202845	11179	ICINCO	International Conference on Informatics in Control, Automation and Robotics	2804	4200	2016-06-24
+1185392286	12780	ICISP	International Conference on Image and Signal Processing	439	1943	2016-06-24
+2621802131	11124	WAC	World Automation Congress	2907	4162	2017-06-15
+2622409475	10917	ICCCAS	International Conference on Communications, Circuits and Systems	2978	8706	2017-06-15
+2624549483	12185	SENSORS	IEEE Sensors	7753	28834	2017-06-15
+2754006793	12503	ICRR	International Conference on Rehabilitation Robotics	421	3706	2017-09-25
+2754186610	12482	EMC	Euro-Mediterranean Conference	866	713	2017-09-25
+2754480710	14441	ICA-ACCA	IEEE International Conference on Automatica	119	63	2017-09-25
+2754501115	14431	ICMETE	International Conference on Micro-Electronics and Telecommunication Engineering	125	23	2017-09-25
+2754723299	11784	AIPS	International Conference on Artificial Intelligence Planning Systems	241	7407	2017-09-25
+2754725756	12501	SAC	International Conference on Selected areas in Cryptography	254	5247	2017-09-25
+2755018909	11410	ICC	International Conference on Circuits	2247	2873	2017-09-25
+2755154462	12572	BodyNets	International Conference on Body Area Networks	478	2844	2017-09-25
+2755388398	13565	MEACS	International Conference on Mechanical Engineering, Automation and Control Systems	247	238	2017-09-25
+2755825865	14423	SiGeTDM	International SiGe Technology and Device Meeting	280	1424	2017-09-25
+2756153871	13279	ISAM	IEEE International Symposium on Assembly and Manufacturing	303	847	2017-09-25
+2757036473	14811	PIT	Perception and Interactive Technologies	64	623	2017-10-06
+2759576092	14405	JFSMA	Journees Francophones sur les Systemes Multi-Agents	130	60	2017-10-06
+1140902380	14277	MMM-ACNS	Mathematical Methods, Models, and Architectures for Network Security Systems	218	1794	2016-06-24
+1147218201	12606	MSE	Microelectronics Systems Education	478	1453	2016-06-24
+1176128511	12673	MIE	Medical Informatics Europe	2598	10257	2016-06-24
+1180172597	14010	TPDL	Theory and Practice of Digital Libraries	130	624	2016-06-24
+1193676667	14082	PervasiveHealth	Pervasive Computing Technologies for Healthcare	56	1255	2016-06-24
+1196339157	11795	ISADS	International Symposium on Autonomous Decentralized Systems	846	5502	2016-06-24
+1198121106	11344	RAID	Recent Advances in Intrusion Detection	484	18595	2016-06-24
+1201766282	13145	C5	Conference on Creating, Connecting and Collaborating through Computing	253	1553	2016-06-24
+2622518571	11788	ICUFN	International Conference on Ubiquitous and Future Networks	1497	2674	2017-06-15
+2622983767	12379	3DUI	Symposium on 3D User Interfaces	547	3891	2017-06-15
+2623921479	12233	WTS	Wireless Telecommunications Symposium	728	3152	2017-06-15
+2624449468	11997	MLSP	International Workshop on Machine Learning for Signal Processing	1053	4425	2017-06-15
+2626150945	12826	BigData Congress	International Congress on Big Data	465	1955	2017-06-23
+2754102603	12255	NCC	National Conference on Communications	863	2734	2017-09-25
+2754356673	13154	PGC	Photonics Global Conference	433	416	2017-09-25
+2754442425	14069	ISBMDA	international conference on Biological and Medical Data Analysis	132	530	2017-09-25
+2754445447	12845	ICCIA	International Conference on Control, Instrumentation, and Automation	576	427	2017-09-25
+2755420708	13643	ICCS	IEEE International Conference on Complex Systems	243	528	2017-09-25
+2755477862	12966	CSOC	Computer Science On-line Conference	530	359	2017-09-25
+2756217952	12505	FTDCS	IEEE Computer Society Workshop on Future Trends of Distributed Computing Systems	324	2945	2017-09-25
+2756467717	14105	FBIE	International Conference on Future BioMedical Information Engineering	149	236	2017-09-25
+2758535430	15949	ONISW	Ontologies and Information Systems for the Semantic Web	15	146	2017-10-06
+2759193041	14396	SAGA	International conference on Stochastic Algorithms: foundations and applications	112	2201	2017-10-06
+2760383138	15402	WPA	Workshop on Physical Analytics	35	135	2017-10-06
+2890629358	15933	ICPES	IEEE International Conference Power and Energy Systems	28	1	2018-09-27
+1130873268	11406	IPMI	Information Processing in Medical Imaging	703	15995	2016-06-24
+1142642735	12224	QEST	Quantitative Evaluation of Systems	518	6279	2016-06-24
+2533620957	11838	METRICS	IEEE International Software Metrics Symposium	313	10241	2016-10-28
+2537178404	10014	IEEE VIS	IEEE Visualization	1606	54845	2016-10-28
+2625492134	16811	PADTAD	Parallel and Distributed Systems: Testing, Analysis, and Debugging	6	43	2017-06-23
+2754241216	14206	BESC 	International Conference on Behavioral, Economic, and Socio-Cultural Computing	154	65	2017-09-25
+2754362210	11076	ICISE	International Conference on Information Science and Engineering	3262	2956	2017-09-25
+2755117030	13791	ICACDOT	International Conference on Automatic Control and Dynamic Optimization Techniques	234	62	2017-09-25
+2755187761	12288	BPEC	Brazilian Power Electronics Conference	769	2269	2017-09-25
+2756044276	11744	RWC	IEEE Radio and Wireless Conference	503	4099	2017-09-25
+2757208783	17091	DSMM	Data-Intensive Software Management and Mining	6	27	2017-10-06
+2758038839	14680	A2CWiC	Amrita ACM-W Celebration on Women in Computing in India	70	192	2017-10-06
+2758502524	12599	GreenCom	Green Computing and Communications	594	2210	2017-10-06
+2759110750	15833	iNEWS	Improving Non English Web Searching	17	122	2017-10-06
+2760620319	14918	PLSA	International Conference on Programming Languages and System Architectures	23	258	2017-10-06
+2889971580	15668	AARES AC	AARES Conference	31	95	2018-09-27
+1121506370	13449	NFM	NASA Formal Methods	192	1673	2016-06-24
+1128447352	12836	ISSA	Information Security for South Africa	413	2030	2016-06-24
+1134662578	11873	CLUSTER	International Conference on Cluster Computing	1485	22510	2016-06-24
+1163264588	11181	Euro-Par	European Conference on Parallel Processing	3255	22581	2016-06-24
+2625363221	14052	WODA	International Workshop on Dynamic Analysis	99	1269	2017-06-23
+2625615360	16186	SEHPCCSE	Software Engineering for High Performance Computing in Computational Science and Engineering	17	48	2017-06-23
+2754211491	12583	ATEE	International Symposium on Advanced Topics in Electrical Engineering	689	877	2017-09-25
+2754750494	13011	CHFPP	Conference on Human Factors and Power Plants	325	1170	2017-09-25
+2755026039	13077	CCIE	IEEE International Conference on Computing, Control and Industrial Engineering	431	482	2017-09-25
+2755130900	13874	DESTC	IEEE-IES Digital EcoSystems and Technologies Conference	114	921	2017-09-25
+2755327867	12758	Agro-geoinformatics	International Conference on Agro-Geoinformatics	637	473	2017-09-25
+2755705300	13783	OPEE	International Conference on Optics, Photonics and Energy Engineering	229	90	2017-09-25
+2755896242	14282	RSTS & CC	Recent Advances in Space Technology Services and Climate Change	102	289	2017-09-25
+2756772395	15568	TestCom	International Conference on Testing (of Software and) Communication Systems	19	206	2017-10-06
+2760555016	14356	MACOM	Multiple Access Communications	126	319	2017-10-06
+2889862814	13312	CAAD futures	Computer-Aided Architectural Design Futures	258	835	2018-09-27
+2890538087	15447	CODE	Conference Digital Economy	45	13	2018-09-27
+1137793517	12253	PAM	Passive and Active Network Measurement	469	8757	2016-06-24
+1137850760	10317	ICCCN	International Conference on Computer Communications and Networks	3036	29807	2016-06-24
+1172556315	11452	ICB	International Conference on Biometrics	1110	11728	2016-06-24
+1180629740	12167	MUM	Mobile and Ubiquitous Multimedia	582	5149	2016-06-24
+1192555206	14378	ICAIS	International Conference on Adaptive and Intelligent Systems	95	375	2016-06-24
+1200029762	13281	MIG	Motion in Games	285	1334	2016-06-24
+1203104074	15106	A-MOST	Advances in Model-Based Software Testing	45	645	2016-06-24
+2621606475	12408	ITC	International Teletraffic Congress	615	3980	2017-06-15
+2621951043	13063	HIS	Hybrid Intelligent Systems	569	3195	2017-06-15
+2754040077	13452	HAEG	IEEE International Workshop on Haptic Audio visual Environments and Games	203	1230	2017-09-25
+2754547974	12554	CPR	ACM SIGCPR/SIGMIS conference on Computer Personnel Research	456	3676	2017-09-25
+2754781246	9716	SAC	ACM Symposium on Applied Computing	6744	60811	2017-09-25
+2755063170	12620	CogInfoCom	IEEE International Conference on Cognitive Infocommunications	663	1262	2017-09-25
+2755150869	13743	ITAE	IEEE International Symposium on Information Technologies and Applications in Education	140	320	2017-09-25
+2755187858	12282	DEMPED	IEEE International Symposium on Diagnostics for Electric Machines, Power Electronics and Drives	472	3668	2017-09-25
+2755278848	10903	ICPADM	IEEE International Conference on Properties and Applications of Dielectric Materials	2812	7210	2017-09-25
+2755418679	12835	IPS	IEEE International Conference on Intelligent Processing Systems	415	1312	2017-09-25
+2756052503	14371	ISAI	International Conference on Information System and Artificial Intelligence	131	48	2017-09-25
+2756222317	13704	TIC-STH	IEEE Toronto International Conference Science and Technology for Humanity	186	793	2017-09-25
+2756286454	13633	FCV	Korea-Japan Joint Workshop on Frontiers of Computer Vision	215	477	2017-09-25
+2756892666	14520	ISIA	International Symposium on Information and Automation	110	77	2017-10-06
+2758753921	15293	EuroISI	European Conference on Intelligence and Security Informatics	29	221	2017-10-06
+2759602461	14962	FCTA	International Conference on Fuzzy Computation Theory and Applications	71	45	2017-10-06
+2890221122	17751	ICODeL	International Conference Open and Distance e-Learning	4	10	2018-09-27
+2891739809	19269	AEC	Arab Engineering Conference	1	0	2018-09-27
+2892086874	12882	ICITM	International Conference Industrial Technology and Management	592	32	2018-09-27
+1171022770	11157	ICMT	International Conference on Model Transformation	2738	4897	2016-06-24
+2625536980	13808	SUI	Symposium on Spatial User Interaction	185	488	2017-06-23
+2756050579	12905	eScience	IEEE International Conference on eScience	224	2520	2017-09-25
+2756151189	12891	ICW , ICHSN , ICMCS , SENET 	Systems Communications	433	1294	2017-09-25
+2756691533	18211	SemWiki	Semantic Wiki Workshop	2	9	2017-10-06
+2757627729	18139	PIKM	Ph.D. Workshop on Information and Knowledge Management	3	2	2017-10-06
+2758907296	15872	IAS	Annual Meeting of the IEEE Industry Applications Society	25	60	2017-10-06
+2759447405	16159	WOWCS	Conference on Organizing Workshops, Conferences, and Symposia for Computer Systems	12	43	2017-10-06
+2890502083	15311	ICETC	International Conference Education Technology and Computers	52	9	2018-09-27
+2891097365	17046	ROOTS	Reversing and Offensive-Oriented Trends Symposium	9	2	2018-09-27
+1128095430	12496	SEFM	Software Engineering and Formal Methods	378	4389	2016-06-24
+1135455702	12937	TRUST	Trust and Trustworthy Computing	205	2900	2016-06-24
+1150542554	14457	TMFCS	Theoretical and Mathematical Foundations of Computer Science	108	129	2016-06-24
+1159538197	11948	ESEM	Empirical Software Engineering and Measurement	677	9330	2016-06-24
+1162243218	12494	PPAM	Parallel Processing and Applied Mathematics	578	2948	2016-06-24
+1163725243	12777	BNCOD	British National Conference on Databases	608	3053	2016-06-24
+1199829186	13574	PROMAS	Programming Multi-Agent Systems	165	2082	2016-06-24
+2624464780	12097	BTAS	International Conference on Biometrics: Theory, Applications and Systems	539	8548	2017-06-15
+2626789869	11292	ACMSE	ACM Southeast Regional Conference	2040	6728	2017-06-23
+2754633094	13791	ICoDSE	International Conference on Data and Software Engineering	223	143	2017-09-25
+2754794370	12789	MetroAeroSpace	IEEE International Workshop on Metrology for AeroSpace	574	626	2017-09-25
+2755264634	14364	ICELI	International Conference on Education and e-Learning Innovations	119	192	2017-09-25
+2755377460	13901	ISPTS	International Symposium on Physics and Technology of Sensors	199	143	2017-09-25
+2755628779	13843	PAMP	International Conference on Polymers and Adhesives in Microelectronics and Photonics	158	818	2017-09-25
+2755854633	13376	TDCEAP	Transmission & Distribution Conference & Exposition: Asia and Pacific	224	950	2017-09-25
+2760803309	14433	MCIS	Mediterranean Conference on Information Systems	103	307	2017-10-06
+2889931621	19152	EMiT	EMiT: Emerging Technology Conference	1	2	2018-09-27
+2890322945	14109	NFM	NASA Formal Methods Symposium	136	642	2018-09-27
+2891574216	15123	ICSGSC	International Conference Smart Grid and Smart Cities	61	23	2018-09-27
+1120750887	11776	ICA3PP	International Conference on Algorithms and Architectures for Parallel Processing	1466	4694	2016-06-24
+1133200404	14623	DLS	Dynamic Languages Symposium	126	1414	2016-06-24
+2606228224	9466	FUZZ-IEEE	IEEE International Conference on Fuzzy Systems	8246	63276	2017-04-28
+2623382786	11867	SCOReD	Student Conference on Research and Development	1228	3285	2017-06-15
+2625235875	16612	MES	International Workshop on Manycore Embedded Systems	12	28	2017-06-23
+2754204394	13073	CITM	International Conference on Challenges of Information Technology Management in century	418	637	2017-09-25
+2754469003	14075	ECGH	Eurographics Conference on Graphics Hardware	71	443	2017-09-25
+2754605171	13689	IC 	International Conference on Computer, Communication and Control	243	248	2017-09-25
+2755011837	16688	FECS	International Conference on Frontiers in Education	12	8	2017-09-25
+2755228934	14152	STCMMB	IEEE/EMBS Special Topic Conference on Microtechnology in Medicine and Biology	127	411	2017-09-25
+2755666582	13466	CCWC	IEEE Annual Computing and Communication Workshop and Conference	323	140	2017-09-25
+2759135577	14628	WRLA	Workshop on Rewriting Logic and Its Applications	79	673	2017-10-06
+2891499351	15356	ICVIP	International Conference Video and Image Processing	50	1	2018-09-27
+1129447984	11017	CSCWD	Computer Supported Cooperative Work in Design	2916	8006	2016-06-24
+1188739475	8711	ACL	Meeting of the Association for Computational Linguistics	8402	245408	2016-06-24
+1201128503	14183	ECEG	European Conference On e-Government	141	261	2016-06-24
+2621773577	10693	ISIC	International Symposium on Intelligent Control	2391	14986	2017-06-15
+2621944303	12171	COMMAD	Conference on Optoelectronic and Microelectronic Materials and Devices	1085	1112	2017-06-15
+2624723671	12577	ISABEL	Applied Sciences on Biomedical and Communication Technologies	538	2561	2017-06-23
+2754439572	14388	WMSCI	World Multiconference on Systemics, Cybernetics and Informatics: Information Systems Development	109	142	2017-09-25
+2754610831	13128	MOBIHEALTH	International Conference on Wireless Mobile Communication and Healthcare	379	907	2017-09-25
+2755595259	12757	HAPTICS	IEEE Haptics Symposium	431	2507	2017-09-25
+2758514832	13642	ICSECS	International Conference on Software Engineering and Computer Systems	236	499	2017-10-06
+2758604533	25000	ICGCET	International conference on Green Computing and Engineering Technology	1	5	2017-10-06
+2890040919	16741	SSAFR	Symposium Systems Analysis Forest Resources	10	16	2018-09-27
+1135185882	12040	SOSE	Service Oriented Software Engineering	909	4375	2016-06-24
+1141159355	12882	DoCEIS	Doctoral Conference on Computing, Electrical and Industrial Systems	516	938	2016-06-24
+1163343099	11857	ICUMT	International Conference on Ultra Modern Telecommunications	1239	4046	2016-06-24
+1180629300	10712	MASCOTS	Modeling, Analysis, and Simulation On Computer and Telecommunication Systems	1485	18423	2016-06-24
+2621730872	10653	CriMiCo	International Crimean Conference Microwave and Telecommunication Technology	5237	1153	2017-06-15
+2754036353	13813	MEPSC	International Middle-East Power System Conference	127	790	2017-09-25
+2754194746	13471	LCT	International Conference on Learning and Collaboration Technologies	312	391	2017-09-25
+2754206675	12883	IWRMC	International Workshop on Robot Motion and Control	478	1768	2017-09-25
+2755169704	13214	LACC	IEEE Latin-American Conference on Communications	366	743	2017-09-25
+2755239828	14415	ICAECC	International Conference on Advances in Electronics Computers and Communications	108	183	2017-09-25
+2755249682	14093	RS	International Joint Conference on Rough Sets	174	115	2017-09-25
+2756531658	14693	MobiHealth	Wireless Mobile Communication and Healthcare	95	26	2017-10-06
+2757148451	15757	TAROS	Towards Autonomous Robotic Systems	21	87	2017-10-06
+2757320638	15246	BIOKDD	Data Mining in Bioinformatics	477	2009	2017-10-06
+2759315770	14624	ANTS	Ant Colony Optimization and Swarm Intelligence	166	2957	2017-10-06
+2760694600	11964	CT-RSA	The Cryptographers’ Track at the RSA Conference	485	15492	2017-10-06
+1121623334	13165	GREC	Graphics Recognition	344	2881	2016-06-24
+1145183445	12585	WebMedia	Brazilian Symposium on Multimedia and the Web	709	1035	2016-06-24
+2623383938	12378	IEMC	International Engineering Management Conference	1176	2883	2017-06-15
+2754619710	13984	IASTED-SEA	IASTED Conference on Software Engineering and Applications	129	495	2017-09-25
+2754863150	11189	UPC	IEEE International Conference on Universal Personal Communications	766	7635	2017-09-25
+2754978930	14165	ICCEEE	INTERNATIONAL CONFERENCE ON COMPUTING, ELECTRICAL AND ELECTRONIC ENGINEERING	134	314	2017-09-25
+2754982302	11804	CET	International Conference on Computer Engineering and Technology	1380	3233	2017-09-25
+2755076936	13874	BCS	IEEE International Workshop on Biomedical Circuits and Systems	115	787	2017-09-25
+2755207444	12613	Utilisation	International Conference on Electrical Power Quality and Utilisation	407	2147	2017-09-25
+2755464757	11883	EEE	International Conference on E-Product E-Service and E-Entertainment	1516	801	2017-09-25
+2755509037	11958	VLSI	Conference on Advanced Research in VLSI	213	4557	2017-09-25
+2755870848	13318	DAGM-PR	DAGM conference on Pattern Recognition	174	2958	2017-09-25
+2756111219	13333	RAECS	International Conference on Recent Advances in Engineering & Computational Sciences	319	633	2017-09-25
+2756173985	14347	HACIM	International PROLAMAT Conference on Human Aspects in Computer Integrated Manufacturing	77	243	2017-09-25
+2759899939	13867	Onward!	SIGPLAN symposium on New ideas, new paradigms, and reflections on programming and software	135	962	2017-10-06
+1123704270	12815	ISESS	International Symposium on Environmental Software Systems	452	1345	2016-06-24
+1160145187	12675	ACHI	Advances in Computer-Human Interaction	502	2188	2016-06-24
+1178108718	16324	HRPR	Human-Robot Personal Relationships	17	26	2016-06-24
+1188756767	12000	PRDC	Pacific Rim International Symposium on Dependable Computing	762	5589	2016-06-24
+1191180109	16059	ICWUS	International Conference on Wireless and Ubiquitous Systems	16	69	2016-06-24
+2623018513	11263	CAS	International Semiconductor Conference	2440	4585	2017-06-15
+2625539914	15438	DigiPro	The Digital Production Symposium	39	48	2017-06-23
+2730623837	13688	CSCloud	International Conference on Cyber Security and Cloud Computing	239	383	2017-07-14
+2734517010	12572	LASCAS	Latin American Symposium on Circuits and Systems	705	1049	2017-07-21
+2754036490	13222	RHTC	IEEE Region Humanitarian Technology Conference	399	195	2017-09-25
+2754628930	12514	EET	International Conference on Energy and Environment Technology	607	766	2017-09-25
+2755410616	13822	SSP	International Conference on Software and System Process	180	689	2017-09-25
+2755545534	13569	ISWTA	IEEE Symposium on Wireless Technology and Applications	232	639	2017-09-25
+2756579718	25000	eCOMO	Conceptual Modeling Approaches for e-Business	17	564	2017-10-06
+2758283624	11080	FSE	Fast Software Encryption	592	22833	2017-10-06
+2891183608	17883	AI*AAL.it	Italian Workshop Artificial Intelligence for Ambient Assisted Living	4	0	2018-09-27
+2891670535	19269	CoNCISa	Conferencia Nacional de Computación, Informática y Sistemas	1	0	2018-09-27
+1120281879	10790	CIT	Computer and Information Technology	9678	20760	2016-06-24
+1137657189	10454	CLOUD	International Conference on Cloud Computing	4149	25930	2016-06-24
+1161805661	11943	VAST	Visual Analytics Science and Technology	679	8718	2016-06-24
+1164390529	11549	COMSNETS	Communication Systems and Networks	1702	5545	2016-06-24
+1171774888	11913	ICISC	International Conference on Information Security and Cryptology	831	8828	2016-06-24
+1176514135	11137	ER	International Conference on Conceptual Modeling	1809	19078	2016-06-24
+2623113034	10887	Big Data	International Conference on Big Data	3878	7199	2017-06-15
+2754064019	13679	SMC-IT 	IEEE International Conference on Space Mission Challenges for Information Technology	166	780	2017-09-25
+2754603912	13370	VRV	International Conference on Virtual Reality and Visualization	349	184	2017-09-25
+2755340742	16479	PLOP	Conference on Pattern Languages of Programs	11	52	2017-09-25
+2755388662	17476	PDeS	Programmable Devices and Embedded Systems	276	350	2017-09-25
+2755741602	13983	ICECCN	IEEE International Conference ON Emerging Trends in Computing, Communication and Nanotechnology	150	466	2017-09-25
+2756343272	12079	SSCI	IEEE Symposium Series on Computational Intelligence	1268	1170	2017-09-25
+2757348999	15919	LOFT	Logic and the Foundations of Game and Decision Theory	22	84	2017-10-06
+2890987504	17660	ICRIEAT	International Conference Recent Innovations Engineering & Technology	5	0	2018-09-27
+1137827009	12190	ANCS	Architectures for Networking and Communications Systems	428	5628	2016-06-24
+1156238179	11842	SIGDOC	International Conference on Design of Communication	1232	6168	2016-06-24
+1167275352	13061	FORMATS	Formal Modeling and Analysis of Timed Systems	347	4841	2016-06-24
+1170044729	11990	CSB	Computational Systems Bioinformatics	856	6812	2016-06-24
+1173792781	12873	SCN	Security and Cryptography for Networks	208	3061	2016-06-24
+1203873549	13569	AISC	Artificial Intelligence and Symbolic Computation	315	1999	2016-06-24
+2622849096	12432	ICSTW	International Conference on Software Testing, Verification and Validation Workshops	585	3873	2017-06-15
+2624205572	11878	SII	IEEE/SICE International Symposium on System Integration	1335	2271	2017-06-15
+2754102207	13478	KST	International Conference on Knowledge and Smart Technology	299	304	2017-09-25
+2755423165	12641	ACM-SAC	ACM symposium on Symbolic and Algebraic Computation	140	1627	2017-09-25
+2756057523	13696	WCCS	World Conference on Complex Systems	244	296	2017-09-25
+2756474477	13564	3DIMPVT	International Conference on 3D Imaging, Modeling, Processing, Visualization & Transmission	128	1682	2017-09-25
+2756732320	19269	HeteroPar	Algorithms, Models and Tools for Parallel Computing on Heterogeneous Platforms	1	0	2017-10-06
+2757819088	19068	SWAE	Semantic Web Architectures for Enterprises	1	2	2017-10-06
+2890293554	19269	JK	Japanese/Korean Linguistics Conference	1	0	2018-09-27
+1130965270	11982	WPES	Workshop on Privacy in the Electronic Society	295	8761	2016-06-24
+1140316807	11344	ICAL	International Conference on Automation and Logistics	1970	6138	2016-06-24
+1190377140	11761	TARK	Theoretical Aspects of Rationality and Knowledge	452	6714	2016-06-24
+1191777124	14355	GMAI	Geometric Modeling and Imaging	91	433	2016-06-24
+1195553545	14158	TLDI	Types In Languages Design And Implementation	71	1670	2016-06-24
+1203269447	13217	ICDS	International Conference on the Digital Society	276	1384	2016-06-24
+2621751855	11848	CICN	International Conference on Computational Intelligence and Communication Networks	1392	2739	2017-06-15
+2622026361	11481	CISTI	Iberian Conference on Information Systems and Technologies	2238	2086	2017-06-15
+2754007415	12124	IST	International Symposium on Telecommunications	1065	2170	2017-09-25
+2754733706	14134	ISIS	International Conference on Information Sciences and Interaction Sciences	139	326	2017-09-25
+2755612976	13868	MIKE	International Conference on Mining Intelligence and Knowledge Exploration	208	216	2017-09-25
+2756176944	11895	CCTA	International Conference on Computer and Computing Technologies in Agriculture	1469	1285	2017-09-25
+2891704022	19269	YLMP	Young Linguists' Meeting Poznan	1	0	2018-09-27
+1134440762	10848	CADE	Conference on Automated Deduction	1355	25752	2016-06-24
+1134467612	12730	DGCI	Discrete Geometry for Computer Imagery	645	5087	2016-06-24
+1158934777	13189	DPPI	Designing Pleasurable Products and Interfaces	201	1665	2016-06-24
+1160432824	11294	IM	Integrated Network Management	1474	14306	2016-06-24
+1164102497	13924	AccessNets	International Conference on Access Networks	145	522	2016-06-24
+1176219363	12753	IJCAR	International Joint Conference on Automated Reasoning	419	6679	2016-06-24
+2622308478	12697	DD	Days on Diffraction	663	456	2017-06-15
+2623255502	12041	RIDE	International Workshop on Research Issues in Data Engineering	273	5227	2017-06-15
+2624416718	10647	ICM	International Conference on Microelectronics	4115	11759	2017-06-15
+2626138005	11455	TEI	Tangible and Embedded Interaction	1108	11170	2017-06-23
+2755447920	14521	CDAN	Symposium on Colossal Data Analysis and Networking	106	112	2017-09-25
+2755768477	13844	IWSM-SPPM	Joint Conference of International Workshop on Software Measurement and International Conference on Software Process and Product Measurement	187	534	2017-09-25
+2756259286	13920	FTC	Future Technologies Conference	210	128	2017-09-25
+2756331671	13528	ISBDE	International Conference on Intelligent Science and Big Data Engineering	299	183	2017-09-25
+2758295094	11640	FTS	Symposium On Fusion Technology	3199	19510	2017-10-06
+2890311722	13880	ICISS	International Conference Intelligent Sustainable Systems	219	0	2018-09-27
+1124527938	9999	RTSS	Real-Time Systems Symposium	1528	51073	2016-06-24
+1148050328	12613	IbPRIA	Iberian Conference on Pattern Recognition and Image Analysis	875	4661	2016-06-24
+1161726496	13365	ICFIE	International Conference of Fuzzy Information and Engineering	300	520	2016-06-24
+1179645356	16856	BioMED	Biomedical Engineering	5533	6419	2016-06-24
+1202305278	13346	ICGT	International Conference on Graph Transformation	295	3838	2016-06-24
+2606697348	11050	ASRU	IEEE Automatic Speech Recognition and Understanding Workshop	911	16773	2017-04-28
+2621703292	11323	ICoAC	International Conference on Advanced Computing	2281	5668	2017-06-15
+2622155084	10295	RFIC	Radio Frequency Integrated Circuits Symposium	2443	22782	2017-06-15
+2626264198	13037	HPG	High Performance Graphics	169	3124	2017-06-23
+2754223137	13314	ISDSRTA	IEEE international symposium on Distributed Simulation and Real-Time Applications	171	1699	2017-09-25
+2754388341	13677	MMWCST	International Workshop on Microwave and Millimeter Wave Circuits and System Technology	238	193	2017-09-25
+2754435795	12561	IAEAC	IEEE Advanced Information Technology, Electronic and Automation Control Conference	808	109	2017-09-25
+2754569583	13133	ECCO	European conference on Evolutionary Computation in Combinatorial Optimization	313	2613	2017-09-25
+2754903391	14157	WSIGIK	Wissensbasierte Systeme, . Internationaler GI-Kongress	122	282	2017-09-25
+2755210240	13624	ICOT	International Conference on Orange Technologies	265	199	2017-09-25
+2755938683	12456	ICNF	International Conference on Noise and Fluctuations	842	796	2017-09-25
+2756013237	14362	ICIA	International Conference on Informatics and Analytics	131	62	2017-09-25
+2757547734	12531	APPROX/RANDOM	International Workshop and International Workshop on Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques	766	6816	2017-10-06
+2890447762	17468	JURISIN	International Workshop Juris-informatics	5	8	2018-09-27
+2892084889	14659	SRS	Student Research Symposium	100	12	2018-09-27
+1147683736	14287	DMO	Data Mining and Optimization	110	646	2016-06-24
+1152238068	11151	BPM	Business Process Management	1760	29515	2016-06-24
+1156586875	11734	CLEF	Cross-Language Evaluation Forum	1393	12549	2016-06-24
+1160919455	10155	ICSM	International Conference on Software Maintenance	3636	47988	2016-06-24
+1166500626	12008	K-CAP	International Conference on Knowledge Capture	408	7059	2016-06-24
+1202777053	13173	GCE	Grid Computing Environments	85	5869	2016-06-24
+2622169915	13065	RTP	International Conference on Advanced Thermal Processing of Semiconductors	372	871	2017-06-15
+2623109928	11721	ISSM	International Symposium on Semiconductor Manufacturing	1466	4420	2017-06-15
+2624888642	15448	Scala	Symposium on Scala	44	39	2017-06-23
+2626391755	12357	ICWET	International Conference & Workshop on Emerging Trends in Technology	849	1651	2017-06-23
+2754024197	12850	PEITS	International Conference on Power Electronics and Intelligent Transportation System	462	1058	2017-09-25
+2754466656	12050	CSTIC	China Semiconductor Technology International Conference	1291	613	2017-09-25
+2754969358	13540	ICENCO	International Computer Engineering Conference	278	456	2017-09-25
+2755004423	12225	PES	IEEE Annual Conference on Power Electronics Specialist	315	5637	2017-09-25
+2755160330	13259	ICSES	International Conference on Signals and Electronic Systems	318	672	2017-09-25
+2755164327	13924	MicroCom	International Conference on Microelectronics, Computing and Communications	198	133	2017-09-25
+2755571638	14177	EWAEC	EvoWorkshops on Applications of Evolutionary Computing	144	1421	2017-09-25
+2756130868	14049	CAIE	International Conference on Computer Applications and Industrial Electronics	143	396	2017-09-25
+2756412537	14502	AICTC	International Conference on Advances in Information Communication Technology & Computing	114	48	2017-09-25
+2760380534	15387	FOMI	Formal Ontologies Meet Industry	33	140	2017-10-06
+1124504716	11078	SIGCSE	Technical Symposium on Computer Science Education	8485	67598	2016-06-24
+1162239172	14511	CC	Compiler Construction	1575	27068	2016-06-24
+1171169701	14473	DAARC	Discourse Anaphora and Anaphor Resolution Colloquium	61	479	2016-06-24
+1174644639	10814	ACCV	Asian Conference on Computer Vision	2132	21146	2016-06-24
+2754084270	13678	AEITIAC	AEIT International Annual Conference	252	145	2017-09-25
+2754225634	11876	ITME	International Conference on Information Technology in Medicine and Education	1458	1494	2017-09-25
+2754508136	13008	ICAMS 	IEEE International Conference on Advanced Management Science	481	374	2017-09-25
+2754602532	11619	ICLS	International Conference of Learning Sciences	1297	5594	2017-09-25
+2754966661	13386	OCSC	International Conference on Online Communities and Social Computing	224	1298	2017-09-25
+2754990168	13579	IWASI	IEEE International Workshop on Advances in Sensors and Interfaces	246	900	2017-09-25
+2755246425	11848	ISDEA	International Conference on Intelligent Systems Design and Engineering Applications	1525	1266	2017-09-25
+2755314340	11388	ITS	IEEE Intelligent Transportation Systems	739	10207	2017-09-25
+2756397046	14404	SBMO-IMC	SBMO International Microwave Conference	104	86	2017-09-25
+2890498482	14985	RiE	Robotics Education	65	75	2018-09-27
+2892379792	14503	ICRAI	International Conference Robotics and Artificial Intelligence	104	144	2018-09-27
+1142458017	14327	TbiLLC	Tbilisi Symposium on Logic, Language, and Computation	123	347	2016-06-24
+1152171191	13407	ACML	Asian Conference on Machine Learning	268	1336	2016-06-24
+1170516960	12422	AISB	Artificial Intelligence and the Simulation of Behaviour	261	3108	2016-06-24
+1188071776	13829	CALCO	Conference on Algebra and Coalgebra in Computer Science	213	1688	2016-06-24
+1191009003	10918	ISSAC	International Symposium on Symbolic and Algebraic Computation	1772	20561	2016-06-24
+2622609841	12074	ICT	International Conference on Thermoelectrics	958	5076	2017-06-15
+2753976897	13952	ICPHM	IEEE International Conference on Prognostics and Health Management	193	144	2017-09-25
+2754027934	13964	AITP	International Conference on Artificial Intelligence in Theory and Practice	135	693	2017-09-25
+2754377511	14051	ICVM	International Conference on Vacuum Microelectronics	161	79	2017-09-25
+2754827769	11409	EMI	International Conference on Electronic Measurement and Instruments	1822	3154	2017-09-25
+2755154647	11855	IMW	International Conference on Infrared and Millimeter Waves	1436	1141	2017-09-25
+2755562402	13652	IMaRC	IEEE MTT-S International Microwave and RF Conference	249	168	2017-09-25
+2755576832	13891	BHI	Biomedical and Health Informatics	227	1174	2017-09-25
+2755826420	14474	AH	Adaptive Hypermedia Conference	52	913	2017-09-25
+2756136685	15232	KMO	International Knowledge Management in Organizations Conference	53	34	2017-09-25
+2756268544	11741	ASIA	The International Power Electronics Conference - ECCE ASIA	518	5038	2017-09-25
+2759017913	14314	EOMAS	Enterprise and Organizational Modeling and Simulation	116	299	2017-10-06
+1128043032	11205	SoCC	Symposium on Cloud Computing	1306	15153	2016-06-24
+1143172275	12838	SLIP	System-Level Interconnect Prediction	303	3317	2016-06-24
+1146606187	12481	PERSUASIVE	International Conference on Persuasive Technology	431	5965	2016-06-24
+1147985475	12364	CNSM	Conference on Network and Service Management	622	3651	2016-06-24
+1153017583	13331	ICCABS	International Conference on Computational Advances in Bio and Medical Sciences	361	390	2016-06-24
+1159310735	13116	MPC	Mathematics of Program Construction	304	4385	2016-06-24
+1165225649	12905	CORES	Computer Recognition Systems	443	1432	2016-06-24
+1173986096	12801	SG	Smart Graphics	327	2838	2016-06-24
+1174403976	8715	ICSE	International Conference on Software Engineering	11663	193777	2016-06-24
+1184014513	13484	EC-Web	Electronic Commerce and Web Technologies	270	2814	2016-06-24
+1192201180	12370	DBPL	Database Programming Languages	317	5058	2016-06-24
+1201788207	10677	MMSP	Multimedia Signal Processing	2516	19242	2016-06-24
+2626333002	12944	CHI PLAY	Annual Symposium on Computer-Human Interaction in Play	456	1147	2017-06-23
+2754758762	13577	ICMT	International Conference on Military Technologies	263	172	2017-09-25
+2755205920	13413	ESFLT	Conference of European Society for Fuzzy Logic and Technology	271	843	2017-09-25
+2756028983	13419	RTUCON	International Scientific Conference on Power and Electrical Engineering of Riga Technical University	320	215	2017-09-25
+2756158045	10435	PAC	IEEE Particle Accelerator Conference	3968	9986	2017-09-25
+2756516550	13923	GPGPU	General Purpose Processing on Graphics Processing Units	29	1377	2017-10-06
+2758811364	15300	WBC	Web Based Communities	385	2436	2017-10-06
+1136152680	11294	CSCL	Computer Supported Collaborative Learning	1362	23231	2016-06-24
+1138732554	11116	OOPSLA	Conference on Object-Oriented Programming Systems, Languages, and Applications	3065	79540	2016-06-24
+1139135573	13803	ALGOSENSORS	Algorithmic Aspects of Wireless Sensor Networks	198	1833	2016-06-24
+1142621710	14669	BPSC	Business Process and Services Computing	74	276	2016-06-24
+1143732025	11829	ATC	Autonomic and Trusted Computing	1265	4388	2016-06-24
+1194749864	14560	FICS	Fixed Points in Computer Science	98	326	2016-06-24
+2621830961	9940	EPE	European Conference on Power Electronics and Applications	5525	29699	2017-06-15
+2623360200	14592	NANOMED	International Conference on Nano/Molecular Medicine and Engineering	223	203	2017-06-15
+2625433482	13995	RACS	Research in Applied Computation Symposium	157	458	2017-06-23
+2754859968	13763	ISDC	International Conference on e-Infrastructure and e-Services for Developing Countries	215	287	2017-09-25
+2755053927	14377	DSDIS	IEEE International Conference on Data Science and Data Intensive Systems	113	255	2017-09-25
+2755742721	13548	CESCE	International Conference on Challenges in Environmental Science and Computer Engineering	272	294	2017-09-25
+2758283544	12755	TLCA	International Conference on Typed Lambda Calculi and Applications	326	5204	2017-10-06
+2760419688	12228	WDAG	International Workshop on Distributed Algorithms	304	4058	2017-10-06
+2760703499	16520	BUSITAL	Business/IT Alignment and Interoperability	10	63	2017-10-06
+1119649345	13850	ICCTA	International Conference on Computing: Theory and Applications	128	845	2016-06-24
+1131777435	12066	FOIS	Formal Ontology in Information Systems	249	7642	2016-06-24
+1169089907	12410	SCAM	Source Code Analysis and Manipulation	408	5417	2016-06-24
+1171922823	10591	FCCM	Field-Programmable Custom Computing Machines	1298	26574	2016-06-24
+1173644570	12542	CISIM	Computer Information Systems and Industrial Management Applications	637	2195	2016-06-24
+1190910256	11013	RTAS	Real Time Technology and Applications Symposium	854	19587	2016-06-24
+1203926687	12174	ICTD	Information and Communication Technologies and Development	662	5181	2016-06-24
+2622260240	12951	SPECTS	International Symposium on Performance Evaluation of Computer and Telecommunication Systems	416	1500	2017-06-15
+2624467333	12077	IAS	Information Assurance and Security	783	4552	2017-06-15
+2624559037	9939	MWCAS	Midwest Symposium on Circuits and Systems	6722	24165	2017-06-15
+2626956293	12094	ICVGIP	Indian Conference on Computer Vision, Graphics and Image Processing	764	5224	2017-06-23
+2734643773	10820	NAECON	National Aerospace and Electronics Conference	2655	7113	2017-07-21
+2754275429	12949	SPCS	International Conference on Security and Privacy in Communication Systems	351	1988	2017-09-25
+2754737771	13570	DISCS	International Symposium on Design and Implementation of Symbolic Computation Systems	128	729	2017-09-25
+2754780086	11763	ISDRS	International Semiconductor Device Research Symposium	1625	3870	2017-09-25
+2755658758	11401	SVL	IEEE Symposium on Visual Languages	612	11615	2017-09-25
+2755767216	13409	ICVR	International Conference on Virtual Rehabilitation	295	679	2017-09-25
+2756048078	12295	ICA	international conference on Information Computing and Applications	957	837	2017-09-25
+2756389836	11717	TDCE	IEEE PES Transmission and Distribution Conference and Exhibition	731	5300	2017-09-25
+2756459992	13768	ICC	International Conference on Circuits, systems, electronics, control & signal processing	202	261	2017-09-25
