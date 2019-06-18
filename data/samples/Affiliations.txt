@@ -1,3 +1,4 @@
+id	rank	name	dname	grid	page	wiki	papers	citations	lat	long	createdAt	countryCode	country
 139176818	13089	institut gaspard monge	Institut Gaspard Monge		http://igm.u-pem.fr/	http://en.wikipedia.org/wiki/Institut_Gaspard_Monge	185	2876	2016-06-24
 2800456939	15737	tokoha gakuen university	Tokoha Gakuen University	grid.444805.9		https://en.wikipedia.org/wiki/Tokoha_Gakuen_University	26	61	2018-05-17
 2799389664	16187	shelby county schools	Shelby County Schools	grid.436162.4		https://en.wikipedia.org/wiki/Shelby_County_Schools_(Tennessee)	14	73	2018-05-17

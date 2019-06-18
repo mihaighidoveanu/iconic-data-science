@@ -1,3 +1,4 @@
+id	rank	doi	docType	title	originalTitle	bookTitle	year	date	publisher	journal	conferenceSeries	conferenceInstance	volume	issue	firstPage	lastPage	references	citations	estimatedCitations	createdAt
 2564773432	24103			self neglect policy and practice research messages for practitioners	Self-neglect policy and practice: research messages for practitioners		2015	2015-01-01	Social Care Institute for Excellence								2	0	0	2017-01-06
 2564773439	25082	10.1515/fjsb-2010-0213		indikatoren zur entwicklung der zivilgesellschaft in ostdeutschland	Indikatoren zur Entwicklung der Zivilgesellschaft in Ostdeutschland		2010	2010-01-01					23	2			0	0	0	2017-01-06
 2564773448	25696	10.6570/PSQBR.2004.3.5		inventing international society a history of english school	Inventing International Society: A History of English School		2004	2004-09-01	國立台灣大學政治學系					3	13	15	0	0	0	2017-01-06

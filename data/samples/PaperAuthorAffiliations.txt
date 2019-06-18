@@ -1,3 +1,4 @@
+paper	author	affiliation	authorSequence	originalAffiliation
 9	2632942543		1	
 15	199142497		1	Heidelberg, Deutschland
 15	680395887		2	Reutlingen, Deutschland

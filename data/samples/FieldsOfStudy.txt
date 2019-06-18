@@ -1,3 +1,4 @@
+id	rank	name	dname	mainType	level	papers	citations	createdAt
 417682	20579	night air	Night air		2	105	732	2016-06-24
 1443462	18753	immobiliser	Immobiliser		2	391	962	2016-06-24
 1576492	12161	matrix pencil	Matrix pencil		3	919	10097	2016-06-24

@@ -1,3 +1,4 @@
+id	rank	name	dname	affiliation	papers	citiations	createdAt
 584	20177	gozde ozdikmenlidemir	Gözde Özdikmenli-Demir	79946792	2	0	2016-06-24
 859	20116	gy tolmar	Gy. Tolmár		2	1	2016-06-24
 978	17763	ximena faundez	Ximena Faúndez	162148367	18	40	2016-06-24
