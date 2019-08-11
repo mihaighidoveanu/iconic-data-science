@@ -1,5 +1,5 @@
 package  model
-import java.sql.Date
+import java.sql.DATE
 
 /// Single Entities
 /// PAPER
@@ -28,6 +28,7 @@ case class PaperFos(paper: Long, fos: Long, similarity: Double)
 case class PaperReference(citing: Long, cited: Long)
 /// FOS CHILDREN
 case class FosChildren(parent: Long,child: Long)
+
 
 
 
